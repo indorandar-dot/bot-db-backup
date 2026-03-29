@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 15:55:52",
+    "created_at": "2026-03-29 15:56:36",
     "stats": {
-      "main_users": 12,
+      "main_users": 13,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -56,6 +56,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-29 15:37:58",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6975957363,
+        "username": "Mr_Maxxu",
+        "first_name": "Maxx",
+        "join_date": "2026-03-29 15:56:29",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-29 15:56:29",
         "money": 0,
         "clone_bots": 0
       },
