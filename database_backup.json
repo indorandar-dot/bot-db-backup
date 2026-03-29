@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 16:26:54",
+    "created_at": "2026-03-29 16:28:44",
     "stats": {
       "main_users": 16,
       "main_admins": 1,
@@ -193,13 +193,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-29 16:26:47",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-29 16:26:47",
+        "total_searches": 1,
+        "last_active": "2026-03-29 16:26:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -559,6 +559,14 @@
         "query": "Rgcheatx",
         "search_date": "2026-03-29 16:10:49",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 6,
+        "user_id": 8335023642,
+        "search_type": "mobile_number",
+        "query": "7488035880",
+        "search_date": "2026-03-29 16:26:55",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"491279241326\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"MR  JAFAR ANSARI\", \"fname\": \"Md\", \"address\": \"S/O Md. Mafik H N0- 259/ 216 H N0- 259/ 216  VIILA TOLA HEDCHA  KAPALI  DANGARDIH EAST SINGHBHUM East Singhbhum EAST SINGHBHUM JHARKHAND 831012\", \"alt\": \"7280096029\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"993641165741\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": \"919709586997\", \"circle\": \"JIO BHR&JHR\", \"id\": \"491279241326\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
