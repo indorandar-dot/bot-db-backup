@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 15:56:36",
+    "created_at": "2026-03-29 15:57:55",
     "stats": {
       "main_users": 13,
       "main_admins": 1,
@@ -65,13 +65,13 @@
         "first_name": "Maxx",
         "join_date": "2026-03-29 15:56:29",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-29 15:56:29",
+        "total_searches": 1,
+        "last_active": "2026-03-29 15:57:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -495,6 +495,14 @@
         "query": "baltro._heree",
         "search_date": "2026-03-29 15:29:09",
         "result": "{\"success\": true, \"id\": \"46020259658\", \"username\": \"baltro._heree\", \"name\": \"BALTRO-EXE \\u2728\", \"full_name\": \"BALTRO-EXE \\u2728\", \"bio\": \"JUST AS I EXPECTED \\ud83c\\udf1f.......\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649230981_18044332304531659_8485941774327837876_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE0i3pxfK919p1zMxn4wGakz8YY5EhGvo3wtrgPN6cz-VZ_Azd9j7mM1Jco7c5O-OI&_nc_ohc=3KAzelsG0CcQ7kNvwHQceoV&_nc_gid=NZ7xb5aG4GY8uKqNdqvotw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyTrQq_xTC3sQIWKaxAlYQaQjQbk83MMfkHafPHKHDAUw&oe=69CEFE82&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpe5ouj0l6.jpg\", \"followers\": 92, \"following\": 23, \"posts\": 4, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"46020259658\", \"username\": \"baltro._heree\", \"name\": \"BALTRO-EXE \\u2728\", \"bio\": \"JUST AS I EXPECTED \\ud83c\\udf1f.......\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649230981_18044332304531659_8485941774327837876_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE0i3pxfK919p1zMxn4wGakz8YY5EhGvo3wtrgPN6cz-VZ_Azd9j7mM1Jco7c5O-OI&_nc_ohc=3KAzelsG0CcQ7kNvwHQceoV&_nc_gid=NZ7xb5aG4GY8uKqNdqvotw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyTrQq_xTC3sQIWKaxAlYQaQjQbk83MMfkHafPHKHDAUw&oe=69CEFE82&_nc_sid=8b3546\", \"followers\": 92, \"following\": 23, \"posts\": 4, \"recent\": []}}"
+      },
+      {
+        "id": 4,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "9949914193",
+        "search_date": "2026-03-29 15:57:00",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9949914193\", \"name\": \"Wajeed  Ai\", \"fname\": \"Hyder Ali\", \"address\": \"2--2--23-/22-/E-/1!D D Colony Bagh Amberpet Ground Floor!Amberpet!Hyderabad Hyderabad!TELANGANA!500013\", \"alt\": null, \"circle\": \"AIRTEL TELANGANA & A\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
