@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 16:10:15",
+    "created_at": "2026-03-29 16:10:54",
     "stats": {
-      "main_users": 14,
+      "main_users": 15,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -220,6 +220,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8590133219,
+        "username": "LUKEY_HAKER",
+        "first_name": "LUCKEY",
+        "join_date": "2026-03-29 16:10:47",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-29 16:10:49",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8703382327,
         "username": "owner",
         "first_name": "Bot Owner",
@@ -260,7 +276,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 15:17:53",
-        "last_active": "2026-03-29 15:20:02",
+        "last_active": "2026-03-29 16:10:47",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAIfuGnJRJT_n-BuwfC-bs0ueJUrihuFAAJID2sbmEdIVrlBwE1vE18jAQADAgADeQADOgQ",
@@ -289,7 +305,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 14:49:46",
-        "last_active": "2026-03-29 16:09:55",
+        "last_active": "2026-03-29 16:10:36",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAIfTWnJQwL7DT-XwFwmvvA5D6KwCuaYAAJED2sbmEdIVgxNEnTs1GiMAQADAgADeQADOgQ",
@@ -519,6 +535,14 @@
         "query": "9949914193",
         "search_date": "2026-03-29 15:57:00",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9949914193\", \"name\": \"Wajeed  Ai\", \"fname\": \"Hyder Ali\", \"address\": \"2--2--23-/22-/E-/1!D D Colony Bagh Amberpet Ground Floor!Amberpet!Hyderabad Hyderabad!TELANGANA!500013\", \"alt\": null, \"circle\": \"AIRTEL TELANGANA & A\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 5,
+        "user_id": 8590133219,
+        "search_type": "username",
+        "query": "Rgcheatx",
+        "search_date": "2026-03-29 16:10:49",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
