@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 16:36:57",
+    "created_at": "2026-03-29 16:37:10",
     "stats": {
-      "main_users": 16,
+      "main_users": 17,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -152,6 +152,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-29 15:58:56",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8220310921,
+        "username": "Irapepoorgirls",
+        "first_name": "SAM",
+        "join_date": "2026-03-29 16:37:03",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-29 16:37:03",
         "money": 0,
         "clone_bots": 0
       },
