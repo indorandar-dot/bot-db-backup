@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 15:25:00",
+    "created_at": "2026-03-29 15:27:03",
     "stats": {
       "main_users": 9,
       "main_admins": 1,
@@ -183,7 +183,7 @@
         "last_active": "2026-03-29 15:20:02",
         "goodbye_enabled": 1,
         "goodbye_message": null,
-        "welcome_photo_file_id": null,
+        "welcome_photo_file_id": "AgACAgUAAxkBAAIfuGnJRJT_n-BuwfC-bs0ueJUrihuFAAJID2sbmEdIVrlBwE1vE18jAQADAgADeQADOgQ",
         "gst_info_enabled": 1,
         "email_info_enabled": 1,
         "pan_info_enabled": 1,
