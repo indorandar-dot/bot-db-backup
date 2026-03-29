@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 19:33:41",
+    "created_at": "2026-03-29 19:34:12",
     "stats": {
-      "main_users": 2,
+      "main_users": 1,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -12,34 +12,18 @@
   "main_bot": {
     "users": [
       {
-        "user_id": 8498695308,
-        "username": "",
-        "first_name": "Akhil",
-        "join_date": "2026-03-29 19:24:47",
-        "referrer": null,
-        "credits": 3,
-        "is_blocked": 0,
-        "is_premium": 0,
-        "premium_until": null,
-        "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-29 19:26:33",
-        "money": 0,
-        "clone_bots": 0
-      },
-      {
         "user_id": 8703382327,
         "username": "owner",
         "first_name": "Bot Owner",
-        "join_date": "2026-03-29 19:08:28",
+        "join_date": "2026-03-29 19:33:39",
         "referrer": null,
         "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-03-29 19:13:16",
+        "total_searches": 0,
+        "last_active": "2026-03-29 19:33:39",
         "money": 0,
         "clone_bots": 0
       }
@@ -48,81 +32,17 @@
       {
         "user_id": 8703382327,
         "added_by": 8703382327,
-        "added_date": "2026-03-29 19:08:28",
+        "added_date": "2026-03-29 19:33:39",
         "is_owner": 1
       }
     ],
     "force_join_channels": [],
-    "bot_groups": [
-      {
-        "group_id": -1003715566556,
-        "group_title": "💗 Like Geup",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-29 19:12:37",
-        "last_active": "2026-03-29 19:12:37",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      },
-      {
-        "group_id": -1002190410723,
-        "group_title": "☬ GLORY BOT CHAT GROUP ☬",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-29 19:14:14",
-        "last_active": "2026-03-29 19:23:06",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      }
-    ],
+    "bot_groups": [],
     "redeem_codes": [],
     "redeemed_users": [],
     "feature_costs": [],
     "feature_maintenance": [],
-    "daily_claims": [
-      {
-        "user_id": 8498695308,
-        "claim_date": "2026-03-29"
-      }
-    ],
+    "daily_claims": [],
     "welcome_settings": [
       {
         "id": 1,
@@ -136,64 +56,7 @@
       }
     ],
     "referrals": [],
-    "search_history": [
-      {
-        "id": 1,
-        "user_id": 8703382327,
-        "search_type": "mobile_number",
-        "query": "9883422784",
-        "search_date": "2026-03-29 19:13:08",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\", \"fname\": \"Mohan Tamang\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}]}"
-      },
-      {
-        "id": 2,
-        "user_id": 8703382327,
-        "search_type": "instagram",
-        "query": "9883422784",
-        "search_date": "2026-03-29 19:13:11",
-        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"9883422784\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
-      },
-      {
-        "id": 3,
-        "user_id": 8703382327,
-        "search_type": "userid",
-        "query": "9883422784",
-        "search_date": "2026-03-29 19:13:11",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"9883422784\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 4,
-        "user_id": 8703382327,
-        "search_type": "mobile_number",
-        "query": "9883422784",
-        "search_date": "2026-03-29 19:13:16",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\", \"fname\": \"Mohan Tamang\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}]}"
-      },
-      {
-        "id": 5,
-        "user_id": 8498695308,
-        "search_type": "mobile_number",
-        "query": "9966976101",
-        "search_date": "2026-03-29 19:25:13",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9966976101\", \"name\": \"E Ramana\", \"fname\": \"S/O E Venkatanna\", \"address\": \"S/O E Venkatanna!4-26!Rangana palli!Rangana palli Anantapur!!GOWKANAPALLE!Anantapur!Andhra Pradesh!515581\", \"alt\": null, \"circle\": \"VI TELANGANA & AP\", \"id\": null, \"email\": null}, {\"mobile\": \"9966976101\", \"name\": \"MR E RAMANA\", \"fname\": \"EVENKATANNA\", \"address\": \"EVENKATANNA!RANOANA PALLI!ANANTAPUR Rayachoty!Rayachoty!GOWKANAPALLE ANANTAPUR!BANDLAPALLI!ANANTAPUR!Andhra Pradesh!515581\", \"alt\": \"9951966065\", \"circle\": \"VI TELANGANA & AP\", \"id\": \"792202602999\", \"email\": null}]}"
-      },
-      {
-        "id": 6,
-        "user_id": 8498695308,
-        "search_type": "mobile_number",
-        "query": "9550784556",
-        "search_date": "2026-03-29 19:25:39",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9550784556\", \"name\": \"SURYANARAYANA  .  .\", \"fname\": null, \"address\": \"HNO   32-34-166/1!SVP NAGAR!KOBBARITHOTA  VIZAGVIZAG!!Andhra Pradesh!\", \"alt\": null, \"circle\": \"AIRTEL TELANGANA & A\", \"id\": null, \"email\": null}]}"
-      },
-      {
-        "id": 7,
-        "user_id": 8498695308,
-        "search_type": "instagram",
-        "query": "Mr__akhil_11",
-        "search_date": "2026-03-29 19:26:33",
-        "result": "{\"success\": true, \"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"full_name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHqnNnkoIZ4X_2huXUDRfWE9U-B9c18aS2o7JoUgdJyBctVa0cmJdvGeiwMQ74F28M&_nc_ohc=gLkJsiBjo7UQ7kNvwGPLlLY&_nc_gid=5mtf7PvUqRqOGwvW5IC73w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afx5uJox2bSwOEGUpgicxq6vWbvl8khKDFUE4d04ifzR1A&oe=69CF66D8&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp12xju59x.jpg\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHqnNnkoIZ4X_2huXUDRfWE9U-B9c18aS2o7JoUgdJyBctVa0cmJdvGeiwMQ74F28M&_nc_ohc=gLkJsiBjo7UQ7kNvwGPLlLY&_nc_gid=5mtf7PvUqRqOGwvW5IC73w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afx5uJox2bSwOEGUpgicxq6vWbvl8khKDFUE4d04ifzR1A&oe=69CF66D8&_nc_sid=8b3546\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": []}}"
-      }
-    ],
+    "search_history": [],
     "bomber_history": [],
     "logs": [],
     "autolike_entries": [],
