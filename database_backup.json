@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 19:25:28",
+    "created_at": "2026-03-29 19:27:31",
     "stats": {
       "main_users": 2,
       "main_admins": 1,
@@ -17,13 +17,13 @@
         "first_name": "Akhil",
         "join_date": "2026-03-29 19:24:47",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-29 19:25:13",
+        "total_searches": 3,
+        "last_active": "2026-03-29 19:26:33",
         "money": 0,
         "clone_bots": 0
       },
@@ -117,7 +117,12 @@
     "redeemed_users": [],
     "feature_costs": [],
     "feature_maintenance": [],
-    "daily_claims": [],
+    "daily_claims": [
+      {
+        "user_id": 8498695308,
+        "claim_date": "2026-03-29"
+      }
+    ],
     "welcome_settings": [
       {
         "id": 1,
@@ -171,6 +176,22 @@
         "query": "9966976101",
         "search_date": "2026-03-29 19:25:13",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9966976101\", \"name\": \"E Ramana\", \"fname\": \"S/O E Venkatanna\", \"address\": \"S/O E Venkatanna!4-26!Rangana palli!Rangana palli Anantapur!!GOWKANAPALLE!Anantapur!Andhra Pradesh!515581\", \"alt\": null, \"circle\": \"VI TELANGANA & AP\", \"id\": null, \"email\": null}, {\"mobile\": \"9966976101\", \"name\": \"MR E RAMANA\", \"fname\": \"EVENKATANNA\", \"address\": \"EVENKATANNA!RANOANA PALLI!ANANTAPUR Rayachoty!Rayachoty!GOWKANAPALLE ANANTAPUR!BANDLAPALLI!ANANTAPUR!Andhra Pradesh!515581\", \"alt\": \"9951966065\", \"circle\": \"VI TELANGANA & AP\", \"id\": \"792202602999\", \"email\": null}]}"
+      },
+      {
+        "id": 6,
+        "user_id": 8498695308,
+        "search_type": "mobile_number",
+        "query": "9550784556",
+        "search_date": "2026-03-29 19:25:39",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9550784556\", \"name\": \"SURYANARAYANA  .  .\", \"fname\": null, \"address\": \"HNO   32-34-166/1!SVP NAGAR!KOBBARITHOTA  VIZAGVIZAG!!Andhra Pradesh!\", \"alt\": null, \"circle\": \"AIRTEL TELANGANA & A\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 7,
+        "user_id": 8498695308,
+        "search_type": "instagram",
+        "query": "Mr__akhil_11",
+        "search_date": "2026-03-29 19:26:33",
+        "result": "{\"success\": true, \"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"full_name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHqnNnkoIZ4X_2huXUDRfWE9U-B9c18aS2o7JoUgdJyBctVa0cmJdvGeiwMQ74F28M&_nc_ohc=gLkJsiBjo7UQ7kNvwGPLlLY&_nc_gid=5mtf7PvUqRqOGwvW5IC73w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afx5uJox2bSwOEGUpgicxq6vWbvl8khKDFUE4d04ifzR1A&oe=69CF66D8&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp12xju59x.jpg\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHqnNnkoIZ4X_2huXUDRfWE9U-B9c18aS2o7JoUgdJyBctVa0cmJdvGeiwMQ74F28M&_nc_ohc=gLkJsiBjo7UQ7kNvwGPLlLY&_nc_gid=5mtf7PvUqRqOGwvW5IC73w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afx5uJox2bSwOEGUpgicxq6vWbvl8khKDFUE4d04ifzR1A&oe=69CF66D8&_nc_sid=8b3546\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
