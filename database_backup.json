@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 21:12:06",
+    "created_at": "2026-03-29 21:13:05",
     "stats": {
-      "main_users": 1,
+      "main_users": 2,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -11,6 +11,22 @@
   },
   "main_bot": {
     "users": [
+      {
+        "user_id": 8506148140,
+        "username": "ADAMC077",
+        "first_name": "وسٍڰــــﻲ",
+        "join_date": "2026-03-29 21:12:57",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-29 21:13:05",
+        "money": 0,
+        "clone_bots": 0
+      },
       {
         "user_id": 8703382327,
         "username": "owner",
@@ -52,7 +68,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 21:10:54",
-        "last_active": "2026-03-29 21:10:54",
+        "last_active": "2026-03-29 21:12:58",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -86,7 +102,16 @@
       }
     ],
     "referrals": [],
-    "search_history": [],
+    "search_history": [
+      {
+        "id": 1,
+        "user_id": 8506148140,
+        "search_type": "ff_info",
+        "query": "8506148140",
+        "search_date": "2026-03-29 21:13:05",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"8506148140\", \"accountType\": 1, \"nickname\": \"_boy0U3P\", \"region\": \"VN\", \"level\": 4, \"exp\": 618, \"bannerId\": 901032010, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 1, \"lastLoginAt\": \"1700642561\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1700639880\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB42\"}, \"profileInfo\": {\"avatarId\": 102000009, \"skinColor\": 50, \"equipedSkills\": [16, 1006, 8, 1, 16, 206, 8, 2, 8, 3], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1700642443}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774818784\"}}}"
+      }
+    ],
     "bomber_history": [],
     "logs": [],
     "autolike_entries": [],
