@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 19:52:38",
+    "created_at": "2026-03-29 19:53:47",
     "stats": {
       "main_users": 1,
       "main_admins": 1,
@@ -49,7 +49,7 @@
         "emoji": "❤️",
         "caption": " ",
         "image_file_id": null,
-        "video_file_id": null,
+        "video_file_id": "BAACAgUAAxkBAAIhcWnJgzLnaFqfxm5PsX-GlxD3NCqyAAIqIQACmEdIVt_PFozU_QycOgQ",
         "bot_dp_file_id": null,
         "first_time_sticker": null,
         "is_default": 1
