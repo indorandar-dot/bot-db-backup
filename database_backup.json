@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 16:51:17",
+    "created_at": "2026-03-29 16:53:20",
     "stats": {
       "main_users": 19,
       "main_admins": 1,
@@ -33,13 +33,13 @@
         "first_name": "NIL",
         "join_date": "2026-03-29 16:49:08",
         "referrer": null,
-        "credits": 5,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-29 16:49:08",
+        "total_searches": 2,
+        "last_active": "2026-03-29 16:52:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -398,7 +398,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 14:49:46",
-        "last_active": "2026-03-29 16:51:10",
+        "last_active": "2026-03-29 16:52:32",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAIfTWnJQwL7DT-XwFwmvvA5D6KwCuaYAAJED2sbmEdIVgxNEnTs1GiMAQADAgADeQADOgQ",
@@ -648,6 +648,22 @@
         "query": "7488035880",
         "search_date": "2026-03-29 16:26:55",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"491279241326\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"MR  JAFAR ANSARI\", \"fname\": \"Md\", \"address\": \"S/O Md. Mafik H N0- 259/ 216 H N0- 259/ 216  VIILA TOLA HEDCHA  KAPALI  DANGARDIH EAST SINGHBHUM East Singhbhum EAST SINGHBHUM JHARKHAND 831012\", \"alt\": \"7280096029\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"993641165741\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": \"919709586997\", \"circle\": \"JIO BHR&JHR\", \"id\": \"491279241326\", \"email\": null}]}"
+      },
+      {
+        "id": 7,
+        "user_id": 6835229916,
+        "search_type": "ff_info",
+        "query": "3042289706",
+        "search_date": "2026-03-29 16:51:17",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3042289706\", \"accountType\": 1, \"nickname\": \"\\u0e21\\u0e34\\u0e19\\u0e19\\u0e32\\u0e42\\u0e010847M\", \"region\": \"TH\", \"level\": 7, \"exp\": 3334, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 9, \"lastLoginAt\": \"1618838448\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1618761180\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211000049, 203000247, 204000141, 205000066], \"equipedSkills\": [16, 701], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"3042289706\", \"language\": \"Language_Thai\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 8,
+        "user_id": 6835229916,
+        "search_type": "ff_info",
+        "query": "3042289706",
+        "search_date": "2026-03-29 16:52:34",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3042289706\", \"accountType\": 1, \"nickname\": \"\\u0e21\\u0e34\\u0e19\\u0e19\\u0e32\\u0e42\\u0e010847M\", \"region\": \"TH\", \"level\": 7, \"exp\": 3334, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 9, \"lastLoginAt\": \"1618838448\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1618761180\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211000049, 203000247, 204000141, 205000066], \"equipedSkills\": [16, 701], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"3042289706\", \"language\": \"Language_Thai\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
       }
     ],
     "bomber_history": [],
