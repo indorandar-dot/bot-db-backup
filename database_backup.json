@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 14:03:02",
+    "created_at": "2026-03-29 14:49:55",
     "stats": {
-      "main_users": 5,
+      "main_users": 4,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -15,7 +15,7 @@
         "user_id": 6929609082,
         "username": "",
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
-        "join_date": "2026-03-29 14:02:07",
+        "join_date": "2026-03-29 14:49:46",
         "referrer": null,
         "credits": 5,
         "is_blocked": 0,
@@ -23,15 +23,15 @@
         "premium_until": null,
         "joined_channels": "[]",
         "total_searches": 0,
-        "last_active": "2026-03-29 14:02:07",
+        "last_active": "2026-03-29 14:49:46",
         "money": 0,
         "clone_bots": 0
       },
       {
-        "user_id": 7906648729,
-        "username": "swagotomsaha",
-        "first_name": "MUKTI",
-        "join_date": "2026-03-29 13:51:30",
+        "user_id": 8221377476,
+        "username": "",
+        "first_name": "Ramji",
+        "join_date": "2026-03-29 14:49:48",
         "referrer": null,
         "credits": 5,
         "is_blocked": 0,
@@ -39,31 +39,15 @@
         "premium_until": null,
         "joined_channels": "[]",
         "total_searches": 0,
-        "last_active": "2026-03-29 13:51:30",
+        "last_active": "2026-03-29 14:49:48",
         "money": 0,
         "clone_bots": 0
       },
       {
-        "user_id": 8008313092,
-        "username": "Ydv1l",
-        "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
-        "join_date": "2026-03-29 13:53:46",
-        "referrer": null,
-        "credits": 2,
-        "is_blocked": 0,
-        "is_premium": 0,
-        "premium_until": null,
-        "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-29 13:56:33",
-        "money": 0,
-        "clone_bots": 0
-      },
-      {
-        "user_id": 8335023642,
-        "username": "Felix_bhai",
-        "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
-        "join_date": "2026-03-29 13:49:21",
+        "user_id": 8500357249,
+        "username": "Btw_Roxx",
+        "first_name": "𝐅ᴧ𝛋𝛆 ⌯ ʀᴏxx ۫💗",
+        "join_date": "2026-03-29 14:49:48",
         "referrer": null,
         "credits": 5,
         "is_blocked": 0,
@@ -71,7 +55,7 @@
         "premium_until": null,
         "joined_channels": "[]",
         "total_searches": 0,
-        "last_active": "2026-03-29 13:49:21",
+        "last_active": "2026-03-29 14:49:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -79,7 +63,7 @@
         "user_id": 8703382327,
         "username": "owner",
         "first_name": "Bot Owner",
-        "join_date": "2026-03-29 13:48:03",
+        "join_date": "2026-03-29 14:49:35",
         "referrer": null,
         "credits": 0,
         "is_blocked": 0,
@@ -87,7 +71,7 @@
         "premium_until": null,
         "joined_channels": "[]",
         "total_searches": 0,
-        "last_active": "2026-03-29 13:48:03",
+        "last_active": "2026-03-29 14:49:35",
         "money": 0,
         "clone_bots": 0
       }
@@ -96,41 +80,12 @@
       {
         "user_id": 8703382327,
         "added_by": 8703382327,
-        "added_date": "2026-03-29 13:48:03",
+        "added_date": "2026-03-29 14:49:35",
         "is_owner": 1
       }
     ],
     "force_join_channels": [],
     "bot_groups": [
-      {
-        "group_id": -1003860365503,
-        "group_title": "BOMBAR GC",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-29 13:49:21",
-        "last_active": "2026-03-29 13:49:35",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      },
       {
         "group_id": -1002190410723,
         "group_title": "☬ GLORY BOT CHAT GROUP ☬",
@@ -144,8 +99,8 @@
         "welcome_enabled": 1,
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
-        "added_date": "2026-03-29 13:49:32",
-        "last_active": "2026-03-29 14:02:52",
+        "added_date": "2026-03-29 14:49:46",
+        "last_active": "2026-03-29 14:49:52",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -179,32 +134,7 @@
       }
     ],
     "referrals": [],
-    "search_history": [
-      {
-        "id": 1,
-        "user_id": 8008313092,
-        "search_type": "mobile_number",
-        "query": "9625905313",
-        "search_date": "2026-03-29 13:54:02",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9625905313\", \"name\": \"Santosh Kumar Sharma\", \"fname\": \"Jagat Ram Sharma\", \"address\": \"!House no. 300!Gali no.17!Near Silai center!Begum pur!Delhi North!North West!Delhi!110086\", \"alt\": \"7827554376\", \"circle\": \"Delhi Jio\", \"id\": \"874914006799\", \"email\": null}, {\"mobile\": \"9625905313\", \"name\": \"Santosh Kumar Sharma\", \"fname\": \"Jagat Ram Sharma\", \"address\": \"!House no 300!Gali no17!Near Silai center!Begum pur!Delhi North!North West!Delhi!110086\", \"alt\": \"7827554376\", \"circle\": \"Delhi Jio\", \"id\": \"874914006799\", \"email\": null}]}"
-      },
-      {
-        "id": 2,
-        "user_id": 8008313092,
-        "search_type": "mobile_number",
-        "query": "8882076746",
-        "search_date": "2026-03-29 13:55:38",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8882076746\", \"name\": \"Shivnarayan Singh Yadav\", \"fname\": \"Rakesh singh\", \"address\": \"C/O Rakesh Singh!!H.No. 199 Gali No. 6  Block-A!Shakti Vihar Meethapur!Badarpur South Delhi!Delhi!110044\", \"alt\": \"919899931606\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"8882076746\", \"name\": \"Km Savita\", \"fname\": \"Rakesh Singh\", \"address\": \"!!H no d-127gali no 8 om nagar meethapur extn badarpur south delhi!NA!!New Delhi SouthSouth!NA!Delhi!110044\", \"alt\": \"9911626382\", \"circle\": \"Delhi Jio\", \"id\": \"800543717831\", \"email\": null}, {\"mobile\": \"8882076746\", \"name\": \"Shivnarayan Singh Yadav\", \"fname\": \"Rakesh singh\", \"address\": \"C/O Rakesh Singh!!HNo 199Gali No 6 Block-A!Shakti Vihar Meethapur!BadarpurSouth Delhi!Delhi!110044\", \"alt\": \"919899931606\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}]}"
-      },
-      {
-        "id": 3,
-        "user_id": 8008313092,
-        "search_type": "mobile_number",
-        "query": "8384059558",
-        "search_date": "2026-03-29 13:56:33",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8384059558\", \"name\": \"MR  HARENDRA SAH\", \"fname\": \"Fulchand Sah\", \"address\": \"S/O  Fulchand Sah!Bblock 1245!Dsidc Bhorgarh Industrial Area!Industrial Area!Narela NORTH WEST DELHI!DELHI!NORTH WEST DELHI!Delhi!110040\", \"alt\": \"8447360680\", \"circle\": \"VI DELHI\", \"id\": \"546038139909\", \"email\": null}, {\"mobile\": \"8384059558\", \"name\": \"Seeta Devi\", \"fname\": \"Bhagalu Mahto\", \"address\": \"!HOUSE NO - 1183GALI NO - 29 A!SWATANTRA NAGAR NARELA!!LAM PUR NORTH WEST DELHI!Delhi North!North West!Delhi!110040\", \"alt\": \"9318412291\", \"circle\": \"Delhi Jio\", \"id\": \"713973622249\", \"email\": null}, {\"mobile\": \"8384059558\", \"name\": \"MR HARENDRA SAH\", \"fname\": \"Fulchand Sah\", \"address\": \"S/O: Fulchand Sah ! Bblock 1245 ! Dsidc BhorgarhIndustrial Area ! Industrial Area ! NarelaNORTH WEST DELHI ! DELHI ! NORTH WEST DELHI ! Delhi ! 110040\", \"alt\": \"8447360680\", \"circle\": \"Delhi Voda\", \"id\": \"546038139909\", \"email\": null}]}"
-      }
-    ],
+    "search_history": [],
     "bomber_history": [],
     "logs": []
   },
