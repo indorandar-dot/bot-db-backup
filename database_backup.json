@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-29 16:55:23",
+    "created_at": "2026-03-29 16:56:07",
     "stats": {
-      "main_users": 19,
+      "main_users": 20,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -11,6 +11,22 @@
   },
   "main_bot": {
     "users": [
+      {
+        "user_id": 5336540898,
+        "username": "ajarif05",
+        "first_name": "Aj",
+        "join_date": "2026-03-29 16:56:00",
+        "referrer": null,
+        "credits": 4,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-29 16:56:02",
+        "money": 0,
+        "clone_bots": 0
+      },
       {
         "user_id": 6515662923,
         "username": "",
@@ -398,7 +414,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 14:49:46",
-        "last_active": "2026-03-29 16:53:57",
+        "last_active": "2026-03-29 16:56:00",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAIfTWnJQwL7DT-XwFwmvvA5D6KwCuaYAAJED2sbmEdIVgxNEnTs1GiMAQADAgADeQADOgQ",
@@ -664,6 +680,14 @@
         "query": "3042289706",
         "search_date": "2026-03-29 16:52:34",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3042289706\", \"accountType\": 1, \"nickname\": \"\\u0e21\\u0e34\\u0e19\\u0e19\\u0e32\\u0e42\\u0e010847M\", \"region\": \"TH\", \"level\": 7, \"exp\": 3334, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 9, \"lastLoginAt\": \"1618838448\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1618761180\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211000049, 203000247, 204000141, 205000066], \"equipedSkills\": [16, 701], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"3042289706\", \"language\": \"Language_Thai\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 9,
+        "user_id": 5336540898,
+        "search_type": "ff_info",
+        "query": "866353027",
+        "search_date": "2026-03-29 16:56:02",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"866353027\", \"accountType\": 1, \"nickname\": \"\\u01ac\\u1d0d\\u3164A\\u1d0a\\u13c0\\u1d00\\u03fb\\u1d07\\u0280\\u3164\\u2e19\", \"region\": \"BD\", \"level\": 74, \"exp\": 4141667, \"bannerId\": 901032009, \"headPic\": 902051003, \"rank\": 326, \"rankingPoints\": 6447, \"hasElitePass\": true, \"badgeCnt\": 132, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 22591, \"showRank\": true, \"lastLoginAt\": \"1774788234\", \"csRank\": 323, \"csRankingPoints\": 164, \"weaponSkinShows\": [907192604, 912039001, 914000002], \"pinId\": 910000013, \"maxRank\": 326, \"csMaxRank\": 323, \"accountPrefers\": {}, \"createAt\": \"1554297316\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [214042009, 203000525, 211052015, 204000783, 205000707], \"equipedSkills\": [16, 306, 8, 1, 16, 1805, 8, 2, 16, 1006, 8, 3, 16, 6201], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3007882154\", \"clanName\": \"\\u01ac\\u03b5\\u03b1\\u0271\\u3164M\\u026a\\u0280\\u1d18\\u1d1c\\u0280\", \"captainId\": \"2901117623\", \"clanLevel\": 6, \"capacity\": 50, \"memberNum\": 50}, \"captainBasicInfo\": {\"accountId\": \"2901117623\", \"accountType\": 1, \"nickname\": \"\\u01ac\\u1d0d\\u3164\\u13de\\u1d07\\u1d00\\u1d05\\u1d07\\u0280\\u3164\\u2e19\", \"region\": \"BD\", \"level\": 72, \"exp\": 3584509, \"bannerId\": 901000118, \"headPic\": 902048022, \"rank\": 327, \"rankingPoints\": 7635, \"badgeCnt\": 94, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 15134, \"showRank\": true, \"lastLoginAt\": \"1774725687\", \"csRank\": 322, \"csRankingPoints\": 115, \"weaponSkinShows\": [907105158, 912052001, 914000003], \"maxRank\": 327, \"csMaxRank\": 322, \"accountPrefers\": {}, \"createAt\": \"1615467391\", \"title\": 905090075, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000116, \"name\": \"I'M\\u3164AJ\", \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000165, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"866353027\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_NIGHT\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"_Only Mahar....!!!\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774707542\"}}}"
       }
     ],
     "bomber_history": [],
