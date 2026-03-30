@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 10:24:24",
+    "created_at": "2026-03-30 10:26:27",
     "stats": {
       "main_users": 17,
       "main_admins": 1,
@@ -241,13 +241,13 @@
         "first_name": "Akhil",
         "join_date": "2026-03-30 10:21:34",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 10:22:36",
+        "total_searches": 2,
+        "last_active": "2026-03-30 10:25:07",
         "money": 0,
         "clone_bots": 0
       },
@@ -533,6 +533,14 @@
         "query": "10122516218",
         "search_date": "2026-03-30 10:22:36",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"10122516218\", \"accountType\": 1, \"nickname\": \"\\u2606\\u00c7\\u0158\\u0104\\u00c7\\u0136\\u20ac\\u0158\\u2606420\", \"region\": \"IND\", \"level\": 54, \"exp\": 485714, \"bannerId\": 901048001, \"headPic\": 902048001, \"rank\": 311, \"rankingPoints\": 2170, \"badgeCnt\": 1, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 1796, \"showRank\": true, \"lastLoginAt\": \"1773991000\", \"csRank\": 317, \"csRankingPoints\": 68, \"pinId\": 910040001, \"maxRank\": 311, \"csMaxRank\": 317, \"accountPrefers\": {}, \"createAt\": \"1729402666\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_LONG\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1775200600\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000041, \"skinColor\": 50, \"clothes\": [204000681, 205044025, 211000407, 211049063, 203000000], \"equipedSkills\": [16, 1806, 8, 1, 16, 4906, 8, 2, 16, 1206, 8, 3, 16, 6906], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1736910716}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000113, \"level\": 4, \"exp\": 502, \"isSelected\": true, \"skinId\": 1310000132, \"selectedSkillId\": 1315000012}, \"socialInfo\": {\"accountId\": \"10122516218\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"signature\": \"i am back\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774676664\"}}}"
+      },
+      {
+        "id": 11,
+        "user_id": 8498695308,
+        "search_type": "instagram",
+        "query": "Yash250267",
+        "search_date": "2026-03-30 10:25:07",
+        "result": "{\"success\": true, \"id\": \"78566146631\", \"username\": \"yash250267\", \"name\": \"yash\\u26a1\", \"full_name\": \"yash\\u26a1\", \"bio\": \".5 TEEN....!\\n.\\n. \\n.\\\"LIVE WHERE YOUR HEART FIND LOVE.......\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/640950851_17857526439618632_5988579228358600208_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjIuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH5q2LfTU7rIhhJxLFxXUL2uF-pW2PqyBRrZp3_t1AKhGi4nbukPLqEs8txv91VMwE&_nc_ohc=9rz7XFoVC2EQ7kNvwHnxaOR&_nc_gid=_tEx22j4xPQ_L-8mStUrSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxMzwugS1vJNFBsY04YI5CUAgzody8vqEceel0npzPB7A&oe=69D03BEC&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmprxfena5m.jpg\", \"followers\": 104, \"following\": 119, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"78566146631\", \"username\": \"yash250267\", \"name\": \"yash\\u26a1\", \"bio\": \".5 TEEN....!\\n.\\n. \\n.\\\"LIVE WHERE YOUR HEART FIND LOVE.......\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/640950851_17857526439618632_5988579228358600208_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjIuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH5q2LfTU7rIhhJxLFxXUL2uF-pW2PqyBRrZp3_t1AKhGi4nbukPLqEs8txv91VMwE&_nc_ohc=9rz7XFoVC2EQ7kNvwHnxaOR&_nc_gid=_tEx22j4xPQ_L-8mStUrSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxMzwugS1vJNFBsY04YI5CUAgzody8vqEceel0npzPB7A&oe=69D03BEC&_nc_sid=8b3546\", \"followers\": 104, \"following\": 119, \"posts\": 0, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
