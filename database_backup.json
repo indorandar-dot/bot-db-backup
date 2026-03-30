@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 05:16:12",
+    "created_at": "2026-03-30 05:16:22",
     "stats": {
-      "main_users": 8,
+      "main_users": 9,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -104,6 +104,22 @@
         "joined_channels": "[]",
         "total_searches": 2,
         "last_active": "2026-03-30 03:52:44",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8498695308,
+        "username": "",
+        "first_name": "Akhil",
+        "join_date": "2026-03-30 05:16:14",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 05:16:14",
         "money": 0,
         "clone_bots": 0
       },
