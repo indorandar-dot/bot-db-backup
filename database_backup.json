@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 09:22:38",
+    "created_at": "2026-03-30 09:24:42",
     "stats": {
       "main_users": 12,
       "main_admins": 1,
@@ -338,6 +338,10 @@
     "daily_claims": [
       {
         "user_id": 8335023642,
+        "claim_date": "2026-03-30"
+      },
+      {
+        "user_id": 8444174058,
         "claim_date": "2026-03-30"
       }
     ],
