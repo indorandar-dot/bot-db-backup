@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 07:53:20",
+    "created_at": "2026-03-30 07:53:36",
     "stats": {
-      "main_users": 5,
+      "main_users": 6,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -11,6 +11,22 @@
   },
   "main_bot": {
     "users": [
+      {
+        "user_id": 6155760344,
+        "username": "D4VN9_HU",
+        "first_name": "BɪLLᴀ ♡︎",
+        "join_date": "2026-03-30 07:53:29",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 07:53:29",
+        "money": 0,
+        "clone_bots": 0
+      },
       {
         "user_id": 7162782122,
         "username": "taskularwox",
