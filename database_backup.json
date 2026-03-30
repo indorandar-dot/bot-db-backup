@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 04:09:40",
+    "created_at": "2026-03-30 04:10:25",
     "stats": {
       "main_users": 7,
       "main_admins": 1,
@@ -38,8 +38,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 04:09:15",
+        "total_searches": 1,
+        "last_active": "2026-03-30 04:09:52",
         "money": 0,
         "clone_bots": 0
       },
@@ -227,6 +227,14 @@
         "query": "kasifhamza",
         "search_date": "2026-03-30 03:52:44",
         "result": "{\"success\": true, \"id\": \"46859237834\", \"username\": \"kasifhamza\", \"name\": \"Kasif hamza\", \"full_name\": \"Kasif hamza\", \"bio\": \"\", \"verified\": false, \"private\": true, \"pic\": \"https://instagram.fluq2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fluq2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFCSYSYq1ADbbkWbPBMBEC6dC6fPGtU2AE9b4zaSTxnL7oqWd469mkGbup8lnqHjMs&_nc_ohc=iexK2duEtzMQ7kNvwGOX-9v&_nc_gid=B7hhKA4hsK2n34eMelQBBg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afz7t1XW_v666_RrajsIxE4tBW44B7gdTwnl82BSR_rmaw&oe=69CFB02A&_nc_sid=65462d\", \"pic_file\": \"/tmp/tmpzgzvkmy8.jpg\", \"followers\": 11, \"following\": 88, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"46859237834\", \"username\": \"kasifhamza\", \"name\": \"Kasif hamza\", \"bio\": \"\", \"verified\": false, \"private\": true, \"pic\": \"https://instagram.fluq2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fluq2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFCSYSYq1ADbbkWbPBMBEC6dC6fPGtU2AE9b4zaSTxnL7oqWd469mkGbup8lnqHjMs&_nc_ohc=iexK2duEtzMQ7kNvwGOX-9v&_nc_gid=B7hhKA4hsK2n34eMelQBBg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afz7t1XW_v666_RrajsIxE4tBW44B7gdTwnl82BSR_rmaw&oe=69CFB02A&_nc_sid=65462d\", \"followers\": 11, \"following\": 88, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 3,
+        "user_id": 6155760344,
+        "search_type": "typed_userid",
+        "query": "6252697613",
+        "search_date": "2026-03-30 04:09:52",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6252697613\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
