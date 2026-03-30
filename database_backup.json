@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 03:11:50",
+    "created_at": "2026-03-30 03:12:17",
     "stats": {
       "main_users": 2,
       "main_admins": 1,
@@ -17,13 +17,13 @@
         "first_name": "—͟͞͞𝒜𝗶𝓏สꪀ—͟͞͞",
         "join_date": "2026-03-30 03:11:43",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 03:11:43",
+        "total_searches": 1,
+        "last_active": "2026-03-30 03:12:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -139,6 +139,14 @@
         "query": "si_name_77",
         "search_date": "2026-03-30 03:11:33",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 2,
+        "user_id": 8138943100,
+        "search_type": "mobile_number",
+        "query": "9328177699",
+        "search_date": "2026-03-30 03:12:05",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T  matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}, {\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T. matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
