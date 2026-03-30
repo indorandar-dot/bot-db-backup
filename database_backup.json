@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 18:10:18",
+    "created_at": "2026-03-30 18:12:22",
     "stats": {
       "main_users": 53,
       "main_admins": 1,
@@ -433,13 +433,13 @@
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
         "join_date": "2026-03-30 16:48:07",
         "referrer": 8703382327,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 16:48:07",
+        "total_searches": 1,
+        "last_active": "2026-03-30 18:11:36",
         "money": 0,
         "clone_bots": 0
       },
@@ -1532,6 +1532,14 @@
         "query": "7837460967",
         "search_date": "2026-03-30 17:07:40",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7837460967\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 45,
+        "user_id": 8008313092,
+        "search_type": "mobile_number",
+        "query": "8448858857",
+        "search_date": "2026-03-30 18:11:36",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8448858857\", \"name\": \"Suraj  Sharma\", \"fname\": \"Dayand  Sharma\", \"address\": \"S/O Dayand Sharma! Munirka Village  287-A/1 !!!South West DelhiSouth West Delhi!Delhi!110067\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"xxxxxxxx7098\", \"email\": null}, {\"mobile\": \"8448858857\", \"name\": \"Suraj  Sharma\", \"fname\": \"Dayand  Sharma\", \"address\": \"S/O Dayand Sharma!Munirka Village 287-A/1!!!!South West AIRTEL DELHI!!AIRTEL DELHI!110067\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"xxxxxxxx7098\", \"email\": null}, {\"mobile\": \"8448858857\", \"name\": \"Suraj  Sharma\", \"fname\": \"Dayand  Sharma\", \"address\": \"S/O Dayand Sharma!Munirka Village 287-A/1!!!South West DelhiSouth West Delhi!Delhi!110067\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"xxxxxxxx7098\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
