@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 09:16:25",
+    "created_at": "2026-03-30 09:18:30",
     "stats": {
       "main_users": 12,
       "main_admins": 1,
@@ -129,13 +129,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 09:16:22",
+        "total_searches": 3,
+        "last_active": "2026-03-30 09:16:53",
         "money": 0,
         "clone_bots": 0
       },
@@ -335,7 +335,12 @@
     "redeemed_users": [],
     "feature_costs": [],
     "feature_maintenance": [],
-    "daily_claims": [],
+    "daily_claims": [
+      {
+        "user_id": 8335023642,
+        "claim_date": "2026-03-30"
+      }
+    ],
     "welcome_settings": [
       {
         "id": 1,
@@ -404,6 +409,22 @@
         "query": "{'user_id': 8551389275, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-03-30 09:16:22",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8551389275\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 7,
+        "user_id": 8335023642,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6785907746, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-30 09:16:30",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6785907746\", \"username\": \"\", \"full_name\": \"MR RAHUL\", \"first_name\": \"MR RAHUL\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"+91 8006328730\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-07T11:08:37Z\", \"first_name\": \"MR RAHUL\", \"id\": 6785907746, \"is_active\": true, \"is_bot\": false, \"last_msg_date\": \"2026-01-18T15:48:48Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 7, \"total_groups\": 8, \"total_msg_count\": 46, \"usernames_count\": 1}, \"_raw\": {\"status\": true, \"number\": \"8006328730\", \"target_id\": \"6785907746\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\", \"msg\": \"details fetched\", \"number\": \"8006328730\", \"success\": true}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-07T11:08:37Z\", \"first_name\": \"MR RAHUL\", \"id\": 6785907746, \"is_active\": true, \"is_bot\": false, \"last_msg_date\": \"2026-01-18T15:48:48Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 7, \"total_groups\": 8, \"total_msg_count\": 46, \"usernames_count\": 1}}}"
+      },
+      {
+        "id": 8,
+        "user_id": 8335023642,
+        "search_type": "ff_info",
+        "query": "1231557272",
+        "search_date": "2026-03-30 09:16:53",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1231557272\", \"accountType\": 1, \"nickname\": \"M\\u026a\\u1d0b\\u1d07\\u028f\\u250bB\\u029c\\uaadd\\u026a\\u3164!\", \"region\": \"IND\", \"level\": 75, \"exp\": 4490238, \"headPic\": 902052002, \"rank\": 324, \"rankingPoints\": 5359, \"hasElitePass\": true, \"badgeCnt\": 126, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 23258, \"showRank\": true, \"lastLoginAt\": \"1774802890\", \"csRank\": 323, \"csRankingPoints\": 168, \"weaponSkinShows\": [907192404, 912051001], \"maxRank\": 324, \"csMaxRank\": 323, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1564049045\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [214034002, 203000316, 204000181, 211001033, 205000101, 211000140], \"equipedSkills\": [16, 6006, 8, 1, 16, 3206, 8, 2, 16, 5301, 8, 3, 16, 3006], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3049925027\", \"clanName\": \"X\\u200e\\ufe0e\\ufe0e\\u3164ERA\\u3164!!!\", \"captainId\": \"2000735556\", \"clanLevel\": 2, \"capacity\": 25, \"memberNum\": 15}, \"captainBasicInfo\": {\"accountId\": \"2000735556\", \"accountType\": 1, \"nickname\": \"HINOXXY\\u316409\", \"region\": \"IND\", \"level\": 76, \"exp\": 5227108, \"bannerId\": 901000009, \"headPic\": 902000074, \"rank\": 324, \"rankingPoints\": 5101, \"badgeCnt\": 134, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 29117, \"lastLoginAt\": \"1774855963\", \"csRank\": 322, \"csRankingPoints\": 125, \"weaponSkinShows\": [907102828, 912042002], \"pinId\": 910000004, \"maxRank\": 324, \"csMaxRank\": 322, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1589236062\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000123, \"name\": \"king\", \"level\": 7, \"exp\": 6000, \"isSelected\": true, \"skinId\": 1310000232, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"1231557272\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"Yrrr_afridi\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774713541\"}}}"
       }
     ],
     "bomber_history": [],
