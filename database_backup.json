@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 11:54:24",
+    "created_at": "2026-03-30 11:54:45",
     "stats": {
       "main_users": 22,
       "main_admins": 1,
@@ -145,13 +145,13 @@
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
         "join_date": "2026-03-30 11:54:16",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 11:54:23",
+        "total_searches": 2,
+        "last_active": "2026-03-30 11:54:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -706,6 +706,14 @@
         "query": "6296244725",
         "search_date": "2026-03-30 11:54:23",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"6296244725\", \"name\": \"Indramaya Limbu\", \"fname\": \"Ratan Limbu\", \"address\": \"W/O  Ratan Limbu!!!JAMUNI!Patliabas Forest Darjeeling!West Bengal!734104\", \"alt\": \"918556686868\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 18,
+        "user_id": 6929609082,
+        "search_type": "mobile_number",
+        "query": "6296244724",
+        "search_date": "2026-03-30 11:54:34",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"6296244724\", \"name\": \"Rubina Khatun\", \"fname\": \"Abel Hossain\", \"address\": \"C/O  Abel Hossain!!Village Rudranagar!Thana Murarai!Rudranagar Birbhum!West Bengal!731238\", \"alt\": \"7679235045\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
