@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 09:32:57",
+    "created_at": "2026-03-30 09:33:47",
     "stats": {
-      "main_users": 13,
+      "main_users": 14,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -204,6 +204,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8590133219,
+        "username": "LUKEY_HAKER",
+        "first_name": "LUCKEY",
+        "join_date": "2026-03-30 09:33:40",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-30 09:33:41",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8703382327,
         "username": "owner",
         "first_name": "Bot Owner",
@@ -273,7 +289,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 07:17:02",
-        "last_active": "2026-03-30 08:14:18",
+        "last_active": "2026-03-30 09:33:40",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -445,6 +461,14 @@
         "query": "1231557272",
         "search_date": "2026-03-30 09:16:53",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1231557272\", \"accountType\": 1, \"nickname\": \"M\\u026a\\u1d0b\\u1d07\\u028f\\u250bB\\u029c\\uaadd\\u026a\\u3164!\", \"region\": \"IND\", \"level\": 75, \"exp\": 4490238, \"headPic\": 902052002, \"rank\": 324, \"rankingPoints\": 5359, \"hasElitePass\": true, \"badgeCnt\": 126, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 23258, \"showRank\": true, \"lastLoginAt\": \"1774802890\", \"csRank\": 323, \"csRankingPoints\": 168, \"weaponSkinShows\": [907192404, 912051001], \"maxRank\": 324, \"csMaxRank\": 323, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1564049045\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [214034002, 203000316, 204000181, 211001033, 205000101, 211000140], \"equipedSkills\": [16, 6006, 8, 1, 16, 3206, 8, 2, 16, 5301, 8, 3, 16, 3006], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3049925027\", \"clanName\": \"X\\u200e\\ufe0e\\ufe0e\\u3164ERA\\u3164!!!\", \"captainId\": \"2000735556\", \"clanLevel\": 2, \"capacity\": 25, \"memberNum\": 15}, \"captainBasicInfo\": {\"accountId\": \"2000735556\", \"accountType\": 1, \"nickname\": \"HINOXXY\\u316409\", \"region\": \"IND\", \"level\": 76, \"exp\": 5227108, \"bannerId\": 901000009, \"headPic\": 902000074, \"rank\": 324, \"rankingPoints\": 5101, \"badgeCnt\": 134, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 29117, \"lastLoginAt\": \"1774855963\", \"csRank\": 322, \"csRankingPoints\": 125, \"weaponSkinShows\": [907102828, 912042002], \"pinId\": 910000004, \"maxRank\": 324, \"csMaxRank\": 322, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1589236062\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000123, \"name\": \"king\", \"level\": 7, \"exp\": 6000, \"isSelected\": true, \"skinId\": 1310000232, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"1231557272\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"Yrrr_afridi\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774713541\"}}}"
+      },
+      {
+        "id": 9,
+        "user_id": 8590133219,
+        "search_type": "username",
+        "query": "ToxicGrok",
+        "search_date": "2026-03-30 09:33:41",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
