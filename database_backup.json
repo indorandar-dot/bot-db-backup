@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 01:38:25",
+    "created_at": "2026-03-30 01:40:23",
     "stats": {
-      "main_users": 6,
+      "main_users": 7,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -11,6 +11,22 @@
   },
   "main_bot": {
     "users": [
+      {
+        "user_id": 5447294641,
+        "username": "Redoox1",
+        "first_name": "—͟͞͞ℝ𝔼𝔻𝕆𝕆𝕏 𒉭",
+        "join_date": "2026-03-30 01:40:16",
+        "referrer": null,
+        "credits": 6,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 01:40:16",
+        "money": 0,
+        "clone_bots": 0
+      },
       {
         "user_id": 6304812503,
         "username": "ANIRBANGAMINGNO1",
@@ -190,7 +206,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 01:37:50",
-        "last_active": "2026-03-30 01:37:50",
+        "last_active": "2026-03-30 01:40:12",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -219,7 +235,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-29 22:35:11",
-        "last_active": "2026-03-30 01:26:25",
+        "last_active": "2026-03-30 01:40:16",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -251,6 +267,10 @@
       {
         "user_id": 6309567396,
         "claim_date": "2026-03-30"
+      },
+      {
+        "user_id": 5447294641,
+        "claim_date": "2026-03-30"
       }
     ],
     "welcome_settings": [
@@ -272,7 +292,13 @@
     "autolike_entries": [],
     "clone_daily_bonus": [],
     "ff_like_cooldowns": [],
-    "bot_api_urls": [],
+    "bot_api_urls": [
+      {
+        "api_key": "vip_like",
+        "url": "https://rocky-like-api-50.onrender.com/like?uid={}&server_name=ind&api_key=71b9ea15-d6c1-4dec-a686-20faa5ad8e11",
+        "mapping": null
+      }
+    ],
     "user_api_keys": []
   },
   "clone_bots": {
