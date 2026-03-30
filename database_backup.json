@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 12:13:19",
+    "created_at": "2026-03-30 12:14:09",
     "stats": {
       "main_users": 25,
       "main_admins": 1,
@@ -438,7 +438,7 @@
         "added_date": "2026-03-30 11:50:34",
         "last_active": "2026-03-30 11:50:34",
         "goodbye_enabled": 1,
-        "goodbye_message": null,
+        "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
         "gst_info_enabled": 1,
         "email_info_enabled": 1,
@@ -449,7 +449,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003860365503,
@@ -478,7 +479,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003791631708,
@@ -507,7 +509,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003715566556,
@@ -536,7 +539,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1002190410723,
@@ -565,7 +569,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       }
     ],
     "redeem_codes": [],
@@ -785,23 +790,7 @@
       }
     ],
     "bomber_history": [],
-    "logs": [],
-    "autolike_entries": [
-      {
-        "id": 1,
-        "uid": "2093756995",
-        "server": "IND",
-        "send_to_type": "gc",
-        "send_to_id": "-1003791631708",
-        "nickname": "-ㅤʀɪ֟፝ᴄᴋㅤ-",
-        "added_by": 8703382327,
-        "added_at": 1774858497.431221,
-        "total_sent": 0,
-        "last_sent": null,
-        "days": 5
-      }
-    ],
-    "clone_daily_bonus": []
+    "logs": []
   },
   "clone_bots": {
     "bots": [],
