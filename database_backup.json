@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 10:42:54",
+    "created_at": "2026-03-30 10:44:57",
     "stats": {
       "main_users": 18,
       "main_admins": 1,
@@ -102,8 +102,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 10:40:46",
+        "total_searches": 1,
+        "last_active": "2026-03-30 10:44:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -411,7 +411,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "PROMO MAT KARNA 🌚",
         "added_date": "2026-03-30 07:26:25",
-        "last_active": "2026-03-30 10:42:41",
+        "last_active": "2026-03-30 10:44:31",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAInUGnKQhCewDp8bnxwtyUqWm-D1zsuAALTDmsbgZlQVlUNNbQUQER1AQADAgADdwADOgQ",
@@ -565,6 +565,14 @@
         "query": "mr__akhil_11",
         "search_date": "2026-03-30 10:26:46",
         "result": "{\"success\": true, \"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"full_name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gERjQERbdqIwz77bCRsNtQCktnLQLSVJp4Cet_xxnYtyN_Ru__2X8p6ZXOOdD1LqPs&_nc_ohc=gLkJsiBjo7UQ7kNvwHShqDM&_nc_gid=5_j_iTWJPVDH9YRx7-X4wg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzPhHf9_CXAESga0Dv-IGci7pg3M0qA-WUQ1v6Drt17zA&oe=69D00F98&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp_av1cjh3.jpg\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gERjQERbdqIwz77bCRsNtQCktnLQLSVJp4Cet_xxnYtyN_Ru__2X8p6ZXOOdD1LqPs&_nc_ohc=gLkJsiBjo7UQ7kNvwHShqDM&_nc_gid=5_j_iTWJPVDH9YRx7-X4wg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzPhHf9_CXAESga0Dv-IGci7pg3M0qA-WUQ1v6Drt17zA&oe=69D00F98&_nc_sid=8b3546\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": []}}"
+      },
+      {
+        "id": 13,
+        "user_id": 6786791888,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7441161981, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-30 10:44:16",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7441161981\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
