@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 17:05:44",
+    "created_at": "2026-03-30 17:06:13",
     "stats": {
       "main_users": 49,
       "main_admins": 1,
@@ -209,7 +209,7 @@
         "first_name": "👑aura_kausar",
         "join_date": "2026-03-30 17:05:36",
         "referrer": null,
-        "credits": 5,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -401,13 +401,13 @@
         "first_name": "hayalimsin",
         "join_date": "2026-03-30 17:04:53",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 17:04:53",
+        "total_searches": 1,
+        "last_active": "2026-03-30 17:06:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -949,7 +949,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 08:11:55",
-        "last_active": "2026-03-30 17:04:58",
+        "last_active": "2026-03-30 17:05:54",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAIrIGnKqsNB9tHwuL8y9ZUBku4rn2OAAALVDmsbgZlYVqC_Ip1ArrqTAQADAgADdwADOgQ",
@@ -1431,6 +1431,14 @@
         "query": "jul.eyy__db",
         "search_date": "2026-03-30 16:53:57",
         "result": "{\"success\": true, \"id\": \"69602664879\", \"username\": \"jul.eyy__db\", \"name\": \"Emmmm!!!!\", \"full_name\": \"Emmmm!!!!\", \"bio\": \"921:\\ud83c\\udf19\\nbelieve in yourself and trust God.\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/656816814_17921004282320880_5016163678524183275_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF7oie_kOwMerFGdkx8lpF_QrSG2Ge2FofnLi0yX3XYDCTB_KoEC3M4uvjhnzmQV7M&_nc_ohc=7V-LxmyFvXwQ7kNvwFdWp5e&_nc_gid=Jx5Ln7atnfE_F3uz5XD7zg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyycXWmCmg-Ziiwr1VWFxEgC-BqH2BDyXiLLD3pO0dcYw&oe=69D073D7&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmptwjzo7fg.jpg\", \"followers\": 845, \"following\": 88, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"69602664879\", \"username\": \"jul.eyy__db\", \"name\": \"Emmmm!!!!\", \"bio\": \"921:\\ud83c\\udf19\\nbelieve in yourself and trust God.\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/656816814_17921004282320880_5016163678524183275_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF7oie_kOwMerFGdkx8lpF_QrSG2Ge2FofnLi0yX3XYDCTB_KoEC3M4uvjhnzmQV7M&_nc_ohc=7V-LxmyFvXwQ7kNvwFdWp5e&_nc_gid=Jx5Ln7atnfE_F3uz5XD7zg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyycXWmCmg-Ziiwr1VWFxEgC-BqH2BDyXiLLD3pO0dcYw&oe=69D073D7&_nc_sid=8b3546\", \"followers\": 845, \"following\": 88, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 41,
+        "user_id": 8097091858,
+        "search_type": "instagram",
+        "query": "ff_yunusx",
+        "search_date": "2026-03-30 17:06:03",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"ff_yunusx\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
