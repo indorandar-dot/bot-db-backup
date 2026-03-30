@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 15:04:03",
+    "created_at": "2026-03-30 15:06:07",
     "stats": {
       "main_users": 33,
       "main_admins": 1,
@@ -486,8 +486,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-03-30 13:37:01",
+        "total_searches": 9,
+        "last_active": "2026-03-30 15:05:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -999,6 +999,22 @@
         "query": "8299212282",
         "search_date": "2026-03-30 14:32:41",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8299212282\", \"name\": \"Humayun Nadeem\", \"fname\": \"Mohd. Asghar\", \"address\": \"S/O Mohd. Asghar!!5/1 ALISHA APARTMENT MADAN MOHAN MALVIYA MARG!SIKANDER BAD!Lucknow Lucknow!Uttar Pradesh!226001\", \"alt\": \"917309035921\", \"circle\": \"JIO UPE\", \"id\": \"290763821952\", \"email\": null}]}"
+      },
+      {
+        "id": 30,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "Si_name_77",
+        "search_date": "2026-03-30 15:05:38",
+        "result": "{\"success\": true, \"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEYzQUhrjTydOIt6d1oioeIS5AxQjMdtzkM4C6ENhj2FrkELjROpXMRTijTpqreP4U&_nc_ohc=g7ogzdCQhoMQ7kNvwGUUtdT&_nc_gid=6_uBP4WbzALEvn-JRvZW9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyUzyZlvMEOY1pMwVRG2QjcfapYxlKaOp9oeJaIkzEDHA&oe=69D06BEB&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp83nh_lmq.jpg\", \"followers\": 98, \"following\": 2, \"posts\": 2, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEYzQUhrjTydOIt6d1oioeIS5AxQjMdtzkM4C6ENhj2FrkELjROpXMRTijTpqreP4U&_nc_ohc=g7ogzdCQhoMQ7kNvwGUUtdT&_nc_gid=6_uBP4WbzALEvn-JRvZW9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfyUzyZlvMEOY1pMwVRG2QjcfapYxlKaOp9oeJaIkzEDHA&oe=69D06BEB&_nc_sid=8b3546\", \"followers\": 98, \"following\": 2, \"posts\": 2, \"recent\": []}}"
+      },
+      {
+        "id": 31,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "Si_name_77",
+        "search_date": "2026-03-30 15:05:38",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"Si_name_77\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
