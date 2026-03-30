@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 03:12:17",
+    "created_at": "2026-03-30 03:14:01",
     "stats": {
-      "main_users": 2,
+      "main_users": 3,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -12,18 +12,34 @@
   "main_bot": {
     "users": [
       {
+        "user_id": 8037300335,
+        "username": "Freefirepriya",
+        "first_name": "Priya",
+        "join_date": "2026-03-30 03:13:54",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 03:13:54",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8138943100,
         "username": "Lordaizan",
         "first_name": "—͟͞͞𝒜𝗶𝓏สꪀ—͟͞͞",
         "join_date": "2026-03-30 03:11:43",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 03:12:05",
+        "total_searches": 2,
+        "last_active": "2026-03-30 03:13:42",
         "money": 0,
         "clone_bots": 0
       },
@@ -38,8 +54,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 03:11:33",
+        "total_searches": 3,
+        "last_active": "2026-03-30 03:12:40",
         "money": 0,
         "clone_bots": 0
       }
@@ -68,7 +84,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 03:08:36",
-        "last_active": "2026-03-30 03:08:36",
+        "last_active": "2026-03-30 03:13:54",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -147,6 +163,30 @@
         "query": "9328177699",
         "search_date": "2026-03-30 03:12:05",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T  matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}, {\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T. matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}]}"
+      },
+      {
+        "id": 3,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-30 03:12:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 4,
+        "user_id": 8703382327,
+        "search_type": "ff_info",
+        "query": "2819649271",
+        "search_date": "2026-03-30 03:12:40",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2819649271\", \"accountType\": 1, \"nickname\": \"\\u300e\\u24cb\\u2605\\u20b3\\u0572\\u049f\\u0574\\u0282\\u0452\\u0fd0\\u00b2\\u2022\", \"region\": \"IND\", \"level\": 55, \"exp\": 520620, \"bannerId\": 901050005, \"headPic\": 902043011, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 1720, \"lastLoginAt\": \"1763629007\", \"csRank\": 301, \"weaponSkinShows\": [907193002], \"pinId\": 910032003, \"maxRank\": 301, \"csMaxRank\": 301, \"gameBagShow\": 904033010, \"accountPrefers\": {}, \"createAt\": \"1613227897\", \"title\": 904090005, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB51\", \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000039, \"skinColor\": 50, \"clothes\": [211001172, 205044025, 203044025, 204044025, 211001307, 214000000], \"equipedSkills\": [16, 5801, 8, 1, 16, 2506, 8, 2, 16, 4805, 8, 3, 16, 3003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1705242795}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000061, \"level\": 5, \"exp\": 1245, \"isSelected\": true, \"skinId\": 1310000063, \"selectedSkillId\": 1315000005}, \"socialInfo\": {\"accountId\": \"2819649271\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"battleTag\": [\"PlayerBattleTagID_PEACEMAKER\", \"PlayerBattleTagID_SNIPER\"], \"socialTag\": [\"SocialTag_FASHION\", \"SocialTag_VOICEOFF\"], \"modePrefer\": \"ModePrefer_CS\", \"signature\": \"who am I?\", \"rankShow\": \"RankShow_CS\", \"battleTagCount\": [113, 82]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774840359\"}}}"
+      },
+      {
+        "id": 5,
+        "user_id": 8138943100,
+        "search_type": "mobile_number",
+        "query": "7778018567",
+        "search_date": "2026-03-30 03:13:42",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7778018567\", \"name\": \"Yadav Vinodbhai Rampalbhai\", \"fname\": \"Rampalbhai\", \"address\": \"S/O Rampalbhai 00 gangajaliya tanki pase vallbhipur  VALLBHIPUR\", \"alt\": null, \"circle\": \"AIRTEL GUJARAT\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
