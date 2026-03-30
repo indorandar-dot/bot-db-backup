@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 16:41:21",
+    "created_at": "2026-03-30 16:41:29",
     "stats": {
-      "main_users": 39,
+      "main_users": 40,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -316,6 +316,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8154922225,
+        "username": "",
+        "first_name": "~𝐑𝐀𝐉 !! 🥡",
+        "join_date": "2026-03-30 16:41:21",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 16:41:21",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8162152374,
         "username": "Krishnaraj001k",
         "first_name": "KRISHNA",
@@ -577,7 +593,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 3,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -888,6 +904,12 @@
         "referrer": 8703382327,
         "referred": 8486345593,
         "date": "2026-03-30 16:14:04"
+      },
+      {
+        "id": 3,
+        "referrer": 8703382327,
+        "referred": 8154922225,
+        "date": "2026-03-30 16:41:21"
       }
     ],
     "search_history": [
