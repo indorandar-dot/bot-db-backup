@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 10:22:20",
+    "created_at": "2026-03-30 10:24:24",
     "stats": {
       "main_users": 17,
       "main_admins": 1,
@@ -246,8 +246,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 10:21:34",
+        "total_searches": 1,
+        "last_active": "2026-03-30 10:22:36",
         "money": 0,
         "clone_bots": 0
       },
@@ -427,6 +427,10 @@
       {
         "user_id": 6975957363,
         "claim_date": "2026-03-30"
+      },
+      {
+        "user_id": 8498695308,
+        "claim_date": "2026-03-30"
       }
     ],
     "welcome_settings": [
@@ -521,6 +525,14 @@
         "query": "ToxicGrok",
         "search_date": "2026-03-30 09:33:41",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 10,
+        "user_id": 8498695308,
+        "search_type": "ff_info",
+        "query": "10122516218",
+        "search_date": "2026-03-30 10:22:36",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"10122516218\", \"accountType\": 1, \"nickname\": \"\\u2606\\u00c7\\u0158\\u0104\\u00c7\\u0136\\u20ac\\u0158\\u2606420\", \"region\": \"IND\", \"level\": 54, \"exp\": 485714, \"bannerId\": 901048001, \"headPic\": 902048001, \"rank\": 311, \"rankingPoints\": 2170, \"badgeCnt\": 1, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 1796, \"showRank\": true, \"lastLoginAt\": \"1773991000\", \"csRank\": 317, \"csRankingPoints\": 68, \"pinId\": 910040001, \"maxRank\": 311, \"csMaxRank\": 317, \"accountPrefers\": {}, \"createAt\": \"1729402666\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_LONG\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1775200600\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000041, \"skinColor\": 50, \"clothes\": [204000681, 205044025, 211000407, 211049063, 203000000], \"equipedSkills\": [16, 1806, 8, 1, 16, 4906, 8, 2, 16, 1206, 8, 3, 16, 6906], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1736910716}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000113, \"level\": 4, \"exp\": 502, \"isSelected\": true, \"skinId\": 1310000132, \"selectedSkillId\": 1315000012}, \"socialInfo\": {\"accountId\": \"10122516218\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"signature\": \"i am back\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774676664\"}}}"
       }
     ],
     "bomber_history": [],
