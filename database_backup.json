@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 05:43:38",
+    "created_at": "2026-03-30 05:44:57",
     "stats": {
-      "main_users": 11,
+      "main_users": 12,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -120,6 +120,22 @@
         "joined_channels": "[]",
         "total_searches": 2,
         "last_active": "2026-03-30 03:52:44",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8220310921,
+        "username": "Irapepoorgirls",
+        "first_name": "SAM",
+        "join_date": "2026-03-30 05:44:49",
+        "referrer": null,
+        "credits": 4,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-30 05:44:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -369,6 +385,14 @@
         "query": "618933524729",
         "search_date": "2026-03-30 04:43:25",
         "result": "{\"success\": true, \"aadhaar\": \"618933524729\", \"total_records\": 4, \"data\": [{\"name\": \"Anup Singh\", \"mobile\": \"8860264058\", \"father_name\": \"Nathu Singh\", \"address\": \"S/O Nathu Singh g-1 / 98 sector-16 rohini Rohini Sector 15 North West Delhi Delhi 110089\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618933524729\"}, {\"name\": \"Anup Singh\", \"mobile\": \"9310015887\", \"father_name\": \"Nathoo Singh Rajput\", \"address\": \"C/O Nathoo Singh Rajput c/o nathoo singh rajput g-3/102 sector 16 rohini rohini sector 15 north west delhi Rohini Sector 15 North West Delhi Delhi 110089\", \"alt_mobile\": \"8860264058\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618933524729\"}, {\"name\": \"Anup Singh\", \"mobile\": \"8076806937\", \"father_name\": \"Nathu Singh\", \"address\": \"S/O Nathu Singh g-1 / 98 sector-16 rohini Rohini Sector 15 North West Delhi Delhi 110089\", \"alt_mobile\": \"919876543210\", \"circle\": \"AIRTEL\", \"email\": \"akumar.upsc18@gmail.com\", \"aadhaar_number\": \"618933524729\"}, {\"name\": \"Anup Singh\", \"mobile\": \"8851309506\", \"father_name\": \"Nathu Singh\", \"address\": \"S/O Nathu Singh g-1 / 98 sector-16 rohini ROHINI SECTOR 15 NORTH WEST DELHI Delhi 110089\", \"alt_mobile\": \"+918860264058\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618933524729\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 8,
+        "user_id": 8220310921,
+        "search_type": "mobile_number",
+        "query": "9670729311",
+        "search_date": "2026-03-30 05:44:55",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9670729311\", \"name\": \"Ramakant Yadav\", \"fname\": \"Ram pratap\", \"address\": \"!!Ram Pratap Yadav post-dhosan!bargadwa!Asanhara Basti!Uttar Pradesh!272194\", \"alt\": \"9140846591\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"9670729311\", \"name\": \"MR. RAMAKANT YADAV\", \"fname\": \"Ram Pratap Yadav\", \"address\": \"RAM PRATAP YADAV!RAM PRATAP YADAV POST - DHOSAN BARGADW!RAM PRATAP YADAV POST - DHOSAN BARGADW!BARGADWA!BARGADWABASTI!BASTI!UTTAR PRADESH!272194\", \"alt\": \"8953351469\", \"circle\": \"VODA UPE\", \"id\": \"618030558304\", \"email\": null}, {\"mobile\": \"9670729311\", \"name\": \"Ramakant Yadav\", \"fname\": \"ram pratap\", \"address\": \"!!Ram Pratap Yadav post-dhosan!bargadwa!Asanhara Basti!Uttar Pradesh!272194\", \"alt\": \"919140846591\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"9670729311\", \"name\": \"Ramakant Yadav\", \"fname\": \"Ram Pratap\", \"address\": \"!Ram Pratap Yadav!. post-dhosan!bargadwa Basti!post-dhosan!Basti!UTTAR PRADESH!272194\", \"alt\": \"9517466256\", \"circle\": null, \"id\": null, \"email\": null}, {\"mobile\": \"9670729311\", \"name\": \"MR RAMAKANT YADAV\", \"fname\": \"Ram Pratap Yadav\", \"address\": \"RAM PRATAP YADAV!RAM PRATAP YADAV  POST - DHOSAN  BARGADW!RAM PRATAP YADAV  POST - DHOSAN  BARGADW!BARGADWA!BARGADWA BASTI!BASTI!UTTAR PRADESH!272194\", \"alt\": \"8953351469\", \"circle\": \"UPE\", \"id\": \"618030558304\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
