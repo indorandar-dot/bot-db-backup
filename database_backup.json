@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 20:04:22",
+    "created_at": "2026-03-30 20:06:26",
     "stats": {
       "main_users": 63,
       "main_admins": 1,
@@ -145,13 +145,13 @@
         "first_name": "Pardeep",
         "join_date": "2026-03-30 19:41:13",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 19:41:13",
+        "total_searches": 2,
+        "last_active": "2026-03-30 20:06:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -1143,7 +1143,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 08:11:55",
-        "last_active": "2026-03-30 20:04:04",
+        "last_active": "2026-03-30 20:05:35",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAIrIGnKqsNB9tHwuL8y9ZUBku4rn2OAAALVDmsbgZlYVqC_Ip1ArrqTAQADAgADdwADOgQ",
@@ -1173,7 +1173,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "PROMO MAT KARNA 🌚",
         "added_date": "2026-03-30 07:26:25",
-        "last_active": "2026-03-30 20:03:57",
+        "last_active": "2026-03-30 20:06:15",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -1806,6 +1806,22 @@
         "query": "kate.alisse",
         "search_date": "2026-03-30 19:12:43",
         "result": "{\"success\": true, \"id\": \"45381879009\", \"username\": \"kate.alisse\", \"name\": \"\\ud83e\\uddda\\u200d\\u2640\\ufe0f\\u2728 Kate\\u2728\\ud83e\\uddda\\u200d\\u2640\\ufe0f\", \"full_name\": \"\\ud83e\\uddda\\u200d\\u2640\\ufe0f\\u2728 Kate\\u2728\\ud83e\\uddda\\u200d\\u2640\\ufe0f\", \"bio\": \"beauty in simplicity\\ud83d\\ude09\\ud83d\\udcab\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/653508081_18088905590519010_835719434733677942_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gER4gLVIGnrS86MSIvorVjiKmwgF7nt1QLbUogXQAdl8cZySHV4F_fJgDbZ-IdvQ7Q&_nc_ohc=26lwXld_zpsQ7kNvwF0GPWp&_nc_gid=nVvJ2w0xFMob76EfGJiMfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwxOmQd_Oh2sNxeS1Y0YGA0o7Pa5JI14YKm3YNl8p8z7g&oe=69D081B3&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpvpzr4vmw.jpg\", \"followers\": 684, \"following\": 15, \"posts\": 8, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"45381879009\", \"username\": \"kate.alisse\", \"name\": \"\\ud83e\\uddda\\u200d\\u2640\\ufe0f\\u2728 Kate\\u2728\\ud83e\\uddda\\u200d\\u2640\\ufe0f\", \"bio\": \"beauty in simplicity\\ud83d\\ude09\\ud83d\\udcab\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/653508081_18088905590519010_835719434733677942_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gER4gLVIGnrS86MSIvorVjiKmwgF7nt1QLbUogXQAdl8cZySHV4F_fJgDbZ-IdvQ7Q&_nc_ohc=26lwXld_zpsQ7kNvwF0GPWp&_nc_gid=nVvJ2w0xFMob76EfGJiMfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwxOmQd_Oh2sNxeS1Y0YGA0o7Pa5JI14YKm3YNl8p8z7g&oe=69D081B3&_nc_sid=8b3546\", \"followers\": 684, \"following\": 15, \"posts\": 8, \"recent\": []}}"
+      },
+      {
+        "id": 56,
+        "user_id": 6248892132,
+        "search_type": "ff_info",
+        "query": "6248892132",
+        "search_date": "2026-03-30 20:05:41",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6248892132\", \"accountType\": 1, \"nickname\": \"xxJeffery\", \"region\": \"BD\", \"level\": 4, \"exp\": 838, \"bannerId\": 901032010, \"headPic\": 902000081, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 3, \"lastLoginAt\": \"1652089793\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1652086192\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000005, \"skinColor\": 50, \"clothes\": [203000062, 205000031, 204000048, 211000490, 211000491], \"equipedSkills\": [16, 403], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1652090939}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"6248892132\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_AMBUSH\"], \"battleTagCount\": [1, 1]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774901140\"}}}"
+      },
+      {
+        "id": 57,
+        "user_id": 6248892132,
+        "search_type": "ff_info",
+        "query": "6248892132",
+        "search_date": "2026-03-30 20:06:17",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6248892132\", \"accountType\": 1, \"nickname\": \"xxJeffery\", \"region\": \"BD\", \"level\": 4, \"exp\": 838, \"bannerId\": 901032010, \"headPic\": 902000081, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 3, \"lastLoginAt\": \"1652089793\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1652086192\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000005, \"skinColor\": 50, \"clothes\": [203000062, 205000031, 204000048, 211000490, 211000491], \"equipedSkills\": [16, 403], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1652090939}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"6248892132\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_AMBUSH\"], \"battleTagCount\": [1, 1]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774901140\"}}}"
       }
     ],
     "bomber_history": [],
