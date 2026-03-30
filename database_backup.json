@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 08:49:36",
+    "created_at": "2026-03-30 08:51:39",
     "stats": {
-      "main_users": 8,
+      "main_users": 9,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -104,6 +104,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 07:26:45",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8415527422,
+        "username": "willbretetw",
+        "first_name": "𝘄𝗶𝗹𝗹𝗯𝗿𝗲𝘁𝗲𝘁𝘄",
+        "join_date": "2026-03-30 08:51:33",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 08:51:33",
         "money": 0,
         "clone_bots": 0
       },
