@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 03:51:57",
+    "created_at": "2026-03-30 03:54:00",
     "stats": {
       "main_users": 3,
       "main_admins": 1,
@@ -17,13 +17,13 @@
         "first_name": "—͟͞͞𝐒𝐀𝐒𝐔𝐊𝐄 !!! 🜲",
         "join_date": "2026-03-30 03:51:27",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 03:51:55",
+        "total_searches": 2,
+        "last_active": "2026-03-30 03:52:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -84,7 +84,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 03:48:33",
-        "last_active": "2026-03-30 03:50:56",
+        "last_active": "2026-03-30 03:52:20",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -155,6 +155,14 @@
         "query": "@kasif_09",
         "search_date": "2026-03-30 03:51:55",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 2,
+        "user_id": 7954743715,
+        "search_type": "instagram",
+        "query": "kasifhamza",
+        "search_date": "2026-03-30 03:52:44",
+        "result": "{\"success\": true, \"id\": \"46859237834\", \"username\": \"kasifhamza\", \"name\": \"Kasif hamza\", \"full_name\": \"Kasif hamza\", \"bio\": \"\", \"verified\": false, \"private\": true, \"pic\": \"https://instagram.fluq2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fluq2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFCSYSYq1ADbbkWbPBMBEC6dC6fPGtU2AE9b4zaSTxnL7oqWd469mkGbup8lnqHjMs&_nc_ohc=iexK2duEtzMQ7kNvwGOX-9v&_nc_gid=B7hhKA4hsK2n34eMelQBBg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afz7t1XW_v666_RrajsIxE4tBW44B7gdTwnl82BSR_rmaw&oe=69CFB02A&_nc_sid=65462d\", \"pic_file\": \"/tmp/tmpzgzvkmy8.jpg\", \"followers\": 11, \"following\": 88, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"46859237834\", \"username\": \"kasifhamza\", \"name\": \"Kasif hamza\", \"bio\": \"\", \"verified\": false, \"private\": true, \"pic\": \"https://instagram.fluq2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fluq2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFCSYSYq1ADbbkWbPBMBEC6dC6fPGtU2AE9b4zaSTxnL7oqWd469mkGbup8lnqHjMs&_nc_ohc=iexK2duEtzMQ7kNvwGOX-9v&_nc_gid=B7hhKA4hsK2n34eMelQBBg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Afz7t1XW_v666_RrajsIxE4tBW44B7gdTwnl82BSR_rmaw&oe=69CFB02A&_nc_sid=65462d\", \"followers\": 11, \"following\": 88, \"posts\": 0, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
