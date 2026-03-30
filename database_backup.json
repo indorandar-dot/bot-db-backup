@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 03:28:44",
+    "created_at": "2026-03-30 03:29:16",
     "stats": {
-      "main_users": 4,
+      "main_users": 1,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -12,66 +12,18 @@
   "main_bot": {
     "users": [
       {
-        "user_id": 6929609082,
-        "username": "",
-        "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
-        "join_date": "2026-03-30 03:16:49",
+        "user_id": 8703382327,
+        "username": "owner",
+        "first_name": "Bot Owner",
+        "join_date": "2026-03-30 03:28:44",
         "referrer": null,
-        "credits": 6,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
         "total_searches": 0,
-        "last_active": "2026-03-30 03:16:49",
-        "money": 0,
-        "clone_bots": 0
-      },
-      {
-        "user_id": 8037300335,
-        "username": "Freefirepriya",
-        "first_name": "Priya",
-        "join_date": "2026-03-30 03:13:54",
-        "referrer": null,
-        "credits": 4,
-        "is_blocked": 0,
-        "is_premium": 0,
-        "premium_until": null,
-        "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-30 03:19:18",
-        "money": 0,
-        "clone_bots": 0
-      },
-      {
-        "user_id": 8138943100,
-        "username": "Lordaizan",
-        "first_name": "—͟͞͞𝒜𝗶𝓏สꪀ—͟͞͞",
-        "join_date": "2026-03-30 03:11:43",
-        "referrer": null,
-        "credits": 3,
-        "is_blocked": 0,
-        "is_premium": 0,
-        "premium_until": null,
-        "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-30 03:13:42",
-        "money": 0,
-        "clone_bots": 0
-      },
-      {
-        "user_id": 8703382327,
-        "username": "owner",
-        "first_name": "Bot Owner",
-        "join_date": "2026-03-30 03:07:38",
-        "referrer": null,
-        "credits": 1,
-        "is_blocked": 0,
-        "is_premium": 0,
-        "premium_until": null,
-        "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-03-30 03:27:25",
+        "last_active": "2026-03-30 03:28:44",
         "money": 0,
         "clone_bots": 0
       }
@@ -80,114 +32,17 @@
       {
         "user_id": 8703382327,
         "added_by": 8703382327,
-        "added_date": "2026-03-30 03:07:38",
+        "added_date": "2026-03-30 03:28:44",
         "is_owner": 1
       }
     ],
     "force_join_channels": [],
-    "bot_groups": [
-      {
-        "group_id": -1003791631708,
-        "group_title": "N4MBER TO INFO GC",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-30 03:08:36",
-        "last_active": "2026-03-30 03:16:17",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      },
-      {
-        "group_id": -1003715566556,
-        "group_title": "💗 Like Geup",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-30 03:11:13",
-        "last_active": "2026-03-30 03:23:12",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      },
-      {
-        "group_id": -1002190410723,
-        "group_title": "☬ GLORY BOT CHAT GROUP ☬",
-        "number_info_enabled": 1,
-        "userid_info_enabled": 1,
-        "username_info_enabled": 1,
-        "aadhar_info_enabled": 1,
-        "instagram_info_enabled": 1,
-        "ifsc_info_enabled": 1,
-        "vehicle_info_enabled": 1,
-        "welcome_enabled": 1,
-        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
-        "welcome_rules": "",
-        "added_date": "2026-03-30 03:19:34",
-        "last_active": "2026-03-30 03:27:33",
-        "goodbye_enabled": 1,
-        "goodbye_message": null,
-        "welcome_photo_file_id": null,
-        "gst_info_enabled": 1,
-        "email_info_enabled": 1,
-        "pan_info_enabled": 1,
-        "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
-        "pincode_info_enabled": 1,
-        "hitek_info_enabled": 1,
-        "tg_bomber_enabled": 1,
-        "bomber_enabled": 1,
-        "free_info_mode": 0
-      }
-    ],
+    "bot_groups": [],
     "redeem_codes": [],
     "redeemed_users": [],
     "feature_costs": [],
     "feature_maintenance": [],
-    "daily_claims": [
-      {
-        "user_id": 6929609082,
-        "claim_date": "2026-03-30"
-      },
-      {
-        "user_id": 8703382327,
-        "claim_date": "2026-03-30"
-      }
-    ],
+    "daily_claims": [],
     "welcome_settings": [
       {
         "id": 1,
@@ -201,104 +56,7 @@
       }
     ],
     "referrals": [],
-    "search_history": [
-      {
-        "id": 1,
-        "user_id": 8703382327,
-        "search_type": "username",
-        "query": "si_name_77",
-        "search_date": "2026-03-30 03:11:33",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 2,
-        "user_id": 8138943100,
-        "search_type": "mobile_number",
-        "query": "9328177699",
-        "search_date": "2026-03-30 03:12:05",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T  matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}, {\"mobile\": \"9328177699\", \"name\": \"Solanki Himatbhai\", \"fname\": \"Chandubhai\", \"address\": \"S/O  Chandubhai!!juna road Ratanpur!juna road!T. matar!Ratanpur Matar!Kheda!Gujarat!387570\", \"alt\": \"7874955613\", \"circle\": \"JIO GUJARAT\", \"id\": \"525293946918\", \"email\": null}]}"
-      },
-      {
-        "id": 3,
-        "user_id": 8703382327,
-        "search_type": "selected_userid",
-        "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
-        "search_date": "2026-03-30 03:12:21",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 4,
-        "user_id": 8703382327,
-        "search_type": "ff_info",
-        "query": "2819649271",
-        "search_date": "2026-03-30 03:12:40",
-        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2819649271\", \"accountType\": 1, \"nickname\": \"\\u300e\\u24cb\\u2605\\u20b3\\u0572\\u049f\\u0574\\u0282\\u0452\\u0fd0\\u00b2\\u2022\", \"region\": \"IND\", \"level\": 55, \"exp\": 520620, \"bannerId\": 901050005, \"headPic\": 902043011, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 1720, \"lastLoginAt\": \"1763629007\", \"csRank\": 301, \"weaponSkinShows\": [907193002], \"pinId\": 910032003, \"maxRank\": 301, \"csMaxRank\": 301, \"gameBagShow\": 904033010, \"accountPrefers\": {}, \"createAt\": \"1613227897\", \"title\": 904090005, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB51\", \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000039, \"skinColor\": 50, \"clothes\": [211001172, 205044025, 203044025, 204044025, 211001307, 214000000], \"equipedSkills\": [16, 5801, 8, 1, 16, 2506, 8, 2, 16, 4805, 8, 3, 16, 3003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1705242795}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000061, \"level\": 5, \"exp\": 1245, \"isSelected\": true, \"skinId\": 1310000063, \"selectedSkillId\": 1315000005}, \"socialInfo\": {\"accountId\": \"2819649271\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"battleTag\": [\"PlayerBattleTagID_PEACEMAKER\", \"PlayerBattleTagID_SNIPER\"], \"socialTag\": [\"SocialTag_FASHION\", \"SocialTag_VOICEOFF\"], \"modePrefer\": \"ModePrefer_CS\", \"signature\": \"who am I?\", \"rankShow\": \"RankShow_CS\", \"battleTagCount\": [113, 82]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774840359\"}}}"
-      },
-      {
-        "id": 5,
-        "user_id": 8138943100,
-        "search_type": "mobile_number",
-        "query": "7778018567",
-        "search_date": "2026-03-30 03:13:42",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7778018567\", \"name\": \"Yadav Vinodbhai Rampalbhai\", \"fname\": \"Rampalbhai\", \"address\": \"S/O Rampalbhai 00 gangajaliya tanki pase vallbhipur  VALLBHIPUR\", \"alt\": null, \"circle\": \"AIRTEL GUJARAT\", \"id\": null, \"email\": null}]}"
-      },
-      {
-        "id": 6,
-        "user_id": 8037300335,
-        "search_type": "userid",
-        "query": "6443754454",
-        "search_date": "2026-03-30 03:15:56",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6443754454\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 7,
-        "user_id": 8037300335,
-        "search_type": "username",
-        "query": "Freefirepriya",
-        "search_date": "2026-03-30 03:19:17",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 8,
-        "user_id": 8037300335,
-        "search_type": "instagram",
-        "query": "Freefirepriya",
-        "search_date": "2026-03-30 03:19:18",
-        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"Freefirepriya\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
-      },
-      {
-        "id": 9,
-        "user_id": 8703382327,
-        "search_type": "mobile_number",
-        "query": "9876543210",
-        "search_date": "2026-03-30 03:25:20",
-        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9876543210\", \"name\": \"Sunil Singh\", \"fname\": \"Shiv Bachan Singh\", \"address\": \"C/O  Shiv Bachan Singh!!16/1650 E Gali No 19  Arya Samaj Road!Bapa Nagar!Karol Bagh Central Delhi!Delhi!110005\", \"alt\": \"9999364650\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Lalit Sirohi\", \"fname\": \"Vijendra Singh\", \"address\": \"!!flat no s 3 b supertech Ecovillage 1 Hanuman mandir!sector 1!Noida Gautam Bhudh Nagar!Uttar Pradesh!201306\", \"alt\": \"9354600616\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Sahil Nagpal\", \"fname\": \"Nand Kishore Nagpal\", \"address\": \"S/O  Nand Kishore Nagpal!!278 K.D -Block Saraswati Vihar!!Pitampura Saraswati Vihar North West Delhi!Delhi!110034\", \"alt\": \"9315094424\", \"circle\": \"JIO DELHI\", \"id\": \"518761467103\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Vinod\", \"fname\": \"Ram Lal\", \"address\": \"S/O Ram Lal!!1914/143!GANESH PURA  TRI NAGAR!Onkar Nagar S.O North West Delhi!Delhi!110035\", \"alt\": \"8700727737\", \"circle\": \"JIO DELHI\", \"id\": \"796793379652\", \"email\": \"ravinderc29@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Sanjay Kumar Dugar\", \"fname\": \"Keshari Chand Dugar\", \"address\": \"S/O  Keshari Chand Dugar!!HOUSE no .21!sector 22!Faridabad Sector 22 Faridabad!Haryana!121005\", \"alt\": \"8700601337\", \"circle\": \"JIO DELHI\", \"id\": \"829278460028\", \"email\": \"sanjay.dugar06@yahoo.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Deepika Arora\", \"fname\": \"Krishan Lal Arora\", \"address\": \"D/O Krishan Lal Arora!!!C-3/108 Block-C Pocket-3 Sector-5 Rohini!Rohini Sector-7 North West Delhi!Delhi!110085\", \"alt\": \"8700205592\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": \"deepikaarora875@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Tushar Puri\", \"fname\": \"Sudhir Puri\", \"address\": \"S/O  Sudhir Puri!!D-2/14 FF ardee city sec.52!gurgaon!Wazirabad75 Gurgaon!Haryana!122003\", \"alt\": \"8384030274\", \"circle\": \"JIO DELHI\", \"id\": \"896498497437\", \"email\": \"tpuri11@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"ABHIK CHATTERJEE\", \"fname\": \"ram krishna chatterjee\", \"address\": \"976!e block c r park!delhi!DELHI!Delhi!110019\", \"alt\": \"8383979407\", \"circle\": \"JIO DELHI\", \"id\": \"742530480264\", \"email\": \"abhikchatterjee884@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Dwarka Nath\", \"fname\": \"Ram Swaroop\", \"address\": \"S/O Ram Swaroop!!416 Gali Mata Wali Near Azad Market!Teliwara!Delhi G.P.O. North Delhi!Delhi!110006\", \"alt\": \"8368765397\", \"circle\": \"JIO DELHI\", \"id\": \"875680393834\", \"email\": \"diwakerraj.dr@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Anup Singh\", \"fname\": \"Nathu Singh\", \"address\": \"S/O  Nathu Singh!!g-1 / 98!sector-16 rohini!Rohini Sector 15 North West Delhi!Delhi!110089\", \"alt\": \"8076806937\", \"circle\": \"JIO DELHI\", \"id\": \"618933524729\", \"email\": \"akumar.upsc18@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Nitin Goel\", \"fname\": \"Yogesh Goel\", \"address\": \"S/O Yogesh Goel!!House Number-D-897 Gali Number-13!Ashok Nagar Main Wazirabad Road Shahdara!Nand Nagri North East Delhi!Delhi!110093\", \"alt\": \"7982361879\", \"circle\": \"JIO DELHI\", \"id\": \"707134145034\", \"email\": \"anmol1884@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Gargi Ray\", \"fname\": \"Arun Ray\", \"address\": \"D/O Arun Ray!!!WZ-893!naraina village South West Delhi!Delhi!110028\", \"alt\": \"7701847704\", \"circle\": \"JIO DELHI\", \"id\": \"639045791192\", \"email\": \"tani.ganguly000@gmail.com\"}, {\"mobile\": \"9876543210\", \"name\": \"Md Pappu\", \"fname\": \"Md Kasim\", \"address\": \"!!J-13 SECOND FLOOR J-BLOCK BANDER WALI RAMESH NAGAR!RAMESH NAGAR!New Delhi West West!Delhi!110015\", \"alt\": \"7217756152\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Pinki Gupta\", \"fname\": \"Rajesh Gupta\", \"address\": \"D/O  Rajesh Gupta!!128 Dk Mohan Garden!Bindapur!Uttam Nagar Dwarka West Delhi!Delhi!110059\", \"alt\": \"7011454018\", \"circle\": \"JIO DELHI\", \"id\": \"907624720913\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Rajesh Kumar\", \"fname\": \"Prayag Singh\", \"address\": \"S/O Prayag Singh!!Behind of kali asthan kali asthan Begampur!!Chowk Shikarpur Patna!Bihar!800009\", \"alt\": \"9852277777\", \"circle\": \"BIHAR JIO\", \"id\": \"836743722579\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Mahendra Paswan\", \"fname\": \"Ramjatan Paswan\", \"address\": \"S/O  Ramjatan Paswan!!!TETRIYA po kariyadpur PS FATEHPUR!Jagarnathpur Gaya!Bihar!824232\", \"alt\": \"9771763176\", \"circle\": \"BIHAR JIO\", \"id\": \"NA\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Nicky Kashyap\", \"fname\": \"Ajay Kumar\", \"address\": \"D/O Ajay Kumar!!c/o- M M tiwari harnichak school road beur!!Anisabad Patna!Bihar!800002\", \"alt\": \"9646455011\", \"circle\": \"BIHAR JIO\", \"id\": \"NA\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Md Mahboob Alam\", \"fname\": \"Md Sayeed\", \"address\": \"S/O Md Sayeed!!Vill- Chandanpatti ward no- 01!!Konhara Ragho Muzaffarpur!Bihar!843104\", \"alt\": \"9113303343\", \"circle\": \"BIHAR JIO\", \"id\": \"422413187298\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Nag Pushpak Bhandari\", \"fname\": \"Rajendra Mehta\", \"address\": \"S/O  Rajendra Mehta!!!Gram Chilhki Bigha Post Amba Thana Amba!Amba Aurangabad!Bihar!824111\", \"alt\": \"9060345696\", \"circle\": \"BIHAR JIO\", \"id\": \"812694878197\", \"email\": null}, {\"mobile\": \"9876543210\", \"name\": \"Dinesh Mishra\", \"fname\": \"Rajeshwar Mishra\", \"address\": \"S/O  Rajeshwar Mishra!!Near Middle School Panchgawa!Panchgawa!Khaira Kaimur (Bhabua)!Bihar!821101\", \"alt\": \"8709343287\", \"circle\": \"BIHAR JIO\", \"id\": \"912851691596\", \"email\": null}]}"
-      },
-      {
-        "id": 10,
-        "user_id": 8703382327,
-        "search_type": "selected_userid",
-        "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
-        "search_date": "2026-03-30 03:25:51",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 11,
-        "user_id": 8703382327,
-        "search_type": "username",
-        "query": "@si_name_77",
-        "search_date": "2026-03-30 03:26:02",
-        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
-      },
-      {
-        "id": 12,
-        "user_id": 8703382327,
-        "search_type": "typed_userid",
-        "query": "8443651511",
-        "search_date": "2026-03-30 03:27:25",
-        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"9134905822\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-29T13:26:53Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"id\": 8443651511, \"is_active\": true, \"is_bot\": false, \"last_msg_date\": \"2026-03-24T04:15:31Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 18, \"total_msg_count\": 430, \"usernames_count\": 3}, \"_raw\": {\"status\": true, \"number\": \"9134905822\", \"target_id\": \"8443651511\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\", \"msg\": \"details fetched\", \"number\": \"9134905822\", \"success\": true}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-29T13:26:53Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"id\": 8443651511, \"is_active\": true, \"is_bot\": false, \"last_msg_date\": \"2026-03-24T04:15:31Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 18, \"total_msg_count\": 430, \"usernames_count\": 3}, \"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"si_name_77\"]}}"
-      }
-    ],
+    "search_history": [],
     "bomber_history": [],
     "logs": []
   },
