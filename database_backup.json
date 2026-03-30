@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 04:20:40",
+    "created_at": "2026-03-30 04:22:44",
     "stats": {
       "main_users": 8,
       "main_admins": 1,
@@ -38,8 +38,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-30 04:11:04",
+        "total_searches": 3,
+        "last_active": "2026-03-30 04:20:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -288,6 +288,14 @@
         "query": "9045655448",
         "search_date": "2026-03-30 04:11:04",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9045655448\", \"name\": \"Sunita\", \"fname\": \"Rajkumar\", \"address\": \"!224!Ral!!Thok bhoj Ral mathura!Mathura!Mathura!Uttar Pradesh!281504\", \"alt\": \"7310745451\", \"circle\": \"JIO UPW\", \"id\": \"822769257642\", \"email\": null}, {\"mobile\": \"9045655448\", \"name\": \"Rakhi\", \"fname\": \"Rajkumar\", \"address\": \"D/O Rajkumar!thok bhoj!Ral!!Mathura!Mathura!Mathura!Uttar Pradesh!281504\", \"alt\": null, \"circle\": \"Airtel UP West\", \"id\": \"367894110082\", \"email\": null}, {\"mobile\": \"9045655448\", \"name\": \"Sunita\", \"fname\": \"Rajkumar\", \"address\": \"!224!Ral!!Thok bhoj Ral mathura!Mathura!Mathura!Uttar Pradesh!281504\", \"alt\": \"7310745451\", \"circle\": \"JIO UPE UPW\", \"id\": \"822769257642\", \"email\": null}]}"
+      },
+      {
+        "id": 5,
+        "user_id": 6155760344,
+        "search_type": "typed_userid",
+        "query": "6762105151",
+        "search_date": "2026-03-30 04:20:46",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6762105151\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
