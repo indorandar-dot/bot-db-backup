@@ -1,7 +1,13 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 12:14:37"
+    "created_at": "2026-03-30 12:16:12",
+    "stats": {
+      "main_users": 25,
+      "main_admins": 1,
+      "clone_bots": 0,
+      "total_clone_users": 0
+    }
   },
   "main_bot": {
     "users": [
@@ -400,8 +406,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-30 11:07:58",
+        "total_searches": 4,
+        "last_active": "2026-03-30 12:15:47",
         "money": 0,
         "clone_bots": 0
       }
@@ -432,7 +438,7 @@
         "added_date": "2026-03-30 11:50:34",
         "last_active": "2026-03-30 11:50:34",
         "goodbye_enabled": 1,
-        "goodbye_message": null,
+        "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
         "gst_info_enabled": 1,
         "email_info_enabled": 1,
@@ -443,7 +449,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003860365503,
@@ -472,7 +479,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003791631708,
@@ -501,7 +509,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1003715566556,
@@ -517,7 +526,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 08:11:55",
-        "last_active": "2026-03-30 12:14:36",
+        "last_active": "2026-03-30 12:14:55",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -530,7 +539,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       },
       {
         "group_id": -1002190410723,
@@ -546,7 +556,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "PROMO MAT KARNA 🌚",
         "added_date": "2026-03-30 07:26:25",
-        "last_active": "2026-03-30 12:14:16",
+        "last_active": "2026-03-30 12:14:51",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAInUGnKQhCewDp8bnxwtyUqWm-D1zsuAALTDmsbgZlQVlUNNbQUQER1AQADAgADdwADOgQ",
@@ -559,7 +569,8 @@
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
         "bomber_enabled": 1,
-        "free_info_mode": 0
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
       }
     ],
     "redeem_codes": [],
@@ -776,26 +787,26 @@
         "query": "8962803303",
         "search_date": "2026-03-30 12:09:02",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8962803303\", \"name\": \"Rakesh Chauhan\", \"fname\": \"Umesh Chauhan\", \"address\": \"S/O  Umesh Chauhan!! Korba!gandhi chouk chauhan mohlla!Korbamcorp Korba Korba!Chhattisgarh!495677\", \"alt\": \"919111903303\", \"circle\": \"JIO MP\", \"id\": \"406849013573\", \"email\": null}]}"
+      },
+      {
+        "id": 21,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "si_name_77",
+        "search_date": "2026-03-30 12:15:24",
+        "result": "{\"success\": true, \"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGDLDtcGM4ufYA4B9Tlg-ckar9k_XUvHvqyStyXGysGjXhU5OeDZw-OVJDrtmpGrSk&_nc_ohc=g7ogzdCQhoMQ7kNvwF6tH3A&_nc_gid=9O7zG2MjJXgTHRZeonVM7Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwElwcO05fREh8ZdmZWNuQQZHwpk7nYeVWxnvEGTEt4qA&oe=69D033AB&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpjrb73r5e.jpg\", \"followers\": 98, \"following\": 2, \"posts\": 2, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGDLDtcGM4ufYA4B9Tlg-ckar9k_XUvHvqyStyXGysGjXhU5OeDZw-OVJDrtmpGrSk&_nc_ohc=g7ogzdCQhoMQ7kNvwF6tH3A&_nc_gid=9O7zG2MjJXgTHRZeonVM7Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwElwcO05fREh8ZdmZWNuQQZHwpk7nYeVWxnvEGTEt4qA&oe=69D033AB&_nc_sid=8b3546\", \"followers\": 98, \"following\": 2, \"posts\": 2, \"recent\": []}}"
+      },
+      {
+        "id": 22,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "si_name_77",
+        "search_date": "2026-03-30 12:15:47",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
-    "logs": [],
-    "autolike_entries": [
-      {
-        "id": 1,
-        "uid": "2093756995",
-        "server": "IND",
-        "send_to_type": "gc",
-        "send_to_id": "-1003791631708",
-        "nickname": "-ㅤʀɪ֟፝ᴄᴋㅤ-",
-        "added_by": 8703382327,
-        "added_at": 1774858497.431221,
-        "total_sent": 0,
-        "last_sent": null,
-        "days": 5
-      }
-    ],
-    "clone_daily_bonus": []
+    "logs": []
   },
   "clone_bots": {
     "bots": [],
