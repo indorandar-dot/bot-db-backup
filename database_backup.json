@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-30 10:38:50",
+    "created_at": "2026-03-30 10:41:00",
     "stats": {
-      "main_users": 17,
+      "main_users": 18,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -88,6 +88,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 08:11:31",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6786791888,
+        "username": "",
+        "first_name": "𝐒𝐇𝐋𝐎𝐊🫶🏻💝",
+        "join_date": "2026-03-30 10:40:46",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-30 10:40:46",
         "money": 0,
         "clone_bots": 0
       },
