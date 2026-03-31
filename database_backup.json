@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 17:30:21",
+    "created_at": "2026-03-31 17:32:25",
     "stats": {
       "main_users": 252,
       "main_admins": 2,
@@ -1761,13 +1761,13 @@
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
         "join_date": "2026-03-30 16:48:07",
         "referrer": 8703382327,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-03-31 13:14:01",
+        "total_searches": 5,
+        "last_active": "2026-03-31 17:31:52",
         "money": 0,
         "clone_bots": 0
       },
@@ -4421,7 +4421,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 17:26:40",
+        "last_active": "2026-03-31 17:30:21",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6558,6 +6558,14 @@
         "query": "9508011809",
         "search_date": "2026-03-31 16:24:17",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9508011809\", \"name\": \"Subodh Kumar Singh\", \"fname\": \"ram suran singh\", \"address\": \"!ram surat singh ward n10 semal saray post dev bahuara!bahuara saran bihar!school!bin bahuara saran!Saran!Saran!Bihar!841442\", \"alt\": \"7463952699\", \"circle\": \"BIHAR JIO\", \"id\": \"446411473782\", \"email\": null}, {\"mobile\": \"9508011809\", \"name\": \"SUPRIYAKUMARI\", \"fname\": \"SUBODH SINGH\", \"address\": \"!1!Semal Saray!!Semal Saray!Saran!Saran!BIHAR!841442\", \"alt\": \"9430673568\", \"circle\": \"BIHAR BSNL\", \"id\": \"354596626992\", \"email\": null}]}"
+      },
+      {
+        "id": 149,
+        "user_id": 8008313092,
+        "search_type": "mobile_number",
+        "query": "8810562601",
+        "search_date": "2026-03-31 17:31:52",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8810562601\", \"name\": \"Khem Chand\", \"fname\": \"Sakuni\", \"address\": \"!738!738 adarsh nager!NA!ballabgarh!Faridabad Faridabad!NA!Haryana!121004\", \"alt\": \"8130427481\", \"circle\": \"JIO DELHI\", \"id\": \"490129406924\", \"email\": null}, {\"mobile\": \"8810562601\", \"name\": \"Khem Chand\", \"fname\": \"Sakuni\", \"address\": \"!738!738adarsh nager!NA!ballabgarh!FaridabadFaridabad!NA!Haryana!121004\", \"alt\": \"8130427481\", \"circle\": \"JIO DELHI\", \"id\": \"490129406924\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
