@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 05:37:03",
+    "created_at": "2026-03-31 05:39:07",
     "stats": {
       "main_users": 184,
       "main_admins": 1,
       "clone_bots": 1,
-      "total_clone_users": 0
+      "total_clone_users": 2
     }
   },
   "main_bot": {
@@ -321,7 +321,7 @@
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
         "join_date": "2026-03-30 11:54:16",
         "referrer": null,
-        "credits": 228,
+        "credits": 238,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -4535,9 +4535,9 @@
         "id": 1,
         "user_id": 6929609082,
         "token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
-        "status": "pending",
+        "status": "approved",
         "requested_at": "2026-03-31 05:11:21",
-        "approved_at": null,
+        "approved_at": "2026-03-31 05:37:29",
         "is_manually_stopped": 0
       }
     ],
@@ -4545,5 +4545,43 @@
     "force_join": [],
     "credits": []
   },
-  "clone_user_data": {}
+  "clone_user_data": {
+    "86123017...": {
+      "users": [
+        {
+          "id": 1,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 6929609082,
+          "username": "",
+          "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
+          "join_date": "2026-03-31 05:37:52",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 05:37:52"
+        },
+        {
+          "id": 2,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 8703382327,
+          "username": "",
+          "first_name": "🕊️⃝≛⃝𝄞⍣⃟❤️⃝ꕶɪᴍ𝚁ᴀɴ🕊️⃝≛⃝𝄞࿐",
+          "join_date": "2026-03-31 05:38:28",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 05:38:28"
+        }
+      ],
+      "daily_claims": [],
+      "referrals": [],
+      "search_history": []
+    }
+  }
 }
