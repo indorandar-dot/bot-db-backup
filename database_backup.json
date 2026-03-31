@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:35:32",
+    "created_at": "2026-03-31 15:37:37",
     "stats": {
       "main_users": 248,
       "main_admins": 2,
@@ -81,13 +81,13 @@
         "first_name": "𝗦 𝗨 𝗠 𝗜 𝗧 ▌⚡",
         "join_date": "2026-03-31 15:28:09",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 15:29:10",
+        "total_searches": 2,
+        "last_active": "2026-03-31 15:37:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -4237,7 +4237,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 15:28:42",
+        "last_active": "2026-03-31 15:36:35",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4357,7 +4357,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 15:34:55",
+        "last_active": "2026-03-31 15:37:20",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6458,6 +6458,14 @@
         "query": "7707081734",
         "search_date": "2026-03-31 15:29:10",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7707081734\", \"name\": \"GUDIYA\\tDEVI\", \"fname\": \"SIYARAM  PASWAN\", \"address\": \"W/O  Siyaram Paswan W/O  Siyaram Paswan . rupaine   BELA BAIJU-East Champaran BR 845457\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"xxxx-xxxx-3117\", \"email\": null}, {\"mobile\": \"7707081734\", \"name\": \"GUDIYA DEVI\", \"fname\": \"SIYARAM PASWAN\", \"address\": \"W/O  Siyaram Paswan!W/O  Siyaram Paswan!rupaine  EAST CHAMPARAN!!BELA BAIJU!Bihar!845457\", \"alt\": null, \"circle\": \"VODA BHR&JHR\", \"id\": \"xxxxxxxx3117\", \"email\": null}]}"
+      },
+      {
+        "id": 145,
+        "user_id": 1698472112,
+        "search_type": "mobile_number",
+        "query": "7667520168",
+        "search_date": "2026-03-31 15:37:28",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7667520168\", \"name\": \"Amar Prakash\", \"fname\": \"Lalan Ram\", \"address\": \"S/O  Lalan Ram!!NEAR MANDIR Tilouthu!gram Jainagra!Tilouthu Tilouthu Rohtas!Bihar!821312\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"300004999313\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -7603,7 +7611,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 15:34:55"
+          "last_active": "2026-03-31 15:37:20"
         }
       ],
       "daily_claims": [],
