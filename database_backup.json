@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:37:37",
+    "created_at": "2026-03-31 15:39:42",
     "stats": {
       "main_users": 248,
       "main_admins": 2,
@@ -81,13 +81,13 @@
         "first_name": "𝗦 𝗨 𝗠 𝗜 𝗧 ▌⚡",
         "join_date": "2026-03-31 15:28:09",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 15:37:28",
+        "total_searches": 3,
+        "last_active": "2026-03-31 15:38:54",
         "money": 0,
         "clone_bots": 0
       },
@@ -6466,6 +6466,14 @@
         "query": "7667520168",
         "search_date": "2026-03-31 15:37:28",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7667520168\", \"name\": \"Amar Prakash\", \"fname\": \"Lalan Ram\", \"address\": \"S/O  Lalan Ram!!NEAR MANDIR Tilouthu!gram Jainagra!Tilouthu Tilouthu Rohtas!Bihar!821312\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"300004999313\", \"email\": null}]}"
+      },
+      {
+        "id": 146,
+        "user_id": 1698472112,
+        "search_type": "mobile_number",
+        "query": "8448839814",
+        "search_date": "2026-03-31 15:38:54",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8448839814\", \"name\": \"Harsh Sharma\", \"fname\": \"Rajesh Sharma\", \"address\": \"!!h no 23 mukharjee nagar dhaka village!delhi!Delhi North North West!Delhi!110009\", \"alt\": \"8383013428\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Harsh Sharma\", \"fname\": \"Rajesh Sharma\", \"address\": \"!!h no 23mukharjee nagardhaka village!delhi!Delhi NorthNorth West!Delhi!110009\", \"alt\": \"8383013428\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Himanshu  Sharma\", \"fname\": \"Rajesh Kumar Sharma\", \"address\": \"!711!Fatehpuri!Chadni Choke!DelhiDelhi!Delhi!110006\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"MR. HIMANSHU SHARMA\", \"fname\": \"rajesh kumar\", \"address\": \"! 711 ! church mission road !  ! fatehpuri ! DELHI !  ! Delhi ! 110006\", \"alt\": \"9654852291\", \"circle\": \"Delhi Voda\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Himanshu  Sharma\", \"fname\": \"Rajesh Kumar Sharma\", \"address\": \"!711 Fatehpuri Chadni Choke Old AIRTEL DELHI Relway Stetion AIRTEL DELHI AIRTEL DELHI AIRTEL DELHI 110006!!!!!!!\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"MR HIMANSHU SHARMA\", \"fname\": \"rajesh kumar\", \"address\": \"! 711 ! church mission road !  ! fatehpuri ! DELHI !  ! Delhi ! 110006\", \"alt\": \"9654852291\", \"circle\": \"Delhi Voda\", \"id\": \"777803777943\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
