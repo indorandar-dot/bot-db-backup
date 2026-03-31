@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:01:12",
+    "created_at": "2026-03-31 06:01:45",
     "stats": {
       "main_users": 185,
       "main_admins": 1,
@@ -1809,13 +1809,13 @@
         "first_name": "𝐕𝙾𝙸𝙳 𝐒𝙾𝚄𝙻 ∤",
         "join_date": "2026-03-31 06:00:46",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 06:00:46",
+        "total_searches": 1,
+        "last_active": "2026-03-31 06:01:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -4580,6 +4580,14 @@
         "query": "{'user_id': 8335023642, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-03-31 05:52:23",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8335023642\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 70,
+        "user_id": 8286198145,
+        "search_type": "ff_info",
+        "query": "2866503880",
+        "search_date": "2026-03-31 06:01:44",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2866503880\", \"accountType\": 1, \"nickname\": \"DiazJak3431A\", \"region\": \"BD\", \"level\": 29, \"exp\": 41759, \"bannerId\": 901029001, \"headPic\": 902029003, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 99, \"lastLoginAt\": \"1647932484\", \"csRank\": 301, \"weaponSkinShows\": [907103134], \"pinId\": 910031002, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1614496872\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [204000697, 211000860, 203001290, 214000118, 211001228, 205000008], \"equipedSkills\": [16, 705, 8, 1, 16, 1204, 8, 2, 16, 4904], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {\"clanId\": \"3021930818\", \"clanName\": \"\\u300e\\u043cR..BOSS\", \"captainId\": \"2866503880\", \"capacity\": 20, \"memberNum\": 4}, \"captainBasicInfo\": {\"accountId\": \"2866503880\", \"accountType\": 1, \"nickname\": \"DiazJak3431A\", \"region\": \"BD\", \"level\": 29, \"exp\": 41759, \"bannerId\": 901029001, \"headPic\": 902029003, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 99, \"lastLoginAt\": \"1647932484\", \"csRank\": 301, \"weaponSkinShows\": [907103134], \"pinId\": 910031002, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1614496872\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"petInfo\": {\"id\": 1300000118, \"level\": 6, \"exp\": 3423, \"isSelected\": true, \"skinId\": 1310000182, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"2866503880\", \"language\": \"Language_EN\", \"socialTag\": [\"SocialTag_NEWBIE\"], \"signature\": \"\\u24cb\\nR\\nA\\nK\\nE\\nS\\nH\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
       }
     ],
     "bomber_history": [],
