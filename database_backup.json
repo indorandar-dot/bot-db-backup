@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 08:20:16",
+    "created_at": "2026-03-31 08:22:20",
     "stats": {
       "main_users": 224,
       "main_admins": 1,
@@ -2886,8 +2886,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 08:16:15",
+        "total_searches": 1,
+        "last_active": "2026-03-31 08:21:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -3542,8 +3542,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 18,
-        "last_active": "2026-03-31 06:30:40",
+        "total_searches": 21,
+        "last_active": "2026-03-31 08:22:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -5568,6 +5568,38 @@
         "query": "6295366175",
         "search_date": "2026-03-31 07:54:25",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"6295366175\", \"name\": \"Bishwajit Mondal\", \"fname\": \"Ram mondal\", \"address\": \"!! Khamargachi!!Dadpur Hooghly!West Bengal!712515\", \"alt\": \"919007995980\", \"circle\": \"JIO WB\", \"id\": \"893424736038\", \"email\": null}]}"
+      },
+      {
+        "id": 86,
+        "user_id": 8443651511,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8703382327, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 08:21:15",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8703382327\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 87,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6929609082, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 08:21:38",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6929609082\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 88,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 08:21:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 89,
+        "user_id": 8703382327,
+        "search_type": "typed_userid",
+        "query": "8443651511",
+        "search_date": "2026-03-31 08:22:03",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8443651511\", \"username\": \"\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
       }
     ],
     "bomber_history": [],
