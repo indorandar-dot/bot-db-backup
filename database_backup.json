@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:30:57",
+    "created_at": "2026-03-31 06:31:16",
     "stats": {
-      "main_users": 199,
+      "main_users": 208,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 27
+      "total_clone_users": 36
     }
   },
   "main_bot": {
@@ -40,6 +40,38 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 17:04:08",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 1909389849,
+        "username": "Kirtangrg11",
+        "first_name": "Unknown",
+        "join_date": "2026-03-31 06:31:05",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:05",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 5593181182,
+        "username": "",
+        "first_name": "Free fire",
+        "join_date": "2026-03-31 06:31:04",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -364,6 +396,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 6955078320,
+        "username": "",
+        "first_name": "𝐒ᴀʟᴀᴀʀ",
+        "join_date": "2026-03-31 06:31:02",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:02",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 6968928444,
         "username": "",
         "first_name": "Anand",
@@ -408,6 +456,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 20:03:57",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7094541470,
+        "username": "RedGs94",
+        "first_name": "RedGs Gaming",
+        "join_date": "2026-03-31 06:31:04",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -792,6 +856,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:00",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7639131522,
+        "username": "",
+        "first_name": "Yash",
+        "join_date": "2026-03-31 06:30:57",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-31 06:31:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -2204,6 +2284,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8352130903,
+        "username": "Adispidey12",
+        "first_name": "Aditya",
+        "join_date": "2026-03-31 06:31:04",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:04",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8355223424,
         "username": "",
         "first_name": "Dale",
@@ -2312,6 +2408,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:00",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8375426977,
+        "username": "akboss333",
+        "first_name": "☠️AK",
+        "join_date": "2026-03-31 06:31:05",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -2988,6 +3100,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8555810369,
+        "username": "",
+        "first_name": "95058 58677",
+        "join_date": "2026-03-31 06:31:14",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:14",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8557672980,
         "username": "",
         "first_name": "Gabriel",
@@ -3096,6 +3224,22 @@
         "joined_channels": "[]",
         "total_searches": 1,
         "last_active": "2026-03-30 09:33:41",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8593989565,
+        "username": "CandyEsport",
+        "first_name": "𝐂𝐚𝐧𝐝𝐲 𝐃𝐨𝐰𝐧𝐅𝐚𝐥𝐥",
+        "join_date": "2026-03-31 06:31:14",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:31:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -3284,6 +3428,36 @@
         "welcome_video_file_id": null
       },
       {
+        "group_id": -1003851028692,
+        "group_title": "𝗧𝗛𝗘 𝗙𝗘𝗟𝗜𝗫 𝗖𝗛𝗔𝗧⚡",
+        "number_info_enabled": 1,
+        "userid_info_enabled": 1,
+        "username_info_enabled": 1,
+        "aadhar_info_enabled": 1,
+        "instagram_info_enabled": 1,
+        "ifsc_info_enabled": 1,
+        "vehicle_info_enabled": 1,
+        "welcome_enabled": 1,
+        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
+        "welcome_rules": "",
+        "added_date": "2026-03-31 06:31:14",
+        "last_active": "2026-03-31 06:31:14",
+        "goodbye_enabled": 1,
+        "goodbye_message": null,
+        "welcome_photo_file_id": null,
+        "gst_info_enabled": 1,
+        "email_info_enabled": 1,
+        "pan_info_enabled": 1,
+        "pak_num_info_enabled": 1,
+        "ff_info_enabled": 1,
+        "pincode_info_enabled": 1,
+        "hitek_info_enabled": 1,
+        "tg_bomber_enabled": 1,
+        "bomber_enabled": 1,
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
+      },
+      {
         "group_id": -1003791631708,
         "group_title": "N4MBER TO INFO GC",
         "number_info_enabled": 1,
@@ -3297,7 +3471,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 07:17:02",
-        "last_active": "2026-03-31 06:30:56",
+        "last_active": "2026-03-31 06:31:13",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -3327,7 +3501,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:28",
-        "last_active": "2026-03-31 06:29:28",
+        "last_active": "2026-03-31 06:31:05",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -3434,6 +3608,36 @@
         "welcome_video_file_id": null
       },
       {
+        "group_id": -1003563284376,
+        "group_title": "RedGs",
+        "number_info_enabled": 1,
+        "userid_info_enabled": 1,
+        "username_info_enabled": 1,
+        "aadhar_info_enabled": 1,
+        "instagram_info_enabled": 1,
+        "ifsc_info_enabled": 1,
+        "vehicle_info_enabled": 1,
+        "welcome_enabled": 1,
+        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
+        "welcome_rules": "",
+        "added_date": "2026-03-31 06:31:04",
+        "last_active": "2026-03-31 06:31:04",
+        "goodbye_enabled": 1,
+        "goodbye_message": null,
+        "welcome_photo_file_id": null,
+        "gst_info_enabled": 1,
+        "email_info_enabled": 1,
+        "pan_info_enabled": 1,
+        "pak_num_info_enabled": 1,
+        "ff_info_enabled": 1,
+        "pincode_info_enabled": 1,
+        "hitek_info_enabled": 1,
+        "tg_bomber_enabled": 1,
+        "bomber_enabled": 1,
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
+      },
+      {
         "group_id": -1003240089398,
         "group_title": "𝐄𝐋𝐈𝐓𝐄 𝐇𝟒𝐗 𝐂𝐇𝐀𝐓 모",
         "number_info_enabled": 1,
@@ -3447,7 +3651,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-03-31 06:30:24",
+        "last_active": "2026-03-31 06:31:14",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4976,6 +5180,14 @@
         "query": "590801227",
         "search_date": "2026-03-31 06:30:56",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"590801227\", \"accountType\": 1, \"nickname\": \"Kill_TT385\", \"region\": \"BR\", \"level\": 28, \"exp\": 41232, \"bannerId\": 901026011, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 32, \"lastLoginAt\": \"1631334723\", \"csRank\": 301, \"weaponSkinShows\": [907002525], \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1545697023\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000005, \"skinColor\": 50, \"clothes\": [214000000, 204000530, 211000026, 211000855, 203000813, 205000646], \"equipedSkills\": [16, 403], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000091, \"name\": \"furac\\u00e3o\", \"level\": 4, \"exp\": 569, \"isSelected\": true, \"skinId\": 1310000091, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"590801227\", \"language\": \"Language_PORTUGUESE\", \"signature\": \"tudo tudo tudo vai tudo \\u00e9 face\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 800}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 75,
+        "user_id": 7639131522,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8264467911, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 06:31:02",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8264467911\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -5049,7 +5261,37 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:24"
+          "last_active": "2026-03-31 06:31:06"
+        },
+        {
+          "id": 109,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 1909389849,
+          "username": "Kirtangrg11",
+          "first_name": "Unknown",
+          "join_date": "2026-03-31 06:31:05",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:05"
+        },
+        {
+          "id": 107,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 5593181182,
+          "username": "",
+          "first_name": "Free fire",
+          "join_date": "2026-03-31 06:31:04",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:04"
         },
         {
           "id": 19,
@@ -5067,6 +5309,36 @@
           "last_active": "2026-03-31 06:29:27"
         },
         {
+          "id": 98,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 6955078320,
+          "username": "",
+          "first_name": "𝐒ᴀʟᴀᴀʀ",
+          "join_date": "2026-03-31 06:31:02",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:02"
+        },
+        {
+          "id": 100,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7094541470,
+          "username": "RedGs94",
+          "first_name": "RedGs Gaming",
+          "join_date": "2026-03-31 06:31:04",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:04"
+        },
+        {
           "id": 53,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 7156772948,
@@ -5079,7 +5351,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:20"
+          "last_active": "2026-03-31 06:31:06"
         },
         {
           "id": 21,
@@ -5125,6 +5397,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:29:59"
+        },
+        {
+          "id": 94,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7639131522,
+          "username": "",
+          "first_name": "Yash",
+          "join_date": "2026-03-31 06:30:57",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:30:57"
         },
         {
           "id": 17,
@@ -5199,7 +5486,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:31"
+          "last_active": "2026-03-31 06:31:13"
         },
         {
           "id": 63,
@@ -5230,6 +5517,36 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:30:40"
+        },
+        {
+          "id": 104,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8352130903,
+          "username": "Adispidey12",
+          "first_name": "Aditya",
+          "join_date": "2026-03-31 06:31:04",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:04"
+        },
+        {
+          "id": 111,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8375426977,
+          "username": "akboss333",
+          "first_name": "☠️AK",
+          "join_date": "2026-03-31 06:31:05",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:05"
         },
         {
           "id": 16,
@@ -5292,6 +5609,21 @@
           "last_active": "2026-03-31 06:30:45"
         },
         {
+          "id": 124,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8555810369,
+          "username": "",
+          "first_name": "95058 58677",
+          "join_date": "2026-03-31 06:31:14",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:14"
+        },
+        {
           "id": 33,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 8590133219,
@@ -5305,6 +5637,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:29:59"
+        },
+        {
+          "id": 126,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8593989565,
+          "username": "CandyEsport",
+          "first_name": "𝐂𝐚𝐧𝐝𝐲 𝐃𝐨𝐰𝐧𝐅𝐚𝐥𝐥",
+          "join_date": "2026-03-31 06:31:14",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:31:16"
         },
         {
           "id": 39,
@@ -5349,7 +5696,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:56"
+          "last_active": "2026-03-31 06:31:07"
         }
       ],
       "daily_claims": [],
