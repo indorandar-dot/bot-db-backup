@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:29:53",
+    "created_at": "2026-03-31 06:30:12",
     "stats": {
-      "main_users": 191,
+      "main_users": 195,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 13
+      "total_clone_users": 19
     }
   },
   "main_bot": {
@@ -588,6 +588,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7388454080,
+        "username": "Tap_Here_1",
+        "first_name": "JAY SHREE RAM ♈ ᅠ ᅠ ᅠ ᅠ",
+        "join_date": "2026-03-31 06:30:00",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:30:00",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7390040487,
         "username": "SamuelKing327173",
         "first_name": "संदीप",
@@ -648,6 +664,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 03:22:37",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7516309870,
+        "username": "Tyagi20000",
+        "first_name": "ROMIO",
+        "join_date": "2026-03-31 06:29:59",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:29:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -2684,6 +2716,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8483983586,
+        "username": "",
+        "first_name": "Raj kumar",
+        "join_date": "2026-03-31 06:30:04",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:30:04",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8486345593,
         "username": "Servage87",
         "first_name": "иυℓ єууѕ..",
@@ -3004,6 +3052,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8606150054,
+        "username": "Musk4n_H4x",
+        "first_name": "夔┋Mᴜsᴋ4η ㊙️",
+        "join_date": "2026-03-31 06:30:01",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:30:01",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8703382327,
         "username": "owner",
         "first_name": "Bot Owner",
@@ -3169,7 +3233,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 07:17:02",
-        "last_active": "2026-03-31 06:29:37",
+        "last_active": "2026-03-31 06:30:04",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -3229,7 +3293,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:27",
-        "last_active": "2026-03-31 06:29:34",
+        "last_active": "2026-03-31 06:30:00",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -3289,7 +3353,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-03-31 06:29:36",
+        "last_active": "2026-03-31 06:30:06",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4859,7 +4923,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:29:36"
+          "last_active": "2026-03-31 06:30:06"
         },
         {
           "id": 19,
@@ -4892,6 +4956,36 @@
           "last_active": "2026-03-31 06:29:28"
         },
         {
+          "id": 36,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7388454080,
+          "username": "Tap_Here_1",
+          "first_name": "JAY SHREE RAM ♈ ᅠ ᅠ ᅠ ᅠ",
+          "join_date": "2026-03-31 06:30:00",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:30:00"
+        },
+        {
+          "id": 31,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7516309870,
+          "username": "Tyagi20000",
+          "first_name": "ROMIO",
+          "join_date": "2026-03-31 06:29:59",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:29:59"
+        },
+        {
           "id": 17,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 7955703217,
@@ -4904,7 +4998,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:29:34"
+          "last_active": "2026-03-31 06:30:00"
         },
         {
           "id": 28,
@@ -4937,6 +5031,66 @@
           "last_active": "2026-03-31 06:29:30"
         },
         {
+          "id": 38,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8467913130,
+          "username": "",
+          "first_name": "PENAL 💀 DAKU",
+          "join_date": "2026-03-31 06:30:01",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:30:01"
+        },
+        {
+          "id": 44,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8483983586,
+          "username": "",
+          "first_name": "Raj kumar",
+          "join_date": "2026-03-31 06:30:04",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:30:05"
+        },
+        {
+          "id": 33,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8590133219,
+          "username": "LUKEY_HAKER",
+          "first_name": "LUCKEY",
+          "join_date": "2026-03-31 06:29:59",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:29:59"
+        },
+        {
+          "id": 39,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8606150054,
+          "username": "Musk4n_H4x",
+          "first_name": "夔┋Mᴜsᴋ4η ㊙️",
+          "join_date": "2026-03-31 06:30:01",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:30:01"
+        },
+        {
           "id": 30,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 8703382327,
@@ -4949,7 +5103,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:29:37"
+          "last_active": "2026-03-31 06:30:04"
         }
       ],
       "daily_claims": [],
