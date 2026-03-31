@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 21:20:31",
+    "created_at": "2026-03-31 21:22:19",
     "stats": {
       "main_users": 257,
       "main_admins": 2,
@@ -2518,8 +2518,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 21:20:24",
+        "total_searches": 3,
+        "last_active": "2026-03-31 21:21:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -6684,6 +6684,30 @@
         "query": "@botsbypatel",
         "search_date": "2026-03-31 18:06:57",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 153,
+        "user_id": 8251822732,
+        "search_type": "typed_userid",
+        "query": "8251822732",
+        "search_date": "2026-03-31 21:21:17",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8251822732\", \"username\": \"PAIN_OFFLINE\", \"full_name\": \"\\u1d62\\u2098\\u2090PAIN \\ud80c\\ude88\\ud835\\udc7d\\uabed\\ud835\\udc70\\uabed\\ud835\\udc77\\u0821\\u0821\\u0821\\u0821\\u0822\\ud80c\\ude89\", \"first_name\": \"\\u1d62\\u2098\\u2090PAIN \\ud80c\\ude88\\ud835\\udc7d\\uabed\\ud835\\udc70\\uabed\\ud835\\udc77\\u0821\\u0821\\u0821\\u0821\\u0822\\ud80c\\ude89\", \"last_name\": \"\", \"bio\": \"\\u2714\\ufe0fFree Hacks panels click here link https://t.me/shadowmodz_offcial\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8251822732\", \"username\": \"PAIN_OFFLINE\", \"first_name\": \"\\u1d62\\u2098\\u2090PAIN \\ud80c\\ude88\\ud835\\udc7d\\uabed\\ud835\\udc70\\uabed\\ud835\\udc77\\u0821\\u0821\\u0821\\u0821\\u0822\\ud80c\\ude89\", \"last_name\": \"\", \"full_name\": \"\\u1d62\\u2098\\u2090PAIN \\ud80c\\ude88\\ud835\\udc7d\\uabed\\ud835\\udc70\\uabed\\ud835\\udc77\\u0821\\u0821\\u0821\\u0821\\u0822\\ud80c\\ude89\", \"bio\": \"\\u2714\\ufe0fFree Hacks panels click here link https://t.me/shadowmodz_offcial\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"PAIN_OFFLINE\"]}}"
+      },
+      {
+        "id": 154,
+        "user_id": 8251822732,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8249591917, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 21:21:42",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8249591917\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 155,
+        "user_id": 8251822732,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7506010137, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 21:21:55",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7506010137\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
