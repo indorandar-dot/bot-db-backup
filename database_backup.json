@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 23:39:56",
+    "created_at": "2026-03-31 23:42:01",
     "stats": {
       "main_users": 262,
       "main_admins": 2,
@@ -625,13 +625,13 @@
         "first_name": "ㅤ",
         "join_date": "2026-03-31 23:31:18",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 23:36:46",
+        "total_searches": 3,
+        "last_active": "2026-03-31 23:40:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -6822,6 +6822,14 @@
         "query": "9918705479",
         "search_date": "2026-03-31 23:36:46",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9918705479\", \"name\": \"Amar Kumar Mourya\", \"fname\": \"Abhay Ram Mourya\", \"address\": \"S/O Abhay Ram Mourya!!GADI ADHIKANSH!!Khaga Fatehpur!Uttar Pradesh!212655\", \"alt\": \"919682538902\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 158,
+        "user_id": 6756554801,
+        "search_type": "instagram",
+        "query": "Jeshika_khadka",
+        "search_date": "2026-03-31 23:40:09",
+        "result": "{\"success\": true, \"id\": \"78990241425\", \"username\": \"jeshika_khadka\", \"name\": \"jeshika khadka\", \"full_name\": \"jeshika khadka\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/626641241_17849178462633426_830798206045957388_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEZl-_jadosbDrwxxjN4UB_VDwH8M3FF79gjXW0uYuxcPz8_Nu32ld2D9kGzk9CCXI&_nc_ohc=d9HRVhjU-qgQ7kNvwH_7RaJ&_nc_gid=q5KNVS-KPIBgs3cW7Uf0jg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1CHUAa2fXVj4XJ71UspkmHeHMGxg-SqcpLNqITHTQlTg&oe=69D241E9&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpz4j42kpz.jpg\", \"followers\": 57, \"following\": 45, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"78990241425\", \"username\": \"jeshika_khadka\", \"name\": \"jeshika khadka\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/626641241_17849178462633426_830798206045957388_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEZl-_jadosbDrwxxjN4UB_VDwH8M3FF79gjXW0uYuxcPz8_Nu32ld2D9kGzk9CCXI&_nc_ohc=d9HRVhjU-qgQ7kNvwH_7RaJ&_nc_gid=q5KNVS-KPIBgs3cW7Uf0jg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1CHUAa2fXVj4XJ71UspkmHeHMGxg-SqcpLNqITHTQlTg&oe=69D241E9&_nc_sid=8b3546\", \"followers\": 57, \"following\": 45, \"posts\": 0, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
