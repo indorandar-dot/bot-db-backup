@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 13:58:39",
+    "created_at": "2026-03-31 13:59:11",
     "stats": {
-      "main_users": 242,
+      "main_users": 243,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 66
+      "total_clone_users": 67
     }
   },
   "main_bot": {
@@ -3804,6 +3804,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8619795012,
+        "username": "",
+        "first_name": "Chan",
+        "join_date": "2026-03-31 13:59:03",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 13:59:03",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8681137792,
         "username": "",
         "first_name": "RAJAT",
@@ -3830,8 +3846,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 35,
-        "last_active": "2026-03-31 13:57:06",
+        "total_searches": 37,
+        "last_active": "2026-03-31 13:59:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -4255,7 +4271,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 13:58:32",
+        "last_active": "2026-03-31 13:59:03",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6200,6 +6216,22 @@
         "query": "hitesh99",
         "search_date": "2026-03-31 13:58:26",
         "result": "{\"success\": true, \"id\": \"26283318400\", \"username\": \"hitesh99\", \"name\": \"Hitesh Ayar\", \"full_name\": \"Hitesh Ayar\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/82794691_2548079498622824_8586246593777238016_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGDuJi6M0YvaL8plXAzWekDKgO5X2_i47fmYoV03K2Lh6tZkvaZzcNySH5kNQF3_lI&_nc_ohc=ofqjTb8-au8Q7kNvwHO5vzG&_nc_gid=XL_kk58c30rsAqSin_o-hQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzLEUVHgZAUpLg99XdiS7ry5QqfR_sgPF2s8A2bHdBO4A&oe=69D1A804&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp7vg9u_d5.jpg\", \"followers\": 36, \"following\": 53, \"posts\": 26, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"26283318400\", \"username\": \"hitesh99\", \"name\": \"Hitesh Ayar\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/82794691_2548079498622824_8586246593777238016_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGDuJi6M0YvaL8plXAzWekDKgO5X2_i47fmYoV03K2Lh6tZkvaZzcNySH5kNQF3_lI&_nc_ohc=ofqjTb8-au8Q7kNvwHO5vzG&_nc_gid=XL_kk58c30rsAqSin_o-hQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzLEUVHgZAUpLg99XdiS7ry5QqfR_sgPF2s8A2bHdBO4A&oe=69D1A804&_nc_sid=8b3546\", \"followers\": 36, \"following\": 53, \"posts\": 26, \"recent\": []}}"
+      },
+      {
+        "id": 126,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "si_name_77",
+        "search_date": "2026-03-31 13:58:39",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"si_name_77\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
+      },
+      {
+        "id": 127,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "si_name_77",
+        "search_date": "2026-03-31 13:59:03",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"si_name_77\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
@@ -7241,6 +7273,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:40:51"
+        },
+        {
+          "id": 241,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 8619795012,
+          "username": "",
+          "first_name": "Chan",
+          "join_date": "2026-03-31 13:59:03",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 13:59:03"
         },
         {
           "id": 2,
