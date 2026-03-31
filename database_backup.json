@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 12:47:13",
+    "created_at": "2026-03-31 12:49:17",
     "stats": {
       "main_users": 237,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 60
+      "total_clone_users": 61
     }
   },
   "main_bot": {
@@ -3798,8 +3798,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 18:39:28",
+        "total_searches": 2,
+        "last_active": "2026-03-31 12:48:44",
         "money": 0,
         "clone_bots": 0
       }
@@ -4175,7 +4175,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 12:39:13",
+        "last_active": "2026-03-31 12:49:04",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5940,6 +5940,14 @@
         "query": "7489299449",
         "search_date": "2026-03-31 12:34:39",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7489299449\", \"name\": \"GIRISH VISHWAKARMA\", \"fname\": \"RAJKUMAR VISHWAKARMA\", \"address\": \"S/O Rajkumar Vishwakarma!S/O Rajkumar Vishwakarma!Ward No.-16!Keolari  Keolari !KEOLARI-SEONI!MP!480994\", \"alt\": \"9926597588\", \"circle\": \"VI MP\", \"id\": \"526226846375\", \"email\": null}, {\"mobile\": \"7489299449\", \"name\": \"Girish Vishwakarma\", \"fname\": \"Rajkumar Vishwakarma\", \"address\": \"h no 1 Keolari PO Bajrang Colocy  Ward No.-16 Keolari Keolari Seoni  Madhya Pradesh 480994\", \"alt\": \"9039900388\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}, {\"mobile\": \"7489299449\", \"name\": \"Girish Vishwakarma\", \"fname\": \"Rajkumar Vishwakarma\", \"address\": \"16 Keolari PO Ward No.-16  Ward No.-16 Keolari Keolari Seoni  Madhya Pradesh 480994\", \"alt\": \"8349627449\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}, {\"mobile\": \"7489299449\", \"name\": \"Girish  Vishwakarma\", \"fname\": \"Rajkumar  Vishwakarma\", \"address\": \"Near Hanuman Mandir Bajrang Colocy  Ward No -16 Keolari Seoni Madhya Pradesh 480994\", \"alt\": \"7723013366\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}, {\"mobile\": \"7489299449\", \"name\": \"Girish Vishwakarma\", \"fname\": \"Rajkumar Vishwakarma\", \"address\": \"S/O  Rajkumar Vishwakarma!!Near Hanuman Mandir Bajrang Colocy Keolari!Ward No16!Keolari Keolari Seoni!Madhya Pradesh!480994\", \"alt\": \"918770569842\", \"circle\": \"JIO MP\", \"id\": \"526226846375\", \"email\": null}]}"
+      },
+      {
+        "id": 105,
+        "user_id": 8797725398,
+        "search_type": "typed_userid",
+        "query": "8491610123",
+        "search_date": "2026-03-31 12:48:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8491610123\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -6683,6 +6691,21 @@
           "last_active": "2026-03-31 10:07:37"
         },
         {
+          "id": 216,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7480762684,
+          "username": "Ishwordaddy",
+          "first_name": "ISHWOR",
+          "join_date": "2026-03-31 12:48:47",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 12:49:00"
+        },
+        {
           "id": 180,
           "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
           "user_id": 7868181523,
@@ -6905,7 +6928,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 10:08:23"
+          "last_active": "2026-03-31 12:49:04"
         }
       ],
       "daily_claims": [],
