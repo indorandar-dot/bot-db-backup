@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 03:58:24",
+    "created_at": "2026-03-31 04:00:28",
     "stats": {
       "main_users": 71,
       "main_admins": 1,
@@ -849,13 +849,13 @@
         "first_name": "Kartik",
         "join_date": "2026-03-31 03:57:59",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 03:57:59",
+        "total_searches": 1,
+        "last_active": "2026-03-31 03:58:30",
         "money": 0,
         "clone_bots": 0
       },
@@ -1271,7 +1271,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 08:11:55",
-        "last_active": "2026-03-31 03:58:09",
+        "last_active": "2026-03-31 03:58:57",
         "goodbye_enabled": 0,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAIrIGnKqsNB9tHwuL8y9ZUBku4rn2OAAALVDmsbgZlYVqC_Ip1ArrqTAQADAgADdwADOgQ",
@@ -1997,6 +1997,14 @@
         "query": "9748303931",
         "search_date": "2026-03-31 03:14:40",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9748303931\", \"name\": \"Menaka Hazra\", \"fname\": \"late manilal saha\", \"address\": \"!!BLOCK K-5NO TAGORE PARK TILJALA!!Tiljala SO Kolkata!West Bengal!700039\", \"alt\": \"6290745143\", \"circle\": \"JIO KOL\", \"id\": \"706027559450\", \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Ms Menaka  Hazra Eastern Comnet Pvt Ltd\", \"fname\": \"Eastern Comnet Pvt Ltd\", \"address\": \"No 8 Higon Zamader Lane Kolkata Kolkata West Bengal 700046\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL POSTPAID WB\", \"id\": null, \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Menaka  Hazra\", \"fname\": \"Manilal Saha\", \"address\": \"Block K-5No Tagore Park Tiljala S O Tiljala  Kolkata West Bengal 700039\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL WB\", \"id\": \"706027559450\", \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Menaka Hazra Eastern Comnet Pvt Ltd\", \"fname\": \"Manilal Saha\", \"address\": \"! !Block K-5No Tagore Park Tiljala S O West Bengal! !Kolkata! !700039\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL KOL\", \"id\": \"706027559450\", \"email\": \"menakachirag@gmail.com\"}]}"
+      },
+      {
+        "id": 62,
+        "user_id": 8333481899,
+        "search_type": "mobile_number",
+        "query": "7895099564",
+        "search_date": "2026-03-31 03:58:30",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7895099564\", \"name\": \"Sailesh Roch\", \"fname\": \"Michale Roch\", \"address\": \"S/O Michale Roch!thakur dwar!chalang!kulhan !Dehradun Dehradun!Uttarakhand!248001\", \"alt\": null, \"circle\": \"AIRTEL UPW\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
