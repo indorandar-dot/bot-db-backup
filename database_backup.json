@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 14:13:15",
+    "created_at": "2026-03-31 14:15:20",
     "stats": {
       "main_users": 243,
       "main_admins": 1,
@@ -3846,8 +3846,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 40,
-        "last_active": "2026-03-31 14:00:49",
+        "total_searches": 42,
+        "last_active": "2026-03-31 14:15:07",
         "money": 0,
         "clone_bots": 0
       },
@@ -4360,10 +4360,10 @@
       },
       {
         "feature_key": "username",
-        "is_under_maintenance": 1,
-        "reason": "WAIT KARO FIX HO JAYGA KAL",
+        "is_under_maintenance": 0,
+        "reason": "",
         "set_by": 8703382327,
-        "set_at": "30 Mar 2026 04:49 PM"
+        "set_at": "31 Mar 2026 02:14 PM"
       }
     ],
     "daily_claims": [
@@ -6272,6 +6272,22 @@
         "query": "7029962953",
         "search_date": "2026-03-31 14:04:59",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7029962953\", \"name\": \"Bidyut Banerjee\", \"fname\": \"Bikash Banerjee\", \"address\": \"!!00 Barabaria School!NA!Dhantala nadia!Nadia South Nadia!NA!West Bengal!741501\", \"alt\": \"8348390733\", \"circle\": \"JIO WB\", \"id\": \"603173796750\", \"email\": null}]}"
+      },
+      {
+        "id": 133,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6929609082, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-03-31 14:13:40",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6929609082\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"p1\": {\"title\": \"\\u2708\\ufe0f Telegram Data Leaks \\ud83d\\udca6\", \"description\": \"In 2016, over 15 million Iranian Telegram users were exposed via telecom SMS interception, followed by an API scraping attack that leaked 361 million phone numbers and user IDs. In March 2020, 42 million Iranian records from unofficial Telegram forks Talagram and Hotgram were found exposed on an unsecured server. In June 2020, the Handala group compromised 12,000 Israeli accounts via SIM swapping and session hijacking, leaking 1,900 sensitive conversations. In 2023, a threat actor scraped Indian user data including phone numbers and group memberships from Telegram's 100 million+ user base. In 2024, a compilation of 16 billion credentials across platforms including Telegram surfaced from previous breaches and stealer logs. In January 2026, a 44 GB dataset allegedly containing 200 million Telegram user records with phone numbers, emails, usernames, and user IDs began circulating \\u2014 Telegram denied any server breach, calling it a compilation of public data. In March 2026, a critical zero-click vulnerability was disclosed affecting Telegram Android and Linux, allowing device compromise via animated stickers.\", \"records\": [{\"userid\": \"6929609082\", \"msg\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"7866965378\"}]}}, \"_raw\": {\"status\": true, \"target_id\": \"6929609082\", \"target_type\": \"user_id\", \"data\": {\"p1\": {\"title\": \"\\u2708\\ufe0f Telegram Data Leaks \\ud83d\\udca6\", \"description\": \"In 2016, over 15 million Iranian Telegram users were exposed via telecom SMS interception, followed by an API scraping attack that leaked 361 million phone numbers and user IDs. In March 2020, 42 million Iranian records from unofficial Telegram forks Talagram and Hotgram were found exposed on an unsecured server. In June 2020, the Handala group compromised 12,000 Israeli accounts via SIM swapping and session hijacking, leaking 1,900 sensitive conversations. In 2023, a threat actor scraped Indian user data including phone numbers and group memberships from Telegram's 100 million+ user base. In 2024, a compilation of 16 billion credentials across platforms including Telegram surfaced from previous breaches and stealer logs. In January 2026, a 44 GB dataset allegedly containing 200 million Telegram user records with phone numbers, emails, usernames, and user IDs began circulating \\u2014 Telegram denied any server breach, calling it a compilation of public data. In March 2026, a critical zero-click vulnerability was disclosed affecting Telegram Android and Linux, allowing device compromise via animated stickers.\", \"records\": [{\"userid\": \"6929609082\", \"msg\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"7866965378\"}]}}, \"developer\": \"@Cyb3rB4nn3r\", \"time\": \"2026-03-31T14:13:39.453688\"}}"
+      },
+      {
+        "id": 134,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "@si_name_77",
+        "search_date": "2026-03-31 14:15:07",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"\", \"username\": \"si_name_77\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"p1\": {\"title\": \"\\u2708\\ufe0f Telegram Data Leaks \\ud83d\\udca6\", \"description\": \"In 2016, over 15 million Iranian Telegram users were exposed via telecom SMS interception, followed by an API scraping attack that leaked 361 million phone numbers and user IDs. In March 2020, 42 million Iranian records from unofficial Telegram forks Talagram and Hotgram were found exposed on an unsecured server. In June 2020, the Handala group compromised 12,000 Israeli accounts via SIM swapping and session hijacking, leaking 1,900 sensitive conversations. In 2023, a threat actor scraped Indian user data including phone numbers and group memberships from Telegram's 100 million+ user base. In 2024, a compilation of 16 billion credentials across platforms including Telegram surfaced from previous breaches and stealer logs. In January 2026, a 44 GB dataset allegedly containing 200 million Telegram user records with phone numbers, emails, usernames, and user IDs began circulating \\u2014 Telegram denied any server breach, calling it a compilation of public data. In March 2026, a critical zero-click vulnerability was disclosed affecting Telegram Android and Linux, allowing device compromise via animated stickers.\", \"records\": [{\"userid\": \"8443651511\", \"msg\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"9134905822\"}]}}, \"_raw\": {\"status\": true, \"target_id\": 8443651511, \"target_username\": \"si_name_77\", \"target_type\": \"username\", \"data\": {\"p1\": {\"title\": \"\\u2708\\ufe0f Telegram Data Leaks \\ud83d\\udca6\", \"description\": \"In 2016, over 15 million Iranian Telegram users were exposed via telecom SMS interception, followed by an API scraping attack that leaked 361 million phone numbers and user IDs. In March 2020, 42 million Iranian records from unofficial Telegram forks Talagram and Hotgram were found exposed on an unsecured server. In June 2020, the Handala group compromised 12,000 Israeli accounts via SIM swapping and session hijacking, leaking 1,900 sensitive conversations. In 2023, a threat actor scraped Indian user data including phone numbers and group memberships from Telegram's 100 million+ user base. In 2024, a compilation of 16 billion credentials across platforms including Telegram surfaced from previous breaches and stealer logs. In January 2026, a 44 GB dataset allegedly containing 200 million Telegram user records with phone numbers, emails, usernames, and user IDs began circulating \\u2014 Telegram denied any server breach, calling it a compilation of public data. In March 2026, a critical zero-click vulnerability was disclosed affecting Telegram Android and Linux, allowing device compromise via animated stickers.\", \"records\": [{\"userid\": \"8443651511\", \"msg\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"9134905822\"}]}}, \"developer\": \"@Cyb3rB4nn3r\", \"time\": \"2026-03-31T14:15:07.503089\"}}"
       }
     ],
     "bomber_history": [],
