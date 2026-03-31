@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 13:48:30",
+    "created_at": "2026-03-31 13:50:20",
     "stats": {
       "main_users": 242,
       "main_admins": 1,
@@ -497,13 +497,13 @@
         "first_name": "Mᴏᴏɴ ❤‍🩹",
         "join_date": "2026-03-31 13:48:22",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 13:48:22",
+        "total_searches": 1,
+        "last_active": "2026-03-31 13:48:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -753,13 +753,13 @@
         "first_name": "BOXER",
         "join_date": "2026-03-30 19:08:01",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 13:47:33",
+        "total_searches": 3,
+        "last_active": "2026-03-31 13:48:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -3830,8 +3830,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 28,
-        "last_active": "2026-03-31 13:45:08",
+        "total_searches": 29,
+        "last_active": "2026-03-31 13:49:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -4255,7 +4255,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 13:47:30",
+        "last_active": "2026-03-31 13:48:57",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6104,6 +6104,30 @@
         "query": "8660455322",
         "search_date": "2026-03-31 13:47:33",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8660455322\", \"name\": \"Bhagyashree\", \"fname\": \"Mahadev\", \"address\": \"Mahadev!d/o mahadev!Yenkura!bidar!Yenkura Bhalki!Bidar!Bidar!Karnataka!585328\", \"alt\": \"9481265235\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"294684198127\", \"email\": null}, {\"mobile\": \"8660455322\", \"name\": \"Mohd Gousuddin\", \"fname\": \"Mohd Moinuddin\", \"address\": \"S/O Mohd Moinuddin!!Sr. No 348/ Plot No 26 mohalla murad nagar!hallikhed b!Hallikhed (b) Bidar!Karnataka!585414\", \"alt\": \"918123123133\", \"circle\": \"JIO KARNATKA\", \"id\": \"888229968379\", \"email\": null}]}"
+      },
+      {
+        "id": 114,
+        "user_id": 6663238098,
+        "search_type": "ff_info",
+        "query": "11111111",
+        "search_date": "2026-03-31 13:48:59",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"11111111\", \"accountType\": 1, \"nickname\": \"GM\\u3164MAHASIN\\u3164\\uf8ff\", \"region\": \"IND\", \"level\": 69, \"exp\": 2689108, \"bannerId\": 901000021, \"headPic\": 902000149, \"rank\": 325, \"rankingPoints\": 5610, \"role\": 6, \"hasElitePass\": true, \"badgeCnt\": 176, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 2406934, \"lastLoginAt\": \"1774790215\", \"csRank\": 314, \"csRankingPoints\": 54, \"weaponSkinShows\": [907194207, 912052003, 914051001], \"maxRank\": 325, \"csMaxRank\": 314, \"accountPrefers\": {}, \"createAt\": \"1512441578\", \"title\": 904990070, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 4, \"clothes\": [205000694, 203000543, 211000297, 214000101, 204000136], \"equipedSkills\": [16, 5801, 8, 1, 16, 4306, 8, 2, 16, 2506, 8, 3, 16, 3006], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {\"clanId\": \"60205231\", \"clanName\": \"MG\\u3164INDIA\\u3164\\uf8ff\", \"captainId\": \"11111111\", \"clanLevel\": 7, \"capacity\": 55, \"memberNum\": 37}, \"captainBasicInfo\": {\"accountId\": \"11111111\", \"accountType\": 1, \"nickname\": \"GM\\u3164MAHASIN\\u3164\\uf8ff\", \"region\": \"IND\", \"level\": 69, \"exp\": 2689108, \"bannerId\": 901000021, \"headPic\": 902000149, \"rank\": 325, \"rankingPoints\": 5610, \"role\": 6, \"hasElitePass\": true, \"badgeCnt\": 176, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 2406934, \"lastLoginAt\": \"1774790215\", \"csRank\": 314, \"csRankingPoints\": 54, \"weaponSkinShows\": [907194207, 912052003, 914051001], \"maxRank\": 325, \"csMaxRank\": 314, \"accountPrefers\": {}, \"createAt\": \"1512441578\", \"title\": 904990070, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000114, \"level\": 7, \"exp\": 6000, \"isSelected\": true, \"skinId\": 1310000143, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"11111111\", \"gender\": \"Gender_MALE\", \"language\": \"Language_BENGALI\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"YOUTUBE - GM MAHASIN - 996k subscribe\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774825793\"}}}"
+      },
+      {
+        "id": 115,
+        "user_id": 7103570907,
+        "search_type": "mobile_number",
+        "query": "9902676343",
+        "search_date": "2026-03-31 13:48:59",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9902676343\", \"name\": \"M Rekha\", \"fname\": \"muniswamappa Anil Kumar\", \"address\": \"19 Muniswamy Layout Chikkabanasavadi    Bangolore north    bangalore Bengaluru BENGALURU Karnataka 560043\", \"alt\": \"8971503949\", \"circle\": \"KARNATAKA AIRTEL\", \"id\": \"705526789167\", \"email\": null}]}"
+      },
+      {
+        "id": 116,
+        "user_id": 8703382327,
+        "search_type": "aadhar",
+        "query": "705526789167",
+        "search_date": "2026-03-31 13:49:38",
+        "result": "{\"success\": true, \"aadhaar\": \"705526789167\", \"total_records\": 4, \"data\": [{\"name\": \"M Rekha\", \"mobile\": \"9902676343\", \"father_name\": \"muniswamappa Anil Kumar\", \"address\": \"19 Muniswamy Layout Chikkabanasavadi Bangolore north bangalore Bengaluru BENGALURU Karnataka 560043\", \"alt_mobile\": \"8971503949\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"705526789167\"}, {\"name\": \"M Rekha\", \"mobile\": \"8971503949\", \"father_name\": \"Mathangi Anil Kumar\", \"address\": \"D/O Mathangi Anil Kumar 19/2 Muniswamappa Layout Chikkabanaswadi Bangalore North Kalyananagar Bangalore North Bangalore Karnataka 560043\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"705526789167\"}, {\"name\": \"M Rekha\", \"mobile\": \"7899894949\", \"father_name\": \"Mathangi Anil Kumar\", \"address\": \"19/2 Muneswmappa Layout Near Bus Stop Chikkabanaswadi Bangalore North Bangalore Bengaluru BENGALURU Karnataka 560043\", \"alt_mobile\": \"9880076293\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"705526789167\"}, {\"name\": \"M Rekha\", \"mobile\": \"6362983463\", \"father_name\": \"Mathangi Anil Kumar\", \"address\": \"D/O Mathangi Anil Kumar 19/2 Muniswamappa Layout Kalyananagar Chikkabanaswadi Bangalore North Bangalore North Bangalore Karnataka 560043\", \"alt_mobile\": \"8971503949\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"705526789167\"}], \"source\": \"shadow_api\"}"
       }
     ],
     "bomber_history": [],
@@ -6859,7 +6883,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 13:47:30"
+          "last_active": "2026-03-31 13:48:57"
         },
         {
           "id": 200,
