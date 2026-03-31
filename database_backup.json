@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:05:53",
+    "created_at": "2026-03-31 06:06:35",
     "stats": {
       "main_users": 186,
       "main_admins": 1,
@@ -33,7 +33,7 @@
         "first_name": "Shaurya_1387",
         "join_date": "2026-03-30 10:54:29",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -3340,6 +3340,10 @@
       {
         "user_id": 8465446299,
         "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 5618936860,
+        "claim_date": "2026-03-31"
       }
     ],
     "welcome_settings": [
@@ -4656,6 +4660,15 @@
         "channel_type": "channel",
         "added_by": 8703382327,
         "added_date": "2026-03-31 05:57:25"
+      },
+      {
+        "id": 3,
+        "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+        "link": "https://t.me/bestsmmbot_owmer",
+        "username": "bestsmmbot_owmer",
+        "channel_type": "channel",
+        "added_by": 8703382327,
+        "added_date": "2026-03-31 06:06:28"
       }
     ],
     "credits": []
