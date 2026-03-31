@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 05:08:03",
+    "created_at": "2026-03-31 05:08:24",
     "stats": {
-      "main_users": 148,
+      "main_users": 180,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -289,7 +289,7 @@
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
         "join_date": "2026-03-30 11:54:16",
         "referrer": null,
-        "credits": 164,
+        "credits": 228,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -508,6 +508,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7381646861,
+        "username": "TimTeste848103",
+        "first_name": "Gökçebalan",
+        "join_date": "2026-03-31 05:08:04",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:04",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7390040487,
         "username": "SamuelKing327173",
         "first_name": "संदीप",
@@ -520,6 +536,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:52",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7393461797,
+        "username": "RobertGriss664193",
+        "first_name": "陈建国龙",
+        "join_date": "2026-03-31 05:08:07",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:07",
         "money": 0,
         "clone_bots": 0
       },
@@ -568,6 +600,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:02",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7559002260,
+        "username": "qstmgjfz",
+        "first_name": "周凯旋",
+        "join_date": "2026-03-31 05:08:10",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:10",
         "money": 0,
         "clone_bots": 0
       },
@@ -636,6 +684,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7642293164,
+        "username": "JustinaSwamp389766",
+        "first_name": "आनंद",
+        "join_date": "2026-03-31 05:08:04",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:04",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7668337664,
         "username": "JuliaJones285588",
         "first_name": "Олесь",
@@ -700,6 +764,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7798461462,
+        "username": "BettyGronl11405",
+        "first_name": "Kuddusi",
+        "join_date": "2026-03-31 05:08:13",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:13",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7799840274,
         "username": "GlennMcint458146",
         "first_name": "Abdumalik",
@@ -712,6 +792,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:42",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7804069832,
+        "username": "RobertBrund840117",
+        "first_name": "新宇",
+        "join_date": "2026-03-31 05:08:06",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -744,6 +840,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 01:32:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7822172503,
+        "username": "MaryWarre353748",
+        "first_name": "Марія",
+        "join_date": "2026-03-31 05:08:10",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:10",
         "money": 0,
         "clone_bots": 0
       },
@@ -828,6 +940,54 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7899451887,
+        "username": "PeterYi18844",
+        "first_name": "नेहा त्रिवेदी",
+        "join_date": "2026-03-31 05:08:10",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:10",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7904917733,
+        "username": "afghjyuu",
+        "first_name": "Антон",
+        "join_date": "2026-03-31 05:08:13",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:13",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7918968321,
+        "username": "MarisolHumph632852",
+        "first_name": "Günver",
+        "join_date": "2026-03-31 05:08:11",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:11",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7922477129,
         "username": "",
         "first_name": "Abidullah",
@@ -908,6 +1068,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7976072424,
+        "username": "KimberlyWeath722613",
+        "first_name": "Bayzettin",
+        "join_date": "2026-03-31 05:08:16",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8008313092,
         "username": "Ydv1l",
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
@@ -924,6 +1100,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8057508657,
+        "username": "StephanieScurr732271",
+        "first_name": "ममता",
+        "join_date": "2026-03-31 05:08:16",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8061268359,
         "username": "BillyMitch269359",
         "first_name": "Donald",
@@ -936,6 +1128,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:56",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8067640906,
+        "username": "MaryButle378808",
+        "first_name": "Alexa",
+        "join_date": "2026-03-31 05:08:03",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -1016,6 +1224,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:30",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8085095815,
+        "username": "JerryTurek718386",
+        "first_name": "Madina",
+        "join_date": "2026-03-31 05:08:05",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -1164,6 +1388,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8172442622,
+        "username": "StephanieColli266097",
+        "first_name": "आनंद",
+        "join_date": "2026-03-31 05:08:11",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:11",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8192518877,
         "username": "FL4SH_FF",
         "first_name": "—͞𝐅𝐋𝐀𝐒𝐇 </> 𝐃𝐄𝐕 [🇮🇳]",
@@ -1260,6 +1500,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8215680364,
+        "username": "ErnestGigli411387",
+        "first_name": "איתן",
+        "join_date": "2026-03-31 05:08:03",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:03",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8219545053,
         "username": "mdnaim12300",
         "first_name": "🇹🇿🇹🇿🇹🇿🇹🇿",
@@ -1272,6 +1528,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 12:08:13",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8221031703,
+        "username": "KristenValli838535",
+        "first_name": "גדעון מזרחי",
+        "join_date": "2026-03-31 05:08:07",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:07",
         "money": 0,
         "clone_bots": 0
       },
@@ -1320,6 +1592,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:57",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8244856746,
+        "username": "JenniferWestm566174",
+        "first_name": "周晶晶雪",
+        "join_date": "2026-03-31 05:08:06",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -1420,6 +1708,38 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8275819858,
+        "username": "CatherineEhrli532902",
+        "first_name": "Eduardo",
+        "join_date": "2026-03-31 05:08:05",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:05",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8276441308,
+        "username": "MonicaWhort300989",
+        "first_name": "Cheryl",
+        "join_date": "2026-03-31 05:08:15",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:15",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8287753771,
         "username": "JamieBetts955160",
         "first_name": "Muhiye",
@@ -1452,6 +1772,38 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8301342214,
+        "username": "JaimeHerna845759",
+        "first_name": "किरण",
+        "join_date": "2026-03-31 05:08:16",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8302625859,
+        "username": "ArleneBarne241504",
+        "first_name": "陈燕秀英",
+        "join_date": "2026-03-31 05:08:14",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:14",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8304472284,
         "username": "KathleenDenni56336",
         "first_name": "Paksu",
@@ -1464,6 +1816,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:01",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8305977049,
+        "username": "AllisonBrous758433",
+        "first_name": "अभिषेक दवे",
+        "join_date": "2026-03-31 05:08:14",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -1596,6 +1964,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8337125342,
+        "username": "ElizabethLawso511013",
+        "first_name": "秀英晶晶",
+        "join_date": "2026-03-31 05:08:09",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:09",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8355223424,
         "username": "",
         "first_name": "Dale",
@@ -1608,6 +1992,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:50",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8355381749,
+        "username": "",
+        "first_name": "Douglas",
+        "join_date": "2026-03-31 05:08:09",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -1688,6 +2088,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:00",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8377152977,
+        "username": "GregoryHarri276118",
+        "first_name": "Atagün",
+        "join_date": "2026-03-31 05:08:08",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -2140,6 +2556,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8503420295,
+        "username": "RoslynHiatt401260",
+        "first_name": "吴鹏-四",
+        "join_date": "2026-03-31 05:08:08",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:08",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8504761665,
         "username": "MaribelSimmo414774",
         "first_name": "सुनीता यादव",
@@ -2152,6 +2584,38 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:44",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8512870722,
+        "username": "BettyNewto21362",
+        "first_name": "Nurtaç",
+        "join_date": "2026-03-31 05:08:12",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:12",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8513664786,
+        "username": "",
+        "first_name": "Jill",
+        "join_date": "2026-03-31 05:08:16",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -2220,6 +2684,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8542973186,
+        "username": "MadelynMccre134189",
+        "first_name": "Meryeme",
+        "join_date": "2026-03-31 05:08:15",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:15",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8549857561,
         "username": "RickyIngle166989",
         "first_name": "Yurtseven",
@@ -2248,6 +2728,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8559428974,
+        "username": "EmilyCrow627212",
+        "first_name": "Michael",
+        "join_date": "2026-03-31 05:08:10",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:10",
         "money": 0,
         "clone_bots": 0
       },
@@ -2296,6 +2792,22 @@
         "joined_channels": "[]",
         "total_searches": 1,
         "last_active": "2026-03-30 18:21:26",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8580126170,
+        "username": "AnitaReyes525984",
+        "first_name": "Amina",
+        "join_date": "2026-03-31 05:08:12",
+        "referrer": 6929609082,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 05:08:12",
         "money": 0,
         "clone_bots": 0
       },
@@ -3210,6 +3722,198 @@
         "referrer": 6929609082,
         "referred": 8133865422,
         "date": "2026-03-31 05:08:02"
+      },
+      {
+        "id": 84,
+        "referrer": 6929609082,
+        "referred": 8215680364,
+        "date": "2026-03-31 05:08:03"
+      },
+      {
+        "id": 85,
+        "referrer": 6929609082,
+        "referred": 8067640906,
+        "date": "2026-03-31 05:08:03"
+      },
+      {
+        "id": 86,
+        "referrer": 6929609082,
+        "referred": 7642293164,
+        "date": "2026-03-31 05:08:04"
+      },
+      {
+        "id": 87,
+        "referrer": 6929609082,
+        "referred": 7381646861,
+        "date": "2026-03-31 05:08:04"
+      },
+      {
+        "id": 88,
+        "referrer": 6929609082,
+        "referred": 8275819858,
+        "date": "2026-03-31 05:08:05"
+      },
+      {
+        "id": 89,
+        "referrer": 6929609082,
+        "referred": 8085095815,
+        "date": "2026-03-31 05:08:05"
+      },
+      {
+        "id": 90,
+        "referrer": 6929609082,
+        "referred": 8244856746,
+        "date": "2026-03-31 05:08:06"
+      },
+      {
+        "id": 91,
+        "referrer": 6929609082,
+        "referred": 7804069832,
+        "date": "2026-03-31 05:08:06"
+      },
+      {
+        "id": 92,
+        "referrer": 6929609082,
+        "referred": 7393461797,
+        "date": "2026-03-31 05:08:07"
+      },
+      {
+        "id": 93,
+        "referrer": 6929609082,
+        "referred": 8221031703,
+        "date": "2026-03-31 05:08:07"
+      },
+      {
+        "id": 94,
+        "referrer": 6929609082,
+        "referred": 8503420295,
+        "date": "2026-03-31 05:08:08"
+      },
+      {
+        "id": 95,
+        "referrer": 6929609082,
+        "referred": 8377152977,
+        "date": "2026-03-31 05:08:08"
+      },
+      {
+        "id": 96,
+        "referrer": 6929609082,
+        "referred": 8337125342,
+        "date": "2026-03-31 05:08:09"
+      },
+      {
+        "id": 97,
+        "referrer": 6929609082,
+        "referred": 8355381749,
+        "date": "2026-03-31 05:08:09"
+      },
+      {
+        "id": 98,
+        "referrer": 6929609082,
+        "referred": 7899451887,
+        "date": "2026-03-31 05:08:10"
+      },
+      {
+        "id": 99,
+        "referrer": 6929609082,
+        "referred": 8559428974,
+        "date": "2026-03-31 05:08:10"
+      },
+      {
+        "id": 100,
+        "referrer": 6929609082,
+        "referred": 7559002260,
+        "date": "2026-03-31 05:08:10"
+      },
+      {
+        "id": 101,
+        "referrer": 6929609082,
+        "referred": 7822172503,
+        "date": "2026-03-31 05:08:10"
+      },
+      {
+        "id": 102,
+        "referrer": 6929609082,
+        "referred": 8172442622,
+        "date": "2026-03-31 05:08:11"
+      },
+      {
+        "id": 103,
+        "referrer": 6929609082,
+        "referred": 7918968321,
+        "date": "2026-03-31 05:08:11"
+      },
+      {
+        "id": 104,
+        "referrer": 6929609082,
+        "referred": 8580126170,
+        "date": "2026-03-31 05:08:12"
+      },
+      {
+        "id": 105,
+        "referrer": 6929609082,
+        "referred": 8512870722,
+        "date": "2026-03-31 05:08:12"
+      },
+      {
+        "id": 106,
+        "referrer": 6929609082,
+        "referred": 7904917733,
+        "date": "2026-03-31 05:08:13"
+      },
+      {
+        "id": 107,
+        "referrer": 6929609082,
+        "referred": 7798461462,
+        "date": "2026-03-31 05:08:13"
+      },
+      {
+        "id": 108,
+        "referrer": 6929609082,
+        "referred": 8302625859,
+        "date": "2026-03-31 05:08:14"
+      },
+      {
+        "id": 109,
+        "referrer": 6929609082,
+        "referred": 8305977049,
+        "date": "2026-03-31 05:08:14"
+      },
+      {
+        "id": 110,
+        "referrer": 6929609082,
+        "referred": 8542973186,
+        "date": "2026-03-31 05:08:15"
+      },
+      {
+        "id": 111,
+        "referrer": 6929609082,
+        "referred": 8276441308,
+        "date": "2026-03-31 05:08:15"
+      },
+      {
+        "id": 112,
+        "referrer": 6929609082,
+        "referred": 8057508657,
+        "date": "2026-03-31 05:08:16"
+      },
+      {
+        "id": 113,
+        "referrer": 6929609082,
+        "referred": 8301342214,
+        "date": "2026-03-31 05:08:16"
+      },
+      {
+        "id": 114,
+        "referrer": 6929609082,
+        "referred": 8513664786,
+        "date": "2026-03-31 05:08:16"
+      },
+      {
+        "id": 115,
+        "referrer": 6929609082,
+        "referred": 7976072424,
+        "date": "2026-03-31 05:08:16"
       }
     ],
     "search_history": [
