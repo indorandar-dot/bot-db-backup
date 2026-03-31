@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 03:13:00",
+    "created_at": "2026-03-31 03:15:04",
     "stats": {
       "main_users": 69,
       "main_admins": 1,
@@ -721,13 +721,13 @@
         "first_name": "DAKU",
         "join_date": "2026-03-31 03:12:42",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 03:12:42",
+        "total_searches": 1,
+        "last_active": "2026-03-31 03:14:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -1239,7 +1239,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 08:11:55",
-        "last_active": "2026-03-31 03:12:48",
+        "last_active": "2026-03-31 03:14:14",
         "goodbye_enabled": 0,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": "AgACAgUAAxkBAAIrIGnKqsNB9tHwuL8y9ZUBku4rn2OAAALVDmsbgZlYVqC_Ip1ArrqTAQADAgADdwADOgQ",
@@ -1269,7 +1269,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "PROMO MAT KARNA 🌚",
         "added_date": "2026-03-30 07:26:25",
-        "last_active": "2026-03-31 03:12:42",
+        "last_active": "2026-03-31 03:13:43",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -1953,6 +1953,14 @@
         "query": "8008313092",
         "search_date": "2026-03-31 02:53:33",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8008313092\", \"username\": \"Ydv1l\", \"full_name\": \"\\ud835\\udc12\\u026a\\u0280 \\ud835\\udc09\\u1d00\\u1d04\\u1d0b \\u0f06\", \"first_name\": \"\\ud835\\udc12\\u026a\\u0280 \\ud835\\udc09\\u1d00\\u1d04\\u1d0b \\u0f06\", \"last_name\": \"\", \"bio\": \"@ydv2ll @jack_hub_bot @jackbouches\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8008313092\", \"username\": \"Ydv1l\", \"first_name\": \"\\ud835\\udc12\\u026a\\u0280 \\ud835\\udc09\\u1d00\\u1d04\\u1d0b \\u0f06\", \"last_name\": \"\", \"full_name\": \"\\ud835\\udc12\\u026a\\u0280 \\ud835\\udc09\\u1d00\\u1d04\\u1d0b \\u0f06\", \"bio\": \"@ydv2ll @jack_hub_bot @jackbouches\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Ydv1l\"]}}"
+      },
+      {
+        "id": 61,
+        "user_id": 8193040459,
+        "search_type": "mobile_number",
+        "query": "9748303931",
+        "search_date": "2026-03-31 03:14:40",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9748303931\", \"name\": \"Menaka Hazra\", \"fname\": \"late manilal saha\", \"address\": \"!!BLOCK K-5NO TAGORE PARK TILJALA!!Tiljala SO Kolkata!West Bengal!700039\", \"alt\": \"6290745143\", \"circle\": \"JIO KOL\", \"id\": \"706027559450\", \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Ms Menaka  Hazra Eastern Comnet Pvt Ltd\", \"fname\": \"Eastern Comnet Pvt Ltd\", \"address\": \"No 8 Higon Zamader Lane Kolkata Kolkata West Bengal 700046\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL POSTPAID WB\", \"id\": null, \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Menaka  Hazra\", \"fname\": \"Manilal Saha\", \"address\": \"Block K-5No Tagore Park Tiljala S O Tiljala  Kolkata West Bengal 700039\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL WB\", \"id\": \"706027559450\", \"email\": null}, {\"mobile\": \"9748303931\", \"name\": \"Menaka Hazra Eastern Comnet Pvt Ltd\", \"fname\": \"Manilal Saha\", \"address\": \"! !Block K-5No Tagore Park Tiljala S O West Bengal! !Kolkata! !700039\", \"alt\": \"9163034569\", \"circle\": \"AIRTEL KOL\", \"id\": \"706027559450\", \"email\": \"menakachirag@gmail.com\"}]}"
       }
     ],
     "bomber_history": [],
