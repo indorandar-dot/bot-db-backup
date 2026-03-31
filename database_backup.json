@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 09:58:37",
+    "created_at": "2026-03-31 10:00:03",
     "stats": {
       "main_users": 232,
       "main_admins": 1,
@@ -3670,8 +3670,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 24,
-        "last_active": "2026-03-31 08:33:41",
+        "total_searches": 25,
+        "last_active": "2026-03-31 09:59:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -3975,7 +3975,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 09:58:21",
+        "last_active": "2026-03-31 09:59:54",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4095,7 +4095,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 09:58:32",
+        "last_active": "2026-03-31 09:59:10",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5832,6 +5832,14 @@
         "query": "2515575044",
         "search_date": "2026-03-31 09:58:11",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2515575044\", \"accountType\": 1, \"nickname\": \"\\u3164\\u3164\\u3164\\u02e3\\u02b8\\u1dbb\\u3164KEY\\u3164\\ubaa8\", \"region\": \"IND\", \"level\": 62, \"exp\": 1272228, \"bannerId\": 901000317, \"headPic\": 902000346, \"rank\": 323, \"rankingPoints\": 4538, \"badgeCnt\": 116, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 5126, \"showRank\": true, \"lastLoginAt\": \"1774950956\", \"csRank\": 323, \"csRankingPoints\": 184, \"pinId\": 910044001, \"maxRank\": 323, \"csMaxRank\": 323, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1604843576\", \"title\": 904090025, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000024, \"skinColor\": 50, \"clothes\": [205050094, 203050094, 204041037, 211052000, 214000000], \"equipedSkills\": [16, 7606, 8, 1, 16, 1805, 8, 2, 16, 3004, 8, 3, 16, 4904], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1654590714, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3047491937\", \"clanName\": \"XYZ..OFFICAL\", \"captainId\": \"1015471385\", \"clanLevel\": 4, \"capacity\": 35, \"memberNum\": 17}, \"captainBasicInfo\": {\"accountId\": \"1015471385\", \"accountType\": 1, \"nickname\": \"\\u27b3\\u1d39\\u1d3f\\u00b0\\u1b44\\u20ad\\u1d07v\\u012c\\u20a6\\u2606\\u2764\", \"region\": \"IND\", \"level\": 65, \"exp\": 1642073, \"bannerId\": 901000058, \"headPic\": 902000076, \"rank\": 324, \"rankingPoints\": 4926, \"badgeCnt\": 107, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 7483, \"lastLoginAt\": \"1774934432\", \"csRank\": 323, \"csRankingPoints\": 149, \"weaponSkinShows\": [907195111], \"pinId\": 910039001, \"maxRank\": 324, \"csMaxRank\": 323, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1558326131\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000118, \"level\": 6, \"exp\": 4664, \"isSelected\": true, \"skinId\": 1310000181, \"selectedSkillId\": 1315000011}, \"socialInfo\": {\"accountId\": \"2515575044\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"modePrefer\": \"ModePrefer_CS\", \"signature\": \"@xyzgaming57offical SUBSCRIBE OUR YOUTUBE CHANNEL\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1774778223\"}}}"
+      },
+      {
+        "id": 102,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "mr__akhil_11",
+        "search_date": "2026-03-31 09:59:50",
+        "result": "{\"success\": true, \"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"full_name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEpt5TKZjBdDETw3pgoWeA1_qzhf9bBilJoZwZNJ0MUM1xvie1PqBA8B0WnJv12Mm4&_nc_ohc=gLkJsiBjo7UQ7kNvwHek6CN&_nc_gid=5hQNbVSSMWELS_5K4XCPDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy8ZG5PerS2EhVrutheHGHtNAPpjrlBl--_MoNSHUdAVw&oe=69D16118&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpagxtswqm.jpg\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEpt5TKZjBdDETw3pgoWeA1_qzhf9bBilJoZwZNJ0MUM1xvie1PqBA8B0WnJv12Mm4&_nc_ohc=gLkJsiBjo7UQ7kNvwHek6CN&_nc_gid=5hQNbVSSMWELS_5K4XCPDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy8ZG5PerS2EhVrutheHGHtNAPpjrlBl--_MoNSHUdAVw&oe=69D16118&_nc_sid=8b3546\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
@@ -6512,7 +6520,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 09:58:30"
+          "last_active": "2026-03-31 09:59:35"
         },
         {
           "id": 176,
