@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 16:23:19",
+    "created_at": "2026-03-31 16:24:20",
     "stats": {
-      "main_users": 249,
+      "main_users": 250,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 73
+      "total_clone_users": 74
     }
   },
   "main_bot": {
@@ -904,6 +904,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 20:13:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7337075445,
+        "username": "",
+        "first_name": "SAPTAJIT",
+        "join_date": "2026-03-31 16:24:12",
+        "referrer": null,
+        "credits": 4,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 1,
+        "last_active": "2026-03-31 16:24:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -4373,7 +4389,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 16:23:01",
+        "last_active": "2026-03-31 16:24:17",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6498,6 +6514,14 @@
         "query": "09904773377",
         "search_date": "2026-03-31 15:50:25",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9904773377\", \"name\": \"MR RUSHIT DAVE\", \"fname\": \"Manishkumar Dave\", \"address\": \"27!Ramdev Krupa Society Near Jhadeshwar Mahadev Temple!Near Jhadeshwar Mahadev Temple!Adinathnagar  Odhav AHMEDABAD city!AHMEDABAD!AHMEDABAD city!Gujarat!382415\", \"alt\": \"7990585267\", \"circle\": \"VI GUJARAT\", \"id\": \"645057560707\", \"email\": null}, {\"mobile\": \"9904773377\", \"name\": \"MR RUSHIT DAVE\", \"fname\": \"Manishkumar Dave\", \"address\": \"S/O Manishkumar!27!Ramdev Krupa Society Near Jhadeshwar Mahadev Temple!Near Jhadeshwar Mahadev Temple!Adinathnagar  Odhav AHMEDABAD city!AHMEDABAD!AHMEDABAD city!Gujarat!382415\", \"alt\": \"7990585267\", \"circle\": \"VI GUJARAT\", \"id\": \"645057560707\", \"email\": \"rushit1997@gmail.com\"}]}"
+      },
+      {
+        "id": 148,
+        "user_id": 7337075445,
+        "search_type": "mobile_number",
+        "query": "9508011809",
+        "search_date": "2026-03-31 16:24:17",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9508011809\", \"name\": \"Subodh Kumar Singh\", \"fname\": \"ram suran singh\", \"address\": \"!ram surat singh ward n10 semal saray post dev bahuara!bahuara saran bihar!school!bin bahuara saran!Saran!Saran!Bihar!841442\", \"alt\": \"7463952699\", \"circle\": \"BIHAR JIO\", \"id\": \"446411473782\", \"email\": null}, {\"mobile\": \"9508011809\", \"name\": \"SUPRIYAKUMARI\", \"fname\": \"SUBODH SINGH\", \"address\": \"!1!Semal Saray!!Semal Saray!Saran!Saran!BIHAR!841442\", \"alt\": \"9430673568\", \"circle\": \"BIHAR BSNL\", \"id\": \"354596626992\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -7299,6 +7323,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 15:41:38"
+        },
+        {
+          "id": 276,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7337075445,
+          "username": "",
+          "first_name": "SAPTAJIT",
+          "join_date": "2026-03-31 16:24:12",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 16:24:12"
         },
         {
           "id": 200,
