@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 17:50:51",
+    "created_at": "2026-03-31 17:51:37",
     "stats": {
       "main_users": 253,
       "main_admins": 2,
@@ -2022,8 +2022,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 17:50:42",
+        "total_searches": 1,
+        "last_active": "2026-03-31 17:51:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -4672,6 +4672,10 @@
       {
         "user_id": 8441098784,
         "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 8121687214,
+        "claim_date": "2026-03-31"
       }
     ],
     "welcome_settings": [
@@ -6582,6 +6586,14 @@
         "query": "8810562601",
         "search_date": "2026-03-31 17:31:52",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8810562601\", \"name\": \"Khem Chand\", \"fname\": \"Sakuni\", \"address\": \"!738!738 adarsh nager!NA!ballabgarh!Faridabad Faridabad!NA!Haryana!121004\", \"alt\": \"8130427481\", \"circle\": \"JIO DELHI\", \"id\": \"490129406924\", \"email\": null}, {\"mobile\": \"8810562601\", \"name\": \"Khem Chand\", \"fname\": \"Sakuni\", \"address\": \"!738!738adarsh nager!NA!ballabgarh!FaridabadFaridabad!NA!Haryana!121004\", \"alt\": \"8130427481\", \"circle\": \"JIO DELHI\", \"id\": \"490129406924\", \"email\": null}]}"
+      },
+      {
+        "id": 150,
+        "user_id": 8121687214,
+        "search_type": "aadhar",
+        "query": "649964855626",
+        "search_date": "2026-03-31 17:51:15",
+        "result": "{\"success\": true, \"aadhaar\": \"649964855626\", \"total_records\": 4, \"data\": [{\"name\": \"Tarun Kumar\", \"mobile\": \"9205609179\", \"father_name\": \"Mohan lal\", \"address\": \"556 7 Mohammadpur mandir Jharsa 103 gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"9643469111\", \"father_name\": \"mohan lal\", \"address\": \"S/O mohan lal Mohammadpur Jharsa 103 Gurgaon Haryana 122004\", \"alt_mobile\": \"9319819448\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"9582488611\", \"father_name\": \"Mohan Lal\", \"address\": \"H.no 103 Mohammadpur Jharsa 103 Gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"8368027456\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"8368027456\", \"father_name\": \"mohan lal\", \"address\": \"HNo 103 mohammadpur jharsa 103 gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"9643469111\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}], \"source\": \"shadow_api\"}"
       }
     ],
     "bomber_history": [],
