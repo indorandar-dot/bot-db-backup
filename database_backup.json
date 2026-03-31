@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 09:41:21",
+    "created_at": "2026-03-31 09:42:34",
     "stats": {
-      "main_users": 230,
+      "main_users": 231,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 55
+      "total_clone_users": 56
     }
   },
   "main_bot": {
@@ -1816,6 +1816,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:30",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8122286804,
+        "username": "",
+        "first_name": "Vanzzinxx``",
+        "join_date": "2026-03-31 09:42:27",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 09:42:27",
         "money": 0,
         "clone_bots": 0
       },
@@ -6501,6 +6517,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 09:09:46"
+        },
+        {
+          "id": 195,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 8122286804,
+          "username": "",
+          "first_name": "Vanzzinxx``",
+          "join_date": "2026-03-31 09:42:27",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 09:42:27"
         },
         {
           "id": 10,
