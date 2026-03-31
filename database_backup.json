@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 04:48:42",
+    "created_at": "2026-03-31 04:49:23",
     "stats": {
-      "main_users": 71,
+      "main_users": 72,
       "main_admins": 1,
       "clone_bots": 0,
       "total_clone_users": 0
@@ -940,6 +940,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8442994042,
+        "username": "h4x_owner_004",
+        "first_name": "🇭 4🇽",
+        "join_date": "2026-03-31 04:49:16",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 04:49:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8467913130,
         "username": "",
         "first_name": "PENAL 💀 DAKU",
@@ -1089,7 +1105,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 21,
+        "credits": 23,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -1518,6 +1534,12 @@
         "referrer": 8703382327,
         "referred": 6248892132,
         "date": "2026-03-30 19:41:13"
+      },
+      {
+        "id": 8,
+        "referrer": 8703382327,
+        "referred": 8442994042,
+        "date": "2026-03-31 04:49:16"
       }
     ],
     "search_history": [
