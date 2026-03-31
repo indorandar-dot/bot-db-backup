@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:53:24",
+    "created_at": "2026-03-31 06:55:28",
     "stats": {
       "main_users": 215,
       "main_admins": 1,
@@ -2929,13 +2929,13 @@
         "first_name": "FERRUM",
         "join_date": "2026-03-30 18:41:50",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-30 18:42:52",
+        "total_searches": 2,
+        "last_active": "2026-03-31 06:55:18",
         "money": 0,
         "clone_bots": 0
       },
@@ -5324,6 +5324,14 @@
         "query": "aashish_thakur_uk",
         "search_date": "2026-03-31 06:50:06",
         "result": "{\"success\": true, \"id\": \"64733972431\", \"username\": \"aashish_thakur_uk\", \"name\": \"Aashish Thakur\", \"full_name\": \"Aashish Thakur\", \"bio\": \"\\u0914\\u0915\\u093e\\u0924 \\u0928\\u0939\\u0940 \\u0939\\u0948 \\u0939\\u092e\\u093e\\u0930\\u0947 \\u0938\\u093e\\u092e\\u0928\\u0947 \\u0906\\u092a\\u0915\\u0940 \\u0914\\u0930 \\u092f\\u0947 \\u092a\\u094d\\u0930\\u094b\\u092b\\u093c\\u093e\\u0907\\u0932 \\u0939\\u0948 \\u0924\\u0941\\u092e\\u094d\\u0939\\u093e\\u0930\\u0947 \\u092c\\u093e\\u092a \\u0915\\u0940 \\ud83d\\ude0e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/632148973_17937629928156432_9052691805733393421_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHgERnHLCHmKYu8eYCmRwogEyXjePB2nb9uMa6ijOnM485fbxPoTq45SXtt0an5Thk&_nc_ohc=ZR1NwrlLKqAQ7kNvwFsxLr0&_nc_gid=ddFvAqpMdqa19p5j9hzJ9w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy3HoqyX-sjI1Q11VAf-oFWSTcaf7kXWF9kPVt0eXf51w&oe=69D15A3C&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp6_i7a4wp.jpg\", \"followers\": 1683, \"following\": 41, \"posts\": 31, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"64733972431\", \"username\": \"aashish_thakur_uk\", \"name\": \"Aashish Thakur\", \"bio\": \"\\u0914\\u0915\\u093e\\u0924 \\u0928\\u0939\\u0940 \\u0939\\u0948 \\u0939\\u092e\\u093e\\u0930\\u0947 \\u0938\\u093e\\u092e\\u0928\\u0947 \\u0906\\u092a\\u0915\\u0940 \\u0914\\u0930 \\u092f\\u0947 \\u092a\\u094d\\u0930\\u094b\\u092b\\u093c\\u093e\\u0907\\u0932 \\u0939\\u0948 \\u0924\\u0941\\u092e\\u094d\\u0939\\u093e\\u0930\\u0947 \\u092c\\u093e\\u092a \\u0915\\u0940 \\ud83d\\ude0e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/632148973_17937629928156432_9052691805733393421_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHgERnHLCHmKYu8eYCmRwogEyXjePB2nb9uMa6ijOnM485fbxPoTq45SXtt0an5Thk&_nc_ohc=ZR1NwrlLKqAQ7kNvwFsxLr0&_nc_gid=ddFvAqpMdqa19p5j9hzJ9w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy3HoqyX-sjI1Q11VAf-oFWSTcaf7kXWF9kPVt0eXf51w&oe=69D15A3C&_nc_sid=8b3546\", \"followers\": 1683, \"following\": 41, \"posts\": 31, \"recent\": []}}"
+      },
+      {
+        "id": 79,
+        "user_id": 8473317358,
+        "search_type": "instagram",
+        "query": "Captain.endzzz",
+        "search_date": "2026-03-31 06:55:18",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"Captain.endzzz\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
