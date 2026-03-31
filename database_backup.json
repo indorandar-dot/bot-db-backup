@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:08:23",
+    "created_at": "2026-03-31 15:10:27",
     "stats": {
       "main_users": 244,
       "main_admins": 2,
@@ -3862,8 +3862,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 42,
-        "last_active": "2026-03-31 14:15:07",
+        "total_searches": 43,
+        "last_active": "2026-03-31 15:09:32",
         "money": 0,
         "clone_bots": 0
       },
@@ -6326,6 +6326,14 @@
         "query": "1872849977",
         "search_date": "2026-03-31 15:01:37",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1872849977\", \"accountType\": 1, \"nickname\": \"\\u13b7\\u1d0f\\u135d\\u059f\\u1d1bU\\u3164\\u13de\\u026a\\u1d20\\u1d07\", \"region\": \"IND\", \"level\": 70, \"exp\": 2877696, \"bannerId\": 901000242, \"headPic\": 902044006, \"rank\": 327, \"rankingPoints\": 7179, \"badgeCnt\": 135, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 12886, \"showRank\": true, \"lastLoginAt\": \"1774960118\", \"csRank\": 323, \"csRankingPoints\": 152, \"weaponSkinShows\": [907104730, 912038002], \"maxRank\": 327, \"csMaxRank\": 324, \"accountPrefers\": {}, \"createAt\": \"1585299086\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211000230, 203000449, 204000055, 214000080, 205000070], \"equipedSkills\": [16, 22016, 8, 1, 16, 5205, 8, 2, 16, 1103, 8, 3, 16, 2506], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {\"clanId\": \"3050002506\", \"clanName\": \"\\u13b7OTU\\u3164ARMY\", \"captainId\": \"1872849977\", \"clanLevel\": 1, \"capacity\": 20, \"memberNum\": 4}, \"captainBasicInfo\": {\"accountId\": \"1872849977\", \"accountType\": 1, \"nickname\": \"\\u13b7\\u1d0f\\u135d\\u059f\\u1d1bU\\u3164\\u13de\\u026a\\u1d20\\u1d07\", \"region\": \"IND\", \"level\": 70, \"exp\": 2877696, \"bannerId\": 901000242, \"headPic\": 902044006, \"rank\": 327, \"rankingPoints\": 7179, \"badgeCnt\": 135, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 12886, \"showRank\": true, \"lastLoginAt\": \"1774960118\", \"csRank\": 323, \"csRankingPoints\": 152, \"weaponSkinShows\": [907104730, 912038002], \"maxRank\": 327, \"csMaxRank\": 324, \"accountPrefers\": {}, \"createAt\": \"1585299086\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000001, \"name\": \"kitty\", \"level\": 6, \"exp\": 3004, \"isSelected\": true, \"skinId\": 1310000004, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"1872849977\", \"gender\": \"Gender_MALE\", \"language\": \"Language_CN_TRADITIONAL\", \"signature\": \"MY96K CHNL DELETE \\nNEW YT:-[B][FFFF00]\\u00a0@MOTUFF-OFC\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774785106\"}}}"
+      },
+      {
+        "id": 137,
+        "user_id": 8703382327,
+        "search_type": "instagram",
+        "query": "KOMAL_MODZ",
+        "search_date": "2026-03-31 15:09:32",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"KOMAL_MODZ\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
