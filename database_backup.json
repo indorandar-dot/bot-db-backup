@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 13:05:53",
+    "created_at": "2026-03-31 13:07:57",
     "stats": {
-      "main_users": 238,
+      "main_users": 239,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 62
+      "total_clone_users": 64
     }
   },
   "main_bot": {
@@ -726,8 +726,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 19:08:01",
+        "total_searches": 1,
+        "last_active": "2026-03-31 13:06:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -952,6 +952,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:07",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7480481149,
+        "username": "RIGHTHCK",
+        "first_name": "𝗔𝗛",
+        "join_date": "2026-03-31 13:07:49",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 13:07:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -4191,7 +4207,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 13:03:03",
+        "last_active": "2026-03-31 13:07:49",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4405,6 +4421,10 @@
       },
       {
         "user_id": 7360759493,
+        "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 7103570907,
         "claim_date": "2026-03-31"
       }
     ],
@@ -5972,6 +5992,14 @@
         "query": "9926597588",
         "search_date": "2026-03-31 12:56:58",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9926597588\", \"name\": \"GIRISH VISHWAKARMA\", \"fname\": \"RAJKUMAR VISHWAKARMA\", \"address\": \"S/O Rajkumar Vishwakarma!S/O Rajkumar Vishwakarma!Ward No.-16!Keolari  Keolari !KEOLARI-SEONI!MP!480994\", \"alt\": \"7489299449\", \"circle\": \"VI MP\", \"id\": \"526226846375\", \"email\": null}]}"
+      },
+      {
+        "id": 107,
+        "user_id": 7103570907,
+        "search_type": "mobile_number",
+        "query": "8296728392",
+        "search_date": "2026-03-31 13:06:26",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8296728392\", \"name\": \"Monisha Soni\", \"fname\": \"Budhi Sunar\", \"address\": \"C/O Budhi Sunar!Samudra Apartment!!!  !Doddabanahalli!Bengaluru!Karnataka!560067\", \"alt\": null, \"circle\": \"AIRTEL KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"8296728392\", \"name\": \"GAKUL CHANDRA SARKAR\", \"fname\": \"REBATI MOHAN SARKAR\", \"address\": \"12 NAPOKLU INDAN SHCOOL  Kodagu Karnataka 571214\", \"alt\": \"7349711857\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"CNF3439541\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -6700,6 +6728,21 @@
           "last_active": "2026-03-31 10:06:08"
         },
         {
+          "id": 221,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7103570907,
+          "username": "",
+          "first_name": "BOXER",
+          "join_date": "2026-03-31 13:05:59",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 13:07:28"
+        },
+        {
           "id": 200,
           "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
           "user_id": 7360759493,
@@ -6713,6 +6756,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 10:07:37"
+        },
+        {
+          "id": 223,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7480481149,
+          "username": "RIGHTHCK",
+          "first_name": "𝗔𝗛",
+          "join_date": "2026-03-31 13:07:49",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 13:07:49"
         },
         {
           "id": 216,
