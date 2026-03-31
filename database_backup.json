@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:27:13",
+    "created_at": "2026-03-31 15:28:17",
     "stats": {
-      "main_users": 247,
+      "main_users": 248,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 71
+      "total_clone_users": 72
     }
   },
   "main_bot": {
@@ -72,6 +72,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 17:04:08",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 1698472112,
+        "username": "sumit7130",
+        "first_name": "𝗦 𝗨 𝗠 𝗜 𝗧 ▌⚡",
+        "join_date": "2026-03-31 15:28:09",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 15:28:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -3697,13 +3713,13 @@
         "first_name": "Shivi",
         "join_date": "2026-03-31 15:22:09",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 15:26:18",
+        "total_searches": 3,
+        "last_active": "2026-03-31 15:27:30",
         "money": 0,
         "clone_bots": 0
       },
@@ -6426,6 +6442,14 @@
         "query": "Minakshi_sinha_077",
         "search_date": "2026-03-31 15:26:18",
         "result": "{\"success\": true, \"id\": \"62383290148\", \"username\": \"minakshi_sinha_077\", \"name\": \"ROYAL MINAKSHI.\", \"full_name\": \"ROYAL MINAKSHI.\", \"bio\": \"Hated by everyone defeated by none.\\ud83d\\uddfd\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/536951798_17934164079074149_5850398135877379567_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFGy7Fm1vKwRpY4WrkHM88bZ6qMcJ3Ohwl10nbkTEYU8CDeoxdlP_0C3WQiRcZajg&_nc_ohc=l1KrQGWqrm4Q7kNvwEMJQJa&_nc_gid=wkLS4b4Te7n7GxO9M6Qzkw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwytsFfZGvDbZICPbN5ultps8XnlUm4XliZWKevyylRpA&oe=69D1B63D&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpdf1e6ucm.jpg\", \"followers\": 1931, \"following\": 2, \"posts\": 16, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"62383290148\", \"username\": \"minakshi_sinha_077\", \"name\": \"ROYAL MINAKSHI.\", \"bio\": \"Hated by everyone defeated by none.\\ud83d\\uddfd\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/536951798_17934164079074149_5850398135877379567_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFGy7Fm1vKwRpY4WrkHM88bZ6qMcJ3Ohwl10nbkTEYU8CDeoxdlP_0C3WQiRcZajg&_nc_ohc=l1KrQGWqrm4Q7kNvwEMJQJa&_nc_gid=wkLS4b4Te7n7GxO9M6Qzkw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfwytsFfZGvDbZICPbN5ultps8XnlUm4XliZWKevyylRpA&oe=69D1B63D&_nc_sid=8b3546\", \"followers\": 1931, \"following\": 2, \"posts\": 16, \"recent\": []}}"
+      },
+      {
+        "id": 143,
+        "user_id": 8555037541,
+        "search_type": "mobile_number",
+        "query": "9576358393",
+        "search_date": "2026-03-31 15:27:30",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9576358393\", \"name\": \"RAM BABU DAS\", \"fname\": \"BALESHWAR DAS\", \"address\": \"S/O  Baleshwar Das S/O  Baleshwar Das lagunia raghukanth Samastipur  Samastipur ward No. 03 BEJHA DIH-SAMASTIPUR BR 848101\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"858815800299\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -7018,6 +7042,21 @@
     },
     "86123017...": {
       "users": [
+        {
+          "id": 263,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 1698472112,
+          "username": "sumit7130",
+          "first_name": "𝗦 𝗨 𝗠 𝗜 𝗧 ▌⚡",
+          "join_date": "2026-03-31 15:28:09",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 15:28:09"
+        },
         {
           "id": 259,
           "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
