@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 13:44:04",
+    "created_at": "2026-03-31 13:46:08",
     "stats": {
       "main_users": 241,
       "main_admins": 1,
@@ -3814,8 +3814,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 25,
-        "last_active": "2026-03-31 09:59:50",
+        "total_searches": 28,
+        "last_active": "2026-03-31 13:45:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -6048,6 +6048,30 @@
         "query": "7827624941",
         "search_date": "2026-03-31 13:14:01",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7827624941\", \"name\": \"Km Savita\", \"fname\": \"Rakesh Singh\", \"address\": \"D/O Rakesh Singh!!H.No-D-127 Gali No-8 Om Nagar Meethapur Extn!!Badarpur South Delhi!Delhi!110044\", \"alt\": \"919911626382\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"7827624941\", \"name\": \"Rubi\", \"fname\": \"bhure lal\", \"address\": \"d/o  bhure lal!346 8!RAILWAY COLONY!!railway colony mandawali!mandawali fazalpur!east delhi!Delhi!110092\", \"alt\": \"8448277531\", \"circle\": \"Delhi Jio\", \"id\": \"686369412120\", \"email\": null}, {\"mobile\": \"7827624941\", \"name\": \"Km Savita\", \"fname\": \"Rakesh Singh\", \"address\": \"D/O Rakesh Singh!!HNo-D-127 Gali No-8Om Nagar Meethapur Extn!!BadarpurSouth Delhi!Delhi!110044\", \"alt\": \"919911626382\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 109,
+        "user_id": 8703382327,
+        "search_type": "aadhar",
+        "query": "565209852259",
+        "search_date": "2026-03-31 13:44:22",
+        "result": "{\"success\": true, \"aadhaar\": \"565209852259\", \"total_records\": 1, \"data\": [{\"name\": \"Raj Dhani\", \"mobile\": \"8115949275\", \"father_name\": \"guru prasad\", \"address\": \"d/o guru prasad Jaitikhera bhagu kheda jaitikhera jaitikhera Bakshi Ka Talab lucknow Uttar Pradesh 227305\", \"alt_mobile\": \"9956303304\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"565209852259\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 110,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9956303304",
+        "search_date": "2026-03-31 13:44:44",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9956303304\", \"name\": \"Vinod Kumar\", \"fname\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal!!!ka 43 buddeswar bihar!Avas Vikas Colony S.O Lucknow!Uttar Pradesh!226017\", \"alt\": \"9140327959\", \"circle\": \"JIO UPE\", \"id\": \"618102920901\", \"email\": null}, {\"mobile\": \"9956303304\", \"name\": \"Vinod Kumar\", \"fname\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal!ka 43 buddeswar bihar Avas Vikas Colony S O!!!Lucknow!Uttar Pradesh!226017\", \"alt\": null, \"circle\": \"UPEAST\", \"id\": \"618102920901\", \"email\": null}, {\"mobile\": \"9956303304\", \"name\": \"Raj Dhani\", \"fname\": \"guru prasad\", \"address\": \"d/o  guru prasad!!Jaitikhera!!bhagu kheda jaitikhera!jaitikhera Bakshi Ka Talab!lucknow!Uttar Pradesh!227305\", \"alt\": \"8115949275\", \"circle\": \"JIO UPE\", \"id\": \"565209852259\", \"email\": null}]}"
+      },
+      {
+        "id": 111,
+        "user_id": 8703382327,
+        "search_type": "aadhar",
+        "query": "618102920901",
+        "search_date": "2026-03-31 13:45:08",
+        "result": "{\"success\": true, \"aadhaar\": \"618102920901\", \"total_records\": 2, \"data\": [{\"name\": \"Vinod Kumar\", \"mobile\": \"9956303304\", \"father_name\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal ka 43 buddeswar bihar Avas Vikas Colony S O Lucknow Uttar Pradesh 226017\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618102920901\"}, {\"name\": \"Vinod Kumar\", \"mobile\": \"9140327959\", \"father_name\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal ka 43 buddeswar bihar Avas Vikas Colony S.O Lucknow Uttar Pradesh 226017\", \"alt_mobile\": \"919956303304\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618102920901\"}], \"source\": \"shadow_api\"}"
       }
     ],
     "bomber_history": [],
