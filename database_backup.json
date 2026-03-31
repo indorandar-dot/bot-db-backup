@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:50:05",
+    "created_at": "2026-03-31 15:52:10",
     "stats": {
       "main_users": 249,
       "main_admins": 2,
@@ -241,13 +241,13 @@
         "first_name": "Obito _",
         "join_date": "2026-03-30 08:55:51",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 08:55:51",
+        "total_searches": 1,
+        "last_active": "2026-03-31 15:50:25",
         "money": 0,
         "clone_bots": 0
       },
@@ -4253,7 +4253,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 15:36:35",
+        "last_active": "2026-03-31 15:50:07",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4373,7 +4373,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 15:46:07",
+        "last_active": "2026-03-31 15:50:16",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6490,6 +6490,14 @@
         "query": "8448839814",
         "search_date": "2026-03-31 15:38:54",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8448839814\", \"name\": \"Harsh Sharma\", \"fname\": \"Rajesh Sharma\", \"address\": \"!!h no 23 mukharjee nagar dhaka village!delhi!Delhi North North West!Delhi!110009\", \"alt\": \"8383013428\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Harsh Sharma\", \"fname\": \"Rajesh Sharma\", \"address\": \"!!h no 23mukharjee nagardhaka village!delhi!Delhi NorthNorth West!Delhi!110009\", \"alt\": \"8383013428\", \"circle\": \"JIO DELHI\", \"id\": null, \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Himanshu  Sharma\", \"fname\": \"Rajesh Kumar Sharma\", \"address\": \"!711!Fatehpuri!Chadni Choke!DelhiDelhi!Delhi!110006\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"MR. HIMANSHU SHARMA\", \"fname\": \"rajesh kumar\", \"address\": \"! 711 ! church mission road !  ! fatehpuri ! DELHI !  ! Delhi ! 110006\", \"alt\": \"9654852291\", \"circle\": \"Delhi Voda\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"Himanshu  Sharma\", \"fname\": \"Rajesh Kumar Sharma\", \"address\": \"!711 Fatehpuri Chadni Choke Old AIRTEL DELHI Relway Stetion AIRTEL DELHI AIRTEL DELHI AIRTEL DELHI 110006!!!!!!!\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": \"777803777943\", \"email\": null}, {\"mobile\": \"8448839814\", \"name\": \"MR HIMANSHU SHARMA\", \"fname\": \"rajesh kumar\", \"address\": \"! 711 ! church mission road !  ! fatehpuri ! DELHI !  ! Delhi ! 110006\", \"alt\": \"9654852291\", \"circle\": \"Delhi Voda\", \"id\": \"777803777943\", \"email\": null}]}"
+      },
+      {
+        "id": 147,
+        "user_id": 6049790255,
+        "search_type": "mobile_number",
+        "query": "09904773377",
+        "search_date": "2026-03-31 15:50:25",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9904773377\", \"name\": \"MR RUSHIT DAVE\", \"fname\": \"Manishkumar Dave\", \"address\": \"27!Ramdev Krupa Society Near Jhadeshwar Mahadev Temple!Near Jhadeshwar Mahadev Temple!Adinathnagar  Odhav AHMEDABAD city!AHMEDABAD!AHMEDABAD city!Gujarat!382415\", \"alt\": \"7990585267\", \"circle\": \"VI GUJARAT\", \"id\": \"645057560707\", \"email\": null}, {\"mobile\": \"9904773377\", \"name\": \"MR RUSHIT DAVE\", \"fname\": \"Manishkumar Dave\", \"address\": \"S/O Manishkumar!27!Ramdev Krupa Society Near Jhadeshwar Mahadev Temple!Near Jhadeshwar Mahadev Temple!Adinathnagar  Odhav AHMEDABAD city!AHMEDABAD!AHMEDABAD city!Gujarat!382415\", \"alt\": \"7990585267\", \"circle\": \"VI GUJARAT\", \"id\": \"645057560707\", \"email\": \"rushit1997@gmail.com\"}]}"
       }
     ],
     "bomber_history": [],
