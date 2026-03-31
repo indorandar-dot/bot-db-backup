@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 11:55:22",
+    "created_at": "2026-03-31 11:57:26",
     "stats": {
       "main_users": 237,
       "main_admins": 1,
@@ -209,13 +209,13 @@
         "first_name": "𝐓𝐇𝐔𝐍𝐃𝐄𝐑",
         "join_date": "2026-03-31 11:54:54",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 11:54:54",
+        "total_searches": 1,
+        "last_active": "2026-03-31 11:55:22",
         "money": 0,
         "clone_bots": 0
       },
@@ -5924,6 +5924,14 @@
         "query": "mr__akhil_11",
         "search_date": "2026-03-31 09:59:50",
         "result": "{\"success\": true, \"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"full_name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEpt5TKZjBdDETw3pgoWeA1_qzhf9bBilJoZwZNJ0MUM1xvie1PqBA8B0WnJv12Mm4&_nc_ohc=gLkJsiBjo7UQ7kNvwHek6CN&_nc_gid=5hQNbVSSMWELS_5K4XCPDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy8ZG5PerS2EhVrutheHGHtNAPpjrlBl--_MoNSHUdAVw&oe=69D16118&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpagxtswqm.jpg\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"5918276931\", \"username\": \"mr__akhil_11\", \"name\": \"Akhil Uppala\", \"bio\": \"M\\u00f8m\\ud83d\\udc99D\\u00e0d  \\n________________________\\nJa! Sree Kr!sh\\u00f1\\u00e0\\u00e2\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657675298_18401855110196932_2519402309427985922_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEpt5TKZjBdDETw3pgoWeA1_qzhf9bBilJoZwZNJ0MUM1xvie1PqBA8B0WnJv12Mm4&_nc_ohc=gLkJsiBjo7UQ7kNvwHek6CN&_nc_gid=5hQNbVSSMWELS_5K4XCPDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afy8ZG5PerS2EhVrutheHGHtNAPpjrlBl--_MoNSHUdAVw&oe=69D16118&_nc_sid=8b3546\", \"followers\": 327, \"following\": 183, \"posts\": 10, \"recent\": []}}"
+      },
+      {
+        "id": 103,
+        "user_id": 6130957205,
+        "search_type": "mobile_number",
+        "query": "9039900388",
+        "search_date": "2026-03-31 11:55:22",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9039900388\", \"name\": \"Girish Vishwakarma\", \"fname\": \"Rajkumar Vishwakarma\", \"address\": \"h no 1 Keolari PO Bajrang Colocy  Ward No.-16 Keolari Keolari Seoni  Madhya Pradesh 480994\", \"alt\": \"7489299449\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
