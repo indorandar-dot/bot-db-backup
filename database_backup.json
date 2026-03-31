@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 07:54:11",
+    "created_at": "2026-03-31 07:55:26",
     "stats": {
       "main_users": 220,
       "main_admins": 1,
@@ -449,13 +449,13 @@
         "first_name": "Lisha",
         "join_date": "2026-03-31 07:53:57",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 07:53:57",
+        "total_searches": 1,
+        "last_active": "2026-03-31 07:54:25",
         "money": 0,
         "clone_bots": 0
       },
@@ -3843,7 +3843,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 07:54:02",
+        "last_active": "2026-03-31 07:55:14",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5428,6 +5428,14 @@
         "query": "sayan777",
         "search_date": "2026-03-31 07:25:18",
         "result": "{\"success\": true, \"id\": \"11166528393\", \"username\": \"sayan777\", \"name\": \"Sayan\", \"full_name\": \"Sayan\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFsq2ky2J7JSp9pZeFpXqnncsIOA9T9V2qDbjLk1W5JIMkMNnMJ5JrZ2EAU9Ce9eJA&_nc_ohc=ZREpiJCJTqUQ7kNvwENNUkF&_nc_gid=w8-NOQdTAiTIzGM85oyrXQ&edm=AJFGJLkBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfyPMf0CyypbPaZZQVg7qvC_x9xLmS51sRmQbFhTCDfn3g&oe=69D139EA&_nc_sid=2c2bc7\", \"pic_file\": \"/tmp/tmpfr1nov93.jpg\", \"followers\": 23, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"11166528393\", \"username\": \"sayan777\", \"name\": \"Sayan\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFsq2ky2J7JSp9pZeFpXqnncsIOA9T9V2qDbjLk1W5JIMkMNnMJ5JrZ2EAU9Ce9eJA&_nc_ohc=ZREpiJCJTqUQ7kNvwENNUkF&_nc_gid=w8-NOQdTAiTIzGM85oyrXQ&edm=AJFGJLkBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfyPMf0CyypbPaZZQVg7qvC_x9xLmS51sRmQbFhTCDfn3g&oe=69D139EA&_nc_sid=2c2bc7\", \"followers\": 23, \"following\": 0, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 85,
+        "user_id": 6866806568,
+        "search_type": "mobile_number",
+        "query": "6295366175",
+        "search_date": "2026-03-31 07:54:25",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"6295366175\", \"name\": \"Bishwajit Mondal\", \"fname\": \"Ram mondal\", \"address\": \"!! Khamargachi!!Dadpur Hooghly!West Bengal!712515\", \"alt\": \"919007995980\", \"circle\": \"JIO WB\", \"id\": \"893424736038\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
