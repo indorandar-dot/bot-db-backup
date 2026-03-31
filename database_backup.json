@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 13:46:08",
+    "created_at": "2026-03-31 13:48:13",
     "stats": {
       "main_users": 241,
       "main_admins": 1,
@@ -577,13 +577,13 @@
         "first_name": "Obito",
         "join_date": "2026-03-30 10:16:03",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-30 10:16:03",
+        "total_searches": 1,
+        "last_active": "2026-03-31 13:47:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -737,13 +737,13 @@
         "first_name": "BOXER",
         "join_date": "2026-03-30 19:08:01",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 13:06:26",
+        "total_searches": 2,
+        "last_active": "2026-03-31 13:47:33",
         "money": 0,
         "clone_bots": 0
       },
@@ -4119,7 +4119,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 13:11:45",
+        "last_active": "2026-03-31 13:46:59",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4239,7 +4239,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-03-31 13:39:28",
+        "last_active": "2026-03-31 13:47:30",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6072,6 +6072,22 @@
         "query": "618102920901",
         "search_date": "2026-03-31 13:45:08",
         "result": "{\"success\": true, \"aadhaar\": \"618102920901\", \"total_records\": 2, \"data\": [{\"name\": \"Vinod Kumar\", \"mobile\": \"9956303304\", \"father_name\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal ka 43 buddeswar bihar Avas Vikas Colony S O Lucknow Uttar Pradesh 226017\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618102920901\"}, {\"name\": \"Vinod Kumar\", \"mobile\": \"9140327959\", \"father_name\": \"Sunder Lal\", \"address\": \"S/O Sunder Lal ka 43 buddeswar bihar Avas Vikas Colony S.O Lucknow Uttar Pradesh 226017\", \"alt_mobile\": \"919956303304\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"618102920901\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 112,
+        "user_id": 6843859380,
+        "search_type": "mobile_number",
+        "query": "7355734407",
+        "search_date": "2026-03-31 13:47:11",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7355734407\", \"name\": \"Gulam Gaush\", \"fname\": \"Gulam Mahmood\", \"address\": \"S/O: Gulam Mahmood!!goriyana bhadohi!goriyana!bhadohi!Sant Ravidas Nagar!Sant Ravidas Nagar!Uttar Pradesh!221401\", \"alt\": \"7348032822\", \"circle\": \"JIO UPE\", \"id\": \"739401496370\", \"email\": null}, {\"mobile\": \"7355734407\", \"name\": \"Muhammad Kajim\", \"fname\": \"Ghulam Mahmood\", \"address\": \"!00!Pachbhaiya bhadohi!Pachbhaiya!Bhadohi!Sant Ravidas Nagar!Sant Ravidas Nagar!Uttar Pradesh!221401\", \"alt\": \"7307729547\", \"circle\": \"JIO UPE\", \"id\": \"791247187934\", \"email\": null}]}"
+      },
+      {
+        "id": 113,
+        "user_id": 7103570907,
+        "search_type": "mobile_number",
+        "query": "8660455322",
+        "search_date": "2026-03-31 13:47:33",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8660455322\", \"name\": \"Bhagyashree\", \"fname\": \"Mahadev\", \"address\": \"Mahadev!d/o mahadev!Yenkura!bidar!Yenkura Bhalki!Bidar!Bidar!Karnataka!585328\", \"alt\": \"9481265235\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"294684198127\", \"email\": null}, {\"mobile\": \"8660455322\", \"name\": \"Mohd Gousuddin\", \"fname\": \"Mohd Moinuddin\", \"address\": \"S/O Mohd Moinuddin!!Sr. No 348/ Plot No 26 mohalla murad nagar!hallikhed b!Hallikhed (b) Bidar!Karnataka!585414\", \"alt\": \"918123123133\", \"circle\": \"JIO KARNATKA\", \"id\": \"888229968379\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -6827,7 +6843,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 13:07:28"
+          "last_active": "2026-03-31 13:47:30"
         },
         {
           "id": 200,
