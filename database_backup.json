@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 07:16:08",
+    "created_at": "2026-03-31 07:18:13",
     "stats": {
       "main_users": 217,
       "main_admins": 1,
@@ -49,13 +49,13 @@
         "first_name": "𝐍 ɪ ᴛ ɪ 𝐍 !!🧃",
         "join_date": "2026-03-31 07:15:42",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 07:15:42",
+        "total_searches": 1,
+        "last_active": "2026-03-31 07:17:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -5394,6 +5394,14 @@
         "query": "Zxu3h",
         "search_date": "2026-03-31 07:13:13",
         "result": "{\"success\": true, \"id\": \"11122076621\", \"username\": \"zxu3h\", \"name\": \"\\ud80c\\uddb0 \\ud835\\udc01\\ud835\\ude7b\\u1d00\\ud835\\ude89\\u1d07 \\ud80c\\udda9\\u20df\\ud83c\\udde6\\ud83c\\uddf1\", \"full_name\": \"\\ud80c\\uddb0 \\ud835\\udc01\\ud835\\ude7b\\u1d00\\ud835\\ude89\\u1d07 \\ud80c\\udda9\\u20df\\ud83c\\udde6\\ud83c\\uddf1\", \"bio\": \"\\ud80c\\uddb0\\ud80c\\udda9\\u20df\\ud83c\\udde6\\ud83c\\uddf1 \\ud835\\udc01\\ud835\\ude7b\\u1d00\\ud835\\ude89\\u1d07 \\ud80c\\udda9\\u20df\\ud83c\\udff4\\u200d\\u2620\\ufe0f\\n\\ud835\\ude7e\\u1d21\\ud835\\ude7d\\ud835\\ude74\\ud835\\ude81\\ud83c\\udf20 \\ud835\\ude7e\\ud835\\ude75\\n                \\n               \\u66c9 \\ud835\\udc12\\ud835\\udc00\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc00\\ud835\\udc0b\\ud835\\udc0f \\ud835\\udc04\\ud835\\udc11\\ud835\\udc00 \\u66c9\\ud83c\\udff4\\u200d\\u2620\\ufe0f\\n~\\\\\\ud835\\udc02\\u029f\\u1d00\\u0274 #\\ud835\\udc05\\u1d04\\u1d0b\\u1d07\\ud835\\udc11 \\ud835\\udc07\\u1d1c /~ \\ud835\\udc11\\u0274\\u1d05\\u028f\\ud835\\udc0a ~ \\ud83c\\udde6\\ud83c\\uddf1\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/653580814_18182829283372622_5816702742131938470_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFWsNt0BFD7o2FnjkjL-ZZkopajXRciOZ-Rn5apcv42MWLLvbCpBfXeppAqlVZ00_g&_nc_ohc=s1seZooj23kQ7kNvwHXhc3z&_nc_gid=bW97M5jNzke7Kb7CWsI6ug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzWO_5raU2LlMt9_c4vHuskrOesat6AamoKc_vNiSB9wA&oe=69D15F0D&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpc61jnobz.jpg\", \"followers\": 29, \"following\": 3, \"posts\": 7, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"11122076621\", \"username\": \"zxu3h\", \"name\": \"\\ud80c\\uddb0 \\ud835\\udc01\\ud835\\ude7b\\u1d00\\ud835\\ude89\\u1d07 \\ud80c\\udda9\\u20df\\ud83c\\udde6\\ud83c\\uddf1\", \"bio\": \"\\ud80c\\uddb0\\ud80c\\udda9\\u20df\\ud83c\\udde6\\ud83c\\uddf1 \\ud835\\udc01\\ud835\\ude7b\\u1d00\\ud835\\ude89\\u1d07 \\ud80c\\udda9\\u20df\\ud83c\\udff4\\u200d\\u2620\\ufe0f\\n\\ud835\\ude7e\\u1d21\\ud835\\ude7d\\ud835\\ude74\\ud835\\ude81\\ud83c\\udf20 \\ud835\\ude7e\\ud835\\ude75\\n                \\n               \\u66c9 \\ud835\\udc12\\ud835\\udc00\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc00\\ud835\\udc0b\\ud835\\udc0f \\ud835\\udc04\\ud835\\udc11\\ud835\\udc00 \\u66c9\\ud83c\\udff4\\u200d\\u2620\\ufe0f\\n~\\\\\\ud835\\udc02\\u029f\\u1d00\\u0274 #\\ud835\\udc05\\u1d04\\u1d0b\\u1d07\\ud835\\udc11 \\ud835\\udc07\\u1d1c /~ \\ud835\\udc11\\u0274\\u1d05\\u028f\\ud835\\udc0a ~ \\ud83c\\udde6\\ud83c\\uddf1\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/653580814_18182829283372622_5816702742131938470_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFWsNt0BFD7o2FnjkjL-ZZkopajXRciOZ-Rn5apcv42MWLLvbCpBfXeppAqlVZ00_g&_nc_ohc=s1seZooj23kQ7kNvwHXhc3z&_nc_gid=bW97M5jNzke7Kb7CWsI6ug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzWO_5raU2LlMt9_c4vHuskrOesat6AamoKc_vNiSB9wA&oe=69D15F0D&_nc_sid=8b3546\", \"followers\": 29, \"following\": 3, \"posts\": 7, \"recent\": []}}"
+      },
+      {
+        "id": 83,
+        "user_id": 1017838545,
+        "search_type": "mobile_number",
+        "query": "8780985088",
+        "search_date": "2026-03-31 07:17:08",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8780985088\", \"name\": \"Machhar Ishvar Bhai\", \"fname\": \"Dala Bhai\", \"address\": \"S/O  Dala Bhai!!Vangad!faliya chutiya!!Pipliya Fatepura!Dahod!Gujarat!389172\", \"alt\": \"8780985088\", \"circle\": \"JIO GUJARAT\", \"id\": \"956851362011\", \"email\": null}, {\"mobile\": \"8780985088\", \"name\": \"Machhar Ishvar Bhai\", \"fname\": \"Dala Bhai\", \"address\": \"S/O  Dala Bhai!!Vangad!faliya chutiya!!Pipliya Fatepura!Dahod!Gujarat!389172\", \"alt\": \"8780985088\", \"circle\": \"JIO GUJARAT\", \"id\": \"956851362011\", \"email\": \"dharmendramachaar@gmail.com\"}]}"
       }
     ],
     "bomber_history": [],
