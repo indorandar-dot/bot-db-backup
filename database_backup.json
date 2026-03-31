@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 18:06:26",
+    "created_at": "2026-03-31 18:08:30",
     "stats": {
       "main_users": 254,
       "main_admins": 2,
@@ -1062,8 +1062,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 18:03:53",
+        "total_searches": 2,
+        "last_active": "2026-03-31 18:06:57",
         "money": 0,
         "clone_bots": 0
       },
@@ -4333,7 +4333,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 18:05:17",
+        "last_active": "2026-03-31 18:07:21",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6622,6 +6622,14 @@
         "query": "patelnvrdie",
         "search_date": "2026-03-31 18:03:53",
         "result": "{\"success\": true, \"id\": \"34825956790\", \"username\": \"patelnvrdie\", \"name\": \"CHOUDHARY #1\", \"full_name\": \"CHOUDHARY #1\", \"bio\": \"Loading.........\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/657541079_18076319639164791_6276561141136930937_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGk7cyzFQgSzzTYRCfE8QSZnLoQl9bV7drrY-cE_YYXjRpQcm3V9V34ParoRvGj3vM&_nc_ohc=ydgTzXytu1YQ7kNvwEdnalT&_nc_gid=pYYAQ2UKWNsEkW0AYHrKFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxdjXuUdb2V7AJGBFdPOqr7p49qGSX-aRoICwTAKjoZGg&oe=69D1E321&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp5ykwp77o.jpg\", \"followers\": 2, \"following\": 2, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"34825956790\", \"username\": \"patelnvrdie\", \"name\": \"CHOUDHARY #1\", \"bio\": \"Loading.........\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/657541079_18076319639164791_6276561141136930937_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGk7cyzFQgSzzTYRCfE8QSZnLoQl9bV7drrY-cE_YYXjRpQcm3V9V34ParoRvGj3vM&_nc_ohc=ydgTzXytu1YQ7kNvwEdnalT&_nc_gid=pYYAQ2UKWNsEkW0AYHrKFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxdjXuUdb2V7AJGBFdPOqr7p49qGSX-aRoICwTAKjoZGg&oe=69D1E321&_nc_sid=8b3546\", \"followers\": 2, \"following\": 2, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 152,
+        "user_id": 7465424227,
+        "search_type": "username",
+        "query": "@botsbypatel",
+        "search_date": "2026-03-31 18:06:57",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
