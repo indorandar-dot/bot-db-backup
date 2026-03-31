@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 23:35:47",
+    "created_at": "2026-03-31 23:37:51",
     "stats": {
       "main_users": 262,
       "main_admins": 2,
@@ -625,13 +625,13 @@
         "first_name": "ㅤ",
         "join_date": "2026-03-31 23:31:18",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 23:31:18",
+        "total_searches": 2,
+        "last_active": "2026-03-31 23:36:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -4838,6 +4838,10 @@
       {
         "user_id": 6116879349,
         "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 6756554801,
+        "claim_date": "2026-03-31"
       }
     ],
     "welcome_settings": [
@@ -6802,6 +6806,22 @@
         "query": "{'user_id': 7506010137, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-03-31 21:21:55",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7506010137\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 156,
+        "user_id": 6756554801,
+        "search_type": "instagram",
+        "query": "jeshika_khadka",
+        "search_date": "2026-03-31 23:35:57",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"jeshika_khadka\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
+      },
+      {
+        "id": 157,
+        "user_id": 6756554801,
+        "search_type": "mobile_number",
+        "query": "9918705479",
+        "search_date": "2026-03-31 23:36:46",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9918705479\", \"name\": \"Amar Kumar Mourya\", \"fname\": \"Abhay Ram Mourya\", \"address\": \"S/O Abhay Ram Mourya!!GADI ADHIKANSH!!Khaga Fatehpur!Uttar Pradesh!212655\", \"alt\": \"919682538902\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
