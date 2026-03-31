@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:22:17",
+    "created_at": "2026-03-31 15:23:04",
     "stats": {
       "main_users": 247,
       "main_admins": 2,
@@ -3697,13 +3697,13 @@
         "first_name": "Shivi",
         "join_date": "2026-03-31 15:22:09",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 15:22:09",
+        "total_searches": 1,
+        "last_active": "2026-03-31 15:22:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -6406,6 +6406,14 @@
         "query": "15250922573",
         "search_date": "2026-03-31 15:15:55",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"15250922573\", \"accountType\": 1, \"nickname\": \"NO6d5e9fe2a5\", \"region\": \"IND\", \"level\": 8, \"exp\": 4054, \"rank\": 301, \"rankingPoints\": 1000, \"badgeCnt\": 25, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 2, \"showRank\": true, \"lastLoginAt\": \"1774967119\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1774959270\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [214000000, 208000000, 203000000, 205000000, 211000000, 204000000], \"equipedSkills\": [16, 706, 8, 1, 16, 22016, 8, 2, 16, 4906, 8, 3, 16, 606], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1774959270}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000113, \"level\": 1, \"exp\": 96, \"isSelected\": true, \"skinId\": 1310000131, \"selectedSkillId\": 1315000012}, \"socialInfo\": {\"accountId\": \"15250922573\", \"language\": \"Language_EN\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_RAMPAGE\"], \"rankShow\": \"RankShow_BR\", \"battleTagCount\": [5, 7]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1774959292\"}}}"
+      },
+      {
+        "id": 141,
+        "user_id": 8555037541,
+        "search_type": "mobile_number",
+        "query": "7707081734",
+        "search_date": "2026-03-31 15:22:39",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7707081734\", \"name\": \"GUDIYA\\tDEVI\", \"fname\": \"SIYARAM  PASWAN\", \"address\": \"W/O  Siyaram Paswan W/O  Siyaram Paswan . rupaine   BELA BAIJU-East Champaran BR 845457\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"xxxx-xxxx-3117\", \"email\": null}, {\"mobile\": \"7707081734\", \"name\": \"GUDIYA DEVI\", \"fname\": \"SIYARAM PASWAN\", \"address\": \"W/O  Siyaram Paswan!W/O  Siyaram Paswan!rupaine  EAST CHAMPARAN!!BELA BAIJU!Bihar!845457\", \"alt\": null, \"circle\": \"VODA BHR&JHR\", \"id\": \"xxxxxxxx3117\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
