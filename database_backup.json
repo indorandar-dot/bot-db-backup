@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 15:00:04",
+    "created_at": "2026-03-31 15:02:10",
     "stats": {
       "main_users": 244,
       "main_admins": 2,
@@ -1025,13 +1025,13 @@
         "first_name": "🦋⋆⎯꯭‌꥓꯭𝆬𝐋 𝐈 𝐒 𝐀 𝐐 𝐔 𝐄 𝐍 𝐍𝆺꯭꯭꯭꯭𝅥𝆬🫧",
         "join_date": "2026-03-31 03:22:37",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 03:22:37",
+        "total_searches": 1,
+        "last_active": "2026-03-31 15:01:37",
         "money": 0,
         "clone_bots": 0
       },
@@ -4173,7 +4173,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-03-31 13:48:27",
+        "last_active": "2026-03-31 15:01:35",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6318,6 +6318,14 @@
         "query": "8296728392",
         "search_date": "2026-03-31 14:21:51",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8296728392\", \"name\": \"Monisha Soni\", \"fname\": \"Budhi Sunar\", \"address\": \"C/O Budhi Sunar!Samudra Apartment!!!  !Doddabanahalli!Bengaluru!Karnataka!560067\", \"alt\": null, \"circle\": \"AIRTEL KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"8296728392\", \"name\": \"GAKUL CHANDRA SARKAR\", \"fname\": \"REBATI MOHAN SARKAR\", \"address\": \"12 NAPOKLU INDAN SHCOOL  Kodagu Karnataka 571214\", \"alt\": \"7349711857\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"CNF3439541\", \"email\": null}]}"
+      },
+      {
+        "id": 136,
+        "user_id": 7515862733,
+        "search_type": "ff_info",
+        "query": "1872849977",
+        "search_date": "2026-03-31 15:01:37",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1872849977\", \"accountType\": 1, \"nickname\": \"\\u13b7\\u1d0f\\u135d\\u059f\\u1d1bU\\u3164\\u13de\\u026a\\u1d20\\u1d07\", \"region\": \"IND\", \"level\": 70, \"exp\": 2877696, \"bannerId\": 901000242, \"headPic\": 902044006, \"rank\": 327, \"rankingPoints\": 7179, \"badgeCnt\": 135, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 12886, \"showRank\": true, \"lastLoginAt\": \"1774960118\", \"csRank\": 323, \"csRankingPoints\": 152, \"weaponSkinShows\": [907104730, 912038002], \"maxRank\": 327, \"csMaxRank\": 324, \"accountPrefers\": {}, \"createAt\": \"1585299086\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211000230, 203000449, 204000055, 214000080, 205000070], \"equipedSkills\": [16, 22016, 8, 1, 16, 5205, 8, 2, 16, 1103, 8, 3, 16, 2506], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {\"clanId\": \"3050002506\", \"clanName\": \"\\u13b7OTU\\u3164ARMY\", \"captainId\": \"1872849977\", \"clanLevel\": 1, \"capacity\": 20, \"memberNum\": 4}, \"captainBasicInfo\": {\"accountId\": \"1872849977\", \"accountType\": 1, \"nickname\": \"\\u13b7\\u1d0f\\u135d\\u059f\\u1d1bU\\u3164\\u13de\\u026a\\u1d20\\u1d07\", \"region\": \"IND\", \"level\": 70, \"exp\": 2877696, \"bannerId\": 901000242, \"headPic\": 902044006, \"rank\": 327, \"rankingPoints\": 7179, \"badgeCnt\": 135, \"badgeId\": 1001000094, \"seasonId\": 50, \"liked\": 12886, \"showRank\": true, \"lastLoginAt\": \"1774960118\", \"csRank\": 323, \"csRankingPoints\": 152, \"weaponSkinShows\": [907104730, 912038002], \"maxRank\": 327, \"csMaxRank\": 324, \"accountPrefers\": {}, \"createAt\": \"1585299086\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000001, \"name\": \"kitty\", \"level\": 6, \"exp\": 3004, \"isSelected\": true, \"skinId\": 1310000004, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"1872849977\", \"gender\": \"Gender_MALE\", \"language\": \"Language_CN_TRADITIONAL\", \"signature\": \"MY96K CHNL DELETE \\nNEW YT:-[B][FFFF00]\\u00a0@MOTUFF-OFC\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774785106\"}}}"
       }
     ],
     "bomber_history": [],
