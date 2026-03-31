@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 09:14:15",
+    "created_at": "2026-03-31 09:15:20",
     "stats": {
-      "main_users": 228,
+      "main_users": 229,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 55
@@ -312,6 +312,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 09:13:50",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6403460745,
+        "username": "mkxmohit",
+        "first_name": "Digital Bhai MK",
+        "join_date": "2026-03-31 09:15:03",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 09:15:03",
         "money": 0,
         "clone_bots": 0
       },
