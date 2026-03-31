@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 14:04:56",
+    "created_at": "2026-03-31 14:07:01",
     "stats": {
       "main_users": 243,
       "main_admins": 1,
@@ -609,13 +609,13 @@
         "first_name": "Lisha",
         "join_date": "2026-03-31 07:53:57",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 14:04:14",
+        "total_searches": 3,
+        "last_active": "2026-03-31 14:04:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -6264,6 +6264,14 @@
         "query": "urr._picachu",
         "search_date": "2026-03-31 14:04:14",
         "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"urr._picachu\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
+      },
+      {
+        "id": 132,
+        "user_id": 6866806568,
+        "search_type": "mobile_number",
+        "query": "7029962953",
+        "search_date": "2026-03-31 14:04:59",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7029962953\", \"name\": \"Bidyut Banerjee\", \"fname\": \"Bikash Banerjee\", \"address\": \"!!00 Barabaria School!NA!Dhantala nadia!Nadia South Nadia!NA!West Bengal!741501\", \"alt\": \"8348390733\", \"circle\": \"JIO WB\", \"id\": \"603173796750\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
