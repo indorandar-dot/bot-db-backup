@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 08:52:37",
+    "created_at": "2026-03-31 08:53:32",
     "stats": {
       "main_users": 225,
       "main_admins": 1,
@@ -3286,8 +3286,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 08:52:29",
+        "total_searches": 1,
+        "last_active": "2026-03-31 08:52:42",
         "money": 0,
         "clone_bots": 0
       },
@@ -5640,6 +5640,14 @@
         "query": "8443651511",
         "search_date": "2026-03-31 08:33:41",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"found\": true, \"message\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"9134905822\"}, \"_raw\": {\"status\": \"success\", \"code\": 200, \"searched_userid\": \"8443651511\", \"response_time\": \"7448ms\", \"data\": {\"found\": true, \"message\": \"Details fetched\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"9134905822\"}, \"credit\": \"API by @AbdulDevStoreBot\", \"tg_id\": \"8443651511\", \"username\": \"\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
+      },
+      {
+        "id": 93,
+        "user_id": 8530140629,
+        "search_type": "userid",
+        "query": "7851904401",
+        "search_date": "2026-03-31 08:52:42",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7851904401\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
