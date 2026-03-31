@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 07:09:56",
+    "created_at": "2026-03-31 07:12:00",
     "stats": {
       "main_users": 216,
       "main_admins": 1,
@@ -1009,13 +1009,13 @@
         "first_name": "𓆰 BLAZE 𓆩⃟🇦🇱",
         "join_date": "2026-03-31 07:07:55",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 07:07:55",
+        "total_searches": 2,
+        "last_active": "2026-03-31 07:11:01",
         "money": 0,
         "clone_bots": 0
       },
@@ -5348,6 +5348,22 @@
         "query": "Captain.endzzz",
         "search_date": "2026-03-31 06:55:18",
         "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"Captain.endzzz\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
+      },
+      {
+        "id": 80,
+        "user_id": 7747929547,
+        "search_type": "typed_userid",
+        "query": "6779586709",
+        "search_date": "2026-03-31 07:10:11",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6779586709\", \"username\": \"ary4n_l1z\", \"full_name\": \"\\ud80c\\udda9\\ud80c\\udda9\\u2363\\u20df\\ud835\\ude3f3\\ud835\\ude51\\ud835\\ude44\\ud835\\ude47\\ud835\\udd4f\\ud835\\ude3c\\ud835\\ude4d\\ud835\\ude54\\ud835\\ude3c\\ud835\\ude49\\ud80c\\uddb0\\u2363\\u20df\\ud83c\\uddf2\\ud83c\\udde6\\ud80c\\uddaa\\ud80c\\uddaa. \\u0622\\u0631\\u06cc\\u0627\\u0646 \\u06a9\\u0645\\u0627\\u0631\", \"first_name\": \"\\ud80c\\udda9\\ud80c\\udda9\\u2363\\u20df\\ud835\\ude3f3\\ud835\\ude51\\ud835\\ude44\\ud835\\ude47\\ud835\\udd4f\\ud835\\ude3c\\ud835\\ude4d\\ud835\\ude54\\ud835\\ude3c\\ud835\\ude49\\ud80c\\uddb0\\u2363\\u20df\\ud83c\\uddf2\\ud83c\\udde6\\ud80c\\uddaa\\ud80c\\uddaa. \\u0622\\u0631\\u06cc\\u0627\\u0646 \\u06a9\\u0645\\u0627\\u0631\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"6779586709\", \"username\": \"ary4n_l1z\", \"first_name\": \"\\ud80c\\udda9\\ud80c\\udda9\\u2363\\u20df\\ud835\\ude3f3\\ud835\\ude51\\ud835\\ude44\\ud835\\ude47\\ud835\\udd4f\\ud835\\ude3c\\ud835\\ude4d\\ud835\\ude54\\ud835\\ude3c\\ud835\\ude49\\ud80c\\uddb0\\u2363\\u20df\\ud83c\\uddf2\\ud83c\\udde6\\ud80c\\uddaa\\ud80c\\uddaa. \\u0622\\u0631\\u06cc\\u0627\\u0646 \\u06a9\\u0645\\u0627\\u0631\", \"last_name\": \"\", \"full_name\": \"\\ud80c\\udda9\\ud80c\\udda9\\u2363\\u20df\\ud835\\ude3f3\\ud835\\ude51\\ud835\\ude44\\ud835\\ude47\\ud835\\udd4f\\ud835\\ude3c\\ud835\\ude4d\\ud835\\ude54\\ud835\\ude3c\\ud835\\ude49\\ud80c\\uddb0\\u2363\\u20df\\ud83c\\uddf2\\ud83c\\udde6\\ud80c\\uddaa\\ud80c\\uddaa. \\u0622\\u0631\\u06cc\\u0627\\u0646 \\u06a9\\u0645\\u0627\\u0631\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"ary4n_l1z\"]}}"
+      },
+      {
+        "id": 81,
+        "user_id": 7747929547,
+        "search_type": "mobile_number",
+        "query": "8553212110",
+        "search_date": "2026-03-31 07:11:01",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8553212110\", \"name\": \"Abdul Samad\", \"fname\": \"Nisar Hamed Mailappe\", \"address\": \"S/O Nisar Hamed Mailappe!!!Purvarga!bhatkal Uttara Kannada!Karnataka!581320\", \"alt\": \"9535572999\", \"circle\": \"JIO KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"8553212110\", \"name\": \"Abdul Samad\", \"fname\": \"Nisar Hamed Mailappe\", \"address\": \"Nisar Hamed Mailappe!!Bhatkal!Purvarga!bhatkal- -Uttara Kannada!Karnataka!581320\", \"alt\": null, \"circle\": \"VI KARNATKA\", \"id\": \"853355775165\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
