@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 18:02:25",
+    "created_at": "2026-03-31 18:04:22",
     "stats": {
       "main_users": 254,
       "main_admins": 2,
@@ -1062,8 +1062,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 18:02:14",
+        "total_searches": 1,
+        "last_active": "2026-03-31 18:03:53",
         "money": 0,
         "clone_bots": 0
       },
@@ -4692,6 +4692,10 @@
       {
         "user_id": 8121687214,
         "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 7465424227,
+        "claim_date": "2026-03-31"
       }
     ],
     "welcome_settings": [
@@ -6610,6 +6614,14 @@
         "query": "649964855626",
         "search_date": "2026-03-31 17:51:15",
         "result": "{\"success\": true, \"aadhaar\": \"649964855626\", \"total_records\": 4, \"data\": [{\"name\": \"Tarun Kumar\", \"mobile\": \"9205609179\", \"father_name\": \"Mohan lal\", \"address\": \"556 7 Mohammadpur mandir Jharsa 103 gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"9643469111\", \"father_name\": \"mohan lal\", \"address\": \"S/O mohan lal Mohammadpur Jharsa 103 Gurgaon Haryana 122004\", \"alt_mobile\": \"9319819448\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"9582488611\", \"father_name\": \"Mohan Lal\", \"address\": \"H.no 103 Mohammadpur Jharsa 103 Gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"8368027456\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}, {\"name\": \"Tarun Kumar\", \"mobile\": \"8368027456\", \"father_name\": \"mohan lal\", \"address\": \"HNo 103 mohammadpur jharsa 103 gurgaon Gurgaon Gurgaon Haryana 122004\", \"alt_mobile\": \"9643469111\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"649964855626\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 151,
+        "user_id": 7465424227,
+        "search_type": "instagram",
+        "query": "patelnvrdie",
+        "search_date": "2026-03-31 18:03:53",
+        "result": "{\"success\": true, \"id\": \"34825956790\", \"username\": \"patelnvrdie\", \"name\": \"CHOUDHARY #1\", \"full_name\": \"CHOUDHARY #1\", \"bio\": \"Loading.........\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/657541079_18076319639164791_6276561141136930937_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGk7cyzFQgSzzTYRCfE8QSZnLoQl9bV7drrY-cE_YYXjRpQcm3V9V34ParoRvGj3vM&_nc_ohc=ydgTzXytu1YQ7kNvwEdnalT&_nc_gid=pYYAQ2UKWNsEkW0AYHrKFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxdjXuUdb2V7AJGBFdPOqr7p49qGSX-aRoICwTAKjoZGg&oe=69D1E321&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp5ykwp77o.jpg\", \"followers\": 2, \"following\": 2, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"34825956790\", \"username\": \"patelnvrdie\", \"name\": \"CHOUDHARY #1\", \"bio\": \"Loading.........\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/657541079_18076319639164791_6276561141136930937_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGk7cyzFQgSzzTYRCfE8QSZnLoQl9bV7drrY-cE_YYXjRpQcm3V9V34ParoRvGj3vM&_nc_ohc=ydgTzXytu1YQ7kNvwEdnalT&_nc_gid=pYYAQ2UKWNsEkW0AYHrKFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfxdjXuUdb2V7AJGBFdPOqr7p49qGSX-aRoICwTAKjoZGg&oe=69D1E321&_nc_sid=8b3546\", \"followers\": 2, \"following\": 2, \"posts\": 0, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
