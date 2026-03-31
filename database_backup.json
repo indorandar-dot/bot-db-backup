@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-03-31 06:43:03",
+    "created_at": "2026-03-31 06:45:00",
     "stats": {
-      "main_users": 213,
+      "main_users": 214,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 43
+      "total_clone_users": 44
     }
   },
   "main_bot": {
@@ -2364,6 +2364,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8340993881,
+        "username": "surya28211",
+        "first_name": "PANEL SELLER",
+        "join_date": "2026-03-31 06:44:53",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-03-31 06:44:53",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8352130903,
         "username": "Adispidey12",
         "first_name": "Aditya",
@@ -3731,7 +3747,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-03-31 06:37:19",
+        "last_active": "2026-03-31 06:44:58",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5537,7 +5553,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:33:01"
+          "last_active": "2026-03-31 06:44:58"
         },
         {
           "id": 94,
@@ -5673,6 +5689,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:30:40"
+        },
+        {
+          "id": 157,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8340993881,
+          "username": "surya28211",
+          "first_name": "PANEL SELLER",
+          "join_date": "2026-03-31 06:44:53",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-03-31 06:44:53"
         },
         {
           "id": 104,
