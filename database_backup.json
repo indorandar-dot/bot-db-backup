@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 13:02:52",
+    "created_at": "2026-04-01 13:04:56",
     "stats": {
       "main_users": 304,
       "main_admins": 2,
@@ -1777,13 +1777,13 @@
         "first_name": "Aryan",
         "join_date": "2026-04-01 10:41:37",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 10:41:37",
+        "total_searches": 1,
+        "last_active": "2026-04-01 13:03:18",
         "money": 0,
         "clone_bots": 0
       },
@@ -8066,6 +8066,14 @@
         "query": "7547873543",
         "search_date": "2026-04-01 12:35:17",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7547873543\", \"name\": \"MR  RANJAY KUMAR RAY\", \"fname\": \"Ramnandan Ray\", \"address\": \"VILL PAHARPUR  POST KARHATIA BUZURG VILL PAHARPUR  POST CHEHRA KALAN VAISHALI CHHOURAHI B.O - VSLI VAISHALI BIHAR 844122\", \"alt\": \"7079740076\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"245468044317\", \"email\": null}, {\"mobile\": \"7547873543\", \"name\": \"MR  RANJAY KUMAR RAY\", \"fname\": \"Ramnandan Ray\", \"address\": \"S/O RAMNANDAN RAY!VILL PAHARPUR  POST KARHATIA BUZURG!VILL PAHARPUR  POST!VILL PAHARPUR  POST!CHEHRA KALAN VAISHALI!CHHOURAHI B O - VSLI!VAISHALI!BIHAR!844122\", \"alt\": null, \"circle\": \"VODA BHR&JHR\", \"id\": \"245468044317\", \"email\": null}]}"
+      },
+      {
+        "id": 207,
+        "user_id": 7779586775,
+        "search_type": "mobile_number",
+        "query": "9718079886",
+        "search_date": "2026-04-01 13:03:18",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9718079886\", \"name\": \"MS. RESHMA DEVI\", \"fname\": \"Vinod Kumar\", \"address\": \"C/O VINOD KUMAR!00!pure Narayan das!!SHAHBARIPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503\", \"alt\": \"7570825721\", \"circle\": \"VODA UPE\", \"id\": \"405074619434\", \"email\": null}, {\"mobile\": \"9718079886\", \"name\": \"MS RESHMA DEVI\", \"fname\": \"Vinod Kumar\", \"address\": \"C/O VINOD KUMAR!00!pure Narayan das!!SHAHBARI PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503\", \"alt\": \"7570825721\", \"circle\": \"UPE\", \"id\": \"405074619434\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
