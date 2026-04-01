@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 10:41:45",
+    "created_at": "2026-04-01 10:42:07",
     "stats": {
-      "main_users": 291,
+      "main_users": 294,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 111
+      "total_clone_users": 117
     }
   },
   "main_bot": {
@@ -236,6 +236,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 5828813546,
+        "username": "ABCMODDER",
+        "first_name": "ABC SURYA",
+        "join_date": "2026-04-01 10:41:56",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 10:41:56",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 5830453463,
         "username": "szx_0",
         "first_name": "𓆰𓆩⃟👑𝐒𝐈𝐑 𝐙𝐎𝐍𝐄𝐗 𝐄𝐗𝐓𝐑𝐄𝐌𝐄𓆩⃟🇦🇱𓆪𓆪",
@@ -305,13 +321,13 @@
         "first_name": "𝐓𝐇𝐔𝐍𝐃𝐄𝐑",
         "join_date": "2026-03-31 11:54:54",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-31 12:56:58",
+        "total_searches": 4,
+        "last_active": "2026-04-01 10:42:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -1864,6 +1880,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 08:13:51",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7883889358,
+        "username": "amit1010929292",
+        "first_name": "Amit",
+        "join_date": "2026-04-01 10:42:00",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 10:42:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -3436,6 +3468,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8372440101,
+        "username": "EFATMODDER",
+        "first_name": "𝗘𝗙𝗔𝗧 𝗠𝗢𝗗𝗗𝗘𝗥",
+        "join_date": "2026-04-01 10:42:00",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 10:42:00",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8374115462,
         "username": "",
         "first_name": "🇦‌🇱‌🇪‌🇽‌ 🕸️🥂",
@@ -3446,8 +3494,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 14:56:31",
+        "total_searches": 1,
+        "last_active": "2026-04-01 10:42:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -4732,6 +4780,36 @@
         "welcome_video_file_id": null
       },
       {
+        "group_id": -2073297369441,
+        "group_title": "𝗧𝗛𝗘 𝗙𝗘𝗟𝗜𝗫 𝗠𝗢𝗗𝗭 ⚡",
+        "number_info_enabled": 1,
+        "userid_info_enabled": 1,
+        "username_info_enabled": 1,
+        "aadhar_info_enabled": 1,
+        "instagram_info_enabled": 1,
+        "ifsc_info_enabled": 1,
+        "vehicle_info_enabled": 1,
+        "welcome_enabled": 1,
+        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
+        "welcome_rules": "",
+        "added_date": "2026-04-01 10:41:56",
+        "last_active": "2026-04-01 10:42:00",
+        "goodbye_enabled": 1,
+        "goodbye_message": null,
+        "welcome_photo_file_id": null,
+        "gst_info_enabled": 1,
+        "email_info_enabled": 1,
+        "pan_info_enabled": 1,
+        "pak_num_info_enabled": 1,
+        "ff_info_enabled": 1,
+        "pincode_info_enabled": 1,
+        "hitek_info_enabled": 1,
+        "tg_bomber_enabled": 1,
+        "bomber_enabled": 1,
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
+      },
+      {
         "group_id": -1003862878776,
         "group_title": "𝐃𝐄𝐀𝐋 𝐃𝐑𝐎𝐏 𝐂𝐇𝐀𝐓 ༆",
         "number_info_enabled": 1,
@@ -4805,7 +4883,37 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:31:14",
-        "last_active": "2026-03-31 06:31:14",
+        "last_active": "2026-04-01 10:41:56",
+        "goodbye_enabled": 1,
+        "goodbye_message": null,
+        "welcome_photo_file_id": null,
+        "gst_info_enabled": 1,
+        "email_info_enabled": 1,
+        "pan_info_enabled": 1,
+        "pak_num_info_enabled": 1,
+        "ff_info_enabled": 1,
+        "pincode_info_enabled": 1,
+        "hitek_info_enabled": 1,
+        "tg_bomber_enabled": 1,
+        "bomber_enabled": 1,
+        "free_info_mode": 0,
+        "welcome_video_file_id": null
+      },
+      {
+        "group_id": -1003791631708,
+        "group_title": "N4MBER TO INFO GC",
+        "number_info_enabled": 1,
+        "userid_info_enabled": 1,
+        "username_info_enabled": 1,
+        "aadhar_info_enabled": 1,
+        "instagram_info_enabled": 1,
+        "ifsc_info_enabled": 1,
+        "vehicle_info_enabled": 1,
+        "welcome_enabled": 1,
+        "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
+        "welcome_rules": "",
+        "added_date": "2026-04-01 10:41:57",
+        "last_active": "2026-04-01 10:42:02",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4835,7 +4943,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:28",
-        "last_active": "2026-03-31 06:31:05",
+        "last_active": "2026-04-01 10:42:00",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4925,7 +5033,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:30:50",
-        "last_active": "2026-03-31 06:30:50",
+        "last_active": "2026-04-01 10:42:04",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4985,7 +5093,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:37",
-        "last_active": "2026-04-01 10:41:37",
+        "last_active": "2026-04-01 10:42:04",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5015,7 +5123,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-03-31 06:45:23",
+        "last_active": "2026-04-01 10:42:04",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7566,6 +7674,22 @@
         "query": "7557722849",
         "search_date": "2026-04-01 10:30:14",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7557722849\", \"name\": \"RAMAPRAVESHBHAGAT\", \"fname\": \"RAJAVANSHI  BHAGAT\", \"address\": \"HASUAA ZIRADEI SIWAN  SIWAN-SIWAN 841228 BR   SIWAN-SIWAN BR 841228\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"TJJ1756923\", \"email\": null}]}"
+      },
+      {
+        "id": 185,
+        "user_id": 6130957205,
+        "search_type": "mobile_number",
+        "query": "9039900388",
+        "search_date": "2026-04-01 10:42:00",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9039900388\", \"name\": \"Girish Vishwakarma\", \"fname\": \"Rajkumar Vishwakarma\", \"address\": \"h no 1 Keolari PO Bajrang Colocy  Ward No.-16 Keolari Keolari Seoni  Madhya Pradesh 480994\", \"alt\": \"7489299449\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 186,
+        "user_id": 8374115462,
+        "search_type": "username",
+        "query": "r4him_08",
+        "search_date": "2026-04-01 10:42:02",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"r4him_08\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -7639,7 +7763,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:31:06"
+          "last_active": "2026-04-01 10:42:04"
         },
         {
           "id": 152,
@@ -7655,6 +7779,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:37:19"
+        },
+        {
+          "id": 493,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 1087968824,
+          "username": "GroupAnonymousBot",
+          "first_name": "Group",
+          "join_date": "2026-04-01 10:41:56",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:41:56"
         },
         {
           "id": 109,
@@ -7685,6 +7824,36 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 06:31:04"
+        },
+        {
+          "id": 495,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 5828813546,
+          "username": "ABCMODDER",
+          "first_name": "ABC SURYA",
+          "join_date": "2026-04-01 10:41:56",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:41:56"
+        },
+        {
+          "id": 497,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 6130957205,
+          "username": "",
+          "first_name": "𝐓𝐇𝐔𝐍𝐃𝐄𝐑",
+          "join_date": "2026-04-01 10:41:57",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:41:57"
         },
         {
           "id": 131,
@@ -7819,7 +7988,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:44:58"
+          "last_active": "2026-04-01 10:41:56"
         },
         {
           "id": 94,
@@ -7834,7 +8003,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:57"
+          "last_active": "2026-04-01 10:42:03"
         },
         {
           "id": 465,
@@ -7849,7 +8018,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:41:37"
+          "last_active": "2026-04-01 10:41:45"
         },
         {
           "id": 136,
@@ -7864,7 +8033,22 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:36:17"
+          "last_active": "2026-04-01 10:42:04"
+        },
+        {
+          "id": 498,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7883889358,
+          "username": "amit1010929292",
+          "first_name": "Amit",
+          "join_date": "2026-04-01 10:42:00",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:42:00"
         },
         {
           "id": 17,
@@ -8002,6 +8186,36 @@
           "last_active": "2026-03-31 06:31:04"
         },
         {
+          "id": 502,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8372440101,
+          "username": "EFATMODDER",
+          "first_name": "𝗘𝗙𝗔𝗧 𝗠𝗢𝗗𝗗𝗘𝗥",
+          "join_date": "2026-04-01 10:42:00",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:42:00"
+        },
+        {
+          "id": 505,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8374115462,
+          "username": "",
+          "first_name": "🇦‌🇱‌🇪‌🇽‌ 🕸️🥂",
+          "join_date": "2026-04-01 10:42:00",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 10:42:00"
+        },
+        {
           "id": 111,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 8375426977,
@@ -8029,7 +8243,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:41:45"
+          "last_active": "2026-04-01 10:41:55"
         },
         {
           "id": 16,
@@ -8164,7 +8378,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:30:50"
+          "last_active": "2026-04-01 10:42:04"
         },
         {
           "id": 30,
@@ -8179,7 +8393,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:34:33"
+          "last_active": "2026-04-01 10:42:02"
         }
       ],
       "daily_claims": [],
