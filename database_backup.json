@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 05:11:49",
+    "created_at": "2026-04-01 05:12:53",
     "stats": {
-      "main_users": 273,
+      "main_users": 274,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 92
+      "total_clone_users": 93
     }
   },
   "main_bot": {
@@ -1009,13 +1009,13 @@
         "first_name": "SAPTAJIT",
         "join_date": "2026-03-31 16:24:12",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-01 05:10:49",
+        "total_searches": 6,
+        "last_active": "2026-04-01 05:12:43",
         "money": 0,
         "clone_bots": 0
       },
@@ -1080,6 +1080,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:37",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7375083343,
+        "username": "Obito_1433",
+        "first_name": "Ꭷᏼꪱꭲᴏ→㉺ 🌿",
+        "join_date": "2026-04-01 05:12:45",
+        "referrer": null,
+        "credits": 6,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 05:12:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -4757,7 +4773,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 05:10:44",
+        "last_active": "2026-04-01 05:12:45",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5018,6 +5034,14 @@
       {
         "user_id": 6756554801,
         "claim_date": "2026-03-31"
+      },
+      {
+        "user_id": 7337075445,
+        "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 7375083343,
+        "claim_date": "2026-04-01"
       }
     ],
     "welcome_settings": [
@@ -7098,6 +7122,22 @@
         "query": "7463952699",
         "search_date": "2026-04-01 05:10:49",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7463952699\", \"name\": \"Subodh Kumar Singh\", \"fname\": \"ram suran singh\", \"address\": \"!ram surat singh ward n10 semal saray post dev bahuara!bahuara saran bihar!school!bin bahuara saran!Saran!Saran!Bihar!841442\", \"alt\": \"9508011809\", \"circle\": \"BIHAR JIO\", \"id\": \"446411473782\", \"email\": null}, {\"mobile\": \"7463952699\", \"name\": \"Amodh  Devi\", \"fname\": \"Subodh  Kuar\", \"address\": \"0!Near School!Semal Saray!Sarae!Bihar!841442\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"580324056435\", \"email\": null}]}"
+      },
+      {
+        "id": 169,
+        "user_id": 7337075445,
+        "search_type": "mobile_number",
+        "query": "9308560547",
+        "search_date": "2026-04-01 05:12:03",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"BIHAR JIO\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"JIO BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"AJIT KUMAR\", \"fname\": \"TARA MISTRI\", \"address\": \"!BAG SADHORAM MAHAVIR ASTHAN PATNA CITY PATNA RURAL PATNAPATNA!Patna!Patna!BIHAR!800009\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"MR  AJIT KUMAR\", \"fname\": \"Tara Mistri\", \"address\": \"S/O TARA MISTRI BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA\", \"alt\": \"7557711952\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"678264610492\", \"email\": null}]}"
+      },
+      {
+        "id": 170,
+        "user_id": 7337075445,
+        "search_type": "mobile_number",
+        "query": "9308560547",
+        "search_date": "2026-04-01 05:12:43",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"BIHAR JIO\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"JIO BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"AJIT KUMAR\", \"fname\": \"TARA MISTRI\", \"address\": \"!BAG SADHORAM MAHAVIR ASTHAN PATNA CITY PATNA RURAL PATNAPATNA!Patna!Patna!BIHAR!800009\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"MR  AJIT KUMAR\", \"fname\": \"Tara Mistri\", \"address\": \"S/O TARA MISTRI BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA\", \"alt\": \"7557711952\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"678264610492\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -7973,7 +8013,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 05:10:44"
+          "last_active": "2026-04-01 05:12:39"
         },
         {
           "id": 200,
@@ -7989,6 +8029,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-03-31 10:07:37"
+        },
+        {
+          "id": 348,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7375083343,
+          "username": "Obito_1433",
+          "first_name": "Ꭷᏼꪱꭲᴏ→㉺ 🌿",
+          "join_date": "2026-04-01 05:12:45",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 05:12:45"
         },
         {
           "id": 306,
