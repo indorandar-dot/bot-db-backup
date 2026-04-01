@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 05:18:01",
+    "created_at": "2026-04-01 05:20:06",
     "stats": {
       "main_users": 274,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 93
+      "total_clone_users": 94
     }
   },
   "main_bot": {
@@ -801,7 +801,7 @@
         "first_name": "Aashish exploit",
         "join_date": "2026-03-31 06:49:28",
         "referrer": null,
-        "credits": 4,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -2977,13 +2977,13 @@
         "first_name": "Kartik",
         "join_date": "2026-03-31 03:57:59",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-01 03:18:56",
+        "total_searches": 3,
+        "last_active": "2026-04-01 05:18:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -4773,7 +4773,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 05:14:20",
+        "last_active": "2026-04-01 05:19:52",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5049,6 +5049,10 @@
       },
       {
         "user_id": 7868181523,
+        "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 6969438232,
         "claim_date": "2026-04-01"
       }
     ],
@@ -7146,6 +7150,14 @@
         "query": "9308560547",
         "search_date": "2026-04-01 05:12:43",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"BIHAR JIO\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9431496155\", \"circle\": \"JIO BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"AJIT KUMAR\", \"fname\": \"TARA MISTRI\", \"address\": \"!BAG SADHORAM MAHAVIR ASTHAN PATNA CITY PATNA RURAL PATNAPATNA!Patna!Patna!BIHAR!800009\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9308560547\", \"name\": \"MR  AJIT KUMAR\", \"fname\": \"Tara Mistri\", \"address\": \"S/O TARA MISTRI BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL BAG SADHORAM MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA CITY  RURAL MAHAVIR ASTHAN  PATNA\", \"alt\": \"7557711952\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"678264610492\", \"email\": null}]}"
+      },
+      {
+        "id": 171,
+        "user_id": 8333481899,
+        "search_type": "aadhar",
+        "query": "911465374221",
+        "search_date": "2026-04-01 05:18:02",
+        "result": "{\"success\": true, \"aadhaar\": \"911465374221\", \"total_records\": 1, \"data\": [{\"name\": \"Sarita Devi\", \"mobile\": \"8802074807\", \"father_name\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho C 1215 GALI NO 13 ROAD NO 4 MAHIPALPUR NEAR IPH HOSPITAL DELHI Delhi 110037\", \"alt_mobile\": \"9716133687\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"911465374221\"}], \"source\": \"shadow_api\"}"
       }
     ],
     "bomber_history": [],
@@ -7977,6 +7989,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 05:14:20"
+        },
+        {
+          "id": 356,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 6969438232,
+          "username": "bjp_onwer",
+          "first_name": "Aashish exploit",
+          "join_date": "2026-04-01 05:19:52",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 05:19:52"
         },
         {
           "id": 221,
