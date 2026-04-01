@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 16:31:17",
+    "created_at": "2026-04-01 16:33:22",
     "stats": {
       "main_users": 313,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 135
+      "total_clone_users": 136
     }
   },
   "main_bot": {
@@ -2033,7 +2033,7 @@
         "first_name": "!! 𝚁 ᥆ꤪꤨ 𝙻 𝙴 𝚇 ‌ ‌ ‌ ‌ ‌҉‌҉‌҉‌҉‌҉ ‌ ‌",
         "join_date": "2026-03-30 16:27:22",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -5481,7 +5481,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 16:08:05",
+        "last_active": "2026-04-01 16:32:05",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5821,6 +5821,10 @@
       },
       {
         "user_id": 6577380594,
+        "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 7857605562,
         "claim_date": "2026-04-01"
       }
     ],
@@ -8325,10 +8329,10 @@
         "id": 1,
         "user_id": 6929609082,
         "token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
-        "status": "approved",
+        "status": "stopped",
         "requested_at": "2026-03-31 05:11:21",
         "approved_at": "2026-03-31 05:37:29",
-        "is_manually_stopped": 0
+        "is_manually_stopped": 1
       },
       {
         "id": 3,
@@ -9816,6 +9820,21 @@
           "last_active": "2026-04-01 02:37:34"
         },
         {
+          "id": 638,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7857605562,
+          "username": "ROLEX_x_MOD",
+          "first_name": "!! 𝚁 ᥆ꤪꤨ 𝙻 𝙴 𝚇 ‌ ‌ ‌ ‌ ‌҉‌҉‌҉‌҉‌҉ ‌ ‌",
+          "join_date": "2026-04-01 16:31:25",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 16:32:05"
+        },
+        {
           "id": 180,
           "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
           "user_id": 7868181523,
@@ -10053,7 +10072,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 14:43:37"
+          "last_active": "2026-04-01 16:31:34"
         },
         {
           "id": 9,
@@ -10068,7 +10087,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 06:03:47"
+          "last_active": "2026-04-01 16:32:20"
         },
         {
           "id": 409,
@@ -10383,7 +10402,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 14:58:33"
+          "last_active": "2026-04-01 16:31:24"
         },
         {
           "id": 371,
