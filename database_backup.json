@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 07:44:37",
+    "created_at": "2026-04-01 07:45:17",
     "stats": {
       "main_users": 284,
       "main_admins": 2,
@@ -1942,8 +1942,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 07:44:29",
+        "total_searches": 1,
+        "last_active": "2026-04-01 07:44:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -7414,6 +7414,14 @@
         "query": "9576441816",
         "search_date": "2026-04-01 07:33:58",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9576441816\", \"name\": \"Jeevan Kumar\", \"fname\": \"Suresh Das\", \"address\": \"S/O  Suresh Das!!ward 07 Village babupur salkhanni!!Mukhtarpur Salkhani Samastipur!Bihar!848114\", \"alt\": \"8210969442\", \"circle\": \"BIHAR JIO\", \"id\": null, \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"Jiwan Kumar\", \"fname\": \"suresh das\", \"address\": \"s/o  suresh das!!ward 07 Dalsinghsarai!Village babupur salkhanni!ward 07 village babupur salkhanni dalsinghsarai!mukhtarpur salkhani Dalsinghsarai!samastipur!Bihar!848114\", \"alt\": \"6202217477\", \"circle\": \"BIHAR JIO\", \"id\": \"323956087342\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"Munita Kumari\", \"fname\": \"kamlesh das\", \"address\": \"w/o kamlesh das! Mokhtiyarpur!Post - Mokhtiyarpur Mukhtiarpur!post - mokhtiyarpur!mokhtiyarpur ward - 07!mukhtarpur salkhani Dalsinghsarai!samastipur!Bihar!848114\", \"alt\": \"7325037463\", \"circle\": \"BIHAR JIO\", \"id\": \"781359609139\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ARVIND KUMAR\", \"fname\": \"Mitthu Das\", \"address\": \"ward 3 mordiwa  SAMASTIPUR Samastipur BIHAR 848134\", \"alt\": \"9534948987\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"208526903006\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ARVIND KUMAR\", \"fname\": \"Mitthu Das\", \"address\": \"ward 3 Gram- mordiwa Murdewa Murdewa SAMASTIPUR Post - mordiwa BIHAR 848134\", \"alt\": \"9534948621\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"208526903006\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  JIWAN KUMAR\", \"fname\": \"Suresh Das\", \"address\": \"bihar ward 07 Mukhtarpur Salkhani Dalsinghsarai Samastipur  Village babupur salkhanni SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015568\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"323956087342\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  JIWAN KUMAR\", \"fname\": \"Suresh Das\", \"address\": \"bihar ward 07 Mukhtarpur Salkhani Dalsinghsarai Samastipur  Village babupur salkhanni SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015683\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"323956087342\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ARAVINDA KUMAR DAS\", \"fname\": \"Ramaji Das\", \"address\": \"bihar ward 07 Mukhtarpur Salkhani Dalsinghsarai Samastipur  Village babupur salkhanni SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015512\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"699256798260\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ASHOK SAHNI\", \"fname\": \"Ram Avatar Sahni\", \"address\": \"Mokhtiyarpur salkhani ward-09 Dalsinghsarai Mukhtarpur Salkhani Dalsinghsarai Samastipur  bihar SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015672\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"956239402972\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  SURAJ DAS\", \"fname\": \"Butan Das\", \"address\": \"Ward 01 Grapo chakbahauddin Chak Bahauddin Dalsinghsarai Samastipur  bihar SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015687\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"803699634269\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ASHOK SAHNI\", \"fname\": \"Ram Avatar Sahni\", \"address\": \"Mokhtiyarpur salkhani ward-09 Dalsinghsarai Mukhtarpur Salkhani Dalsinghsarai Samastipur  bihar SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015674\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"956239402972\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  SURAJ DAS\", \"fname\": \"Butan Das\", \"address\": \"Ward 01 Grapo chakbahauddin Chak Bahauddin Dalsinghsarai Samastipur  bihar SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015479\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"803699634269\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"MR  ARAVINDA KUMAR DAS\", \"fname\": \"Ramaji Das\", \"address\": \"bihar ward 07 Mukhtarpur Salkhani Dalsinghsarai Samastipur  Village babupur salkhanni SAMASTIPUR BIHAR 848114\", \"alt\": \"8407015665\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"699256798260\", \"email\": null}, {\"mobile\": \"9576441816\", \"name\": \"Jiwan Kumar\", \"fname\": \"suresh das\", \"address\": \"s/o  suresh das!!ward 07 Dalsinghsarai!Village babupur salkhanni!ward 07 village babupur salkhanni dalsinghsarai!mukhtarpur salkhani Dalsinghsarai!samastipur!Bihar!848114\", \"alt\": \"6202217477\", \"circle\": \"JIO BHR&JHR\", \"id\": \"323956087342\", \"email\": null}]}"
+      },
+      {
+        "id": 182,
+        "user_id": 7969481584,
+        "search_type": "typed_userid",
+        "query": "8774698111",
+        "search_date": "2026-04-01 07:44:38",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8774698111\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
