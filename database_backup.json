@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 05:34:35",
+    "created_at": "2026-04-01 05:36:40",
     "stats": {
       "main_users": 278,
       "main_admins": 2,
@@ -2406,8 +2406,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 05:33:28",
+        "total_searches": 2,
+        "last_active": "2026-04-01 05:36:21",
         "money": 0,
         "clone_bots": 0
       },
@@ -5122,6 +5122,10 @@
       {
         "user_id": 7670252411,
         "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 8173376468,
+        "claim_date": "2026-04-01"
       }
     ],
     "welcome_settings": [
@@ -7226,6 +7230,22 @@
         "query": "911465374221",
         "search_date": "2026-04-01 05:18:02",
         "result": "{\"success\": true, \"aadhaar\": \"911465374221\", \"total_records\": 1, \"data\": [{\"name\": \"Sarita Devi\", \"mobile\": \"8802074807\", \"father_name\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho C 1215 GALI NO 13 ROAD NO 4 MAHIPALPUR NEAR IPH HOSPITAL DELHI Delhi 110037\", \"alt_mobile\": \"9716133687\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"911465374221\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 172,
+        "user_id": 8173376468,
+        "search_type": "mobile_number",
+        "query": "8862807116",
+        "search_date": "2026-04-01 05:35:39",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8862807116\", \"name\": \"Rinku Devi\", \"fname\": \"Pawan Singh\", \"address\": \"W/O Pawan Singh!!!gram-kanhauli mallik tol post-kanhauli!ward-08!Kanhauli!Madhubani!Bihar!847228\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 173,
+        "user_id": 8173376468,
+        "search_type": "username",
+        "query": "@TRUSTEDSYCO1",
+        "search_date": "2026-04-01 05:36:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"TRUSTEDSYCO1\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
