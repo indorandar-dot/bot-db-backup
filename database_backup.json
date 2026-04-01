@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 11:25:16",
+    "created_at": "2026-04-01 11:27:21",
     "stats": {
       "main_users": 301,
       "main_admins": 2,
@@ -4742,8 +4742,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 46,
-        "last_active": "2026-04-01 11:24:59",
+        "total_searches": 50,
+        "last_active": "2026-04-01 11:27:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -5115,7 +5115,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-01 11:24:51",
+        "last_active": "2026-04-01 11:27:12",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5295,7 +5295,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 11:24:58",
+        "last_active": "2026-04-01 11:25:52",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7900,6 +7900,38 @@
         "query": "03318004593",
         "search_date": "2026-04-01 11:24:59",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3318004593\", \"accountType\": 1, \"nickname\": \"thanasT3604I\", \"region\": \"IND\", \"level\": 2, \"exp\": 161, \"headPic\": 902028003, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1628644013\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1623845179\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [205000299, 203000573, 211000000, 204000345, 214000000, 208000000], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000001, \"level\": 1, \"exp\": 9, \"isSelected\": true, \"skinId\": 1310000001}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 194,
+        "user_id": 8703382327,
+        "search_type": "ff_info",
+        "query": "3110688967",
+        "search_date": "2026-04-01 11:26:03",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3110688967\", \"accountType\": 1, \"nickname\": \"mthn\\u0110Kh0016K\", \"region\": \"VN\", \"level\": 1, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1620356557\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1620356432\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [214000000, 203000154, 211000000, 204000090, 205000066, 208000000], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 195,
+        "user_id": 8703382327,
+        "search_type": "ff_info",
+        "query": "03110688967",
+        "search_date": "2026-04-01 11:26:25",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3110688967\", \"accountType\": 1, \"nickname\": \"mthn\\u0110Kh0016K\", \"region\": \"VN\", \"level\": 1, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1620356557\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1620356432\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [214000000, 203000154, 211000000, 204000090, 205000066, 208000000], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 196,
+        "user_id": 8703382327,
+        "search_type": "ff_info",
+        "query": "03110688967",
+        "search_date": "2026-04-01 11:26:45",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3110688967\", \"accountType\": 1, \"nickname\": \"mthn\\u0110Kh0016K\", \"region\": \"VN\", \"level\": 1, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1620356557\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1620356432\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [214000000, 203000154, 211000000, 204000090, 205000066, 208000000], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 197,
+        "user_id": 8703382327,
+        "search_type": "email",
+        "query": "sknejamuddin694@gmail.com",
+        "search_date": "2026-04-01 11:27:15",
+        "result": "{\"success\": true, \"email\": \"sknejamuddin694@gmail.com\", \"data\": {\"status\": false, \"msg\": \"server error\"}, \"_raw\": {\"status\": false, \"msg\": \"server error\"}}"
       }
     ],
     "bomber_history": [],
