@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 14:44:52",
+    "created_at": "2026-04-01 14:46:58",
     "stats": {
       "main_users": 309,
       "main_admins": 2,
@@ -3254,8 +3254,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 14:43:37",
+        "total_searches": 1,
+        "last_active": "2026-04-01 14:44:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -5423,7 +5423,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 14:43:44",
+        "last_active": "2026-04-01 14:46:51",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -8176,6 +8176,14 @@
         "query": "9568574855",
         "search_date": "2026-04-01 13:40:07",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9568574855\", \"name\": \"Sachin Yadav\", \"fname\": \"Hariram Yadav\", \"address\": \"S/O  Hariram Yadav!!!!Amrethoo Azamgarh!Uttar Pradesh!223222\", \"alt\": \"8127044824\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"9568574855\", \"name\": \"Munendra Pal\", \"fname\": \"Lakhan\", \"address\": \"S/O Lakhan!!!!Sigoe Budaun!Uttar Pradesh!243601\", \"alt\": \"7668864520\", \"circle\": \"JIO UPE UPW\", \"id\": null, \"email\": null}, {\"mobile\": \"9568574855\", \"name\": \"Aditya Singh\", \"fname\": \"Ramnaresh Singh\", \"address\": \"S/O  Ramnaresh Singh!!!ganga nagar rohila!Mohamda Bad Farrukhabad!Uttar Pradesh!206451\", \"alt\": \"6392180238\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 210,
+        "user_id": 8299128589,
+        "search_type": "typed_userid",
+        "query": "01782451556",
+        "search_date": "2026-04-01 14:44:58",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"01782451556\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -9090,7 +9098,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 14:24:24"
+          "last_active": "2026-04-01 14:46:51"
         },
         {
           "id": 188,
@@ -10185,7 +10193,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 14:43:44"
+          "last_active": "2026-04-01 14:46:44"
         },
         {
           "id": 371,
