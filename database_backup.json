@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 14:42:47",
+    "created_at": "2026-04-01 14:43:37",
     "stats": {
-      "main_users": 308,
+      "main_users": 309,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 130
+      "total_clone_users": 131
     }
   },
   "main_bot": {
@@ -3244,6 +3244,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8299128589,
+        "username": "",
+        "first_name": "😍💖🌸",
+        "join_date": "2026-04-01 14:43:37",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 14:43:37",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8301342214,
         "username": "JaimeHerna845759",
         "first_name": "किरण",
@@ -5414,7 +5430,7 @@
         "gst_info_enabled": 0,
         "email_info_enabled": 0,
         "pan_info_enabled": 0,
-        "pak_num_info_enabled": 0,
+        "pak_num_info_enabled": 1,
         "ff_info_enabled": 0,
         "pincode_info_enabled": 0,
         "hitek_info_enabled": 0,
@@ -9825,6 +9841,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 06:55:50"
+        },
+        {
+          "id": 599,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 8299128589,
+          "username": "",
+          "first_name": "😍💖🌸",
+          "join_date": "2026-04-01 14:43:37",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 14:43:37"
         },
         {
           "id": 9,
