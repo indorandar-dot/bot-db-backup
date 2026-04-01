@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 10:29:13",
+    "created_at": "2026-04-01 10:31:18",
     "stats": {
       "main_users": 289,
       "main_admins": 2,
@@ -2001,13 +2001,13 @@
         "first_name": "𓆩𓆩⃟𖤍𝐄ʀᴇɴ~🖤🥀𓆪",
         "join_date": "2026-04-01 07:44:29",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-01 07:44:38",
+        "total_searches": 2,
+        "last_active": "2026-04-01 10:30:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -5013,7 +5013,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 10:25:55",
+        "last_active": "2026-04-01 10:31:17",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7518,6 +7518,14 @@
         "query": "3130190101",
         "search_date": "2026-04-01 08:07:34",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3130190101\", \"accountType\": 1, \"nickname\": \"\\u3164C\\u029c\\u026a\\u1d0b\\u1d0bo\\u00d7\\u035c\\u00d7\\u3164\", \"region\": \"IND\", \"level\": 63, \"exp\": 1343401, \"bannerId\": 901035007, \"headPic\": 902029011, \"rank\": 318, \"rankingPoints\": 3063, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 4033, \"lastLoginAt\": \"1774970362\", \"csRank\": 318, \"csRankingPoints\": 72, \"weaponSkinShows\": [907300001, 912000006], \"maxRank\": 318, \"csMaxRank\": 318, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1620714115\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000019, \"skinColor\": 50, \"clothes\": [204000181, 205000476, 211000408, 214000017, 203000911, 211001138], \"equipedSkills\": [16, 3206, 8, 1, 16, 6006, 8, 2, 16, 601, 8, 3, 16, 4606], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1770082491}, \"clanBasicInfo\": {\"clanId\": \"3044025928\", \"clanName\": \"Ghybyshjs\", \"captainId\": \"9770654158\", \"clanLevel\": 1, \"capacity\": 25, \"memberNum\": 7}, \"captainBasicInfo\": {\"accountId\": \"9770654158\", \"accountType\": 1, \"nickname\": \"@bunny888?\", \"region\": \"IND\", \"level\": 14, \"exp\": 11284, \"bannerId\": 901041021, \"headPic\": 902000171, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 11, \"lastLoginAt\": \"1771547060\", \"csRank\": 306, \"csRankingPoints\": 20, \"maxRank\": 301, \"csMaxRank\": 306, \"gameBagShow\": 904000023, \"accountPrefers\": {}, \"createAt\": \"1723026699\", \"title\": 905290001, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 543, \"isSelected\": true, \"skinId\": 1310000092, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"3130190101\", \"gender\": \"Gender_FEMALE\", \"language\": \"Language_BENGALI\", \"signature\": \"XYZ\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 91, \"periodicSummaryEndTime\": \"1774966923\"}}}"
+      },
+      {
+        "id": 184,
+        "user_id": 7969481584,
+        "search_type": "mobile_number",
+        "query": "7557722849",
+        "search_date": "2026-04-01 10:30:14",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7557722849\", \"name\": \"RAMAPRAVESHBHAGAT\", \"fname\": \"RAJAVANSHI  BHAGAT\", \"address\": \"HASUAA ZIRADEI SIWAN  SIWAN-SIWAN 841228 BR   SIWAN-SIWAN BR 841228\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"TJJ1756923\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -8483,7 +8491,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:25:55"
+          "last_active": "2026-04-01 10:31:17"
         },
         {
           "id": 299,
