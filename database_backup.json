@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 17:12:52",
+    "created_at": "2026-04-01 17:14:56",
     "stats": {
       "main_users": 313,
       "main_admins": 1,
@@ -2209,13 +2209,13 @@
         "first_name": "Saikat",
         "join_date": "2026-03-30 17:10:59",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-01 17:08:34",
+        "total_searches": 2,
+        "last_active": "2026-04-01 17:13:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -4934,8 +4934,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 57,
-        "last_active": "2026-04-01 14:54:36",
+        "total_searches": 58,
+        "last_active": "2026-04-01 17:14:47",
         "money": 0,
         "clone_bots": 0
       },
@@ -5211,7 +5211,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-01 17:05:27",
+        "last_active": "2026-04-01 17:14:45",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -8326,6 +8326,22 @@
         "query": "8167337912",
         "search_date": "2026-04-01 17:08:34",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8167337912\", \"name\": \"MR BABLU DUYAN\", \"fname\": \"Banshi Duyari\", \"address\": \"!BHUNYARA  SAOTA  BHUERAH  HOOGHLY!BHUNYARA  SAOTA  BHUERAH  HOOGHLY Highschool!Highschool!Saota Bhunyara HOOGHLY!HOOGHLY!HOOGHLY!West Bengal!712415\", \"alt\": \"8436953411\", \"circle\": \"VI KOL & WB\", \"id\": \"615408659986\", \"email\": null}, {\"mobile\": \"8167337912\", \"name\": \"Bablu  Duyari\", \"fname\": \"Banshi  Duyari\", \"address\": \"0!Bhunyara Saota!Bhuerah!Hooghly!West Bengal!712415\", \"alt\": null, \"circle\": \"AIRTEL WB\", \"id\": \"615408659986\", \"email\": null}]}"
+      },
+      {
+        "id": 220,
+        "user_id": 7947911743,
+        "search_type": "mobile_number",
+        "query": "9748399525",
+        "search_date": "2026-04-01 17:13:06",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9748399525\", \"name\": \"MR  JOYDEB MALIK\", \"fname\": \"Guiram Malik\", \"address\": \"MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL\", \"alt\": \"9903858041\", \"circle\": \"VODAFONE KOLKATA\", \"id\": \"WB 27 184 372518\", \"email\": null}, {\"mobile\": \"9748399525\", \"name\": \"MR JOYDEB MALIK\", \"fname\": \"Guiram Malik\", \"address\": \"MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL\", \"alt\": \"9903858041\", \"circle\": \"VI KOL & WB\", \"id\": \"WB27184372518\", \"email\": null}]}"
+      },
+      {
+        "id": 221,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9903858041",
+        "search_date": "2026-04-01 17:14:47",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9903858041\", \"name\": \"Joydeb  Malik\", \"fname\": \"Guiram  Malik\", \"address\": \"Dakshinkul  Bandipur   Hooghly West Bengal 712407\", \"alt\": null, \"circle\": \"AIRTEL WB\", \"id\": \"254002751252\", \"email\": null}, {\"mobile\": \"9903858041\", \"name\": \"MR  JOYDEB MALIK\", \"fname\": \"Guiram Malik\", \"address\": \"MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL\", \"alt\": \"9748399525\", \"circle\": \"VODAFONE KOLKATA\", \"id\": \"WB 27 184 372518\", \"email\": null}, {\"mobile\": \"9903858041\", \"name\": \"Joydeb  Malik\", \"fname\": \"Guiram  Malik\", \"address\": \"-! !Dakshinkul    Bandipur West Bengal! !Hooghly! !712407\", \"alt\": null, \"circle\": \"AIRTEL KOL\", \"id\": \"254002751252\", \"email\": \"-\"}, {\"mobile\": \"9903858041\", \"name\": \"MR JOYDEB MALIK\", \"fname\": \"Guiram Malik\", \"address\": \"MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL  J  L NO - 120  NALIKUL PASCHIM  HARIPAL  HOOGHLY!DAKSHINAKUL PURBAPARA  MAUJA DAKSHINAKUL\", \"alt\": \"9748399525\", \"circle\": \"VI KOL & WB\", \"id\": \"WB27184372518\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -9188,7 +9204,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 15:29:30"
+          "last_active": "2026-04-01 17:14:45"
         }
       ],
       "daily_claims": [],
