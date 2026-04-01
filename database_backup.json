@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 08:07:02",
+    "created_at": "2026-04-01 08:08:05",
     "stats": {
       "main_users": 286,
       "main_admins": 2,
@@ -1222,8 +1222,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 08:06:48",
+        "total_searches": 1,
+        "last_active": "2026-04-01 08:07:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -5262,6 +5262,10 @@
       {
         "user_id": 8220310921,
         "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 7408216695,
+        "claim_date": "2026-04-01"
       }
     ],
     "welcome_settings": [
@@ -7454,6 +7458,14 @@
         "query": "8774698111",
         "search_date": "2026-04-01 07:44:38",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8774698111\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 183,
+        "user_id": 7408216695,
+        "search_type": "ff_info",
+        "query": "3130190101",
+        "search_date": "2026-04-01 08:07:34",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3130190101\", \"accountType\": 1, \"nickname\": \"\\u3164C\\u029c\\u026a\\u1d0b\\u1d0bo\\u00d7\\u035c\\u00d7\\u3164\", \"region\": \"IND\", \"level\": 63, \"exp\": 1343401, \"bannerId\": 901035007, \"headPic\": 902029011, \"rank\": 318, \"rankingPoints\": 3063, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 4033, \"lastLoginAt\": \"1774970362\", \"csRank\": 318, \"csRankingPoints\": 72, \"weaponSkinShows\": [907300001, 912000006], \"maxRank\": 318, \"csMaxRank\": 318, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1620714115\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000019, \"skinColor\": 50, \"clothes\": [204000181, 205000476, 211000408, 214000017, 203000911, 211001138], \"equipedSkills\": [16, 3206, 8, 1, 16, 6006, 8, 2, 16, 601, 8, 3, 16, 4606], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1770082491}, \"clanBasicInfo\": {\"clanId\": \"3044025928\", \"clanName\": \"Ghybyshjs\", \"captainId\": \"9770654158\", \"clanLevel\": 1, \"capacity\": 25, \"memberNum\": 7}, \"captainBasicInfo\": {\"accountId\": \"9770654158\", \"accountType\": 1, \"nickname\": \"@bunny888?\", \"region\": \"IND\", \"level\": 14, \"exp\": 11284, \"bannerId\": 901041021, \"headPic\": 902000171, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 11, \"lastLoginAt\": \"1771547060\", \"csRank\": 306, \"csRankingPoints\": 20, \"maxRank\": 301, \"csMaxRank\": 306, \"gameBagShow\": 904000023, \"accountPrefers\": {}, \"createAt\": \"1723026699\", \"title\": 905290001, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 543, \"isSelected\": true, \"skinId\": 1310000092, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"3130190101\", \"gender\": \"Gender_FEMALE\", \"language\": \"Language_BENGALI\", \"signature\": \"XYZ\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 91, \"periodicSummaryEndTime\": \"1774966923\"}}}"
       }
     ],
     "bomber_history": [],
