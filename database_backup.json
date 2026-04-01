@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 03:17:58",
+    "created_at": "2026-04-01 03:20:02",
     "stats": {
       "main_users": 267,
       "main_admins": 2,
@@ -977,13 +977,13 @@
         "first_name": "SAPTAJIT",
         "join_date": "2026-03-31 16:24:12",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 16:24:17",
+        "total_searches": 2,
+        "last_active": "2026-04-01 03:18:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -2913,13 +2913,13 @@
         "first_name": "Kartik",
         "join_date": "2026-03-31 03:57:59",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 03:58:30",
+        "total_searches": 2,
+        "last_active": "2026-04-01 03:18:56",
         "money": 0,
         "clone_bots": 0
       },
@@ -4541,7 +4541,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-01 03:16:33",
+        "last_active": "2026-04-01 03:18:44",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -4661,7 +4661,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 03:11:22",
+        "last_active": "2026-04-01 03:18:53",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6956,6 +6956,22 @@
         "query": "919453153824",
         "search_date": "2026-04-01 03:16:54",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9453153824\", \"name\": \"PYARE  LAL\", \"fname\": \"JAY NATH RAM\", \"address\": \"!00!aswaniya!!AZAMGARH!Azamgarh!!Uttar Pradesh!276301\", \"alt\": \"7380330848\", \"circle\": \"UP EAST\", \"id\": \"UP5020100005561\", \"email\": null}]}"
+      },
+      {
+        "id": 164,
+        "user_id": 8333481899,
+        "search_type": "mobile_number",
+        "query": "8802074807",
+        "search_date": "2026-04-01 03:18:56",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8802074807\", \"name\": \"Sarita Devi\", \"fname\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho!C 1215!GALI NO 13 ROAD NO 4 MAHIPALPUR!NEAR IPH HOSPITAL!DELHI!Delhi!110037\", \"alt\": \"9716133687\", \"circle\": \"VI DELHI\", \"id\": \"911465374221\", \"email\": null}, {\"mobile\": \"8802074807\", \"name\": \"SaritaDevi\", \"fname\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho!C 1215!GALI NO 13 ROAD NO 4 MAHIPALPUR!NEAR IPH HOSPITAL!DELHI!Delhi!110037\", \"alt\": \"9716133687\", \"circle\": \"VI DELHI\", \"id\": \"911465374221\", \"email\": null}]}"
+      },
+      {
+        "id": 165,
+        "user_id": 7337075445,
+        "search_type": "mobile_number",
+        "query": "9431496155",
+        "search_date": "2026-04-01 03:18:58",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9431496155\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9308560547\", \"circle\": \"BIHAR JIO\", \"id\": \"678264610492\", \"email\": null}, {\"mobile\": \"9431496155\", \"name\": \"Ajit Kumar\", \"fname\": \"tara mistri\", \"address\": \"s/o  tara mistri!!bag sadhoram mahavir asthan Begampur!!bag sadhoram mahavir asthan patna city begampur!patna rural Patna Rural!patna!Bihar!800009\", \"alt\": \"9308560547\", \"circle\": \"JIO BHR&JHR\", \"id\": \"678264610492\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -7801,7 +7817,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-03-31 16:25:01"
+          "last_active": "2026-04-01 03:18:53"
         },
         {
           "id": 200,
