@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 13:11:11",
+    "created_at": "2026-04-01 13:13:15",
     "stats": {
-      "main_users": 304,
+      "main_users": 305,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 127
+      "total_clone_users": 128
     }
   },
   "main_bot": {
@@ -1777,13 +1777,13 @@
         "first_name": "Aryan",
         "join_date": "2026-04-01 10:41:37",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-01 13:03:18",
+        "total_searches": 2,
+        "last_active": "2026-04-01 13:12:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -4316,6 +4316,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8501176328,
+        "username": "",
+        "first_name": "亗Sʜᴜʙʜᴀᴍ⚔️Hᴀᴄᴋᴇʀ亗",
+        "join_date": "2026-04-01 13:13:07",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 13:13:07",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8503420295,
         "username": "RoslynHiatt401260",
         "first_name": "吴鹏-四",
@@ -5163,7 +5179,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-01 12:50:49",
+        "last_active": "2026-04-01 13:13:10",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5343,7 +5359,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 12:12:55",
+        "last_active": "2026-04-01 13:13:07",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -8074,6 +8090,14 @@
         "query": "9718079886",
         "search_date": "2026-04-01 13:03:18",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9718079886\", \"name\": \"MS. RESHMA DEVI\", \"fname\": \"Vinod Kumar\", \"address\": \"C/O VINOD KUMAR!00!pure Narayan das!!SHAHBARIPRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503\", \"alt\": \"7570825721\", \"circle\": \"VODA UPE\", \"id\": \"405074619434\", \"email\": null}, {\"mobile\": \"9718079886\", \"name\": \"MS RESHMA DEVI\", \"fname\": \"Vinod Kumar\", \"address\": \"C/O VINOD KUMAR!00!pure Narayan das!!SHAHBARI PRATAPGARH!PRATAPGARH!UTTAR PRADESH!230503\", \"alt\": \"7570825721\", \"circle\": \"UPE\", \"id\": \"405074619434\", \"email\": null}]}"
+      },
+      {
+        "id": 208,
+        "user_id": 7779586775,
+        "search_type": "mobile_number",
+        "query": "8488869867",
+        "search_date": "2026-04-01 13:12:17",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8488869867\", \"name\": \"Ravendra\", \"fname\": \"Surendra\", \"address\": \"12 Bekari Kuva  gayti mandir rod Disa\", \"alt\": null, \"circle\": \"AIRTEL GUJARAT\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -9919,6 +9943,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 10:33:20"
+        },
+        {
+          "id": 582,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 8501176328,
+          "username": "",
+          "first_name": "亗Sʜᴜʙʜᴀᴍ⚔️Hᴀᴄᴋᴇʀ亗",
+          "join_date": "2026-04-01 13:13:07",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 13:13:07"
         },
         {
           "id": 166,
