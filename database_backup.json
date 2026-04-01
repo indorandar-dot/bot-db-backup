@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 08:06:42",
+    "created_at": "2026-04-01 08:07:02",
     "stats": {
-      "main_users": 285,
+      "main_users": 286,
       "main_admins": 2,
       "clone_bots": 2,
-      "total_clone_users": 105
+      "total_clone_users": 106
     }
   },
   "main_bot": {
@@ -1208,6 +1208,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:07",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7408216695,
+        "username": "",
+        "first_name": "MD SHERALI",
+        "join_date": "2026-04-01 08:06:48",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 08:06:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -8419,6 +8435,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 05:13:01"
+        },
+        {
+          "id": 430,
+          "clone_token": "8612301792:AAEJjtWsb3Uq3uOmCvbiV5_sCKMdlMlzdp0",
+          "user_id": 7408216695,
+          "username": "",
+          "first_name": "MD SHERALI",
+          "join_date": "2026-04-01 08:06:48",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-01 08:06:48"
         },
         {
           "id": 306,
