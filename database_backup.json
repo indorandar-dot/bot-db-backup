@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 01:40:13",
+    "created_at": "2026-04-01 01:42:17",
     "stats": {
       "main_users": 264,
       "main_admins": 2,
@@ -2913,13 +2913,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 14,
+        "credits": 12,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-30 09:16:53",
+        "total_searches": 5,
+        "last_active": "2026-04-01 01:42:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -4403,7 +4403,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-30 07:17:02",
-        "last_active": "2026-04-01 01:22:49",
+        "last_active": "2026-04-01 01:41:59",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -6862,6 +6862,22 @@
         "query": "Jeshika_khadka",
         "search_date": "2026-03-31 23:40:09",
         "result": "{\"success\": true, \"id\": \"78990241425\", \"username\": \"jeshika_khadka\", \"name\": \"jeshika khadka\", \"full_name\": \"jeshika khadka\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/626641241_17849178462633426_830798206045957388_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEZl-_jadosbDrwxxjN4UB_VDwH8M3FF79gjXW0uYuxcPz8_Nu32ld2D9kGzk9CCXI&_nc_ohc=d9HRVhjU-qgQ7kNvwH_7RaJ&_nc_gid=q5KNVS-KPIBgs3cW7Uf0jg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1CHUAa2fXVj4XJ71UspkmHeHMGxg-SqcpLNqITHTQlTg&oe=69D241E9&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpz4j42kpz.jpg\", \"followers\": 57, \"following\": 45, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"78990241425\", \"username\": \"jeshika_khadka\", \"name\": \"jeshika khadka\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/626641241_17849178462633426_830798206045957388_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEZl-_jadosbDrwxxjN4UB_VDwH8M3FF79gjXW0uYuxcPz8_Nu32ld2D9kGzk9CCXI&_nc_ohc=d9HRVhjU-qgQ7kNvwH_7RaJ&_nc_gid=q5KNVS-KPIBgs3cW7Uf0jg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1CHUAa2fXVj4XJ71UspkmHeHMGxg-SqcpLNqITHTQlTg&oe=69D241E9&_nc_sid=8b3546\", \"followers\": 57, \"following\": 45, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 159,
+        "user_id": 8335023642,
+        "search_type": "mobile_number",
+        "query": "9709586997",
+        "search_date": "2026-04-01 01:42:02",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9709586997\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": \"7488035880\", \"circle\": \"JIO BHR&JHR\", \"id\": \"491279241326\", \"email\": null}, {\"mobile\": \"9709586997\", \"name\": \"MANJUR\", \"fname\": \"ALIJAN ANSARI\", \"address\": \"H NO 170 WORD NO 7 ADITYAPUR SARAIKELA KHARSAWAN SARAIKELA KHARSAWAN JHARKHAND 810029\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"JPR0946033\", \"email\": null}, {\"mobile\": \"9709586997\", \"name\": \"MANJUR\", \"fname\": \"ALIJAN ANSARI\", \"address\": \"WORD NO 7 ADITYAPUR!SARAIKELA KHARSAWAN!SARAIKELA KHARSAWAN!JHARKHAND!810029\", \"alt\": null, \"circle\": \"VODA BHR&JHR\", \"id\": \"JPR0946033\", \"email\": null}]}"
+      },
+      {
+        "id": 160,
+        "user_id": 8335023642,
+        "search_type": "mobile_number",
+        "query": "7488035880",
+        "search_date": "2026-04-01 01:42:15",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"491279241326\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"MR  JAFAR ANSARI\", \"fname\": \"Md\", \"address\": \"S/O Md. Mafik H N0- 259/ 216 H N0- 259/ 216  VIILA TOLA HEDCHA  KAPALI  DANGARDIH EAST SINGHBHUM East Singhbhum EAST SINGHBHUM JHARKHAND 831012\", \"alt\": \"7280096029\", \"circle\": \"BIHAR VODAFONE\", \"id\": \"993641165741\", \"email\": null}, {\"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\", \"fname\": \"Md Manjur Ansari\", \"address\": \"W/O  Md Manjur Ansari!!Kapali ROAD NO-1 MILLAT NAGAR KAPALI!Chandil!Dobo SeraikelaKharsawan!Jharkhand!831012\", \"alt\": \"919709586997\", \"circle\": \"JIO BHR&JHR\", \"id\": \"491279241326\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
