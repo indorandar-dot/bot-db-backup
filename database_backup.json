@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 03:59:22",
+    "created_at": "2026-04-01 04:00:16",
     "stats": {
-      "main_users": 272,
+      "main_users": 273,
       "main_admins": 2,
       "clone_bots": 2,
       "total_clone_users": 92
@@ -1905,7 +1905,7 @@
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
         "join_date": "2026-03-30 16:48:07",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -3784,6 +3784,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 16:14:04",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8490792060,
+        "username": "Roshan_hop",
+        "first_name": "ggg",
+        "join_date": "2026-04-01 04:00:09",
+        "referrer": 8008313092,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 04:00:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -5730,6 +5746,12 @@
         "referrer": 8703382327,
         "referred": 8220310921,
         "date": "2026-04-01 03:16:15"
+      },
+      {
+        "id": 120,
+        "referrer": 8008313092,
+        "referred": 8490792060,
+        "date": "2026-04-01 04:00:09"
       }
     ],
     "search_history": [
