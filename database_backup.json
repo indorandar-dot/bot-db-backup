@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 14:46:58",
+    "created_at": "2026-04-01 14:49:03",
     "stats": {
       "main_users": 309,
       "main_admins": 2,
@@ -3254,8 +3254,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-01 14:44:58",
+        "total_searches": 3,
+        "last_active": "2026-04-01 14:48:19",
         "money": 0,
         "clone_bots": 0
       },
@@ -5423,7 +5423,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "KOI PROMO MAT KARNA ..\n\nOWNER KA PATA NHI BUT SIMRAN CHOKO DEGI TUMKO PATA BI NHI CHALEGA 👽",
         "added_date": "2026-03-31 05:59:59",
-        "last_active": "2026-04-01 14:46:51",
+        "last_active": "2026-04-01 14:48:33",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -5755,6 +5755,10 @@
       },
       {
         "user_id": 7969481584,
+        "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 8299128589,
         "claim_date": "2026-04-01"
       }
     ],
@@ -8184,6 +8188,22 @@
         "query": "01782451556",
         "search_date": "2026-04-01 14:44:58",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"01782451556\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 211,
+        "user_id": 8299128589,
+        "search_type": "username",
+        "query": "@RlxInfoBot",
+        "search_date": "2026-04-01 14:47:13",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"RlxInfoBot\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 212,
+        "user_id": 8299128589,
+        "search_type": "ff_info",
+        "query": "6762659437",
+        "search_date": "2026-04-01 14:48:19",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6762659437\", \"accountType\": 1, \"nickname\": \"\\u2014\\u035eMAH\\u135d\\u059fIM\\u3164\\u53cb\\uf8ff\", \"region\": \"BD\", \"level\": 63, \"exp\": 1351588, \"bannerId\": 901000174, \"headPic\": 902000192, \"rank\": 314, \"rankingPoints\": 2477, \"badgeCnt\": 1, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 27429, \"showRank\": true, \"lastLoginAt\": \"1775037583\", \"csRank\": 311, \"csRankingPoints\": 40, \"weaponSkinShows\": [907102815, 912039001], \"maxRank\": 314, \"csMaxRank\": 311, \"accountPrefers\": {}, \"createAt\": \"1660304761\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [204000501, 211000617, 211000189, 205000059, 214000117, 203001066], \"equipedSkills\": [16, 1806, 8, 1, 16, 6501, 8, 2, 16, 2801, 8, 3, 16, 1206], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1660564279, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3081253309\", \"clanName\": \"\\uaadd\\u026a\\u3164\\u0187\\u026a\\u1d1b\\u028f\\uf8ff\", \"captainId\": \"6762659437\", \"clanLevel\": 7, \"capacity\": 55, \"memberNum\": 10}, \"captainBasicInfo\": {\"accountId\": \"6762659437\", \"accountType\": 1, \"nickname\": \"\\u2014\\u035eMAH\\u135d\\u059fIM\\u3164\\u53cb\\uf8ff\", \"region\": \"BD\", \"level\": 63, \"exp\": 1351588, \"bannerId\": 901000174, \"headPic\": 902000192, \"rank\": 314, \"rankingPoints\": 2477, \"badgeCnt\": 1, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 27429, \"showRank\": true, \"lastLoginAt\": \"1775037583\", \"csRank\": 311, \"csRankingPoints\": 40, \"weaponSkinShows\": [907102815, 912039001], \"maxRank\": 314, \"csMaxRank\": 311, \"accountPrefers\": {}, \"createAt\": \"1660304761\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"6762659437\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"signature\": \"[b][c]\\u2022 Currently: Lebanon\\n\\u2022 Home: Bangladesh\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774972239\"}}}"
       }
     ],
     "bomber_history": [],
@@ -10193,7 +10213,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 14:46:44"
+          "last_active": "2026-04-01 14:48:33"
         },
         {
           "id": 371,
