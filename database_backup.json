@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 14:30:18",
+    "created_at": "2026-04-01 14:30:24",
     "stats": {
       "main_users": 308,
       "main_admins": 2,
@@ -593,7 +593,7 @@
         "first_name": "❗𝗠𝗔𝗛𝗜𝗠 𝗢𝗙𝗙𝗖𝗜𝗔𝗟❗[🇱🇧]",
         "join_date": "2026-04-01 14:30:16",
         "referrer": null,
-        "credits": 5,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
