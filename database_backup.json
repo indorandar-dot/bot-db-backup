@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 13:36:05",
+    "created_at": "2026-04-01 13:37:51",
     "stats": {
-      "main_users": 306,
+      "main_users": 307,
       "main_admins": 2,
       "clone_bots": 2,
       "total_clone_users": 129
@@ -600,6 +600,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 09:58:30",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6515662923,
+        "username": "",
+        "first_name": "Billu",
+        "join_date": "2026-04-01 13:37:44",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 13:37:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -4817,7 +4833,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 71,
+        "credits": 73,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -6448,6 +6464,12 @@
         "referrer": 7969481584,
         "referred": 6414534017,
         "date": "2026-04-01 11:59:10"
+      },
+      {
+        "id": 122,
+        "referrer": 8703382327,
+        "referred": 6515662923,
+        "date": "2026-04-01 13:37:44"
       }
     ],
     "search_history": [
