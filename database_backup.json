@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 10:43:45",
+    "created_at": "2026-04-01 10:45:49",
     "stats": {
       "main_users": 300,
       "main_admins": 2,
@@ -2214,8 +2214,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 06:30:42",
+        "total_searches": 1,
+        "last_active": "2026-04-01 10:44:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -2673,7 +2673,7 @@
         "first_name": "—͞𝐅𝐋𝐀𝐒𝐇 </> 𝐃𝐄𝐕 [🇮🇳]",
         "join_date": "2026-03-30 14:33:09",
         "referrer": null,
-        "credits": 3,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -5596,6 +5596,10 @@
       {
         "user_id": 8053423400,
         "claim_date": "2026-04-01"
+      },
+      {
+        "user_id": 8192518877,
+        "claim_date": "2026-04-01"
       }
     ],
     "welcome_settings": [
@@ -7852,6 +7856,14 @@
         "query": "wantedmod52",
         "search_date": "2026-04-01 10:43:06",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"wantedmod52\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 191,
+        "user_id": 8053423400,
+        "search_type": "typed_userid",
+        "query": "7955703217",
+        "search_date": "2026-04-01 10:44:26",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7955703217\", \"username\": \"Vxrunxo\", \"full_name\": \"\\ud835\\udc19\\ud835\\udc0e\\ud835\\udc18\\ud835\\udc00\", \"first_name\": \"\\ud835\\udc19\\ud835\\udc0e\\ud835\\udc18\\ud835\\udc00\", \"last_name\": \"\", \"bio\": \"Send me location I am gonna come I am ready\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"7955703217\", \"username\": \"Vxrunxo\", \"first_name\": \"\\ud835\\udc19\\ud835\\udc0e\\ud835\\udc18\\ud835\\udc00\", \"last_name\": \"\", \"full_name\": \"\\ud835\\udc19\\ud835\\udc0e\\ud835\\udc18\\ud835\\udc00\", \"bio\": \"Send me location I am gonna come I am ready\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Vxrunxo\"]}}"
       }
     ],
     "bomber_history": [],
@@ -8375,7 +8387,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:43:20"
+          "last_active": "2026-04-01 10:45:03"
         },
         {
           "id": 63,
@@ -8660,7 +8672,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:43:44"
+          "last_active": "2026-04-01 10:44:10"
         }
       ],
       "daily_claims": [],
