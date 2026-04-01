@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 03:15:53",
+    "created_at": "2026-04-01 03:16:23",
     "stats": {
-      "main_users": 266,
+      "main_users": 267,
       "main_admins": 2,
       "clone_bots": 2,
       "total_clone_users": 87
@@ -2460,6 +2460,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8220310921,
+        "username": "Irapepoorgirls",
+        "first_name": "SAM",
+        "join_date": "2026-04-01 03:16:15",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-01 03:16:15",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8221031703,
         "username": "KristenValli838535",
         "first_name": "גדעון מזרחי",
@@ -4209,7 +4225,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 58,
+        "credits": 60,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -5628,6 +5644,12 @@
         "referrer": 6441946085,
         "referred": 6116879349,
         "date": "2026-03-31 22:36:14"
+      },
+      {
+        "id": 119,
+        "referrer": 8703382327,
+        "referred": 8220310921,
+        "date": "2026-04-01 03:16:15"
       }
     ],
     "search_history": [
