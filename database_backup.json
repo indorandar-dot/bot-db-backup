@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-01 03:11:42",
+    "created_at": "2026-04-01 03:13:47",
     "stats": {
       "main_users": 266,
       "main_admins": 2,
@@ -3377,13 +3377,13 @@
         "first_name": "𒆜ＲＯＣＫＹܓ ＢＨＡＩ !",
         "join_date": "2026-03-30 07:17:02",
         "referrer": null,
-        "credits": 12,
+        "credits": 11,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-01 03:11:39",
+        "total_searches": 8,
+        "last_active": "2026-04-01 03:12:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -6918,6 +6918,14 @@
         "query": "6443754454",
         "search_date": "2026-04-01 03:11:39",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6443754454\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 162,
+        "user_id": 8440279273,
+        "search_type": "instagram",
+        "query": "si_name_77",
+        "search_date": "2026-04-01 03:12:03",
+        "result": "{\"success\": true, \"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHP4WNav0jSK5i2IhNDqjHi71NAunu8b0BvMGRWBC24DoguSof_8xaHmM3RGYyaPMI&_nc_ohc=IdVo17NVkOQQ7kNvwGc7kxF&_nc_gid=U_c9KhT8guRBtzzy0twDIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2DscQQM2J0lpiCuZcT1XT79tRAGKSFTKSiJl5hANa22Q&oe=69D2662B&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmptb5ad1m1.jpg\", \"followers\": 99, \"following\": 2, \"posts\": 2, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"72018492186\", \"username\": \"si_name_77\", \"name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\\u1d21\\u1d07\\u029f\\u029f\\u1d04\\u1d0f\\u1d0d \\u1d1b\\u1d0f \\u1d0d\\u028f \\u1d18\\u0280\\u1d0f\\u0493\\u026a\\u029f \\n\\u0493\\u0280\\u1d07\\u1d07 \\u0493\\u026a\\u0280\\u1d07 \\u029f\\u1d0f\\u1d20\\u1d07\\u0280\\ud83d\\udc97\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/651038472_17898649077404187_287455101916952803_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHP4WNav0jSK5i2IhNDqjHi71NAunu8b0BvMGRWBC24DoguSof_8xaHmM3RGYyaPMI&_nc_ohc=IdVo17NVkOQQ7kNvwGc7kxF&_nc_gid=U_c9KhT8guRBtzzy0twDIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2DscQQM2J0lpiCuZcT1XT79tRAGKSFTKSiJl5hANa22Q&oe=69D2662B&_nc_sid=8b3546\", \"followers\": 99, \"following\": 2, \"posts\": 2, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
