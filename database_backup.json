@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 03:56:03",
+    "created_at": "2026-04-02 03:58:07",
     "stats": {
       "main_users": 319,
       "main_admins": 1,
@@ -4417,13 +4417,13 @@
         "first_name": "ITCHII",
         "join_date": "2026-03-31 13:09:28",
         "referrer": null,
-        "credits": 8,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 13:09:28",
+        "total_searches": 1,
+        "last_active": "2026-04-02 03:57:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -8578,6 +8578,14 @@
         "query": "719502775136",
         "search_date": "2026-04-02 03:53:29",
         "result": "{\"success\": true, \"aadhaar\": \"719502775136\", \"total_records\": 2, \"data\": [{\"name\": \"WAHIDA KHATOON\", \"mobile\": \"9990645897\", \"father_name\": \"MD SAHID\", \"address\": \"Md Sahid 180 jagirti vihar guldher 2 railway stistion GAUTAM BUDDHA NAGAR GAUTAM BUDDHA NAGAR Uttar Pradesh 201002\", \"alt_mobile\": \"\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"719502775136\"}, {\"name\": \"Wahida Khatoon\", \"mobile\": \"9142793679\", \"father_name\": \"Md Sahid\", \"address\": \"W/O Md Sahid ward no 5 akbarpur Mathurapur ward no 05 ward no 05 Akbarpur Mathurapur Mathurapur Warisnagar Samastipur Bihar 848101\", \"alt_mobile\": \"9199680987\", \"circle\": \"AIRTEL\", \"email\": \"\", \"aadhaar_number\": \"719502775136\"}], \"source\": \"shadow_api\"}"
+      },
+      {
+        "id": 237,
+        "user_id": 8478716345,
+        "search_type": "instagram",
+        "query": "_bloodi_axn_07",
+        "search_date": "2026-04-02 03:57:55",
+        "result": "{\"success\": true, \"id\": \"61234121831\", \"username\": \"_bloodi_axn_07\", \"name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"full_name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"bio\": \"Discipline is the way i make mistakes but i always come back\\ud83d\\udc64\\u203c\\ufe0f\\n@staryy.sriii____18  my Queen \\ud83d\\udc51\\ud83d\\udc9e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657147757_17968224372041832_8259373758003889943_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE_L-PEIDmqvkEJ8wZc-8xHG0_sj_p33DS6fsy5sRHMDdMvKUn8H9jWjDNR-MGG1Z0&_nc_ohc=2GKwHHH5OJIQ7kNvwEjP4Pe&_nc_gid=JQEkfMsFSk-RiLaKIggkSA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2pRCoDm1ltamIfOcz3MwudLS31GECxGHjpSr8u3XYFgg&oe=69D3B8F4&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp7yu6irml.jpg\", \"followers\": 27035, \"following\": 83, \"posts\": 38, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"61234121831\", \"username\": \"_bloodi_axn_07\", \"name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"bio\": \"Discipline is the way i make mistakes but i always come back\\ud83d\\udc64\\u203c\\ufe0f\\n@staryy.sriii____18  my Queen \\ud83d\\udc51\\ud83d\\udc9e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657147757_17968224372041832_8259373758003889943_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE_L-PEIDmqvkEJ8wZc-8xHG0_sj_p33DS6fsy5sRHMDdMvKUn8H9jWjDNR-MGG1Z0&_nc_ohc=2GKwHHH5OJIQ7kNvwEjP4Pe&_nc_gid=JQEkfMsFSk-RiLaKIggkSA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2pRCoDm1ltamIfOcz3MwudLS31GECxGHjpSr8u3XYFgg&oe=69D3B8F4&_nc_sid=8b3546\", \"followers\": 27035, \"following\": 83, \"posts\": 38, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
