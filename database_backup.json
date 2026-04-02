@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 18:12:30",
+    "created_at": "2026-04-02 18:14:35",
     "stats": {
       "main_users": 338,
       "main_admins": 1,
@@ -1025,13 +1025,13 @@
         "first_name": "Obito",
         "join_date": "2026-03-30 10:16:03",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-03-31 13:52:25",
+        "total_searches": 3,
+        "last_active": "2026-04-02 18:12:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -9292,6 +9292,14 @@
         "query": "9507261918",
         "search_date": "2026-04-02 17:00:22",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9507261918\", \"name\": \"DEVENDRA KUMAR YADAV\", \"fname\": \"BHOGENDRA  YADAV\", \"address\": \"VILL BRAHMATOR ANCHAL JAINAGAR DIST MADHUBANI    JAYNAGAR-MADHUBANI 847226 BR   JAYNAGAR-MADHUBANI BR 847226\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"SGM0799114\", \"email\": null}, {\"mobile\": \"9507261918\", \"name\": \"Babita  Devi\", \"fname\": \"Chamak  Yadav\", \"address\": \"!Dodwar!!!!Madhubani Dorbar Jaynagar!Bihar!847226\", \"alt\": \"7764085573\", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"962099506309\", \"email\": null}]}"
+      },
+      {
+        "id": 287,
+        "user_id": 6843859380,
+        "search_type": "mobile_number",
+        "query": "7036534059",
+        "search_date": "2026-04-02 18:12:34",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7036534059\", \"name\": \"TULSHIRAMI POCHIRAM NAITAM\", \"fname\": \"POCHIRAM\", \"address\": \"!12-56/78!shagouse hotel  chintalkunta!!lbnagar  saroornagar  rangareddy!RANGAREDDY DT COURTS-HYDERABAD!!AP!500074\", \"alt\": \"9553029164\", \"circle\": \"VI TELANGANA & AP\", \"id\": \"539284643852\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
