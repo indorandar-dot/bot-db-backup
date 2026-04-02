@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 12:02:09",
+    "created_at": "2026-04-02 12:02:21",
     "stats": {
-      "main_users": 330,
+      "main_users": 331,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 142
@@ -3176,6 +3176,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:07",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8224757249,
+        "username": "TECHNOXTAMIL",
+        "first_name": "𓋰 𓆩𝐓ᴇᴄʜɴᴏ𓆪 ˣ [𝗧𝗢𝗣 𝗩𝗜𝗣 𝗦𝗘𝗟𝗟𝗘𝗥",
+        "join_date": "2026-04-02 12:02:13",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-02 12:02:13",
         "money": 0,
         "clone_bots": 0
       },
