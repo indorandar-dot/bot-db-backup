@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 03:58:07",
+    "created_at": "2026-04-02 04:00:11",
     "stats": {
       "main_users": 319,
       "main_admins": 1,
@@ -4417,13 +4417,13 @@
         "first_name": "ITCHII",
         "join_date": "2026-03-31 13:09:28",
         "referrer": null,
-        "credits": 7,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-02 03:57:55",
+        "total_searches": 2,
+        "last_active": "2026-04-02 03:58:29",
         "money": 0,
         "clone_bots": 0
       },
@@ -8586,6 +8586,14 @@
         "query": "_bloodi_axn_07",
         "search_date": "2026-04-02 03:57:55",
         "result": "{\"success\": true, \"id\": \"61234121831\", \"username\": \"_bloodi_axn_07\", \"name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"full_name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"bio\": \"Discipline is the way i make mistakes but i always come back\\ud83d\\udc64\\u203c\\ufe0f\\n@staryy.sriii____18  my Queen \\ud83d\\udc51\\ud83d\\udc9e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657147757_17968224372041832_8259373758003889943_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE_L-PEIDmqvkEJ8wZc-8xHG0_sj_p33DS6fsy5sRHMDdMvKUn8H9jWjDNR-MGG1Z0&_nc_ohc=2GKwHHH5OJIQ7kNvwEjP4Pe&_nc_gid=JQEkfMsFSk-RiLaKIggkSA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2pRCoDm1ltamIfOcz3MwudLS31GECxGHjpSr8u3XYFgg&oe=69D3B8F4&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmp7yu6irml.jpg\", \"followers\": 27035, \"following\": 83, \"posts\": 38, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"61234121831\", \"username\": \"_bloodi_axn_07\", \"name\": \"\\ud835\\ude70\\ud835\\ude87\\ud835\\ude7d/~\\ud83c\\udf19\\ud83c\\udf3b\", \"bio\": \"Discipline is the way i make mistakes but i always come back\\ud83d\\udc64\\u203c\\ufe0f\\n@staryy.sriii____18  my Queen \\ud83d\\udc51\\ud83d\\udc9e\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657147757_17968224372041832_8259373758003889943_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE_L-PEIDmqvkEJ8wZc-8xHG0_sj_p33DS6fsy5sRHMDdMvKUn8H9jWjDNR-MGG1Z0&_nc_ohc=2GKwHHH5OJIQ7kNvwEjP4Pe&_nc_gid=JQEkfMsFSk-RiLaKIggkSA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2pRCoDm1ltamIfOcz3MwudLS31GECxGHjpSr8u3XYFgg&oe=69D3B8F4&_nc_sid=8b3546\", \"followers\": 27035, \"following\": 83, \"posts\": 38, \"recent\": []}}"
+      },
+      {
+        "id": 238,
+        "user_id": 8478716345,
+        "search_type": "ff_info",
+        "query": "1781691311",
+        "search_date": "2026-04-02 03:58:29",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1781691311\", \"accountType\": 1, \"nickname\": \"\\u13ac\\u3164\\u019d\\u3164\\u13a0\\u3164.\\u141f\", \"region\": \"IND\", \"level\": 64, \"exp\": 1617036, \"headPic\": 902000257, \"rank\": 324, \"rankingPoints\": 5021, \"badgeCnt\": 10, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6562, \"lastLoginAt\": \"1775101377\", \"csRank\": 317, \"csRankingPoints\": 68, \"weaponSkinShows\": [907103107, 912034001, 914000002], \"maxRank\": 324, \"csMaxRank\": 317, \"accountPrefers\": {}, \"createAt\": \"1581150852\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [214044000, 203000547, 204000181, 205000059, 211000632, 211000859], \"equipedSkills\": [16, 4006, 8, 1, 16, 2506, 8, 2, 16, 606, 8, 3, 16, 706], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3049441883\", \"clanName\": \"\\u09b0\\u09be\\u09c7\\u09a4\\u09b0\\u2506\\u09b0\\u09be\\u099c\\u09be\\u3164\\u273f\", \"captainId\": \"1781691311\", \"clanLevel\": 5, \"capacity\": 50, \"memberNum\": 42}, \"captainBasicInfo\": {\"accountId\": \"1781691311\", \"accountType\": 1, \"nickname\": \"\\u13ac\\u3164\\u019d\\u3164\\u13a0\\u3164.\\u141f\", \"region\": \"IND\", \"level\": 64, \"exp\": 1617036, \"headPic\": 902000257, \"rank\": 324, \"rankingPoints\": 5021, \"badgeCnt\": 10, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6562, \"lastLoginAt\": \"1775101377\", \"csRank\": 317, \"csRankingPoints\": 68, \"weaponSkinShows\": [907103107, 912034001, 914000002], \"maxRank\": 324, \"csMaxRank\": 317, \"accountPrefers\": {}, \"createAt\": \"1581150852\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000116, \"level\": 4, \"exp\": 527, \"isSelected\": true, \"skinId\": 1310000167, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"1781691311\", \"gender\": \"Gender_MALE\", \"language\": \"Language_BENGALI\", \"timeOnline\": \"TimeOnline_WORKDAY\", \"timeActive\": \"TimeActive_NIGHT\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"[B][I][C] NEED A BENGALI DD !!\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1774851655\"}}}"
       }
     ],
     "bomber_history": [],
