@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 13:25:19",
+    "created_at": "2026-04-02 13:27:24",
     "stats": {
-      "main_users": 331,
+      "main_users": 332,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 143
@@ -97,13 +97,13 @@
         "first_name": "𝗦 𝗨 𝗠 𝗜 𝗧 ▌⚡",
         "join_date": "2026-03-31 15:28:09",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-02 13:25:07",
+        "total_searches": 5,
+        "last_active": "2026-04-02 13:26:21",
         "money": 0,
         "clone_bots": 0
       },
@@ -2248,6 +2248,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:10",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7904851643,
+        "username": "",
+        "first_name": "Dhaya",
+        "join_date": "2026-04-02 13:27:17",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-02 13:27:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -5777,7 +5793,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-02 02:29:32",
-        "last_active": "2026-04-02 13:24:34",
+        "last_active": "2026-04-02 13:27:17",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -9150,6 +9166,14 @@
         "query": "anu_singh_68",
         "search_date": "2026-04-02 13:25:07",
         "result": "{\"success\": true, \"id\": \"72512069476\", \"username\": \"anu_singh_68\", \"name\": \"\\u1d00\\u0274\\u1d1c\\ua731\\u029c\\u1d0b\\u1d00 \\ua731\\u026a\\u0274\\u0262\\u029c\", \"full_name\": \"\\u1d00\\u0274\\u1d1c\\ua731\\u029c\\u1d0b\\u1d00 \\ua731\\u026a\\u0274\\u0262\\u029c\", \"bio\": \"\\u0299\\u029f\\u1d0f\\u1d0f\\u1d0d \\u1d21\\u029c\\u1d07\\u0280\\u1d07 \\u028f\\u1d0f\\u1d1c'\\u0280\\u1d07 \\u1d18\\u029f\\u1d00\\u0274\\u1d1b\\u1d07\\u1d05...\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/631580083_17891302092421477_2063179268433588060_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gECiWc_WkNRDdOnhuD7mbH0AkycRyAEZcPbJ29jZgCq6gaRqw_6YGVSvFERM49g6Gs&_nc_ohc=JVhmeyCaKQAQ7kNvwGAigmu&_nc_gid=D1qFjhlwvGH-QlWsiX10fA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2v3acnjcXxKUa4GuyTjP02UdVWFJbsgNQMjGCSp9Nojg&oe=69D43103&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpde5hrgr_.jpg\", \"followers\": 20, \"following\": 19, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"72512069476\", \"username\": \"anu_singh_68\", \"name\": \"\\u1d00\\u0274\\u1d1c\\ua731\\u029c\\u1d0b\\u1d00 \\ua731\\u026a\\u0274\\u0262\\u029c\", \"bio\": \"\\u0299\\u029f\\u1d0f\\u1d0f\\u1d0d \\u1d21\\u029c\\u1d07\\u0280\\u1d07 \\u028f\\u1d0f\\u1d1c'\\u0280\\u1d07 \\u1d18\\u029f\\u1d00\\u0274\\u1d1b\\u1d07\\u1d05...\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/631580083_17891302092421477_2063179268433588060_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gECiWc_WkNRDdOnhuD7mbH0AkycRyAEZcPbJ29jZgCq6gaRqw_6YGVSvFERM49g6Gs&_nc_ohc=JVhmeyCaKQAQ7kNvwGAigmu&_nc_gid=D1qFjhlwvGH-QlWsiX10fA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2v3acnjcXxKUa4GuyTjP02UdVWFJbsgNQMjGCSp9Nojg&oe=69D43103&_nc_sid=8b3546\", \"followers\": 20, \"following\": 19, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 280,
+        "user_id": 1698472112,
+        "search_type": "instagram",
+        "query": "__isdope.9",
+        "search_date": "2026-04-02 13:26:21",
+        "result": "{\"success\": true, \"id\": \"64745074858\", \"username\": \"__isdope.9\", \"name\": \"RiMmI~\\u2661\", \"full_name\": \"RiMmI~\\u2661\", \"bio\": \"@__alex.dibu9 \\ud83c\\udf0f\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/657366646_17944244658154859_6417869626512575790_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFn3P3vSXyf-s-A7lMf-pbTPKDP1haxQktqrdPSmDcRKfL3zb1-u_WjXIEMul_8S4k&_nc_ohc=erY2Tfq1b58Q7kNvwHgJ5ST&_nc_gid=JreL0OAR-bUqfqImjZ0ZfA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2bmGtO97s7qtPcn9vqwqf4uKlbXlOb3IsyPfNWpglS1w&oe=69D42E2A&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpg1e3fu11.jpg\", \"followers\": 137, \"following\": 109, \"posts\": 2, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"64745074858\", \"username\": \"__isdope.9\", \"name\": \"RiMmI~\\u2661\", \"bio\": \"@__alex.dibu9 \\ud83c\\udf0f\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/657366646_17944244658154859_6417869626512575790_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFn3P3vSXyf-s-A7lMf-pbTPKDP1haxQktqrdPSmDcRKfL3zb1-u_WjXIEMul_8S4k&_nc_ohc=erY2Tfq1b58Q7kNvwHgJ5ST&_nc_gid=JreL0OAR-bUqfqImjZ0ZfA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2bmGtO97s7qtPcn9vqwqf4uKlbXlOb3IsyPfNWpglS1w&oe=69D42E2A&_nc_sid=8b3546\", \"followers\": 137, \"following\": 109, \"posts\": 2, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
