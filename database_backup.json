@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 01:18:32",
+    "created_at": "2026-04-02 01:20:36",
     "stats": {
       "main_users": 316,
       "main_admins": 1,
@@ -1617,13 +1617,13 @@
         "first_name": "आयुष ~آیوش 🫶🏻💕",
         "join_date": "2026-04-02 01:15:23",
         "referrer": null,
-        "credits": 5,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-02 01:15:23",
+        "total_searches": 2,
+        "last_active": "2026-04-02 01:20:30",
         "money": 0,
         "clone_bots": 0
       },
@@ -8414,6 +8414,22 @@
         "query": "6304812503",
         "search_date": "2026-04-02 01:16:53",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6304812503\", \"accountType\": 1, \"nickname\": \"YatesIr0538A\", \"region\": \"IND\", \"level\": 1, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1652582956\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1652538952\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [203000573, 214000000, 211000000, 208000000, 204000345, 205000299], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 225,
+        "user_id": 7587019637,
+        "search_type": "instagram",
+        "query": "51l07",
+        "search_date": "2026-04-02 01:19:16",
+        "result": "{\"success\": true, \"id\": \"47120354534\", \"username\": \"51l07\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjQuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEgLe8ojQXgzaO_lQhJysiUOMSWZzdQZnmSplfj6MlW6P1WKlzxLrx322hI6EqhC-bRroUdNvIlddfLoDta-EsD&_nc_ohc=ZREpiJCJTqUQ7kNvwG2arVQ&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3B_9HAqbfbxxXlYCnCBxEj1SVmqAstRVvV0hJfplwXkg&oe=69D3A4AA&_nc_sid=328259\", \"pic_file\": \"/tmp/tmplpwa2qj1.jpg\", \"followers\": 2, \"following\": 4, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"47120354534\", \"username\": \"51l07\", \"name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjQuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEgLe8ojQXgzaO_lQhJysiUOMSWZzdQZnmSplfj6MlW6P1WKlzxLrx322hI6EqhC-bRroUdNvIlddfLoDta-EsD&_nc_ohc=ZREpiJCJTqUQ7kNvwG2arVQ&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3B_9HAqbfbxxXlYCnCBxEj1SVmqAstRVvV0hJfplwXkg&oe=69D3A4AA&_nc_sid=328259\", \"followers\": 2, \"following\": 4, \"posts\": 0, \"recent\": []}}"
+      },
+      {
+        "id": 226,
+        "user_id": 7587019637,
+        "search_type": "mobile_number",
+        "query": "9648344519",
+        "search_date": "2026-04-02 01:20:30",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9648344519\", \"name\": \"Ravi Pratap Singh\", \"fname\": \"sant saran\", \"address\": \"s/o  sant saran!!Majhgawan Sharif!!asohna majhgawan sharif!bara banki Fatehpur!fatehpur!Uttar Pradesh!225305\", \"alt\": \"8604344519\", \"circle\": \"JIO UPE\", \"id\": \"568625392801\", \"email\": null}, {\"mobile\": \"9648344519\", \"name\": \"Ravi Pratap Singh\", \"fname\": \"S/O: Sant Saran\", \"address\": \"S/O: Sant Saran!.!.!. Bara Banki!!Bara Banki!UTTAR PRADESH!225305\", \"alt\": null, \"circle\": null, \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
