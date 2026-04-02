@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 14:34:01",
+    "created_at": "2026-04-02 14:36:05",
     "stats": {
       "main_users": 335,
       "main_admins": 1,
@@ -934,8 +934,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-02 05:08:16",
+        "total_searches": 2,
+        "last_active": "2026-04-02 14:35:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -9196,6 +9196,14 @@
         "query": "__isdope.9",
         "search_date": "2026-04-02 13:26:21",
         "result": "{\"success\": true, \"id\": \"64745074858\", \"username\": \"__isdope.9\", \"name\": \"RiMmI~\\u2661\", \"full_name\": \"RiMmI~\\u2661\", \"bio\": \"@__alex.dibu9 \\ud83c\\udf0f\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/657366646_17944244658154859_6417869626512575790_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFn3P3vSXyf-s-A7lMf-pbTPKDP1haxQktqrdPSmDcRKfL3zb1-u_WjXIEMul_8S4k&_nc_ohc=erY2Tfq1b58Q7kNvwHgJ5ST&_nc_gid=JreL0OAR-bUqfqImjZ0ZfA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2bmGtO97s7qtPcn9vqwqf4uKlbXlOb3IsyPfNWpglS1w&oe=69D42E2A&_nc_sid=8b3546\", \"pic_file\": \"/tmp/tmpg1e3fu11.jpg\", \"followers\": 137, \"following\": 109, \"posts\": 2, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": \"64745074858\", \"username\": \"__isdope.9\", \"name\": \"RiMmI~\\u2661\", \"bio\": \"@__alex.dibu9 \\ud83c\\udf0f\", \"verified\": false, \"private\": true, \"pic\": \"https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/657366646_17944244658154859_6417869626512575790_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFn3P3vSXyf-s-A7lMf-pbTPKDP1haxQktqrdPSmDcRKfL3zb1-u_WjXIEMul_8S4k&_nc_ohc=erY2Tfq1b58Q7kNvwHgJ5ST&_nc_gid=JreL0OAR-bUqfqImjZ0ZfA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2bmGtO97s7qtPcn9vqwqf4uKlbXlOb3IsyPfNWpglS1w&oe=69D42E2A&_nc_sid=8b3546\", \"followers\": 137, \"following\": 109, \"posts\": 2, \"recent\": []}}"
+      },
+      {
+        "id": 281,
+        "user_id": 6721875683,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8063633172, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-02 14:35:38",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8063633172\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
