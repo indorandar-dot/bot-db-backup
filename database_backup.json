@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 10:05:43",
+    "created_at": "2026-04-02 10:07:48",
     "stats": {
       "main_users": 326,
       "main_admins": 1,
@@ -5142,8 +5142,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 74,
-        "last_active": "2026-04-02 10:01:32",
+        "total_searches": 75,
+        "last_active": "2026-04-02 10:06:42",
         "money": 0,
         "clone_bots": 0
       },
@@ -8962,6 +8962,14 @@
         "query": "@si_name_77",
         "search_date": "2026-04-02 10:01:32",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"\", \"username\": \"si_name_77\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"status\": true, \"from_cache\": false, \"searched_by\": \"name\", \"telegram\": {\"id\": 8443651511, \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"username\": \"si_name_77\", \"phone\": \"919134905822\", \"premium\": false, \"verified\": false, \"bot\": false, \"bio\": \"\", \"profile_photos_count\": 1}, \"profile_media\": {\"type\": \"photo\", \"png_links\": [\"http://useename2-numbar-api-rbot.onrender.com/media/8443651511_1.jpg\"]}, \"external\": {}, \"time\": \"2026-04-02 10:01:32\"}}"
+      },
+      {
+        "id": 268,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "@si_name_77",
+        "search_date": "2026-04-02 10:06:42",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"\", \"username\": \"si_name_77\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"status\": true, \"from_cache\": true, \"searched_by\": \"name\", \"telegram\": {\"id\": 8443651511, \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"username\": \"si_name_77\", \"phone\": \"919134905822\", \"premium\": false, \"verified\": false, \"bot\": false, \"bio\": \"\", \"profile_photos_count\": 1}, \"profile_media\": {\"type\": \"photo\", \"png_links\": [\"http://useename2-numbar-api-rbot.onrender.com/media/8443651511_1.jpg\"]}, \"external\": {}, \"time\": \"2026-04-02 10:01:32\"}}"
       }
     ],
     "bomber_history": [],
