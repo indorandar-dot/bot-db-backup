@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 05:16:31",
+    "created_at": "2026-04-02 05:16:59",
     "stats": {
       "main_users": 323,
       "main_admins": 1,
@@ -2417,13 +2417,13 @@
         "first_name": "Your Father",
         "join_date": "2026-04-02 05:16:23",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-02 05:16:23",
+        "total_searches": 1,
+        "last_active": "2026-04-02 05:16:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -8770,6 +8770,14 @@
         "query": "9716133687",
         "search_date": "2026-04-02 05:16:02",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9716133687\", \"name\": \"Sarita Devi\", \"fname\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho!C 1215!GALI NO 13 ROAD NO 4 MAHIPALPUR!NEAR IPH HOSPITAL!DELHI!Delhi!110037\", \"alt\": \"8802074807\", \"circle\": \"VI DELHI\", \"id\": \"911465374221\", \"email\": null}, {\"mobile\": \"9716133687\", \"name\": \"Arun kumar mahto\", \"fname\": \"Sitaram Mahto\", \"address\": \"!C-1215!Gali no-13 road No-4 mahipalpur!NA!!New Delhi South West South West!NA!Delhi!110037\", \"alt\": \"6299852729\", \"circle\": \"JIO DELHI\", \"id\": \"956311477609\", \"email\": null}, {\"mobile\": \"9716133687\", \"name\": \"ARUN KUMAR MAHTO\", \"fname\": \"SITARAM MAHTO\", \"address\": \"ROOM NO 14 H N 125 GALI N 13 MAHIPALPUR ! SOUTH WEST DELHI !  ! NEW DELHI ! Delhi ! 110037\", \"alt\": \"9540209260\", \"circle\": \"Delhi Voda\", \"id\": null, \"email\": null}, {\"mobile\": \"9716133687\", \"name\": \"Arun kumar mahto\", \"fname\": \"Sitaram Mahto\", \"address\": \"!C-1215!Gali no-13 road No-4 mahipalpur!NA!!New Delhi South WestSouth West!NA!Delhi!110037\", \"alt\": \"6299852729\", \"circle\": \"JIO DELHI\", \"id\": \"956311477609\", \"email\": null}, {\"mobile\": \"9716133687\", \"name\": \"SaritaDevi\", \"fname\": \"ARUN KUMAR\", \"address\": \"Arun Kumar Matho!C 1215!GALI NO 13 ROAD NO 4 MAHIPALPUR!NEAR IPH HOSPITAL!DELHI!Delhi!110037\", \"alt\": \"8802074807\", \"circle\": \"VI DELHI\", \"id\": \"911465374221\", \"email\": null}]}"
+      },
+      {
+        "id": 252,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8156029232, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-02 05:16:49",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8156029232\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"success\": true, \"owner\": \"https://t.me/cyberx4chat\", \"result\": {\"success\": true, \"msg\": \"Details fetched\", \"tg_id\": \"8156029232\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"8051224304\"}, \"cached\": false, \"proxyUsed\": \"none\", \"attempt\": 1}, \"_raw\": {\"success\": true, \"owner\": \"ZEXX_OWNER\", \"data\": {\"success\": true, \"owner\": \"https://t.me/cyberx4chat\", \"result\": {\"success\": true, \"msg\": \"Details fetched\", \"tg_id\": \"8156029232\", \"country\": \"India\", \"country_code\": \"+91\", \"number\": \"8051224304\"}, \"cached\": false, \"proxyUsed\": \"none\", \"attempt\": 1}, \"developer\": \"@CY_AGNT\", \"valid\": true, \"proxy\": true, \"dev\": \"@CY_AGNT\"}}"
       }
     ],
     "bomber_history": [],
