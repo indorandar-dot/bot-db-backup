@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 05:06:37",
+    "created_at": "2026-04-02 05:08:01",
     "stats": {
-      "main_users": 321,
+      "main_users": 322,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 139
@@ -888,6 +888,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 17:09:56",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6721875683,
+        "username": "",
+        "first_name": "ekchaadhari naag",
+        "join_date": "2026-04-02 05:07:53",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-02 05:07:53",
         "money": 0,
         "clone_bots": 0
       },
