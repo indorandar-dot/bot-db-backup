@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 22:13:49",
+    "created_at": "2026-04-02 22:15:54",
     "stats": {
       "main_users": 339,
       "main_admins": 1,
@@ -609,13 +609,13 @@
         "first_name": "ITACHI",
         "join_date": "2026-04-02 03:04:02",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-02 04:09:09",
+        "total_searches": 2,
+        "last_active": "2026-04-02 22:15:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -9366,6 +9366,14 @@
         "query": "8882987419",
         "search_date": "2026-04-02 22:13:01",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8882987419\", \"name\": \"Vimlesh Kumar\", \"fname\": \"Ram kripal mahto\", \"address\": \"! 12!Ajab singh colony mewla maharajpur!near railway fatak!faridabad!Faridabad!Faridabad!Haryana!121003\", \"alt\": \"8434450807\", \"circle\": \"JIO DELHI\", \"id\": \"459319218027\", \"email\": null}]}"
+      },
+      {
+        "id": 293,
+        "user_id": 6403986015,
+        "search_type": "mobile_number",
+        "query": "8651729316",
+        "search_date": "2026-04-02 22:15:49",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8651729316\", \"name\": \"RANJU DEVI\", \"fname\": \"ANIL KUMAR Kumar SAH\", \"address\": \"W/O  Anil Kumar Sah!W/O  Anil Kumar Sah!Dharampur Bandey  Morwa!  !DHARAMPUR BANDE-SAMASTIPUR!BR!848504\", \"alt\": \"8873658351\", \"circle\": \"VODA BHR&JHR\", \"id\": \"280699381242\", \"email\": null}, {\"mobile\": \"8651729316\", \"name\": \"Anil Kumar Sah\", \"fname\": \"Hari Narayan Sah\", \"address\": \"362!Sahu Bhawan!dharampur bandey Samastipur!Dharampur Bande!Samastipur!Samastipur!Bihar!848504\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"530303454970\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -9553,7 +9561,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-02 03:05:58"
+          "last_active": "2026-04-02 22:15:19"
         },
         {
           "id": 131,
