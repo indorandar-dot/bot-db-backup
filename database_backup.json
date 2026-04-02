@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 12:04:14",
+    "created_at": "2026-04-02 12:06:18",
     "stats": {
       "main_users": 331,
       "main_admins": 1,
@@ -3185,13 +3185,13 @@
         "first_name": "𓋰 𓆩𝐓ᴇᴄʜɴᴏ𓆪 ˣ [𝗧𝗢𝗣 𝗩𝗜𝗣 𝗦𝗘𝗟𝗟𝗘𝗥",
         "join_date": "2026-04-02 12:02:13",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-02 12:02:13",
+        "total_searches": 1,
+        "last_active": "2026-04-02 12:04:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -9122,6 +9122,14 @@
         "query": "6300838968",
         "search_date": "2026-04-02 11:45:44",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6300838968\", \"username\": \"ruok0141\", \"full_name\": \"..\", \"first_name\": \"..\", \"last_name\": \"\", \"bio\": \"\\ud83d\\ude0e\\ud83d\\udcab\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"6300838968\", \"username\": \"ruok0141\", \"first_name\": \"..\", \"last_name\": \"\", \"full_name\": \"..\", \"bio\": \"\\ud83d\\ude0e\\ud83d\\udcab\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"ruok0141\"]}}"
+      },
+      {
+        "id": 277,
+        "user_id": 8224757249,
+        "search_type": "instagram",
+        "query": "killer_boy_deepkx",
+        "search_date": "2026-04-02 12:04:38",
+        "result": "{\"success\": true, \"id\": \"N/A\", \"username\": \"killer_boy_deepkx\", \"name\": \"\", \"full_name\": \"\", \"bio\": \"\", \"verified\": false, \"private\": false, \"pic\": \"\", \"pic_file\": null, \"followers\": 0, \"following\": 0, \"posts\": 0, \"recent\": [], \"source\": \"shadow_api\", \"_raw\": {\"id\": null, \"username\": null, \"name\": null, \"bio\": null, \"verified\": null, \"private\": null, \"pic\": null, \"followers\": null, \"following\": null, \"posts\": null, \"recent\": []}}"
       }
     ],
     "bomber_history": [],
