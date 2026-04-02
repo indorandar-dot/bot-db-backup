@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 14:36:05",
+    "created_at": "2026-04-02 14:38:10",
     "stats": {
       "main_users": 335,
       "main_admins": 1,
@@ -934,8 +934,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-02 14:35:38",
+        "total_searches": 5,
+        "last_active": "2026-04-02 14:37:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -9204,6 +9204,30 @@
         "query": "{'user_id': 8063633172, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-02 14:35:38",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8063633172\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 282,
+        "user_id": 6721875683,
+        "search_type": "typed_userid",
+        "query": "8063633172",
+        "search_date": "2026-04-02 14:36:12",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8063633172\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 283,
+        "user_id": 6721875683,
+        "search_type": "typed_userid",
+        "query": "8244195139",
+        "search_date": "2026-04-02 14:36:27",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8244195139\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 284,
+        "user_id": 6721875683,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8244195139, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-02 14:37:34",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8244195139\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
