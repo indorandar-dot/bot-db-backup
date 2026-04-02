@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 04:37:35",
+    "created_at": "2026-04-02 04:39:39",
     "stats": {
       "main_users": 319,
       "main_admins": 1,
@@ -5030,8 +5030,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 62,
-        "last_active": "2026-04-02 04:12:36",
+        "total_searches": 63,
+        "last_active": "2026-04-02 04:37:54",
         "money": 0,
         "clone_bots": 0
       },
@@ -8622,6 +8622,14 @@
         "query": "9883422784",
         "search_date": "2026-04-02 04:12:36",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\", \"fname\": \"Mohan Tamang\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}]}"
+      },
+      {
+        "id": 242,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8440279273, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-02 04:37:54",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8440279273\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"success\": true, \"owner\": \"https://t.me/cyberx4chat\", \"result\": {\"success\": false, \"msg\": \"Phone number not found\"}, \"cached\": false, \"proxyUsed\": \"none\", \"attempt\": 1}, \"_raw\": {\"success\": true, \"owner\": \"ZEXX_OWNER\", \"data\": {\"success\": true, \"owner\": \"https://t.me/cyberx4chat\", \"result\": {\"success\": false, \"msg\": \"Phone number not found\"}, \"cached\": false, \"proxyUsed\": \"none\", \"attempt\": 1}, \"developer\": \"@CY_AGNT\", \"valid\": true, \"proxy\": true, \"dev\": \"@CY_AGNT\"}}"
       }
     ],
     "bomber_history": [],
