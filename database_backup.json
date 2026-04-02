@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-02 11:45:30",
+    "created_at": "2026-04-02 11:47:34",
     "stats": {
       "main_users": 330,
       "main_admins": 1,
@@ -5206,8 +5206,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 79,
-        "last_active": "2026-04-02 11:44:46",
+        "total_searches": 80,
+        "last_active": "2026-04-02 11:45:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -9098,6 +9098,14 @@
         "query": "8443651511",
         "search_date": "2026-04-02 11:44:46",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"si_name_77\"]}}"
+      },
+      {
+        "id": 276,
+        "user_id": 8703382327,
+        "search_type": "typed_userid",
+        "query": "6300838968",
+        "search_date": "2026-04-02 11:45:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6300838968\", \"username\": \"ruok0141\", \"full_name\": \"..\", \"first_name\": \"..\", \"last_name\": \"\", \"bio\": \"\\ud83d\\ude0e\\ud83d\\udcab\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"6300838968\", \"username\": \"ruok0141\", \"first_name\": \"..\", \"last_name\": \"\", \"full_name\": \"..\", \"bio\": \"\\ud83d\\ude0e\\ud83d\\udcab\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"ruok0141\"]}}"
       }
     ],
     "bomber_history": [],
