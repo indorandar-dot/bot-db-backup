@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 11:58:12",
+    "created_at": "2026-04-03 12:00:16",
     "stats": {
       "main_users": 346,
       "main_admins": 1,
@@ -433,13 +433,13 @@
         "first_name": "𝗩𝗘𝗡𝗫 🪬",
         "join_date": "2026-04-03 11:57:41",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-03 11:57:41",
+        "total_searches": 2,
+        "last_active": "2026-04-03 11:59:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -9706,6 +9706,22 @@
         "query": "7089166468",
         "search_date": "2026-04-03 11:02:02",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7089166468\", \"name\": \"Ayansh\", \"fname\": \"S/O Jagdeesh\", \"address\": \"S/O Jagdeesh!karyalay adhikshak bal grah!lalpur road dewas road nagziri saifi petroll pump ke pass!. Ujjain!saifi petroll pump ke pass!UJJAIN!Ujjain!Madhya Pradesh!456010\", \"alt\": \"7024306840\", \"circle\": \"VI MP\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 314,
+        "user_id": 6177212753,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8423281554, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-03 11:59:22",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8423281554\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 315,
+        "user_id": 6177212753,
+        "search_type": "mobile_number",
+        "query": "8423281554",
+        "search_date": "2026-04-03 11:59:39",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8423281554\", \"name\": \"Shanti Devi\", \"fname\": \"Prematma Nanad Verma\", \"address\": \"Prematma Nanad Verma!15!hariha kalan Reoti PO!hariha kalan!hariha kalan Reoti Bansdih!Ballia!Ballia!Uttar Pradesh!277209\", \"alt\": null, \"circle\": \"UP EAST\", \"id\": \"479296941157\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
