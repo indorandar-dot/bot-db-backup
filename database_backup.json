@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 02:47:55",
+    "created_at": "2026-04-03 02:50:00",
     "stats": {
       "main_users": 341,
       "main_admins": 1,
@@ -849,13 +849,13 @@
         "first_name": "Aman",
         "join_date": "2026-04-03 02:40:51",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-03 02:44:00",
+        "total_searches": 3,
+        "last_active": "2026-04-03 02:49:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -9484,6 +9484,14 @@
         "query": "8269616982",
         "search_date": "2026-04-03 02:44:00",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8269616982\", \"name\": \"Rina Devi\", \"fname\": \"Ajay sah\", \"address\": \"C/O Ajay Sah!c/o ajay shah  07!kancha!kancha!Kancha!Kancha!Samastipur!Bihar!848503\", \"alt\": \"7858025870\", \"circle\": \"BIHAR JIO\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi Sahu\", \"fname\": \"Ajaya  Kumar\", \"address\": \"01!ward 07!kancha!kancha!Samastipur!!Bihar!848503\", \"alt\": \"8521834677\", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi\", \"fname\": \"Ajay sah\", \"address\": \"C/O Ajay Sah!c/o ajay shah  07!kancha!kancha!Kancha!Kancha!Samastipur!Bihar!848503\", \"alt\": \"7858025870\", \"circle\": \"JIO BHR&JHR\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi Sahu\", \"fname\": \"Ajaya  Kumar\", \"address\": \"Pathalgaon N P   Jashpur Chhattisgarh 496118\", \"alt\": \"7909755876\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 299,
+        "user_id": 6641311291,
+        "search_type": "mobile_number",
+        "query": "8809624347",
+        "search_date": "2026-04-03 02:49:15",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8809624347\", \"name\": \"Muskan Kumari\", \"fname\": \"Sunil Kumar Das\", \"address\": \"!Ward No 11!Bazidpur Chakusman!Basudeopur Chandel!!Hazipur!Vaishali!Bihar!844501\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -9716,7 +9724,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 02:46:55"
+          "last_active": "2026-04-03 02:48:58"
         },
         {
           "id": 19,
