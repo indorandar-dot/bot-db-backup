@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 14:27:44",
+    "created_at": "2026-04-03 14:29:48",
     "stats": {
       "main_users": 348,
       "main_admins": 1,
@@ -886,8 +886,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-03 02:50:56",
+        "total_searches": 5,
+        "last_active": "2026-04-03 14:28:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -9818,6 +9818,14 @@
         "query": "{'user_id': 7879512860, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-03 13:15:58",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7879512860\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 323,
+        "user_id": 6641311291,
+        "search_type": "username",
+        "query": "@ITACHI_790001",
+        "search_date": "2026-04-03 14:28:16",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -10065,7 +10073,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 14:26:15"
+          "last_active": "2026-04-03 14:28:35"
         },
         {
           "id": 19,
