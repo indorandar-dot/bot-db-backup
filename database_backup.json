@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 06:23:44",
+    "created_at": "2026-04-03 06:25:49",
     "stats": {
       "main_users": 342,
       "main_admins": 1,
@@ -2017,13 +2017,13 @@
         "first_name": "𓆰 BLAZE 𓆩⃟🇦🇱",
         "join_date": "2026-03-31 07:07:55",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-03 06:22:11",
+        "total_searches": 7,
+        "last_active": "2026-04-03 06:25:18",
         "money": 0,
         "clone_bots": 0
       },
@@ -9558,6 +9558,14 @@
         "query": "9717752455",
         "search_date": "2026-04-03 06:22:11",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9717752455\", \"name\": \"komal Kumari\", \"fname\": \"Navnit Kumar\", \"address\": \"24/A 00 pindwala khurd south west delhi Nangli Sakrawati Ranaji Enclave Phase-3 najafgarh Delhi WEST DELHI Delhi 110043\", \"alt\": \"8851025717\", \"circle\": \"AIRTEL DELHI\", \"id\": \"225467408656\", \"email\": null}, {\"mobile\": \"9717752455\", \"name\": \"komal Kumari\", \"fname\": \"Navnit Kumar\", \"address\": \"!24/A!00!pindwala khurd south west delhi!Nangli Sakrawati Ranaji Enclave Phase-3 najafgarh!Delhi!WEST DELHI!Delhi!110043\", \"alt\": \"8851025717\", \"circle\": \"AIRTEL DELHI\", \"id\": \"225467408656\", \"email\": null}]}"
+      },
+      {
+        "id": 305,
+        "user_id": 7747929547,
+        "search_type": "mobile_number",
+        "query": "9810159239",
+        "search_date": "2026-04-03 06:25:18",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9810159239\", \"name\": \"Jung Bahadur\", \"fname\": \"Brahma Nand Tiwari\", \"address\": \"! hno 519!gali no 35 D!badarpur!molarband extn!New Delhi South!South!Delhi!110044\", \"alt\": \"9910878581\", \"circle\": \"JIO DELHI\", \"id\": \"619104695437\", \"email\": null}, {\"mobile\": \"9810159239\", \"name\": \"Jung Bahadur\", \"fname\": \"Brahma Nand Tiwari\", \"address\": \"!hno 519!gali no 35 D!badarpur!molarband extn!New Delhi South!South!Delhi!110044\", \"alt\": \"9910878581\", \"circle\": \"JIO DELHI\", \"id\": \"619104695437\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
