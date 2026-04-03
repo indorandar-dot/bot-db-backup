@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 00:18:24",
+    "created_at": "2026-04-03 00:20:29",
     "stats": {
       "main_users": 340,
       "main_admins": 1,
@@ -1777,13 +1777,13 @@
         "first_name": "आयुष ~آیوش 🫶🏻💕",
         "join_date": "2026-04-02 01:15:23",
         "referrer": null,
-        "credits": 3,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-02 01:20:30",
+        "total_searches": 3,
+        "last_active": "2026-04-03 00:18:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -6292,6 +6292,10 @@
       {
         "user_id": 8220310921,
         "claim_date": "2026-04-02"
+      },
+      {
+        "user_id": 7587019637,
+        "claim_date": "2026-04-03"
       }
     ],
     "welcome_settings": [
@@ -9406,6 +9410,14 @@
         "query": "@Gamengkumarraj123",
         "search_date": "2026-04-02 22:27:22",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 296,
+        "user_id": 7587019637,
+        "search_type": "typed_userid",
+        "query": "1003768933790",
+        "search_date": "2026-04-03 00:18:58",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"1003768933790\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
