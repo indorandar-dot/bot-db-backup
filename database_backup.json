@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 02:45:51",
+    "created_at": "2026-04-03 02:47:55",
     "stats": {
       "main_users": 341,
       "main_admins": 1,
@@ -3825,7 +3825,7 @@
         "first_name": "Kartik",
         "join_date": "2026-03-31 03:57:59",
         "referrer": null,
-        "credits": 2,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -6341,6 +6341,10 @@
       },
       {
         "user_id": 7587019637,
+        "claim_date": "2026-04-03"
+      },
+      {
+        "user_id": 8333481899,
         "claim_date": "2026-04-03"
       }
     ],
@@ -9712,7 +9716,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 02:45:28"
+          "last_active": "2026-04-03 02:46:55"
         },
         {
           "id": 19,
