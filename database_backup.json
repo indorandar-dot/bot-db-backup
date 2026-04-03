@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 02:43:46",
+    "created_at": "2026-04-03 02:45:51",
     "stats": {
       "main_users": 341,
       "main_admins": 1,
@@ -849,13 +849,13 @@
         "first_name": "Aman",
         "join_date": "2026-04-03 02:40:51",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-03 02:41:44",
+        "total_searches": 2,
+        "last_active": "2026-04-03 02:44:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -9472,6 +9472,14 @@
         "query": "6201205961",
         "search_date": "2026-04-03 02:41:44",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"6201205961\", \"name\": \"Rajpal Sahani\", \"fname\": \"kundeshwar sahani\", \"address\": \"s/o  kundeshwar sahani!!Larua!!larua!dadanpur Morwa!samastipur!Bihar!848505\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"431164055370\", \"email\": null}, {\"mobile\": \"6201205961\", \"name\": \"Rajpal Sahani\", \"fname\": \"kundeshwar sahani\", \"address\": \"s/o  kundeshwar sahani!!Larua!!larua!dadanpur Morwa!samastipur!Bihar!848505\", \"alt\": \"7667956845\", \"circle\": \"JIO BHR&JHR\", \"id\": \"431164055370\", \"email\": \"rajpalsahani1990@gmail.com\"}]}"
+      },
+      {
+        "id": 298,
+        "user_id": 6641311291,
+        "search_type": "mobile_number",
+        "query": "8269616982",
+        "search_date": "2026-04-03 02:44:00",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8269616982\", \"name\": \"Rina Devi\", \"fname\": \"Ajay sah\", \"address\": \"C/O Ajay Sah!c/o ajay shah  07!kancha!kancha!Kancha!Kancha!Samastipur!Bihar!848503\", \"alt\": \"7858025870\", \"circle\": \"BIHAR JIO\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi Sahu\", \"fname\": \"Ajaya  Kumar\", \"address\": \"01!ward 07!kancha!kancha!Samastipur!!Bihar!848503\", \"alt\": \"8521834677\", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi\", \"fname\": \"Ajay sah\", \"address\": \"C/O Ajay Sah!c/o ajay shah  07!kancha!kancha!Kancha!Kancha!Samastipur!Bihar!848503\", \"alt\": \"7858025870\", \"circle\": \"JIO BHR&JHR\", \"id\": \"257561943605\", \"email\": null}, {\"mobile\": \"8269616982\", \"name\": \"Rina Devi Sahu\", \"fname\": \"Ajaya  Kumar\", \"address\": \"Pathalgaon N P   Jashpur Chhattisgarh 496118\", \"alt\": \"7909755876\", \"circle\": \"AIRTEL MP\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -9704,7 +9712,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 02:43:11"
+          "last_active": "2026-04-03 02:45:28"
         },
         {
           "id": 19,
