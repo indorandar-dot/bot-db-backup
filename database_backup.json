@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 06:19:35",
+    "created_at": "2026-04-03 06:21:39",
     "stats": {
       "main_users": 342,
       "main_admins": 1,
@@ -2017,13 +2017,13 @@
         "first_name": "𓆰 BLAZE 𓆩⃟🇦🇱",
         "join_date": "2026-03-31 07:07:55",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-02 22:13:01",
+        "total_searches": 5,
+        "last_active": "2026-04-03 06:21:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -9538,6 +9538,14 @@
         "query": "8401560285",
         "search_date": "2026-04-03 04:07:12",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8401560285\", \"name\": \"Girraj Tyagi\", \"fname\": \"Rajesh Tyagi\", \"address\": \"rebari colony rewari vas bhargav road kubernagar Ahmadabad City\", \"alt\": null, \"circle\": \"AIRTEL GUJARAT\", \"id\": \"395612412119\", \"email\": null}]}"
+      },
+      {
+        "id": 303,
+        "user_id": 7747929547,
+        "search_type": "mobile_number",
+        "query": "7827916191",
+        "search_date": "2026-04-03 06:21:05",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7827916191\", \"name\": \"Puran Singh Rawat\", \"fname\": \"Sabbal Singh Rawat\", \"address\": \"S/O  Sabbal Singh Rawat!1946/5!GALI NO 54-M/2 Badarpur!!Molar Band Extension!Badarpur!South Delhi!Delhi!110044\", \"alt\": \"9871295504\", \"circle\": \"JIO DELHI\", \"id\": \"810473839785\", \"email\": null}, {\"mobile\": \"7827916191\", \"name\": \"Puran Singh Rawat\", \"fname\": \"Sabbal Singh Rawat\", \"address\": \"S/O  Sabbal Singh Rawat!1946/5!GALI NO 54-M/2Badarpur!!Molar Band Extension!Badarpur!South Delhi!Delhi!110044\", \"alt\": \"9871295504\", \"circle\": \"JIO DELHI\", \"id\": \"810473839785\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
