@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-03 02:41:42",
+    "created_at": "2026-04-03 02:43:46",
     "stats": {
       "main_users": 341,
       "main_admins": 1,
@@ -849,13 +849,13 @@
         "first_name": "Aman",
         "join_date": "2026-04-03 02:40:51",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-03 02:40:51",
+        "total_searches": 1,
+        "last_active": "2026-04-03 02:41:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -9464,6 +9464,14 @@
         "query": "1003768933790",
         "search_date": "2026-04-03 00:18:58",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"1003768933790\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 297,
+        "user_id": 6641311291,
+        "search_type": "mobile_number",
+        "query": "6201205961",
+        "search_date": "2026-04-03 02:41:44",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"6201205961\", \"name\": \"Rajpal Sahani\", \"fname\": \"kundeshwar sahani\", \"address\": \"s/o  kundeshwar sahani!!Larua!!larua!dadanpur Morwa!samastipur!Bihar!848505\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"431164055370\", \"email\": null}, {\"mobile\": \"6201205961\", \"name\": \"Rajpal Sahani\", \"fname\": \"kundeshwar sahani\", \"address\": \"s/o  kundeshwar sahani!!Larua!!larua!dadanpur Morwa!samastipur!Bihar!848505\", \"alt\": \"7667956845\", \"circle\": \"JIO BHR&JHR\", \"id\": \"431164055370\", \"email\": \"rajpalsahani1990@gmail.com\"}]}"
       }
     ],
     "bomber_history": [],
@@ -9696,7 +9704,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 02:40:51"
+          "last_active": "2026-04-03 02:43:11"
         },
         {
           "id": 19,
