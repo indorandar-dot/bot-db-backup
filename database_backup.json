@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 06:54:15",
+    "created_at": "2026-04-04 06:56:19",
     "stats": {
       "main_users": 424,
       "main_admins": 1,
@@ -4470,8 +4470,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-02 15:16:53",
+        "total_searches": 4,
+        "last_active": "2026-04-04 06:55:52",
         "money": 0,
         "clone_bots": 0
       },
@@ -11735,6 +11735,14 @@
         "query": "8789584105",
         "search_date": "2026-04-04 06:50:53",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8789584105\", \"name\": \"Anil Kumar Saw\", \"fname\": \"Kailash Saw\", \"address\": \"S/O  Kailash Saw!!vard 03!pipradih!Sanrh Hazaribagh!Jharkhand!825311\", \"alt\": \"8102778687\", \"circle\": \"JIO BHR&JHR\", \"id\": null, \"email\": null}, {\"mobile\": \"8789584105\", \"name\": \"Vikash Prakash\", \"fname\": \"gangeshwar mahto\", \"address\": \"s/o  gangeshwar mahto! 102!Urimari Sayal!!urimari urimari sayal!urimari Barkagaon!hazaribagh!Jharkhand!829125\", \"alt\": null, \"circle\": \"BIHAR JIO\", \"id\": \"864022302632\", \"email\": null}, {\"mobile\": \"8789584105\", \"name\": \"Vikash Prakash\", \"fname\": \"gangeshwar mahto\", \"address\": \"s/o  gangeshwar mahto!102!Urimari Sayal!!urimari urimari sayal!urimari Barkagaon!hazaribagh!Jharkhand!829125\", \"alt\": \"7762969313\", \"circle\": \"JIO BHR&JHR\", \"id\": \"864022302632\", \"email\": null}]}"
+      },
+      {
+        "id": 348,
+        "user_id": 8224757249,
+        "search_type": "typed_userid",
+        "query": "2801",
+        "search_date": "2026-04-04 06:55:52",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"2801\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
