@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 05:29:06",
+    "created_at": "2026-04-04 05:31:11",
     "stats": {
       "main_users": 424,
       "main_admins": 1,
@@ -2833,13 +2833,13 @@
         "first_name": "Yash",
         "join_date": "2026-04-01 10:43:01",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-04 05:26:43",
+        "total_searches": 3,
+        "last_active": "2026-04-04 05:29:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -7205,7 +7205,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:37",
-        "last_active": "2026-04-04 05:26:40",
+        "last_active": "2026-04-04 05:29:36",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -11687,6 +11687,14 @@
         "query": "9933086073",
         "search_date": "2026-04-04 05:26:43",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9933086073\", \"name\": null, \"fname\": null, \"address\": null, \"alt\": null, \"circle\": \"AIRTEL WB\", \"id\": null, \"email\": null}, {\"mobile\": \"9933086073\", \"name\": \"Hena Dom\", \"fname\": \"Sanjoy Dom\", \"address\": \"W/O Sanjoy Dom!Fakirbera!Kota!!Birbhum!Birbhum!BIRBHUM!West Bengal!731124\", \"alt\": null, \"circle\": \"AIRTEL WB\", \"id\": \"293839748039\", \"email\": null}]}"
+      },
+      {
+        "id": 344,
+        "user_id": 7667099238,
+        "search_type": "mobile_number",
+        "query": "7718725366",
+        "search_date": "2026-04-04 05:29:39",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7718725366\", \"name\": \"DHIREN MANDAL\", \"fname\": \"Garbhu mandal\", \"address\": \"C/O  Garbhu Mandal!!Village - Monoharpur Post - Tulshihata!P S - Harishchandrapur!Manoharpur Malda!West Bengal!732140\", \"alt\": \"7001385581\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -12204,7 +12212,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-04 05:26:40"
+          "last_active": "2026-04-04 05:29:36"
         },
         {
           "id": 813,
