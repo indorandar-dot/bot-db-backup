@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 07:10:51",
+    "created_at": "2026-04-04 07:12:56",
     "stats": {
       "main_users": 424,
       "main_admins": 1,
@@ -2513,13 +2513,13 @@
         "first_name": "𝗔𝗛",
         "join_date": "2026-03-31 13:07:49",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-04 06:57:36",
+        "total_searches": 2,
+        "last_active": "2026-04-04 07:12:12",
         "money": 0,
         "clone_bots": 0
       },
@@ -2833,13 +2833,13 @@
         "first_name": "Yash",
         "join_date": "2026-04-01 10:43:01",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-04 05:35:20",
+        "total_searches": 6,
+        "last_active": "2026-04-04 07:11:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -7085,7 +7085,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-04 07:10:13",
+        "last_active": "2026-04-04 07:12:36",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -11755,6 +11755,22 @@
         "query": "@RIGHTHCK",
         "search_date": "2026-04-04 06:57:36",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 350,
+        "user_id": 7667099238,
+        "search_type": "mobile_number",
+        "query": "7718725366",
+        "search_date": "2026-04-04 07:11:38",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7718725366\", \"name\": \"DHIREN MANDAL\", \"fname\": \"Garbhu mandal\", \"address\": \"C/O  Garbhu Mandal!!Village - Monoharpur Post - Tulshihata!P S - Harishchandrapur!Manoharpur Malda!West Bengal!732140\", \"alt\": \"7001385581\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 351,
+        "user_id": 7480481149,
+        "search_type": "mobile_number",
+        "query": "8957769917",
+        "search_date": "2026-04-04 07:12:12",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8957769917\", \"name\": \"Sudhir Kumar\", \"fname\": \"Sanjay Kumar\", \"address\": \"S/O  Sanjay Kumar!!!barawadih!Chakar Ghatta Chandauli!Uttar Pradesh!232111\", \"alt\": \"8756879898\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"8957769917\", \"name\": \"Maneesh Kumar\", \"fname\": \"virendra kumar\", \"address\": \"s/o  virendra kumar! 01!barawadih road!!barawadih chakar ghatta!chakarghatta!chandauli!Uttar Pradesh!232111\", \"alt\": \"7607320503\", \"circle\": \"JIO UPE\", \"id\": \"846443695890\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
