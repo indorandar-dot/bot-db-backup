@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 02:16:08",
+    "created_at": "2026-04-04 02:18:13",
     "stats": {
       "main_users": 356,
       "main_admins": 1,
@@ -1046,8 +1046,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-03-31 23:40:09",
+        "total_searches": 4,
+        "last_active": "2026-04-04 02:18:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -9992,6 +9992,14 @@
         "query": "{'user_id': 7257048084, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-03 17:52:58",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7257048084\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 325,
+        "user_id": 6756554801,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8554153312, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 02:18:05",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8554153312\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
