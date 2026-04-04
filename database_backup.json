@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 14:49:59",
+    "created_at": "2026-04-04 14:52:04",
     "stats": {
       "main_users": 432,
       "main_admins": 1,
@@ -1425,13 +1425,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-04 14:47:49",
+        "total_searches": 3,
+        "last_active": "2026-04-04 14:51:18",
         "money": 0,
         "clone_bots": 0
       },
@@ -12113,6 +12113,30 @@
         "query": "917905251477",
         "search_date": "2026-04-04 14:17:00",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7905251477\", \"name\": \"Shobha Kumari\", \"fname\": \"triweni\", \"address\": \"C/O  Triveni Prasad!!!Ghagharauli!Ghaghrauli Ballia!Uttar Pradesh!277203\", \"alt\": \"916352819391\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 376,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "7584077805",
+        "search_date": "2026-04-04 14:50:29",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7584077805\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 377,
+        "user_id": 6679896022,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 1017838545, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 14:50:49",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"1017838545\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 378,
+        "user_id": 6679896022,
+        "search_type": "mobile_number",
+        "query": "7404970857",
+        "search_date": "2026-04-04 14:51:18",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7404970857\", \"name\": \"PAYAL\", \"fname\": \"SUBHASH CHAND\", \"address\": \"412 WARD NO 8 BAN SUDHAR 148 SCHOOL SIRSA SIRSA SIRSA HARYANA 125055\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"id\": \"681858922191\", \"email\": null}, {\"mobile\": \"7404970857\", \"name\": \"PAYAL\", \"fname\": \"SUBHASH CHAND\", \"address\": \"D/O SUBHASH CHAND!412 WARD NO 8!BAN SUDHAR 148!SCHOOL!SIRSA!SIRSA!SIRSA!HARYANA!125055\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"id\": \"681858922191\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
