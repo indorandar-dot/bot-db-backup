@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 16:13:08",
+    "created_at": "2026-04-04 16:15:12",
     "stats": {
       "main_users": 434,
       "main_admins": 1,
@@ -497,13 +497,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-04 15:18:22",
+        "total_searches": 4,
+        "last_active": "2026-04-04 16:13:27",
         "money": 0,
         "clone_bots": 0
       },
@@ -12265,6 +12265,14 @@
         "query": "9401780974",
         "search_date": "2026-04-04 15:50:38",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9401780974\", \"name\": \"MR  SAMIR UDDIN BARBHUIYA\", \"fname\": \"Nurul Islam Barbhuiya\", \"address\": \"Farrukh Sekh!25 Sekh!bhashyam Circle Rajajinagar Bangalore Bangalore!Bangalore Bangalore!Bangalore Bangalore!BANGALORE!Bangalore Bangalore!Karnataka!560010\", \"alt\": \"9739742872\", \"circle\": \"KARNATAKA VI\", \"id\": \"666179031765\", \"email\": null}, {\"mobile\": \"9401780974\", \"name\": \"MR SAMIR UDDIN BARBHUIYA\", \"fname\": \"Nurul Islam Barbhuiya\", \"address\": \"!no 24 SC road 1st cross!Gandhinagar main road!Gandhinagar main road!Bangalore Bangalore!BANGALORE!Bangalore!Karnataka!560009\", \"alt\": \"7406102310\", \"circle\": \"VI KARNATKA\", \"id\": \"666179031765\", \"email\": null}]}"
+      },
+      {
+        "id": 390,
+        "user_id": 5713879636,
+        "search_type": "mobile_number",
+        "query": "6396513708",
+        "search_date": "2026-04-04 16:13:27",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"6396513708\", \"name\": \"Shashi Pal\", \"fname\": \"daya ram\", \"address\": \"s/o  daya ram!!aagrasGarikhanpur!!aagras garikhanpur!garhikhanpurBisauli!budaun!Uttar Pradesh!202523\", \"alt\": \"6397219235\", \"circle\": \"JIO UPW\", \"id\": \"273277799898\", \"email\": null}, {\"mobile\": \"6396513708\", \"name\": \"Jagatpal\", \"fname\": \"Natthu Lal\", \"address\": \"S/O  Natthu Lal!!village SaijniBajhawli!tehsil CHANDAUSI!SainjniChandausiSambhal!Uttar Pradesh!202414\", \"alt\": null, \"circle\": \"JIO UPW\", \"id\": \"635637557811\", \"email\": null}, {\"mobile\": \"6396513708\", \"name\": \"Rajesh Kumar\", \"fname\": \"Lukman\", \"address\": \"S/O Lukman!saijani majhaawali!!!!Sainjni!Sambhal!Uttar Pradesh!202414\", \"alt\": null, \"circle\": \"AIRTEL UPW\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
