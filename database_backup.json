@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 03:20:22",
+    "created_at": "2026-04-04 03:22:06",
     "stats": {
-      "main_users": 419,
+      "main_users": 421,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 156
@@ -392,6 +392,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-04 03:14:01",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 5588165038,
+        "username": "Honey8757",
+        "first_name": "'",
+        "join_date": "2026-04-04 03:21:58",
+        "referrer": 6217868759,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-04 03:21:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -801,7 +817,7 @@
         "first_name": "亗-ꜱᴜɴɢ_ᴊɪɴᴡᴏᴏ-亗",
         "join_date": "2026-04-02 13:38:03",
         "referrer": null,
-        "credits": 124,
+        "credits": 128,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -1944,6 +1960,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-04 03:13:25",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7217945127,
+        "username": "",
+        "first_name": "Mannu",
+        "join_date": "2026-04-04 03:22:04",
+        "referrer": 6217868759,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-04 03:22:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -8807,6 +8839,18 @@
         "referrer": 6217868759,
         "referred": 7939402522,
         "date": "2026-04-04 03:14:05"
+      },
+      {
+        "id": 182,
+        "referrer": 6217868759,
+        "referred": 5588165038,
+        "date": "2026-04-04 03:21:58"
+      },
+      {
+        "id": 183,
+        "referrer": 6217868759,
+        "referred": 7217945127,
+        "date": "2026-04-04 03:22:04"
       }
     ],
     "search_history": [
