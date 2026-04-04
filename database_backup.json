@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 15:39:52",
+    "created_at": "2026-04-04 15:41:57",
     "stats": {
       "main_users": 433,
       "main_admins": 1,
@@ -1766,8 +1766,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-04 15:39:26",
+        "total_searches": 2,
+        "last_active": "2026-04-04 15:40:19",
         "money": 0,
         "clone_bots": 0
       },
@@ -7229,7 +7229,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-04 15:36:57",
+        "last_active": "2026-04-04 15:40:05",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7994,6 +7994,10 @@
       },
       {
         "user_id": 7709888258,
+        "claim_date": "2026-04-04"
+      },
+      {
+        "user_id": 6975957363,
         "claim_date": "2026-04-04"
       }
     ],
@@ -12229,6 +12233,14 @@
         "query": "8431345512",
         "search_date": "2026-04-04 15:39:26",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8431345512\", \"name\": \"Shaik Sumair Ahmed\", \"fname\": \"Shaik Sarwar Ahmed\", \"address\": \"S/O Shaik Sarwar Ahmed!!4-601/123/68 MG Road Bapu gouda darshnapur GDA Layout Gulbarga!Sangtrash wadi!Gulbarga Afzalpur Gulbarga!Karnataka!585101\", \"alt\": \"6360402974\", \"circle\": \"JIO KARNATKA\", \"id\": \"869932652113\", \"email\": \"sumairshaik135@gmail.com\"}, {\"mobile\": \"8431345512\", \"name\": \"Shaik Sumair Ahmed\", \"fname\": \"Shaik Sarwar Ahmed\", \"address\": \"S/O Shaik Sarwar Ahmed 4 601/123/68 MG Road Sangtrash wadi Gulbarga Gulbarga Bapu gouda darshnapur GDA Layout Karnataka 585101\", \"alt\": \"7406102310\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"869932652113\", \"email\": null}]}"
+      },
+      {
+        "id": 388,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "7406102310",
+        "search_date": "2026-04-04 15:40:19",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7406102310\", \"name\": \"Shaik Sumair Ahmed\", \"fname\": \"Shaik Sarwar Ahmed\", \"address\": \"S/O Shaik Sarwar Ahmed 4 601/123/68 MG Road Sangtrash wadi Gulbarga Gulbarga Bapu gouda darshnapur GDA Layout Karnataka 585101\", \"alt\": \"8431345512\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"869932652113\", \"email\": null}, {\"mobile\": \"7406102310\", \"name\": \"MR SAMIR UDDIN BARBHUIYA\", \"fname\": \"Nurul Islam Barbhuiya\", \"address\": \"!no 24 SC road 1st cross!Gandhinagar main road!Gandhinagar main road!Bangalore Bangalore!BANGALORE!Bangalore!Karnataka!560009\", \"alt\": \"9401780974\", \"circle\": \"VI KARNATKA\", \"id\": \"666179031765\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
