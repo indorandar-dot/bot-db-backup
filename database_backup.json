@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 02:53:15",
+    "created_at": "2026-04-04 02:53:28",
     "stats": {
       "main_users": 357,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 153
+      "total_clone_users": 154
     }
   },
   "main_bot": {
@@ -593,7 +593,7 @@
         "first_name": "ANIRBAN GAMING NO1",
         "join_date": "2026-04-01 05:32:14",
         "referrer": null,
-        "credits": 2,
+        "credits": 12,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -3521,7 +3521,7 @@
         "first_name": "Varun",
         "join_date": "2026-03-31 15:13:07",
         "referrer": null,
-        "credits": 2,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -6253,7 +6253,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-04 02:51:01",
-        "last_active": "2026-04-04 02:53:08",
+        "last_active": "2026-04-04 02:53:23",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6298,7 +6298,7 @@
         "code": "RBOT-QNTZ",
         "credits": 10,
         "max_uses": 50,
-        "used_count": 0,
+        "used_count": 1,
         "created_by": 8703382327,
         "created_at": "2026-04-04 02:53:06",
         "expires_at": "2026-04-05 02:53:06",
@@ -6341,6 +6341,12 @@
         "user_id": 8703382327,
         "code": "RBOT-PJYT",
         "redeemed_at": "2026-03-31 18:55:09"
+      },
+      {
+        "id": 7,
+        "user_id": 6304812503,
+        "code": "RBOT-QNTZ",
+        "redeemed_at": "2026-04-04 02:53:24"
       }
     ],
     "feature_costs": [
@@ -6700,6 +6706,10 @@
       },
       {
         "user_id": 6756554801,
+        "claim_date": "2026-04-04"
+      },
+      {
+        "user_id": 8224877756,
         "claim_date": "2026-04-04"
       }
     ],
@@ -10222,6 +10232,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 15:23:44"
+        },
+        {
+          "id": 826,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 1753026854,
+          "username": "",
+          "first_name": "Unknown Identity 💀",
+          "join_date": "2026-04-04 02:53:28",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-04 02:53:28"
         },
         {
           "id": 109,
