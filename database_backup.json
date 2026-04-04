@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 11:11:46",
+    "created_at": "2026-04-04 11:13:50",
     "stats": {
       "main_users": 430,
       "main_admins": 1,
@@ -3414,8 +3414,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-04 11:10:22",
+        "total_searches": 5,
+        "last_active": "2026-04-04 11:13:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -11973,6 +11973,30 @@
         "query": "@IkhlasHassan",
         "search_date": "2026-04-04 11:10:22",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"IkhlasHassan\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 364,
+        "user_id": 7907468854,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6503790542, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 11:12:53",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6503790542\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 365,
+        "user_id": 7907468854,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6397378701, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 11:13:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6397378701\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 366,
+        "user_id": 7907468854,
+        "search_type": "typed_userid",
+        "query": "6397378701",
+        "search_date": "2026-04-04 11:13:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6397378701\", \"username\": \"IkhlasHassan\", \"full_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635 \\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"first_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635\", \"last_name\": \"\\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"bio\": \"You can literally comeback from anything It's all about MINDSET \\u26a1\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"6397378701\", \"username\": \"IkhlasHassan\", \"first_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635\", \"last_name\": \"\\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"full_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635 \\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"bio\": \"You can literally comeback from anything It's all about MINDSET \\u26a1\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"IkhlasHassan\"]}}"
       }
     ],
     "bomber_history": [],
