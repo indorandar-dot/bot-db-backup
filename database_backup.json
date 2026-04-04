@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 03:09:17",
+    "created_at": "2026-04-04 03:10:04",
     "stats": {
       "main_users": 362,
       "main_admins": 1,
@@ -481,7 +481,7 @@
         "first_name": "亗-ꜱᴜɴɢ_ᴊɪɴᴡᴏᴏ-亗",
         "join_date": "2026-04-02 13:38:03",
         "referrer": null,
-        "credits": 15,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -5729,13 +5729,13 @@
         "first_name": "Sadas",
         "join_date": "2026-04-04 03:05:52",
         "referrer": null,
-        "credits": 11,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-04 03:05:52",
+        "total_searches": 1,
+        "last_active": "2026-04-04 03:10:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -6093,7 +6093,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-04 03:09:09",
+        "last_active": "2026-04-04 03:09:31",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6333,7 +6333,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-04 02:51:01",
-        "last_active": "2026-04-04 03:08:47",
+        "last_active": "2026-04-04 03:09:43",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -10233,6 +10233,14 @@
         "query": "6489425275",
         "search_date": "2026-04-04 02:53:49",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6489425275\", \"accountType\": 1, \"nickname\": \"\\u2606s\\u1b44\\u273fG\\u1d00\\u1d0d\\u1d07\\u0280\\u2080\\u2080\\u2087\", \"region\": \"IND\", \"level\": 62, \"exp\": 1324777, \"bannerId\": 901027007, \"headPic\": 902034003, \"rank\": 321, \"rankingPoints\": 3614, \"badgeCnt\": 14, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 3784, \"showRank\": true, \"lastLoginAt\": \"1775235096\", \"csRank\": 301, \"weaponSkinShows\": [907104712], \"maxRank\": 326, \"csMaxRank\": 301, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1654534499\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 101000027, \"skinColor\": 50, \"clothes\": [203000000, 208000000, 214000000, 204000000, 205000000, 211000000], \"equipedSkills\": [16, 6501, 8, 1, 16, 601, 8, 2, 16, 5306, 8, 3, 16, 1801], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1715450101}, \"clanBasicInfo\": {\"clanId\": \"3049228086\", \"clanName\": \"\\u2606s\\u1b44\\u273fG\\u1d00\\u1d0d\\u1d07\\u0280\\u2080\\u2080\\u2087\", \"captainId\": \"6489425275\", \"clanLevel\": 2, \"capacity\": 25, \"memberNum\": 2}, \"captainBasicInfo\": {\"accountId\": \"6489425275\", \"accountType\": 1, \"nickname\": \"\\u2606s\\u1b44\\u273fG\\u1d00\\u1d0d\\u1d07\\u0280\\u2080\\u2080\\u2087\", \"region\": \"IND\", \"level\": 62, \"exp\": 1324777, \"bannerId\": 901027007, \"headPic\": 902034003, \"rank\": 321, \"rankingPoints\": 3614, \"badgeCnt\": 14, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 3784, \"showRank\": true, \"lastLoginAt\": \"1775235096\", \"csRank\": 301, \"weaponSkinShows\": [907104712], \"maxRank\": 326, \"csMaxRank\": 301, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1654534499\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 500, \"isSelected\": true, \"skinId\": 1310000099, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"6489425275\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_NIGHT\", \"signature\": \"[b][c][00f5ff]\\u25b6 YOUTUBE\\n[00f5ff]\\u26a1 FLEXY LIVE \\u26a1\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 92, \"periodicSummaryEndTime\": \"1775117428\"}}}"
+      },
+      {
+        "id": 333,
+        "user_id": 8741118706,
+        "search_type": "ff_info",
+        "query": "3129690232",
+        "search_date": "2026-04-04 03:10:02",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3129690232\", \"accountType\": 1, \"nickname\": \"MRNOBIT3612J\", \"region\": \"IND\", \"level\": 48, \"exp\": 256545, \"bannerId\": 901027009, \"headPic\": 902027003, \"rank\": 314, \"rankingPoints\": 2529, \"badgeCnt\": 10, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 4639, \"lastLoginAt\": \"1775268821\", \"csRank\": 317, \"csRankingPoints\": 69, \"pinId\": 910040001, \"maxRank\": 314, \"csMaxRank\": 317, \"accountPrefers\": {}, \"createAt\": \"1620705395\", \"title\": 904090024, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000012, \"skinColor\": 50, \"clothes\": [208000000, 205000070, 203000095, 211040059], \"equipedSkills\": [16, 5201, 8, 1, 16, 5806, 8, 2, 16, 1106, 8, 3, 16, 3001], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1774277463}, \"clanBasicInfo\": {\"clanId\": \"3048675382\", \"clanName\": \"\\u13a2\\u0280\\u028f\\u3164\\u0274x\\u1d1b*\", \"captainId\": \"4330708067\", \"clanLevel\": 4, \"capacity\": 40, \"memberNum\": 34}, \"captainBasicInfo\": {\"accountId\": \"4330708067\", \"accountType\": 1, \"nickname\": \"\\u1d1bs\\u2620\\ufe0e\\ufe0e\\u1d18\\u1d00\\u0280\\u1d21\\u1d07\\u1d22\", \"region\": \"IND\", \"level\": 63, \"exp\": 1402461, \"headPic\": 902000051, \"rank\": 324, \"rankingPoints\": 4998, \"badgeCnt\": 15, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 5997, \"showRank\": true, \"lastLoginAt\": \"1775243131\", \"csRank\": 316, \"csRankingPoints\": 65, \"weaponSkinShows\": [907104745, 912052003], \"maxRank\": 324, \"csMaxRank\": 316, \"gameBagShow\": 904000135, \"accountPrefers\": {}, \"createAt\": \"1635992982\", \"title\": 904790062, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000001, \"name\": \"vguu\", \"level\": 6, \"exp\": 3013, \"isSelected\": true, \"skinId\": 1310000002, \"selectedSkillId\": 1315000009}, \"socialInfo\": {\"accountId\": \"3129690232\", \"language\": \"Language_EN\", \"signature\": \"[B][C][I][FFFFFF]S\\u026a\\u0280\\u0493 A\\u1d00\\u1d21\\u1d00\\u1d22 P\\u1d07 C\\u029c\\u1d00\\u029c\\u1d1c\\u0274 T\\u1d0f [00E5FF]N\\u026as\\u029c\\u1d00\\u0274\\u1d07[FFFFFF] L\\u1d00\\u0262 J\\u1d00\\u1d00\\u028f\\u1d07\\u026a\\u0274,\\nM\\u1d00\\u026a\\u0274 A\\u0262\\u1d00\\u0280 A\\u1d18\\u0274\\u026a [00FF4C]J\\u1d00\\u1d21\\u1d00\\u0274\\u026a K\\u1d07[FFFFFF] S\\u1d1c\\u0274\\u1d00 D\\u1d1c [FF4DFF]K\\u026ass\\u1d07[FFFFFF], Y\\u1d07 J\\u1d0f\\nL\\u1d00\\u1d1c\\u0274\\u1d05\\u1d07 H\\u1d00\\u026a\\u0274, M\\u1d07\\u0280\\u1d07 [FF2B2B]P\\u1d00\\u1d0f\\u0274[FFFFFF] D\\u1d00\\u0299\\u1d00\\u0274\\u1d07 L\\u1d00\\u0262 J\\u1d00\\u1d00\\u028f\\u1d07\\u026a\\u0274 !!! LIKE KHARIDNA HAI TOO DM ME\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1775233782\"}}}"
       }
     ],
     "bomber_history": [],
