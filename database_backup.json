@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 17:33:20",
+    "created_at": "2026-04-04 17:34:09",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -3030,8 +3030,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-04 17:22:44",
+        "total_searches": 10,
+        "last_active": "2026-04-04 17:33:47",
         "money": 0,
         "clone_bots": 0
       },
@@ -12358,6 +12358,14 @@
         "query": "5635858078",
         "search_date": "2026-04-04 17:22:44",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"5635858078\", \"accountType\": 1, \"nickname\": \"SakibMi1144O\", \"region\": \"BD\", \"level\": 3, \"exp\": 352, \"bannerId\": 901032010, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"lastLoginAt\": \"1647849543\", \"csRank\": 301, \"pinId\": 910032002, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1647393141\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}}, \"profileInfo\": {\"avatarId\": 102000004, \"skinColor\": 50, \"clothes\": [211000491, 214000000, 205000385, 204000141, 211000051, 203000698], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"5635858078\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_MELEE\"], \"battleTagCount\": [1, 1]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {}}}"
+      },
+      {
+        "id": 395,
+        "user_id": 7747929547,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 5635858078, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 17:33:47",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"5635858078\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
