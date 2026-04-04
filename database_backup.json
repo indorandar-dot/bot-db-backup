@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 15:02:27",
+    "created_at": "2026-04-04 15:04:33",
     "stats": {
       "main_users": 432,
       "main_admins": 1,
@@ -1430,8 +1430,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-04 14:58:35",
+        "total_searches": 8,
+        "last_active": "2026-04-04 15:02:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -12169,6 +12169,14 @@
         "query": "7404970857",
         "search_date": "2026-04-04 14:58:35",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7404970857\", \"name\": \"PAYAL\", \"fname\": \"SUBHASH CHAND\", \"address\": \"412 WARD NO 8 BAN SUDHAR 148 SCHOOL SIRSA SIRSA SIRSA HARYANA 125055\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"id\": \"681858922191\", \"email\": null}, {\"mobile\": \"7404970857\", \"name\": \"PAYAL\", \"fname\": \"SUBHASH CHAND\", \"address\": \"D/O SUBHASH CHAND!412 WARD NO 8!BAN SUDHAR 148!SCHOOL!SIRSA!SIRSA!SIRSA!HARYANA!125055\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"id\": \"681858922191\", \"email\": null}]}"
+      },
+      {
+        "id": 383,
+        "user_id": 6679896022,
+        "search_type": "username",
+        "query": "@dk_yuvraj",
+        "search_date": "2026-04-04 15:02:28",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"dk_yuvraj\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
