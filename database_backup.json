@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 17:15:27",
+    "created_at": "2026-04-04 17:17:32",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -5633,13 +5633,13 @@
         "first_name": "𓆩👑⃟𓆪•𝐌𝐀𝐃𝐄𝐗•𓆩⃟🔥𓆪",
         "join_date": "2026-04-04 17:14:44",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-04 17:14:44",
+        "total_searches": 1,
+        "last_active": "2026-04-04 17:16:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -6854,8 +6854,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 81,
-        "last_active": "2026-04-04 09:33:23",
+        "total_searches": 82,
+        "last_active": "2026-04-04 17:16:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -7261,7 +7261,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-04 15:55:03",
+        "last_active": "2026-04-04 17:16:31",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7520,6 +7520,17 @@
         "created_by": 8703382327,
         "created_at": "2026-04-04 02:53:06",
         "expires_at": "2026-04-05 02:53:06",
+        "is_active": 1
+      },
+      {
+        "id": 4,
+        "code": "RBOT-LVKN",
+        "credits": 1000,
+        "max_uses": 1,
+        "used_count": 0,
+        "created_by": 8703382327,
+        "created_at": "2026-04-04 17:17:24",
+        "expires_at": "2026-04-05 17:17:24",
         "is_active": 1
       }
     ],
@@ -12293,6 +12304,22 @@
         "query": "6396513708",
         "search_date": "2026-04-04 16:13:27",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"6396513708\", \"name\": \"Shashi Pal\", \"fname\": \"daya ram\", \"address\": \"s/o  daya ram!!aagrasGarikhanpur!!aagras garikhanpur!garhikhanpurBisauli!budaun!Uttar Pradesh!202523\", \"alt\": \"6397219235\", \"circle\": \"JIO UPW\", \"id\": \"273277799898\", \"email\": null}, {\"mobile\": \"6396513708\", \"name\": \"Jagatpal\", \"fname\": \"Natthu Lal\", \"address\": \"S/O  Natthu Lal!!village SaijniBajhawli!tehsil CHANDAUSI!SainjniChandausiSambhal!Uttar Pradesh!202414\", \"alt\": null, \"circle\": \"JIO UPW\", \"id\": \"635637557811\", \"email\": null}, {\"mobile\": \"6396513708\", \"name\": \"Rajesh Kumar\", \"fname\": \"Lukman\", \"address\": \"S/O Lukman!saijani majhaawali!!!!Sainjni!Sambhal!Uttar Pradesh!202414\", \"alt\": null, \"circle\": \"AIRTEL UPW\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 391,
+        "user_id": 8389496051,
+        "search_type": "mobile_number",
+        "query": "8076666248",
+        "search_date": "2026-04-04 17:16:04",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8076666248\", \"name\": \"Surender Sharma\", \"fname\": \"Manohar Lal Sharma\", \"address\": \"S/O  Manohar Lal Sharma!!3556 17!sanjay colony sec-23!FARIDABAD SECTOR 22 FARIDABAD!Haryana!121005\", \"alt\": \"917503178796\", \"circle\": \"JIO DELHI\", \"id\": \"542481956112\", \"email\": null}, {\"mobile\": \"8076666248\", \"name\": \"Surender Sharma\", \"fname\": \"Manohar Lal Sharma\", \"address\": \"S/O Manohar Lal Sharma!!3556 17!sanjay colony sec-23!FARIDABAD SECTOR 22 FARIDABAD!Haryana!121005\", \"alt\": \"917503178796\", \"circle\": \"JIO DELHI\", \"id\": \"542481956112\", \"email\": null}]}"
+      },
+      {
+        "id": 392,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "Public_hosungrbot",
+        "search_date": "2026-04-04 17:16:46",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
