@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 11:13:50",
+    "created_at": "2026-04-04 11:15:55",
     "stats": {
       "main_users": 430,
       "main_admins": 1,
@@ -3270,8 +3270,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-03 13:11:05",
+        "total_searches": 6,
+        "last_active": "2026-04-04 11:15:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -5169,13 +5169,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 18,
+        "credits": 19,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-04 04:53:25",
+        "total_searches": 11,
+        "last_active": "2026-04-04 11:14:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -7091,7 +7091,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-04 11:08:19",
+        "last_active": "2026-04-04 11:15:46",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7930,6 +7930,10 @@
       },
       {
         "user_id": 7907468854,
+        "claim_date": "2026-04-04"
+      },
+      {
+        "user_id": 8335023642,
         "claim_date": "2026-04-04"
       }
     ],
@@ -11997,6 +12001,22 @@
         "query": "6397378701",
         "search_date": "2026-04-04 11:13:48",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6397378701\", \"username\": \"IkhlasHassan\", \"full_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635 \\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"first_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635\", \"last_name\": \"\\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"bio\": \"You can literally comeback from anything It's all about MINDSET \\u26a1\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"6397378701\", \"username\": \"IkhlasHassan\", \"first_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635\", \"last_name\": \"\\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"full_name\": \"\\u0627\\u062e\\u0644\\u0627\\u0635 \\u062d\\u0633\\u0646\\ud83e\\ude7a\", \"bio\": \"You can literally comeback from anything It's all about MINDSET \\u26a1\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"IkhlasHassan\"]}}"
+      },
+      {
+        "id": 367,
+        "user_id": 8335023642,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8114814586, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 11:14:02",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8114814586\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 368,
+        "user_id": 7858797319,
+        "search_type": "username",
+        "query": "Bsjjs97jdjiejejesk9823",
+        "search_date": "2026-04-04 11:15:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Bsjjs97jdjiejejesk9823\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -12634,7 +12654,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 13:09:03"
+          "last_active": "2026-04-04 11:15:46"
         },
         {
           "id": 498,
@@ -12859,7 +12879,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-01 10:42:55"
+          "last_active": "2026-04-04 11:14:04"
         },
         {
           "id": 157,
