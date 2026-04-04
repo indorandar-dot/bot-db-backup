@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 02:51:24",
+    "created_at": "2026-04-04 02:53:15",
     "stats": {
-      "main_users": 356,
+      "main_users": 357,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 153
@@ -104,6 +104,22 @@
         "joined_channels": "[]",
         "total_searches": 5,
         "last_active": "2026-04-02 13:26:21",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 1753026854,
+        "username": "",
+        "first_name": "Unknown Identity 💀",
+        "join_date": "2026-04-04 02:53:08",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-04 02:53:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -577,13 +593,13 @@
         "first_name": "ANIRBAN GAMING NO1",
         "join_date": "2026-04-01 05:32:14",
         "referrer": null,
-        "credits": 4,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-02 01:16:53",
+        "total_searches": 3,
+        "last_active": "2026-04-04 02:52:23",
         "money": 0,
         "clone_bots": 0
       },
@@ -5997,7 +6013,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-04 02:50:57",
+        "last_active": "2026-04-04 02:53:13",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6237,7 +6253,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-04 02:51:01",
-        "last_active": "2026-04-04 02:51:11",
+        "last_active": "2026-04-04 02:53:08",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -6275,6 +6291,17 @@
         "created_by": 8703382327,
         "created_at": "2026-03-31 04:38:48",
         "expires_at": "2026-04-01 04:38:48",
+        "is_active": 1
+      },
+      {
+        "id": 3,
+        "code": "RBOT-QNTZ",
+        "credits": 10,
+        "max_uses": 50,
+        "used_count": 0,
+        "created_by": 8703382327,
+        "created_at": "2026-04-04 02:53:06",
+        "expires_at": "2026-04-05 02:53:06",
         "is_active": 1
       }
     ],
@@ -10066,6 +10093,22 @@
         "query": "9026167672",
         "search_date": "2026-04-04 02:21:34",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9026167672\", \"name\": \"Maroof Raza\", \"fname\": \"Mohd Anvar\", \"address\": \"S/O  Mohd Anvar!!Allipur!!Allipur Bahera Fatehpur!Uttar Pradesh!212653\", \"alt\": \"917398799570\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 330,
+        "user_id": 6304812503,
+        "search_type": "ff_info",
+        "query": "1960058177",
+        "search_date": "2026-04-04 02:51:43",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1960058177\", \"accountType\": 1, \"nickname\": \"\\u13da\\u13c6\\u13c0\\u2c6e\\uaadd\\u3164\\u13f4OY\\u3164\\ubaa8\", \"region\": \"IND\", \"level\": 68, \"exp\": 2420995, \"bannerId\": 901027013, \"headPic\": 902027011, \"rank\": 311, \"rankingPoints\": 2166, \"badgeCnt\": 4, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 11200, \"showRank\": true, \"lastLoginAt\": \"1775210719\", \"csRank\": 308, \"csRankingPoints\": 27, \"weaponSkinShows\": [907101403, 912000004], \"pinId\": 910034002, \"maxRank\": 311, \"csMaxRank\": 308, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1587881745\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000025, \"skinColor\": 50, \"clothes\": [214000000, 205043038, 211044046, 203001114, 204000718, 211000914], \"equipedSkills\": [16, 3406, 8, 1, 16, 2706, 8, 2, 16, 3006, 8, 3, 16, 5301], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1656982801, \"isMarkedStar\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000091, \"name\": \"ANIRBAN\\u2764\", \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000093, \"selectedSkillId\": 1315000008, \"isMarkedStar\": true}, \"socialInfo\": {\"accountId\": \"1960058177\", \"language\": \"Language_EN\", \"signature\": \"GOOD BYE FREE FIRE MY EMOTION TATA\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775179617\"}}}"
+      },
+      {
+        "id": 331,
+        "user_id": 6304812503,
+        "search_type": "ff_info",
+        "query": "1960058177",
+        "search_date": "2026-04-04 02:52:23",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1960058177\", \"accountType\": 1, \"nickname\": \"\\u13da\\u13c6\\u13c0\\u2c6e\\uaadd\\u3164\\u13f4OY\\u3164\\ubaa8\", \"region\": \"IND\", \"level\": 68, \"exp\": 2420995, \"bannerId\": 901027013, \"headPic\": 902027011, \"rank\": 311, \"rankingPoints\": 2166, \"badgeCnt\": 4, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 11200, \"showRank\": true, \"lastLoginAt\": \"1775210719\", \"csRank\": 308, \"csRankingPoints\": 27, \"weaponSkinShows\": [907101403, 912000004], \"pinId\": 910034002, \"maxRank\": 311, \"csMaxRank\": 308, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1587881745\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000025, \"skinColor\": 50, \"clothes\": [214000000, 205043038, 211044046, 203001114, 204000718, 211000914], \"equipedSkills\": [16, 3406, 8, 1, 16, 2706, 8, 2, 16, 3006, 8, 3, 16, 5301], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1656982801, \"isMarkedStar\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000091, \"name\": \"ANIRBAN\\u2764\", \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000093, \"selectedSkillId\": 1315000008, \"isMarkedStar\": true}, \"socialInfo\": {\"accountId\": \"1960058177\", \"language\": \"Language_EN\", \"signature\": \"GOOD BYE FREE FIRE MY EMOTION TATA\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775179617\"}}}"
       }
     ],
     "bomber_history": [],
