@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 15:37:48",
+    "created_at": "2026-04-04 15:39:52",
     "stats": {
       "main_users": 433,
       "main_admins": 1,
@@ -1761,13 +1761,13 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-03 06:15:22",
+        "total_searches": 1,
+        "last_active": "2026-04-04 15:39:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -12221,6 +12221,14 @@
         "query": "9035622887",
         "search_date": "2026-04-04 15:35:40",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9035622887\", \"name\": \"Mohammed Sameer\", \"fname\": \"Mohammed Zameer\", \"address\": \"!7-920/3A!Mijgori Road!Naya Mohalla Gulbarga Gulbarga!Siddiqui Masjid!Kalaburagi!KALABURAGI!Karnataka!585104\", \"alt\": \"9632788131\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"809507473757\", \"email\": null}]}"
+      },
+      {
+        "id": 387,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "8431345512",
+        "search_date": "2026-04-04 15:39:26",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8431345512\", \"name\": \"Shaik Sumair Ahmed\", \"fname\": \"Shaik Sarwar Ahmed\", \"address\": \"S/O Shaik Sarwar Ahmed!!4-601/123/68 MG Road Bapu gouda darshnapur GDA Layout Gulbarga!Sangtrash wadi!Gulbarga Afzalpur Gulbarga!Karnataka!585101\", \"alt\": \"6360402974\", \"circle\": \"JIO KARNATKA\", \"id\": \"869932652113\", \"email\": \"sumairshaik135@gmail.com\"}, {\"mobile\": \"8431345512\", \"name\": \"Shaik Sumair Ahmed\", \"fname\": \"Shaik Sarwar Ahmed\", \"address\": \"S/O Shaik Sarwar Ahmed 4 601/123/68 MG Road Sangtrash wadi Gulbarga Gulbarga Bapu gouda darshnapur GDA Layout Karnataka 585101\", \"alt\": \"7406102310\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"869932652113\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
