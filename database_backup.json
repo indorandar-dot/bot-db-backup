@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 06:41:47",
+    "created_at": "2026-04-04 06:43:52",
     "stats": {
       "main_users": 424,
       "main_admins": 1,
@@ -3233,7 +3233,7 @@
         "first_name": "Pika 🦅",
         "join_date": "2026-03-31 08:13:51",
         "referrer": null,
-        "credits": 8,
+        "credits": 9,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -7814,6 +7814,10 @@
       },
       {
         "user_id": 7667099238,
+        "claim_date": "2026-04-04"
+      },
+      {
+        "user_id": 7868181523,
         "claim_date": "2026-04-04"
       }
     ],
