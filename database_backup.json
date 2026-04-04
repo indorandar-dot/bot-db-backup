@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 03:28:36",
+    "created_at": "2026-04-04 03:30:14",
     "stats": {
-      "main_users": 421,
+      "main_users": 422,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 156
@@ -817,7 +817,7 @@
         "first_name": "亗-ꜱᴜɴɢ_ᴊɪɴᴡᴏᴏ-亗",
         "join_date": "2026-04-02 13:38:03",
         "referrer": null,
-        "credits": 128,
+        "credits": 130,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -2156,6 +2156,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7355095151,
+        "username": "BLXCKY_02",
+        "first_name": "𓆩𓊈⁪⁬⁮ BLXCKY 𓊉❤️‍🩹』⃝",
+        "join_date": "2026-04-04 03:30:07",
+        "referrer": 6217868759,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-04 03:30:07",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7355698464,
         "username": "SENPAI_SAMA101",
         "first_name": "꫟🜲 𝐒ᴇɴᴘᴀɪ 𝐬ᴀᴍᴀ⚡ₐᵢ𝓏ₑₙ ₛₒᵤₗ ₖᵢₙℊ",
@@ -2785,13 +2801,13 @@
         "first_name": "Yash",
         "join_date": "2026-04-01 10:43:01",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 10:43:01",
+        "total_searches": 1,
+        "last_active": "2026-04-04 03:29:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -7157,7 +7173,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:37",
-        "last_active": "2026-04-04 03:28:07",
+        "last_active": "2026-04-04 03:28:57",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -8861,6 +8877,12 @@
         "referrer": 6217868759,
         "referred": 7217945127,
         "date": "2026-04-04 03:22:04"
+      },
+      {
+        "id": 184,
+        "referrer": 6217868759,
+        "referred": 7355095151,
+        "date": "2026-04-04 03:30:07"
       }
     ],
     "search_history": [
@@ -11543,6 +11565,14 @@
         "query": "@rowdyffrowdyff",
         "search_date": "2026-04-04 03:17:52",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 336,
+        "user_id": 7667099238,
+        "search_type": "mobile_number",
+        "query": "8910612472",
+        "search_date": "2026-04-04 03:29:00",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8910612472\", \"name\": \"Arjun Mandal\", \"fname\": \"Sarbeshwar Mandal\", \"address\": \"S/O Sarbeshwar Mandal!!!!Paschim Tentulbaria South 24 Parganas!West Bengal!743338\", \"alt\": \"918478914958\", \"circle\": \"JIO KOL\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -12060,7 +12090,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-04 03:28:07"
+          "last_active": "2026-04-04 03:28:57"
         },
         {
           "id": 813,
