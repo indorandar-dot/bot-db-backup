@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 23:31:36",
+    "created_at": "2026-04-04 23:33:41",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -1089,13 +1089,13 @@
         "first_name": "ITACHI",
         "join_date": "2026-04-02 03:04:02",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-03 03:54:01",
+        "total_searches": 6,
+        "last_active": "2026-04-04 23:31:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -12386,6 +12386,14 @@
         "query": "9905724243",
         "search_date": "2026-04-04 18:31:37",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9905724243\", \"name\": \"Niraj Kumar\", \"fname\": \"ram pravesh thakur\", \"address\": \"s/o  ram pravesh thakur!!Phulwarisharif!!govindpur noniya tola!govindpur Phulwari!patna!Bihar!801505\", \"alt\": \"7667851266\", \"circle\": \"BIHAR JIO\", \"id\": \"722484540095\", \"email\": null}]}"
+      },
+      {
+        "id": 398,
+        "user_id": 6403986015,
+        "search_type": "mobile_number",
+        "query": "79177576118",
+        "search_date": "2026-04-04 23:31:46",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9177576118\", \"name\": \"B Ramesh\", \"fname\": \"b subbarayadu\", \"address\": \"s/o b subbarayadu! 7 25!yaraguntapalli!!yaraguntapalli nallacheruvu!tanakallu!anantapur!Andhra Pradesh!515571\", \"alt\": \"9492600462\", \"circle\": \"JIO AP\", \"id\": \"925389720297\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
