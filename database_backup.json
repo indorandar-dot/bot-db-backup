@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 07:37:50",
+    "created_at": "2026-04-04 07:39:55",
     "stats": {
       "main_users": 424,
       "main_admins": 1,
@@ -3654,8 +3654,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-03 17:52:58",
+        "total_searches": 12,
+        "last_active": "2026-04-04 07:38:57",
         "money": 0,
         "clone_bots": 0
       },
@@ -11771,6 +11771,22 @@
         "query": "8957769917",
         "search_date": "2026-04-04 07:12:12",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8957769917\", \"name\": \"Sudhir Kumar\", \"fname\": \"Sanjay Kumar\", \"address\": \"S/O  Sanjay Kumar!!!barawadih!Chakar Ghatta Chandauli!Uttar Pradesh!232111\", \"alt\": \"8756879898\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"8957769917\", \"name\": \"Maneesh Kumar\", \"fname\": \"virendra kumar\", \"address\": \"s/o  virendra kumar! 01!barawadih road!!barawadih chakar ghatta!chakarghatta!chandauli!Uttar Pradesh!232111\", \"alt\": \"7607320503\", \"circle\": \"JIO UPE\", \"id\": \"846443695890\", \"email\": null}]}"
+      },
+      {
+        "id": 352,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7584428129, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 07:38:37",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7584428129\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 353,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7990435880, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 07:38:57",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7990435880\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
