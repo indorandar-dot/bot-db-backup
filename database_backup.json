@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 11:04:15",
+    "created_at": "2026-04-04 11:05:19",
     "stats": {
-      "main_users": 427,
+      "main_users": 428,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 157
+      "total_clone_users": 158
     }
   },
   "main_bot": {
@@ -1142,8 +1142,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-04 11:04:07",
+        "total_searches": 1,
+        "last_active": "2026-04-04 11:04:37",
         "money": 0,
         "clone_bots": 0
       },
@@ -3368,6 +3368,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:13",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7907468854,
+        "username": "",
+        "first_name": "✞ঔৣ۝𖣘KIꙶLⷽLⷮER𖣘 ✧Ediтøℝ✧⎠⎠۝ঔৣ✞",
+        "join_date": "2026-04-04 11:05:11",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-04 11:05:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -11889,6 +11905,14 @@
         "query": "@_meow_mitsuri_12",
         "search_date": "2026-04-04 11:00:38",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 360,
+        "user_id": 6503790542,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7250370732, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-04 11:04:37",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7250370732\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -12512,6 +12536,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 10:42:00"
+        },
+        {
+          "id": 851,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7907468854,
+          "username": "",
+          "first_name": "✞ঔৣ۝𖣘KIꙶLⷽLⷮER𖣘 ✧Ediтøℝ✧⎠⎠۝ঔৣ✞",
+          "join_date": "2026-04-04 11:05:11",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-04 11:05:11"
         },
         {
           "id": 642,
