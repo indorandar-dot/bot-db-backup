@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-04 09:32:01",
+    "created_at": "2026-04-04 09:34:06",
     "stats": {
       "main_users": 425,
       "main_admins": 1,
@@ -6694,8 +6694,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 80,
-        "last_active": "2026-04-02 11:45:44",
+        "total_searches": 81,
+        "last_active": "2026-04-04 09:33:23",
         "money": 0,
         "clone_bots": 0
       },
@@ -7011,7 +7011,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-04 09:30:30",
+        "last_active": "2026-04-04 09:33:08",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -11817,6 +11817,14 @@
         "query": "@papiya_612_",
         "search_date": "2026-04-04 09:13:59",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"papiya_612_\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 355,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9876543218",
+        "search_date": "2026-04-04 09:33:23",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9876543218\", \"name\": \"Anis Mohammed\", \"fname\": \"Khatija Khatoon\", \"address\": \"S/O Khatija Khatoon!!222-C!Savitri Nagar!Malviya Nagar South Delhi!Delhi!110017\", \"alt\": \"8920831120\", \"circle\": \"JIO DELHI\", \"id\": \"605129194689\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Phurba Tamang\", \"fname\": \"Neptay Tamang\", \"address\": \"S/O  Neptay Tamang!!389!Chirag Delhi!MALVIYA NAGAR SOUTH DELHI!Delhi!110017\", \"alt\": \"8368298075\", \"circle\": \"JIO DELHI\", \"id\": \"457749600363\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Subodh Ram\", \"fname\": \"Bindeshwar Ram\", \"address\": \"S/O  Bindeshwar Ram!!ward no - 12!vill - Maksudpur karariya!Maksudpur Kararia Sheohar!Bihar!843329\", \"alt\": \"9263075331\", \"circle\": \"BIHAR JIO\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Danidharia Rameshbhai Jamnadas\", \"fname\": \"Danidharia Jamnadas Bhagavandas\", \"address\": \"S/O  Danidharia Jamnadas Bhagavandas   Gomta  Gomta Gondal Rajkot Gujarat 360320\", \"alt\": \"9726377597\", \"circle\": \"JIO GUJARAT\", \"id\": \"909724490447\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Ibrahimbhai Mahammadbhai Tappa\", \"fname\": \"Mahammadbhai Tappa\", \"address\": \"S/O Mahammadbhai Tappa  Chui Faliyu Nr Bavan Shahid Masjid Vhorvad Nadiad Kheda Gujarat 387001\", \"alt\": \"9265708278\", \"circle\": \"JIO GUJARAT\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Nagori Moin\", \"fname\": \"Nishar Ahmed\", \"address\": \"S/O  Nishar Ahmed  1286/3/4/5 Biscuit gali pankor naka noor chawl AHMEDABAD CITY AHMEDABAD Gujarat 380001\", \"alt\": \"8849543292\", \"circle\": \"JIO GUJARAT\", \"id\": \"590316628286\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Jora Ram Gema Ram\", \"fname\": \"Gema Ram\", \"address\": \"135 Kamal Park Society 2 Kapodara L H Road Surat City Surat Gujarat 395006\", \"alt\": \"7048221952\", \"circle\": \"JIO GUJARAT\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Vasava Gaytriben Dineshbhai\", \"fname\": \"dineshbhai\", \"address\": \"mandir faliyu badabeda Hirapor Bharuch Gujarat 393135\", \"alt\": \"7016240754\", \"circle\": \"JIO GUJARAT\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Lambariya Sanjaybhai Babubhai\", \"fname\": \"Lambariya Babubhai Bavabhai\", \"address\": \"S/O  Lambariya Babubhai Bavabhai  girnar sosayti Gomta gomta Gomta Gondal Rajkot Gujarat 360320\", \"alt\": \"6354461507\", \"circle\": \"JIO GUJARAT\", \"id\": \"578875493944\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Chavdiya Sureshbhai Mangabhai\", \"fname\": \"Chavdiya Mangabhai Ladhabhai\", \"address\": \"S/O  Chavdiya Mangabhai Ladhabhai   Gomta GOMTA Gomta Gondal Rajkot Gujarat 360320\", \"alt\": \"6354227180\", \"circle\": \"JIO GUJARAT\", \"id\": \"708385511843\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Moteriya Ashishkumar Sureshbhai\", \"fname\": \"Moteriya Sureshbhai Bhimjibhai\", \"address\": \"S/O  Moteriya Sureshbhai Bhimjibhai   Gomta  Gomta Gondal Rajkot Gujarat 360320\", \"alt\": \"6353496498\", \"circle\": \"JIO GUJARAT\", \"id\": \"254953533506\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Parmar Kanjibhai Boghabhai\", \"fname\": \"Parmar Boghabhai\", \"address\": \"S/O Parmar Boghabhai   Gomta  Gomta Gondal Rajkot Gujarat 360320\", \"alt\": \"6352053719\", \"circle\": \"JIO GUJARAT\", \"id\": \"369323272178\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"JIO GUJARAT\", \"fname\": \"254953533506\\\"6353496497\", \"address\": \"Solanki Ravi Bhai\", \"alt\": \"Dipak Bhai\", \"circle\": \"S/O  Dipak Bhai!b-7-room 19!s m c  awas Althan!chaina gate!althan!Surat Ci\\nty Surat City!Surat!Gujarat!395017\", \"id\": \"9316795273\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Anis Mohammed\", \"fname\": \"Khatija Khatoon\", \"address\": \"S/O Khatija Khatoon!!222-C!Savitri Nagar!Malviya NagarSouth Delhi!Delhi!110017\", \"alt\": \"8920831120\", \"circle\": \"JIO DELHI\", \"id\": \"605129194689\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Phurba Tamang\", \"fname\": \"Neptay Tamang\", \"address\": \"S/O Neptay Tamang!!389!Chirag Delhi!MALVIYA NAGAR SOUTH DELHI!Delhi!110017\", \"alt\": \"8368298075\", \"circle\": \"JIO DELHI\", \"id\": \"457749600363\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Kiran Devi\", \"fname\": \"Dinesh Chaurasiya\", \"address\": \"W/O  Dinesh Chaurasiya!!dhevdha!dhevdha!Dhewadha Chhatarwar Nawada!Bihar!805124\", \"alt\": \"6206068258\", \"circle\": \"BIHAR JIO\", \"id\": \"NA\", \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Vikram\", \"fname\": \"Mahipal Singh\", \"address\": \"S/O Mahipal Singh!!!!Mora Saharanpur!Uttar Pradesh!247453\", \"alt\": \"9996642274\", \"circle\": \"JIO UPE UPW\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"TRIBHUVAN PRASAD TIVARI\", \"fname\": \"Ram Vishal\", \"address\": \"S/O Ram Vishal!!!GRAM PARDHA SUMER!Dhuie Pratapgarh!Uttar Pradesh!230138\", \"alt\": \"9935514086\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"9876543218\", \"name\": \"Ashish Kumar\", \"fname\": \"Baij Nath\", \"address\": \"C/O Baij Nath!!mandir ke pass!Pachghra!Fatehpur Barabanki!Uttar Pradesh!225305\", \"alt\": \"9889571088\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -12949,7 +12957,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-04 03:43:11"
+          "last_active": "2026-04-04 09:33:08"
         },
         {
           "id": 828,
