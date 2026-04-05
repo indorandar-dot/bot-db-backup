@@ -1,11 +1,11 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 10:05:25",
+    "created_at": "2026-04-05 10:07:29",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
-      "clone_bots": 2,
+      "clone_bots": 3,
       "total_clone_users": 5
     }
   },
@@ -3425,7 +3425,7 @@
         "first_name": "Pika 🦅",
         "join_date": "2026-03-31 08:13:51",
         "referrer": null,
-        "credits": 9,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -8350,6 +8350,10 @@
       {
         "user_id": 8228262708,
         "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 7868181523,
+        "claim_date": "2026-04-05"
       }
     ],
     "welcome_settings": [
@@ -13107,6 +13111,15 @@
         "status": "approved",
         "requested_at": "2026-04-05 09:21:03",
         "approved_at": "2026-04-05 09:21:25",
+        "is_manually_stopped": 0
+      },
+      {
+        "id": 9,
+        "user_id": 6975957363,
+        "token": "8723509148:AAHFFvV1m4pXWoPP71DXvHYA9Naifk5zjDI",
+        "status": "pending",
+        "requested_at": "2026-04-05 10:06:11",
+        "approved_at": null,
         "is_manually_stopped": 0
       }
     ],
