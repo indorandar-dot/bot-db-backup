@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 15:40:19",
+    "created_at": "2026-04-05 15:42:24",
     "stats": {
       "main_users": 450,
       "main_admins": 1,
@@ -1825,13 +1825,13 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 66,
+        "credits": 65,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 13,
-        "last_active": "2026-04-05 13:18:58",
+        "total_searches": 14,
+        "last_active": "2026-04-05 15:40:54",
         "money": 0,
         "clone_bots": 0
       },
@@ -13339,6 +13339,14 @@
         "query": "7079782641",
         "search_date": "2026-04-05 14:56:14",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"7079782641\", \"name\": \"BHAGMATI  DEVI\", \"fname\": \"MANOJ MAHATO\", \"address\": \"W/O  Manoj Mahato W/O  Manoj Mahato Dalel Bigha Madanpur  Madanpur  NIMA ANJAN-AURANGABAD BR 824208\", \"alt\": null, \"circle\": \"BIHAR VODAFONE\", \"id\": \"417148181630\", \"email\": null}]}"
+      },
+      {
+        "id": 468,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "9916113555",
+        "search_date": "2026-04-05 15:40:54",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9916113555\", \"name\": \"Mohammed Munna\", \"fname\": \"Mohammed Mehmood\", \"address\": \"S/O Mohammed Mehmood!!# 7-920 Mijgori Road Near Bank Colony!Naya Mohalla!Gulbarga Gulbarga!Karnataka!585104\", \"alt\": \"7019834633\", \"circle\": \"JIO KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"9916113555\", \"name\": \"Mohammed Munna\", \"fname\": \"Mohammed Mehmood\", \"address\": \"S/O Mohammed Mehmood!!# 7-920 Mijgori Road Near Bank Colony GB N Gunj!NA!Naya Mohalla!Gulbarga Gulbarga!NA!Karnataka!585104\", \"alt\": \"9916113555\", \"circle\": \"JIO KARNATKA\", \"id\": \"581221867181\", \"email\": null}, {\"mobile\": \"9916113555\", \"name\": \"MD MUNNA MD MEHMOOD\", \"fname\": \"MD MEHMOOD\", \"address\": \"7-920 MIJGORI ROAD NEAR BANK COLONY NAYA MOHALLA GULBARGA Gulbarga KARNATAKA 585104\", \"alt\": \"9141690230\", \"circle\": \"BSNL KARNATKA\", \"id\": \"XXXXXXXX7181\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
