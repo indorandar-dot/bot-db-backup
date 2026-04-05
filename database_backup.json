@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 17:51:27",
+    "created_at": "2026-04-05 17:53:32",
     "stats": {
       "main_users": 452,
       "main_admins": 1,
       "clone_bots": 4,
-      "total_clone_users": 13
+      "total_clone_users": 14
     }
   },
   "main_bot": {
@@ -385,13 +385,13 @@
         "first_name": "Khagesh Adlakha",
         "join_date": "2026-04-05 06:08:48",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-05 06:08:48",
+        "total_searches": 1,
+        "last_active": "2026-04-05 17:53:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -13419,6 +13419,14 @@
         "query": "8033984049",
         "search_date": "2026-04-05 17:08:37",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8033984049\", \"username\": \"Gojoxsakura1\", \"full_name\": \"GOJO X SAKURA\", \"first_name\": \"GOJO X SAKURA\", \"last_name\": \"\", \"bio\": \"MY EGO \\u270c\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8033984049\", \"username\": \"Gojoxsakura1\", \"first_name\": \"GOJO X SAKURA\", \"last_name\": \"\", \"full_name\": \"GOJO X SAKURA\", \"bio\": \"MY EGO \\u270c\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Gojoxsakura1\"]}}"
+      },
+      {
+        "id": 474,
+        "user_id": 5566044728,
+        "search_type": "mobile_number",
+        "query": "8826909214",
+        "search_date": "2026-04-05 17:53:17",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8826909214\", \"name\": \"Aman Ujjwal\", \"fname\": \"Avinash Kumar\", \"address\": \"!d-76!first floor!mother dairypandav nagar!New DelhiEast!Delhi!110092\", \"alt\": null, \"circle\": \"AIRTEL DELHI\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -13522,6 +13530,21 @@
     },
     "82221182...": {
       "users": [
+        {
+          "id": 922,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 5566044728,
+          "username": "Khageshadlakha31",
+          "first_name": "Khagesh Adlakha",
+          "join_date": "2026-04-05 17:53:03",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 17:53:03"
+        },
         {
           "id": 905,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
