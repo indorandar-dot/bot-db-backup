@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 10:26:11",
+    "created_at": "2026-04-05 10:28:16",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
@@ -1809,13 +1809,13 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 20,
+        "credits": 19,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-05 10:18:34",
+        "total_searches": 10,
+        "last_active": "2026-04-05 10:27:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -13115,6 +13115,14 @@
         "query": "7534232782",
         "search_date": "2026-04-05 10:22:06",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7534232782\", \"username\": \"\", \"full_name\": \"REVIEW WORK\", \"first_name\": \"REVIEW WORK\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-14T06:06:57Z\", \"first_name\": \"REVIEW WORK\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:29:45Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 3, \"total_msg_count\": 29, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-14T06:06:57Z\", \"first_name\": \"REVIEW WORK\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:29:45Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 3, \"total_msg_count\": 29, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7534232782\"}}"
+      },
+      {
+        "id": 451,
+        "user_id": 6975957363,
+        "search_type": "ff_info",
+        "query": "2485719138",
+        "search_date": "2026-04-05 10:27:58",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2485719138\", \"accountType\": 1, \"nickname\": \"\\u04c3\\u0274\\u3164\\u1d0d\\u1d00\\u059f\\u135dxx\", \"region\": \"IND\", \"level\": 66, \"exp\": 1851566, \"bannerId\": 901049003, \"headPic\": 902049003, \"rank\": 308, \"rankingPoints\": 1768, \"badgeCnt\": 2, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 16022, \"showRank\": true, \"lastLoginAt\": \"1775191521\", \"csRank\": 319, \"csRankingPoints\": 78, \"weaponSkinShows\": [907103332, 912052001], \"pinId\": 910002802, \"maxRank\": 308, \"csMaxRank\": 319, \"accountPrefers\": {}, \"createAt\": \"1603884417\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_NORMAL\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1776246178\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000004, \"clothes\": [204000181, 214035012, 211034004, 203000406, 205000035, 211035067], \"equipedSkills\": [16, 5806, 8, 1, 16, 6501, 8, 2, 16, 706, 8, 3, 16, 5301], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000101, \"name\": \"mr_lover\", \"level\": 7, \"exp\": 6000, \"isSelected\": true, \"skinId\": 1310000108, \"selectedSkillId\": 1315000009}, \"socialInfo\": {\"accountId\": \"2485719138\", \"gender\": \"Gender_MALE\", \"language\": \"Language_ARABIC\", \"modePrefer\": \"ModePrefer_CS\", \"signature\": \"Always \\u2764\\ufe0f Szya \\u2764\\ufe0f \\n        \\\"Khair\\\"\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775357653\"}}}"
       }
     ],
     "bomber_history": [],
