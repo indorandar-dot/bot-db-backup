@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 12:52:47",
+    "created_at": "2026-04-05 12:53:14",
     "stats": {
-      "main_users": 448,
+      "main_users": 449,
       "main_admins": 1,
       "clone_bots": 3,
       "total_clone_users": 9
@@ -6888,6 +6888,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:55",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8569233445,
+        "username": "Ajabulsarkar",
+        "first_name": "Ajabul",
+        "join_date": "2026-04-05 12:53:07",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-05 12:53:07",
         "money": 0,
         "clone_bots": 0
       },
