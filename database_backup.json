@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 10:15:48",
+    "created_at": "2026-04-05 10:17:53",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
@@ -1809,7 +1809,7 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 11,
+        "credits": 21,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -13117,9 +13117,9 @@
         "id": 10,
         "user_id": 6975957363,
         "token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
-        "status": "pending",
+        "status": "approved",
         "requested_at": "2026-04-05 10:14:26",
-        "approved_at": null,
+        "approved_at": "2026-04-05 10:17:38",
         "is_manually_stopped": 0
       }
     ],
