@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 07:04:18",
+    "created_at": "2026-04-05 07:06:23",
     "stats": {
       "main_users": 441,
       "main_admins": 1,
@@ -1457,13 +1457,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 11,
-        "last_active": "2026-04-05 06:48:27",
+        "total_searches": 13,
+        "last_active": "2026-04-05 07:06:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -7267,7 +7267,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-05 05:35:06",
+        "last_active": "2026-04-05 07:06:22",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -7507,7 +7507,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-04-04 12:11:48",
+        "last_active": "2026-04-05 07:04:42",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -12774,6 +12774,22 @@
         "query": "6659573678",
         "search_date": "2026-04-05 06:48:27",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6659573678\", \"username\": \"Xx9hawkeye\", \"full_name\": \"Nick\", \"first_name\": \"Nick\", \"last_name\": \"\", \"bio\": \"Hacker hu yar\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6659573678\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"last_name\": null, \"is_active\": true, \"total_groups\": 2, \"admin_groups\": 0, \"total_msg_count\": 11, \"msg_in_groups_count\": 2, \"names_count\": 2, \"usernames_count\": 2, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"last_msg_date\": \"2025-11-04T12:49:05Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"6659573678\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"is_active\": true, \"last_msg_date\": \"2025-11-04T12:49:05Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 2}, \"target_id\": \"6659573678\", \"tg_id\": \"6659573678\", \"username\": \"Xx9hawkeye\", \"first_name\": \"Nick\", \"last_name\": \"\", \"full_name\": \"Nick\", \"bio\": \"Hacker hu yar\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Xx9hawkeye\"]}}"
+      },
+      {
+        "id": 428,
+        "user_id": 6679896022,
+        "search_type": "username",
+        "query": "@8499977632",
+        "search_date": "2026-04-05 07:05:57",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"8499977632\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 429,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "8499977632",
+        "search_date": "2026-04-05 07:06:15",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8499977632\", \"username\": \"\", \"full_name\": \"\\ud83e\\ude90\", \"first_name\": \"\\ud83e\\ude90\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918421088991\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918421088991\", \"status\": true, \"target_id\": \"8499977632\"}}"
       }
     ],
     "bomber_history": [],
@@ -13441,7 +13457,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-03 14:59:39"
+          "last_active": "2026-04-05 07:04:42"
         },
         {
           "id": 872,
@@ -13711,7 +13727,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-02 10:40:38"
+          "last_active": "2026-04-05 07:06:22"
         },
         {
           "id": 875,
