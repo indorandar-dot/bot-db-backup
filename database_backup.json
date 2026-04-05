@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 03:55:17",
+    "created_at": "2026-04-05 03:57:22",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -5217,13 +5217,13 @@
         "first_name": "Rolex",
         "join_date": "2026-03-31 23:28:56",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 23:28:56",
+        "total_searches": 1,
+        "last_active": "2026-04-05 03:55:47",
         "money": 0,
         "clone_bots": 0
       },
@@ -12502,6 +12502,14 @@
         "query": "9972257596",
         "search_date": "2026-04-05 03:55:10",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9972257596\", \"name\": \"Arshiya Kulsum\", \"fname\": \"Khursheed Patel\", \"address\": \"D/O Khursheed Patel!!H NO 408/4K DARGA ROAD!KHAJA COLONY!Gulbarga Gulbarga!Karnataka!585104\", \"alt\": \"8217482703\", \"circle\": \"JIO KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"9972257596\", \"name\": \"KHURSHID P\", \"fname\": \"KHASIM.P\", \"address\": \"NO 87/1/1   BHIMALLI  GULBARGA GULBARGA GLBRG 585104\", \"alt\": null, \"circle\": \"KARNATAKA AIRTEL\", \"id\": null, \"email\": null}]}"
+      },
+      {
+        "id": 410,
+        "user_id": 8334955397,
+        "search_type": "mobile_number",
+        "query": "9934906349",
+        "search_date": "2026-04-05 03:55:47",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9934906349\", \"name\": \"Madhuri Pal\", \"fname\": \"Bhaiya Lal\", \"address\": \"W/O Bhaiya Lal!!AHMADPUR PAWAN .!!Ahmadpur Pawan Allahabad!Uttar Pradesh!212208\", \"alt\": \"7755895150\", \"circle\": \"JIO UPE\", \"id\": null, \"email\": null}, {\"mobile\": \"9934906349\", \"name\": \"Madhuri  Kumari\", \"fname\": \"Late\", \"address\": \"D/O Late Vijay Kumar Shukla!kusaundhi!post-kusaundhi!Kusauni!!Gopalganj!Bihar!841436\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"441037558484\", \"email\": null}, {\"mobile\": \"9934906349\", \"name\": \"Nitu Devi\", \"fname\": \"Wishwnath Mandal\", \"address\": \"D/O Wishwnath Mandal!-!Falka!!- gopalpatti sohtha!falka Falka!katihar!Bihar!854114\", \"alt\": \"6205485034\", \"circle\": \"JIO BHR&JHR\", \"id\": \"340097161140\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
