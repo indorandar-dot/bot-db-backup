@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 14:40:00",
+    "created_at": "2026-04-05 14:42:04",
     "stats": {
       "main_users": 450,
       "main_admins": 1,
@@ -3718,8 +3718,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-02 17:00:22",
+        "total_searches": 4,
+        "last_active": "2026-04-05 14:41:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -13323,6 +13323,14 @@
         "query": "8572820643",
         "search_date": "2026-04-05 14:33:07",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8572820643\", \"username\": \"\", \"full_name\": \"Arya\\u2604\\ufe0f\", \"first_name\": \"Arya\\u2604\\ufe0f\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-14T18:09:43Z\", \"first_name\": \"Arya\\u2604\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T19:12:07Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 370, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-14T18:09:43Z\", \"first_name\": \"Arya\\u2604\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T19:12:07Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 370, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8572820643\"}}"
+      },
+      {
+        "id": 466,
+        "user_id": 7969481584,
+        "search_type": "username",
+        "query": "@Adyantq",
+        "search_date": "2026-04-05 14:41:28",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
