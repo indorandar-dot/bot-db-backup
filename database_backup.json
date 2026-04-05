@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 02:23:57",
+    "created_at": "2026-04-05 02:26:01",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -6854,8 +6854,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 83,
-        "last_active": "2026-04-04 17:44:48",
+        "total_searches": 85,
+        "last_active": "2026-04-05 02:25:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -12402,6 +12402,22 @@
         "query": "79177576118",
         "search_date": "2026-04-04 23:31:46",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9177576118\", \"name\": \"B Ramesh\", \"fname\": \"b subbarayadu\", \"address\": \"s/o b subbarayadu! 7 25!yaraguntapalli!!yaraguntapalli nallacheruvu!tanakallu!anantapur!Andhra Pradesh!515571\", \"alt\": \"9492600462\", \"circle\": \"JIO AP\", \"id\": \"925389720297\", \"email\": null}]}"
+      },
+      {
+        "id": 399,
+        "user_id": 8703382327,
+        "search_type": "typed_userid",
+        "query": "9883422784",
+        "search_date": "2026-04-05 02:24:45",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"9883422784\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 400,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9883422784",
+        "search_date": "2026-04-05 02:25:06",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\", \"fname\": \"Mohan Tamang\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
