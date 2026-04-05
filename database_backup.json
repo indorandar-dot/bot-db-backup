@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 03:53:12",
+    "created_at": "2026-04-05 03:55:17",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -1777,13 +1777,13 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-05 03:52:55",
+        "total_searches": 7,
+        "last_active": "2026-04-05 03:55:10",
         "money": 0,
         "clone_bots": 0
       },
@@ -5217,7 +5217,7 @@
         "first_name": "Rolex",
         "join_date": "2026-03-31 23:28:56",
         "referrer": null,
-        "credits": 0,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -8087,6 +8087,10 @@
       },
       {
         "user_id": 8372732177,
+        "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 8334955397,
         "claim_date": "2026-04-05"
       }
     ],
@@ -12490,6 +12494,14 @@
         "query": "5565490606",
         "search_date": "2026-04-05 03:52:55",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5565490606\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"5565490606\"}}"
+      },
+      {
+        "id": 409,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "9972257596",
+        "search_date": "2026-04-05 03:55:10",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9972257596\", \"name\": \"Arshiya Kulsum\", \"fname\": \"Khursheed Patel\", \"address\": \"D/O Khursheed Patel!!H NO 408/4K DARGA ROAD!KHAJA COLONY!Gulbarga Gulbarga!Karnataka!585104\", \"alt\": \"8217482703\", \"circle\": \"JIO KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"9972257596\", \"name\": \"KHURSHID P\", \"fname\": \"KHASIM.P\", \"address\": \"NO 87/1/1   BHIMALLI  GULBARGA GULBARGA GLBRG 585104\", \"alt\": null, \"circle\": \"KARNATAKA AIRTEL\", \"id\": null, \"email\": null}]}"
       }
     ],
     "bomber_history": [],
