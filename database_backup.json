@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 06:24:52",
+    "created_at": "2026-04-05 06:26:56",
     "stats": {
       "main_users": 438,
       "main_admins": 1,
@@ -4230,8 +4230,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-05 06:24:49",
+        "total_searches": 3,
+        "last_active": "2026-04-05 06:25:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -8151,6 +8151,10 @@
       },
       {
         "user_id": 7747929547,
+        "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 8129564406,
         "claim_date": "2026-04-05"
       }
     ],
@@ -12642,6 +12646,14 @@
         "query": "@Nikunjbro",
         "search_date": "2026-04-05 06:24:49",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Nikunjbro\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 420,
+        "user_id": 8129564406,
+        "search_type": "typed_userid",
+        "query": "6443754454",
+        "search_date": "2026-04-05 06:25:34",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6443754454\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6443754454\"}}"
       }
     ],
     "bomber_history": [],
