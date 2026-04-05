@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 09:21:47",
+    "created_at": "2026-04-05 09:23:52",
     "stats": {
       "main_users": 445,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 1
+      "total_clone_users": 2
     }
   },
   "main_bot": {
@@ -4769,7 +4769,7 @@
         "first_name": "亗ꪜɪʟʟᴇɴ亗",
         "join_date": "2026-03-30 16:59:43",
         "referrer": null,
-        "credits": 34,
+        "credits": 35,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -8313,6 +8313,10 @@
       },
       {
         "user_id": 8408462687,
+        "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 8228262708,
         "claim_date": "2026-04-05"
       }
     ],
@@ -13095,6 +13099,28 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-05 09:18:22"
+        }
+      ],
+      "daily_claims": [],
+      "referrals": [],
+      "search_history": []
+    },
+    "87878193...": {
+      "users": [
+        {
+          "id": 890,
+          "clone_token": "8787819383:AAF8WEP78nz4Z098y76a0z1-QR4SAMJqru0",
+          "user_id": 8228262708,
+          "username": "Villen_4_4_4",
+          "first_name": "亗ꪜɪʟʟᴇɴ亗",
+          "join_date": "2026-04-05 09:22:35",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 09:22:35"
         }
       ],
       "daily_claims": [],
