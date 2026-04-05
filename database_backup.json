@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 07:20:56",
+    "created_at": "2026-04-05 07:23:00",
     "stats": {
       "main_users": 441,
       "main_admins": 1,
@@ -3030,8 +3030,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-04 15:35:40",
+        "total_searches": 3,
+        "last_active": "2026-04-05 07:22:36",
         "money": 0,
         "clone_bots": 0
       },
@@ -8208,6 +8208,10 @@
       {
         "user_id": 6679896022,
         "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 7709888258,
+        "claim_date": "2026-04-05"
       }
     ],
     "welcome_settings": [
@@ -12806,6 +12810,14 @@
         "query": "8499977632",
         "search_date": "2026-04-05 07:07:15",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8499977632\", \"username\": \"\", \"full_name\": \"\\ud83e\\ude90\", \"first_name\": \"\\ud83e\\ude90\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918421088991\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918421088991\", \"status\": true, \"target_id\": \"8499977632\"}}"
+      },
+      {
+        "id": 432,
+        "user_id": 7709888258,
+        "search_type": "mobile_number",
+        "query": "9035622887",
+        "search_date": "2026-04-05 07:22:36",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9035622887\", \"name\": \"Mohammed Sameer\", \"fname\": \"Mohammed Zameer\", \"address\": \"!7-920/3A!Mijgori Road!Naya Mohalla Gulbarga Gulbarga!Siddiqui Masjid!Kalaburagi!KALABURAGI!Karnataka!585104\", \"alt\": \"9632788131\", \"circle\": \"AIRTEL KARNATKA\", \"id\": \"809507473757\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
