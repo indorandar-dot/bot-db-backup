@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 12:51:51",
+    "created_at": "2026-04-05 12:52:47",
     "stats": {
-      "main_users": 447,
+      "main_users": 448,
       "main_admins": 1,
       "clone_bots": 3,
       "total_clone_users": 9
@@ -5128,6 +5128,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-01 06:54:06",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8298646971,
+        "username": "",
+        "first_name": "Mustakin",
+        "join_date": "2026-04-05 12:52:39",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-05 12:52:39",
         "money": 0,
         "clone_bots": 0
       },
