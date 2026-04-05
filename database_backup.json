@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 07:06:23",
+    "created_at": "2026-04-05 07:08:28",
     "stats": {
       "main_users": 441,
       "main_admins": 1,
@@ -1457,13 +1457,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 13,
-        "last_active": "2026-04-05 07:06:15",
+        "total_searches": 14,
+        "last_active": "2026-04-05 07:07:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -5025,13 +5025,13 @@
         "first_name": "ཌᴿᴬᴺᴶᴬᴺད ×͜ᴮᴴᴬᴵ࿐",
         "join_date": "2026-04-02 10:40:00",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-02 10:40:00",
+        "total_searches": 1,
+        "last_active": "2026-04-05 07:06:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -12789,6 +12789,22 @@
         "search_type": "typed_userid",
         "query": "8499977632",
         "search_date": "2026-04-05 07:06:15",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8499977632\", \"username\": \"\", \"full_name\": \"\\ud83e\\ude90\", \"first_name\": \"\\ud83e\\ude90\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918421088991\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918421088991\", \"status\": true, \"target_id\": \"8499977632\"}}"
+      },
+      {
+        "id": 430,
+        "user_id": 8287149354,
+        "search_type": "username",
+        "query": "Buycoinstars_Bot",
+        "search_date": "2026-04-05 07:06:45",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8260104772\", \"username\": \"Buycoinstars_Bot\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8260104772\", \"first_name\": null, \"last_name\": null, \"is_active\": false, \"total_groups\": 0, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 0, \"usernames_count\": 0, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8260104772\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"target_id\": \"8260104772\"}}"
+      },
+      {
+        "id": 431,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "8499977632",
+        "search_date": "2026-04-05 07:07:15",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8499977632\", \"username\": \"\", \"full_name\": \"\\ud83e\\ude90\", \"first_name\": \"\\ud83e\\ude90\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918421088991\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-09T19:20:41Z\", \"first_name\": \"\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T07:06:32Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 7, \"total_msg_count\": 759, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918421088991\", \"status\": true, \"target_id\": \"8499977632\"}}"
       }
     ],
