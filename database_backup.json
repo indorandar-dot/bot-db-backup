@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 03:30:21",
+    "created_at": "2026-04-05 03:32:27",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -4609,13 +4609,13 @@
         "first_name": "𓋰 𓆩𝐓ᴇᴄʜɴᴏ𓆪 ˣ [𝗧𝗢𝗣 𝗩𝗜𝗣 𝗦𝗘𝗟𝗟𝗘𝗥",
         "join_date": "2026-04-02 12:02:13",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-04 06:55:52",
+        "total_searches": 5,
+        "last_active": "2026-04-05 03:32:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -7261,7 +7261,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 08:16:31",
-        "last_active": "2026-04-05 03:29:57",
+        "last_active": "2026-04-05 03:31:16",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -12446,6 +12446,14 @@
         "query": "8389496051",
         "search_date": "2026-04-05 03:27:26",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8389496051\", \"username\": \"m4_madex\", \"full_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"first_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917295025829\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917295025829\", \"status\": true, \"target_id\": \"8389496051\", \"tg_id\": \"8389496051\", \"username\": \"m4_madex\", \"first_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"last_name\": \"\", \"full_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"m4_madex\"]}}"
+      },
+      {
+        "id": 404,
+        "user_id": 8224757249,
+        "search_type": "typed_userid",
+        "query": "8224757249",
+        "search_date": "2026-04-05 03:32:06",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8224757249\", \"username\": \"TECHNOXTAMIL\", \"full_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"last_name\": \"\", \"bio\": \"\\ud83c\\udf0d Best Trusted Seller in World 100% Trust @TECHNOPROOFS5\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-10T03:39:25Z\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"is_active\": true, \"last_msg_date\": \"2026-03-30T13:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 6, \"total_groups\": 18, \"total_msg_count\": 53, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-10T03:39:25Z\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"is_active\": true, \"last_msg_date\": \"2026-03-30T13:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 6, \"total_groups\": 18, \"total_msg_count\": 53, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8224757249\", \"tg_id\": \"8224757249\", \"username\": \"TECHNOXTAMIL\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"last_name\": \"\", \"full_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"bio\": \"\\ud83c\\udf0d Best Trusted Seller in World 100% Trust @TECHNOPROOFS5\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"TECHNOXTAMIL\"]}}"
       }
     ],
     "bomber_history": [],
