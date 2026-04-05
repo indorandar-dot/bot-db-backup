@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 03:49:03",
+    "created_at": "2026-04-05 03:51:08",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -1782,8 +1782,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-04 15:50:38",
+        "total_searches": 4,
+        "last_active": "2026-04-05 03:50:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -12466,6 +12466,14 @@
         "query": "{'user_id': 8105601290, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-05 03:46:05",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8105601290\", \"username\": \"\", \"full_name\": \"Harsh\", \"first_name\": \"Harsh\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919142219634\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-28T14:42:13Z\", \"first_name\": \"Harsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:47:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 22, \"total_msg_count\": 662, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-28T14:42:13Z\", \"first_name\": \"Harsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:47:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 22, \"total_msg_count\": 662, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919142219634\", \"status\": true, \"target_id\": \"8105601290\"}}"
+      },
+      {
+        "id": 406,
+        "user_id": 6975957363,
+        "search_type": "username",
+        "query": "@mr_maxxu",
+        "search_date": "2026-04-05 03:50:59",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
