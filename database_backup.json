@@ -1,11 +1,11 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 10:13:43",
+    "created_at": "2026-04-05 10:15:48",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
-      "clone_bots": 2,
+      "clone_bots": 3,
       "total_clone_users": 5
     }
   },
@@ -13111,6 +13111,15 @@
         "status": "approved",
         "requested_at": "2026-04-05 09:21:03",
         "approved_at": "2026-04-05 09:21:25",
+        "is_manually_stopped": 0
+      },
+      {
+        "id": 10,
+        "user_id": 6975957363,
+        "token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
+        "status": "pending",
+        "requested_at": "2026-04-05 10:14:26",
+        "approved_at": null,
         "is_manually_stopped": 0
       }
     ],
