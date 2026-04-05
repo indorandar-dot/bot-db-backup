@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 12:56:00",
+    "created_at": "2026-04-05 12:58:05",
     "stats": {
       "main_users": 449,
       "main_admins": 1,
@@ -5137,13 +5137,13 @@
         "first_name": "Mustakin",
         "join_date": "2026-04-05 12:52:39",
         "referrer": null,
-        "credits": 4,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-05 12:55:59",
+        "total_searches": 4,
+        "last_active": "2026-04-05 12:57:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -13247,6 +13247,30 @@
         "query": "8101721807",
         "search_date": "2026-04-05 12:55:59",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"8101721807\", \"name\": \"ARAFAT MANDAL\", \"fname\": \"Pintu Mandal\", \"address\": \"!!belehatipara!!Aismali Nadia!West Bengal!741253\", \"alt\": \"8927437732\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"MR HABIBUR SARKAR\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"!-anishmali beleatipara!-anishmali anishmali!anishmali!--gangnapur NADIA!NADIA!NADIA!West Bengal!741253\", \"alt\": \"9775965728\", \"circle\": \"VI KOL & WB\", \"id\": \"266952353062\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Habibur Sarkar\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"!-!- -!- Nadia!-!NADIA!Nadia!West Bengal!741253\", \"alt\": \"9775084780\", \"circle\": \"VI KOL & WB\", \"id\": null, \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Sayed Banu Sarkar\", \"fname\": \"Abecha Bibi\", \"address\": \"!-!- Anishmali!-!- - anishmali!gilapol Ranaghat - I!nadia!West Bengal!741253\", \"alt\": \"9064437321\", \"circle\": \"JIO WB\", \"id\": \"512687473797\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Nasrin Sarkar\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"D/O Faidar Ali Sarkar!-!- Anishmali!-!- - - - gilapol!anishmali Ranaghat - I!nadia!West Bengal!741253\", \"alt\": \"8617509326\", \"circle\": \"JIO WB\", \"id\": \"249644179843\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Faidarsarkar\", \"fname\": \"AKBAR ALI SARKAR\", \"address\": \"S/O AKBAR ALI SARKAR!!- - - Anishmali!NA!-!Gilapol Ranaghat - I Nadia!NA!West Bengal!741253\", \"alt\": \"9932554389\", \"circle\": \"JIO WB\", \"id\": \"862986989672\", \"email\": null}]}"
+      },
+      {
+        "id": 459,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "8388093328",
+        "search_date": "2026-04-05 12:56:52",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8388093328\", \"name\": \"Surajit Sarkar\", \"fname\": \"LAKSHMAN SARKAR\", \"address\": \"S/O LAKSHMAN SARKAR!bidhangar!BULBULCHANDI!!Bulbul Chandi!Bulbulchadi!Malda!West Bengal!732122\", \"alt\": \"7908241831\", \"circle\": \"JIO WB\", \"id\": \"813529477282\", \"email\": null}]}"
+      },
+      {
+        "id": 460,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "7908851313",
+        "search_date": "2026-04-05 12:57:18",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7908851313\", \"name\": \"Julfikar Mondal\", \"fname\": \"Sukurali Mondal\", \"address\": \"S/O  Sukurali Mondal!!vill-Anishmali Belehatipara!!Aismali Nadia!West Bengal!741253\", \"alt\": \"8250574718\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}, {\"mobile\": \"7908851313\", \"name\": \"arif billaha mondal\", \"fname\": \"abul hossen MONDAL\", \"address\": \"-!ANISHMALIBELEATIPARA anishmali G ANGNAPUR!GANGNAPUR!GANGNAPUR NADIA!West Bengal!741253\", \"alt\": \"919093300452\", \"circle\": \"JIO WB\", \"id\": \"ney1695238\", \"email\": null}]}"
+      },
+      {
+        "id": 461,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "7908851313",
+        "search_date": "2026-04-05 12:57:38",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"7908851313\", \"name\": \"Julfikar Mondal\", \"fname\": \"Sukurali Mondal\", \"address\": \"S/O  Sukurali Mondal!!vill-Anishmali Belehatipara!!Aismali Nadia!West Bengal!741253\", \"alt\": \"8250574718\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}, {\"mobile\": \"7908851313\", \"name\": \"arif billaha mondal\", \"fname\": \"abul hossen MONDAL\", \"address\": \"-!ANISHMALIBELEATIPARA anishmali G ANGNAPUR!GANGNAPUR!GANGNAPUR NADIA!West Bengal!741253\", \"alt\": \"919093300452\", \"circle\": \"JIO WB\", \"id\": \"ney1695238\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
