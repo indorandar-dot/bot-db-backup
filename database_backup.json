@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 03:44:54",
+    "created_at": "2026-04-05 03:46:59",
     "stats": {
       "main_users": 435,
       "main_admins": 1,
@@ -5510,8 +5510,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-02 02:39:31",
+        "total_searches": 2,
+        "last_active": "2026-04-05 03:46:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -8083,6 +8083,10 @@
       },
       {
         "user_id": 6975957363,
+        "claim_date": "2026-04-05"
+      },
+      {
+        "user_id": 8372732177,
         "claim_date": "2026-04-05"
       }
     ],
@@ -12454,6 +12458,14 @@
         "query": "8224757249",
         "search_date": "2026-04-05 03:32:06",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8224757249\", \"username\": \"TECHNOXTAMIL\", \"full_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"last_name\": \"\", \"bio\": \"\\ud83c\\udf0d Best Trusted Seller in World 100% Trust @TECHNOPROOFS5\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-10T03:39:25Z\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"is_active\": true, \"last_msg_date\": \"2026-03-30T13:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 6, \"total_groups\": 18, \"total_msg_count\": 53, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-10T03:39:25Z\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"is_active\": true, \"last_msg_date\": \"2026-03-30T13:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 6, \"total_groups\": 18, \"total_msg_count\": 53, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8224757249\", \"tg_id\": \"8224757249\", \"username\": \"TECHNOXTAMIL\", \"first_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"last_name\": \"\", \"full_name\": \"\\ud80c\\udef0 \\ud80c\\udda9\\ud835\\udc13\\u1d07\\u1d04\\u029c\\u0274\\u1d0f\\ud80c\\uddaa \\u02e3 [\\ud835\\udde7\\ud835\\udde2\\ud835\\udde3 \\ud835\\udde9\\ud835\\udddc\\ud835\\udde3 \\ud835\\udde6\\ud835\\uddd8\\ud835\\udddf\\ud835\\udddf\\ud835\\uddd8\\ud835\\udde5\", \"bio\": \"\\ud83c\\udf0d Best Trusted Seller in World 100% Trust @TECHNOPROOFS5\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"TECHNOXTAMIL\"]}}"
+      },
+      {
+        "id": 405,
+        "user_id": 8372732177,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8105601290, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-05 03:46:05",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8105601290\", \"username\": \"\", \"full_name\": \"Harsh\", \"first_name\": \"Harsh\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919142219634\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-28T14:42:13Z\", \"first_name\": \"Harsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:47:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 22, \"total_msg_count\": 662, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-28T14:42:13Z\", \"first_name\": \"Harsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-03T13:47:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 22, \"total_msg_count\": 662, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919142219634\", \"status\": true, \"target_id\": \"8105601290\"}}"
       }
     ],
     "bomber_history": [],
