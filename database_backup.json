@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 09:42:33",
+    "created_at": "2026-04-05 09:43:28",
     "stats": {
-      "main_users": 446,
+      "main_users": 447,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 4
@@ -2168,6 +2168,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-04 03:13:44",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7257772119,
+        "username": "BILLACITY",
+        "first_name": "PANEL CITY OWNER☠️",
+        "join_date": "2026-04-05 09:43:20",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-05 09:43:20",
         "money": 0,
         "clone_bots": 0
       },
