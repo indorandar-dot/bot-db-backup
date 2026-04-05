@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 08:35:45",
+    "created_at": "2026-04-05 08:37:49",
     "stats": {
       "main_users": 441,
       "main_admins": 1,
@@ -4737,13 +4737,13 @@
         "first_name": "亗ꪜɪʟʟᴇɴ亗",
         "join_date": "2026-03-30 16:59:43",
         "referrer": null,
-        "credits": 25,
+        "credits": 24,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-05 07:32:09",
+        "total_searches": 5,
+        "last_active": "2026-04-05 08:36:56",
         "money": 0,
         "clone_bots": 0
       },
@@ -12890,6 +12890,14 @@
         "query": "2079323403",
         "search_date": "2026-04-05 07:55:15",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2079323403\", \"accountType\": 1, \"nickname\": \"\\u13c0\\u13a7\\u13aa\\u13a2\\u250bYASH\\u3164\\u2e19\", \"region\": \"IND\", \"level\": 91, \"exp\": 18281393, \"bannerId\": 901000322, \"headPic\": 902000192, \"rank\": 322, \"rankingPoints\": 4110, \"hasElitePass\": true, \"badgeCnt\": 36, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 53670, \"lastLoginAt\": \"1775374053\", \"csRank\": 321, \"csRankingPoints\": 95, \"weaponSkinShows\": [907194204, 912052003], \"pinId\": 910045001, \"maxRank\": 323, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1591683279\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000007, \"skinColor\": 50, \"clothes\": [211052009, 203050003, 211044041, 214000053, 205041039, 204000772], \"equipedSkills\": [8, 1, 8, 2, 8, 3], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3041181431\", \"clanName\": \"\\u13c0\\u13a7\\u13aa\\u13a2\\u250bVYPR\\u039e\\u3164\\u2e19\", \"captainId\": \"2079323403\", \"clanLevel\": 5, \"capacity\": 55, \"memberNum\": 52}, \"captainBasicInfo\": {\"accountId\": \"2079323403\", \"accountType\": 1, \"nickname\": \"\\u13c0\\u13a7\\u13aa\\u13a2\\u250bYASH\\u3164\\u2e19\", \"region\": \"IND\", \"level\": 91, \"exp\": 18281393, \"bannerId\": 901000322, \"headPic\": 902000192, \"rank\": 322, \"rankingPoints\": 4110, \"hasElitePass\": true, \"badgeCnt\": 36, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 53670, \"lastLoginAt\": \"1775374053\", \"csRank\": 321, \"csRankingPoints\": 95, \"weaponSkinShows\": [907194204, 912052003], \"pinId\": 910045001, \"maxRank\": 323, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1591683279\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000021, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000024, \"selectedSkillId\": 1315000004}, \"socialInfo\": {\"accountId\": \"2079323403\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_NIGHT\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"[b][c][FFFFFF]LIKE KARKE JAYA KARO\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1775119302\"}}}"
+      },
+      {
+        "id": 442,
+        "user_id": 8228262708,
+        "search_type": "userid",
+        "query": "8695266586",
+        "search_date": "2026-04-05 08:36:56",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8695266586\", \"username\": \"\", \"full_name\": \"\\uff30\\uff21\\uff32\\uff34\\uff28\", \"first_name\": \"\\uff30\\uff21\\uff32\\uff34\\uff28\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-17T12:41:57Z\", \"first_name\": \"\\uff30\\uff21\\uff32\\uff34\\uff28\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T16:37:02Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 82, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-17T12:41:57Z\", \"first_name\": \"\\uff30\\uff21\\uff32\\uff34\\uff28\", \"is_active\": true, \"last_msg_date\": \"2026-04-01T16:37:02Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 82, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8695266586\"}}"
       }
     ],
     "bomber_history": [],
