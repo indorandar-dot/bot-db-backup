@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 09:01:01",
+    "created_at": "2026-04-05 09:03:05",
     "stats": {
       "main_users": 442,
       "main_admins": 1,
@@ -8236,9 +8236,9 @@
         "emoji": "👋🏻",
         "caption": "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ʙᴏᴛ!",
         "image_file_id": null,
-        "video_file_id": "BAACAgUAAxkBAAI9UWnOlZdd9n72K5ELrutAXGxqBKZeAAJDIwACe0hwVu5ebqaATRtBOgQ",
+        "video_file_id": "BAACAgUAAxkBAAJLt2nSJNX3PAVH0YpFpSAxJ8z3Au10AAImHAACoM6QVrsT_MNpXuVXOwQ",
         "bot_dp_file_id": null,
-        "first_time_sticker": "CAACAgUAAxkBAAIz92nL35SFrbe4hL0Zan5vmk5F_a0HAAJNGQACYlh5VvV-VndgdcGCOgQ",
+        "first_time_sticker": "CAACAgUAAxkBAAJLu2nSJRUmMhefBpOmYIqJGKbkzWu1AALKHwACe4XJVVmO5p7ugcK8OwQ",
         "is_default": 1
       }
     ],
