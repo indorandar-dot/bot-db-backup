@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 09:28:01",
+    "created_at": "2026-04-05 09:30:05",
     "stats": {
       "main_users": 445,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 2
+      "total_clone_users": 3
     }
   },
   "main_bot": {
@@ -13121,6 +13121,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-05 09:22:35"
+        },
+        {
+          "id": 891,
+          "clone_token": "8787819383:AAF8WEP78nz4Z098y76a0z1-QR4SAMJqru0",
+          "user_id": 8703382327,
+          "username": "",
+          "first_name": "🕊️⃝≛⃝𝄞⍣⃟❤️⃝ꕶɪᴍ𝚁ᴀɴ🕊️⃝≛⃝𝄞࿐",
+          "join_date": "2026-04-05 09:28:50",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 09:28:50"
         }
       ],
       "daily_claims": [],
