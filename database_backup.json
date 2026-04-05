@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 12:53:55",
+    "created_at": "2026-04-05 12:56:00",
     "stats": {
       "main_users": 449,
       "main_admins": 1,
       "clone_bots": 3,
-      "total_clone_users": 9
+      "total_clone_users": 11
     }
   },
   "main_bot": {
@@ -5137,13 +5137,13 @@
         "first_name": "Mustakin",
         "join_date": "2026-04-05 12:52:39",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-05 12:52:39",
+        "total_searches": 1,
+        "last_active": "2026-04-05 12:55:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -6897,13 +6897,13 @@
         "first_name": "Ajabul",
         "join_date": "2026-04-05 12:53:07",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-05 12:53:07",
+        "total_searches": 1,
+        "last_active": "2026-04-05 12:55:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -13231,6 +13231,22 @@
         "query": "8712158731",
         "search_date": "2026-04-05 12:21:00",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8712158731\", \"username\": \"\", \"full_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8712158731\"}}"
+      },
+      {
+        "id": 457,
+        "user_id": 8569233445,
+        "search_type": "mobile_number",
+        "query": "9564183235",
+        "search_date": "2026-04-05 12:55:05",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9564183235\", \"name\": \"sahajul sarkar\", \"fname\": \"akbar ali sarkar\", \"address\": \"! na!anishmali beleatipara mouja-anishmali j l no-94!!anishmali dhantala!Nadia South!Nadia!West Bengal!741253\", \"alt\": \"9093660174\", \"circle\": \"JIO WB\", \"id\": \"MTK2809796\", \"email\": null}]}"
+      },
+      {
+        "id": 458,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "8101721807",
+        "search_date": "2026-04-05 12:55:59",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"8101721807\", \"name\": \"ARAFAT MANDAL\", \"fname\": \"Pintu Mandal\", \"address\": \"!!belehatipara!!Aismali Nadia!West Bengal!741253\", \"alt\": \"8927437732\", \"circle\": \"JIO WB\", \"id\": null, \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"MR HABIBUR SARKAR\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"!-anishmali beleatipara!-anishmali anishmali!anishmali!--gangnapur NADIA!NADIA!NADIA!West Bengal!741253\", \"alt\": \"9775965728\", \"circle\": \"VI KOL & WB\", \"id\": \"266952353062\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Habibur Sarkar\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"!-!- -!- Nadia!-!NADIA!Nadia!West Bengal!741253\", \"alt\": \"9775084780\", \"circle\": \"VI KOL & WB\", \"id\": null, \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Sayed Banu Sarkar\", \"fname\": \"Abecha Bibi\", \"address\": \"!-!- Anishmali!-!- - anishmali!gilapol Ranaghat - I!nadia!West Bengal!741253\", \"alt\": \"9064437321\", \"circle\": \"JIO WB\", \"id\": \"512687473797\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Nasrin Sarkar\", \"fname\": \"Faidar Ali Sarkar\", \"address\": \"D/O Faidar Ali Sarkar!-!- Anishmali!-!- - - - gilapol!anishmali Ranaghat - I!nadia!West Bengal!741253\", \"alt\": \"8617509326\", \"circle\": \"JIO WB\", \"id\": \"249644179843\", \"email\": null}, {\"mobile\": \"8101721807\", \"name\": \"Faidarsarkar\", \"fname\": \"AKBAR ALI SARKAR\", \"address\": \"S/O AKBAR ALI SARKAR!!- - - Anishmali!NA!-!Gilapol Ranaghat - I Nadia!NA!West Bengal!741253\", \"alt\": \"9932554389\", \"circle\": \"JIO WB\", \"id\": \"862986989672\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
@@ -13356,6 +13372,21 @@
           "last_active": "2026-04-05 10:23:53"
         },
         {
+          "id": 911,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8298646971,
+          "username": "",
+          "first_name": "Mustakin",
+          "join_date": "2026-04-05 12:55:21",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 12:55:41"
+        },
+        {
           "id": 892,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 8379038417,
@@ -13369,6 +13400,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-05 10:09:13"
+        },
+        {
+          "id": 909,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8569233445,
+          "username": "Ajabulsarkar",
+          "first_name": "Ajabul",
+          "join_date": "2026-04-05 12:54:15",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 12:54:51"
         },
         {
           "id": 888,
