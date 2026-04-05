@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 09:05:10",
+    "created_at": "2026-04-05 09:06:55",
     "stats": {
-      "main_users": 442,
+      "main_users": 443,
       "main_admins": 1,
-      "clone_bots": 2,
-      "total_clone_users": 167
+      "clone_bots": 3,
+      "total_clone_users": 168
     }
   },
   "main_bot": {
@@ -3868,6 +3868,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8048060521,
+        "username": "PRIME_XIS",
+        "first_name": "PRIME XIS🪬",
+        "join_date": "2026-04-05 09:06:47",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-05 09:06:47",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8052471049,
         "username": "Kolixseller",
         "first_name": "HERAMB KOLI",
@@ -6017,7 +6033,7 @@
         "first_name": "𒆜ＲＯＣＫＹܓ ＢＨＡＩ !",
         "join_date": "2026-03-30 07:17:02",
         "referrer": null,
-        "credits": 4,
+        "credits": 14,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -12942,6 +12958,15 @@
         "requested_at": "2026-04-02 14:13:05",
         "approved_at": null,
         "is_manually_stopped": 0
+      },
+      {
+        "id": 6,
+        "user_id": 8440279273,
+        "token": "8739005741:AAEq4zr44aw5wuxdimZR6dvR9yE_ctTjkUo",
+        "status": "approved",
+        "requested_at": "2026-04-05 09:06:14",
+        "approved_at": "2026-04-05 09:06:31",
+        "is_manually_stopped": 0
       }
     ],
     "admins": [
@@ -15498,6 +15523,28 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-01 03:42:25"
+        }
+      ],
+      "daily_claims": [],
+      "referrals": [],
+      "search_history": []
+    },
+    "87390057...": {
+      "users": [
+        {
+          "id": 886,
+          "clone_token": "8739005741:AAEq4zr44aw5wuxdimZR6dvR9yE_ctTjkUo",
+          "user_id": 8440279273,
+          "username": "SALAR_TEAM_OWNER_KIMKC",
+          "first_name": "Md Faiyaz or uska bap Md Niyaz ye dono ki maa ki chut",
+          "join_date": "2026-04-05 09:06:46",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-05 09:06:46"
         }
       ],
       "daily_claims": [],
