@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 11:22:28",
+    "created_at": "2026-04-05 11:24:33",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
@@ -7046,8 +7046,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 100,
-        "last_active": "2026-04-05 09:20:25",
+        "total_searches": 101,
+        "last_active": "2026-04-05 11:22:37",
         "money": 0,
         "clone_bots": 0
       },
@@ -13175,6 +13175,14 @@
         "query": "9483445338",
         "search_date": "2026-04-05 10:42:42",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9483445338\", \"name\": \"M K Pyari Jan\", \"fname\": \"W/O Kadal Basha\", \"address\": \"Mekeri Village Madikeri Taluk Mekeri  Kodagu Karnataka 571201\", \"alt\": \"9632078885\", \"circle\": \"BSNL KARNATKA\", \"id\": \"267623875019\", \"email\": null}]}"
+      },
+      {
+        "id": 454,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9060793014",
+        "search_date": "2026-04-05 11:22:37",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"9060793014\", \"name\": \"Ranjan Kumar Sharma\", \"fname\": \"Ayodhya Sharma\", \"address\": \"Kurund!Palheya!!Latehar!Palamau!Palamau!Jharkhand!822126\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"625790611743\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
