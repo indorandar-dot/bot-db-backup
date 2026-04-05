@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 15:54:53",
+    "created_at": "2026-04-05 15:56:58",
     "stats": {
       "main_users": 450,
       "main_admins": 1,
@@ -4353,13 +4353,13 @@
         "first_name": "—͟͞͞𝒜𝗶𝓏สꪀ—͟͞͞ 🀄",
         "join_date": "2026-04-02 11:19:48",
         "referrer": null,
-        "credits": 4,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-02 11:22:02",
+        "total_searches": 5,
+        "last_active": "2026-04-05 15:56:41",
         "money": 0,
         "clone_bots": 0
       },
@@ -13347,6 +13347,22 @@
         "query": "9916113555",
         "search_date": "2026-04-05 15:40:54",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9916113555\", \"name\": \"Mohammed Munna\", \"fname\": \"Mohammed Mehmood\", \"address\": \"S/O Mohammed Mehmood!!# 7-920 Mijgori Road Near Bank Colony!Naya Mohalla!Gulbarga Gulbarga!Karnataka!585104\", \"alt\": \"7019834633\", \"circle\": \"JIO KARNATKA\", \"id\": null, \"email\": null}, {\"mobile\": \"9916113555\", \"name\": \"Mohammed Munna\", \"fname\": \"Mohammed Mehmood\", \"address\": \"S/O Mohammed Mehmood!!# 7-920 Mijgori Road Near Bank Colony GB N Gunj!NA!Naya Mohalla!Gulbarga Gulbarga!NA!Karnataka!585104\", \"alt\": \"9916113555\", \"circle\": \"JIO KARNATKA\", \"id\": \"581221867181\", \"email\": null}, {\"mobile\": \"9916113555\", \"name\": \"MD MUNNA MD MEHMOOD\", \"fname\": \"MD MEHMOOD\", \"address\": \"7-920 MIJGORI ROAD NEAR BANK COLONY NAYA MOHALLA GULBARGA Gulbarga KARNATAKA 585104\", \"alt\": \"9141690230\", \"circle\": \"BSNL KARNATKA\", \"id\": \"XXXXXXXX7181\", \"email\": null}]}"
+      },
+      {
+        "id": 469,
+        "user_id": 8138943100,
+        "search_type": "username",
+        "query": "@itzdhruv",
+        "search_date": "2026-04-05 15:55:10",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5823511592\", \"username\": \"itzdhruv\", \"full_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"last_name\": \"#TEAM LEGEND\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5823511592\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"last_name\": \"#TEAM LEGEND\", \"is_active\": true, \"total_groups\": 55, \"admin_groups\": 2, \"total_msg_count\": 4310, \"msg_in_groups_count\": 42, \"names_count\": 16, \"usernames_count\": 13, \"first_msg_date\": \"2023-08-14T19:35:20Z\", \"last_msg_date\": \"2026-04-04T17:27:52Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"5823511592\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 2, \"first_msg_date\": \"2023-08-14T19:35:20Z\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T17:27:52Z\", \"last_name\": \"#TEAM LEGEND\", \"msg_in_groups_count\": 42, \"names_count\": 16, \"total_groups\": 55, \"total_msg_count\": 4310, \"usernames_count\": 13}, \"target_id\": \"5823511592\"}}"
+      },
+      {
+        "id": 470,
+        "user_id": 8138943100,
+        "search_type": "typed_userid",
+        "query": "5823511592",
+        "search_date": "2026-04-05 15:56:41",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5823511592\", \"username\": \"itzdhruv\", \"full_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4 #TEAM LEGEND\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"last_name\": \"#TEAM LEGEND\", \"bio\": \"#owner of many channels \\ud83e\\uddff bio channel @itzdhruv1060\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5823511592\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"last_name\": \"#TEAM LEGEND\", \"is_active\": true, \"total_groups\": 55, \"admin_groups\": 2, \"total_msg_count\": 4310, \"msg_in_groups_count\": 42, \"names_count\": 16, \"usernames_count\": 13, \"first_msg_date\": \"2023-08-14T19:35:20Z\", \"last_msg_date\": \"2026-04-04T17:27:52Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"5823511592\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 2, \"first_msg_date\": \"2023-08-14T19:35:20Z\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T17:27:52Z\", \"last_name\": \"#TEAM LEGEND\", \"msg_in_groups_count\": 42, \"names_count\": 16, \"total_groups\": 55, \"total_msg_count\": 4310, \"usernames_count\": 13}, \"target_id\": \"5823511592\", \"tg_id\": \"5823511592\", \"username\": \"itzdhruv\", \"first_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4\", \"last_name\": \"#TEAM LEGEND\", \"full_name\": \"\\ud835\\udde0\\ud835\\ude67\\u13a0\\u04ba\\ud835\\ude67\\ud835\\ude6a\\ud835\\ude03*\\u0970\\u00a8\\u2661\\u27b3\\u2661 \\u00af\\u30c4 #TEAM LEGEND\", \"bio\": \"#owner of many channels \\ud83e\\uddff bio channel @itzdhruv1060\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"itzdhruv\", \"dhruv_rich\"]}}"
       }
     ],
     "bomber_history": [],
