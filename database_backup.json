@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 12:20:39",
+    "created_at": "2026-04-05 12:22:43",
     "stats": {
       "main_users": 447,
       "main_admins": 1,
@@ -1462,8 +1462,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 14,
-        "last_active": "2026-04-05 07:07:15",
+        "total_searches": 16,
+        "last_active": "2026-04-05 12:21:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -13183,6 +13183,22 @@
         "query": "9060793014",
         "search_date": "2026-04-05 11:22:37",
         "result": "{\"success\": true, \"data\": [{\"mobile\": \"9060793014\", \"name\": \"Ranjan Kumar Sharma\", \"fname\": \"Ayodhya Sharma\", \"address\": \"Kurund!Palheya!!Latehar!Palamau!Palamau!Jharkhand!822126\", \"alt\": null, \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"625790611743\", \"email\": null}]}"
+      },
+      {
+        "id": 455,
+        "user_id": 6679896022,
+        "search_type": "userid",
+        "query": "8712158731",
+        "search_date": "2026-04-05 12:21:00",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8712158731\", \"username\": \"\", \"full_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8712158731\"}}"
+      },
+      {
+        "id": 456,
+        "user_id": 6679896022,
+        "search_type": "userid",
+        "query": "8712158731",
+        "search_date": "2026-04-05 12:21:00",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8712158731\", \"username\": \"\", \"full_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-20T20:17:04Z\", \"first_name\": \"\\u0915\\u094d\\u0930\\u093f\\u0936\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T13:14:17Z\", \"last_name\": \"(\\u092a\\u0941\\u0915\\u0940 \\ud83c\\udf80)\", \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 6, \"total_msg_count\": 138, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8712158731\"}}"
       }
     ],
     "bomber_history": [],
