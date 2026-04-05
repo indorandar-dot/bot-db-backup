@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 06:47:39",
+    "created_at": "2026-04-05 06:49:45",
     "stats": {
       "main_users": 441,
       "main_admins": 1,
@@ -1457,13 +1457,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 4,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-05 06:47:14",
+        "total_searches": 11,
+        "last_active": "2026-04-05 06:48:27",
         "money": 0,
         "clone_bots": 0
       },
@@ -12758,6 +12758,22 @@
         "query": "@y4nxj",
         "search_date": "2026-04-05 06:47:14",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8723759552\", \"username\": \"y4nxj\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8723759552\", \"first_name\": null, \"last_name\": null, \"is_active\": false, \"total_groups\": 0, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 0, \"usernames_count\": 0, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8723759552\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": false, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"target_id\": \"8723759552\"}}"
+      },
+      {
+        "id": 426,
+        "user_id": 6679896022,
+        "search_type": "username",
+        "query": "@Xx9hawkeye",
+        "search_date": "2026-04-05 06:47:44",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6659573678\", \"username\": \"Xx9hawkeye\", \"full_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6659573678\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"last_name\": null, \"is_active\": true, \"total_groups\": 2, \"admin_groups\": 0, \"total_msg_count\": 11, \"msg_in_groups_count\": 2, \"names_count\": 2, \"usernames_count\": 2, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"last_msg_date\": \"2025-11-04T12:49:05Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"6659573678\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"is_active\": true, \"last_msg_date\": \"2025-11-04T12:49:05Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 2}, \"target_id\": \"6659573678\"}}"
+      },
+      {
+        "id": 427,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "6659573678",
+        "search_date": "2026-04-05 06:48:27",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6659573678\", \"username\": \"Xx9hawkeye\", \"full_name\": \"Nick\", \"first_name\": \"Nick\", \"last_name\": \"\", \"bio\": \"Hacker hu yar\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6659573678\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"last_name\": null, \"is_active\": true, \"total_groups\": 2, \"admin_groups\": 0, \"total_msg_count\": 11, \"msg_in_groups_count\": 2, \"names_count\": 2, \"usernames_count\": 2, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"last_msg_date\": \"2025-11-04T12:49:05Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"6659573678\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-10-27T08:17:38Z\", \"first_name\": \"X Hawkeye \\ud83d\\udc80\\ud83d\\udea9\", \"is_active\": true, \"last_msg_date\": \"2025-11-04T12:49:05Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 2}, \"target_id\": \"6659573678\", \"tg_id\": \"6659573678\", \"username\": \"Xx9hawkeye\", \"first_name\": \"Nick\", \"last_name\": \"\", \"full_name\": \"Nick\", \"bio\": \"Hacker hu yar\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Xx9hawkeye\"]}}"
       }
     ],
     "bomber_history": [],
