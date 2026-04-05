@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-05 06:23:56",
+    "created_at": "2026-04-05 06:24:52",
     "stats": {
       "main_users": 438,
       "main_admins": 1,
@@ -4225,13 +4225,13 @@
         "first_name": "◄⏤🝛꯭𝐈𝛕ᷟ𝚣⃪ꙴ🥀⃝⃪𝐙‌4𝐗‌ 𝐒‌ɪʟєηᴛ 𝐁‌σʏ⃝☠⎯꯭𓆩♡꧂(⁠◔⁠‿⁠◔⁠)",
         "join_date": "2026-04-05 06:23:48",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-05 06:23:48",
+        "total_searches": 2,
+        "last_active": "2026-04-05 06:24:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -12626,6 +12626,22 @@
         "query": "8233757973",
         "search_date": "2026-04-05 06:13:56",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8233757973\", \"username\": \"Namankumar1802\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918168781901\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-11-02T18:16:25Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T10:40:40Z\", \"last_name\": null, \"msg_in_groups_count\": 48, \"names_count\": 3, \"total_groups\": 63, \"total_msg_count\": 3804, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-11-02T18:16:25Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T10:40:40Z\", \"last_name\": null, \"msg_in_groups_count\": 48, \"names_count\": 3, \"total_groups\": 63, \"total_msg_count\": 3804, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918168781901\", \"status\": true, \"target_id\": \"8233757973\", \"tg_id\": \"8233757973\", \"username\": \"Namankumar1802\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udc8e \\ud835\\udc0d\\ud835\\udc1a\\ud835\\udc26\\ud835\\udc1a\\ud835\\udc27\\u2937\\ud83d\\udd4a\\ufe0f\\u20dd\\ud83d\\udda4\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Namankumar1802\"]}}"
+      },
+      {
+        "id": 418,
+        "user_id": 8129564406,
+        "search_type": "mobile_number",
+        "query": "6202057758",
+        "search_date": "2026-04-05 06:24:16",
+        "result": "{\"success\": true, \"data\": [{\"mobile\": \"6202057758\", \"name\": \"Lal Babu Das\", \"fname\": \"Madan Das\", \"address\": \"S/O  Madan Das!!akabarpur ward no10 Basudeopur!NA!akabarpur!Basdeopur Kalyanpur Samastipur!NA!Bihar!848102\", \"alt\": \"9999187574\", \"circle\": \"BIHAR JIO\", \"id\": \"918288695106\", \"email\": null}, {\"mobile\": \"6202057758\", \"name\": \"Lal Babu Das\", \"fname\": \"Madan Das\", \"address\": \"S/O  Madan Das!!akabarpur ward no10 Basudeopur!NA!akabarpur!Basdeopur Kalyanpur Samastipur!NA!Bihar!848102\", \"alt\": \"9999187574\", \"circle\": \"JIO BHR&JHR\", \"id\": \"918288695106\", \"email\": null}]}"
+      },
+      {
+        "id": 419,
+        "user_id": 8129564406,
+        "search_type": "username",
+        "query": "@Nikunjbro",
+        "search_date": "2026-04-05 06:24:49",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Nikunjbro\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
