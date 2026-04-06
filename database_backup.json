@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 08:57:00",
+    "created_at": "2026-04-06 08:59:05",
     "stats": {
       "main_users": 454,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 12
+      "total_clone_users": 13
     }
   },
   "main_bot": {
@@ -1569,13 +1569,13 @@
         "first_name": "EREN",
         "join_date": "2026-03-31 21:52:18",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-04 05:12:46",
+        "total_searches": 2,
+        "last_active": "2026-04-06 08:57:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -3297,7 +3297,7 @@
         "first_name": "PRADIP",
         "join_date": "2026-04-03 14:59:39",
         "referrer": null,
-        "credits": 5,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -7775,7 +7775,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-04-06 08:50:18",
+        "last_active": "2026-04-06 08:58:52",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -13607,6 +13607,14 @@
         "query": "4459503529",
         "search_date": "2026-04-06 08:56:40",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"4459503529\", \"accountType\": 1, \"nickname\": \"\\u27b3\\u1d39\\u1d3f\\u1b44\\u024c\\u00f8\\u0127\\u0268\\u0167\\u024e\\u0166\", \"region\": \"IND\", \"level\": 55, \"exp\": 508873, \"bannerId\": 901040022, \"headPic\": 902035007, \"rank\": 306, \"rankingPoints\": 1597, \"badgeCnt\": 4, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 1379, \"showRank\": true, \"lastLoginAt\": \"1775465703\", \"csRank\": 308, \"csRankingPoints\": 29, \"pinId\": 910031002, \"maxRank\": 306, \"csMaxRank\": 308, \"accountPrefers\": {}, \"createAt\": \"1637891333\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_SHORT\", \"title\": 904090024, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1775716149\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000026, \"skinColor\": 50, \"clothes\": [204000813, 205000051, 211001011, 211037013, 214036002, 203035032], \"equipedSkills\": [16, 3006, 8, 1, 16, 606, 8, 2, 16, 7406, 8, 3, 16, 2003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1672108666}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000118, \"name\": \"rajajii\", \"level\": 7, \"exp\": 6017, \"isSelected\": true, \"skinId\": 1310000185, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"4459503529\", \"language\": \"Language_EN\", \"signature\": \"insta/  rohit_jaiswal_194\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775364033\"}}}"
+      },
+      {
+        "id": 490,
+        "user_id": 6765345652,
+        "search_type": "ff_info",
+        "query": "4459503529",
+        "search_date": "2026-04-06 08:57:38",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"4459503529\", \"accountType\": 1, \"nickname\": \"\\u27b3\\u1d39\\u1d3f\\u1b44\\u024c\\u00f8\\u0127\\u0268\\u0167\\u024e\\u0166\", \"region\": \"IND\", \"level\": 55, \"exp\": 508873, \"bannerId\": 901040022, \"headPic\": 902035007, \"rank\": 306, \"rankingPoints\": 1597, \"badgeCnt\": 4, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 1379, \"showRank\": true, \"lastLoginAt\": \"1775465703\", \"csRank\": 308, \"csRankingPoints\": 29, \"pinId\": 910031002, \"maxRank\": 306, \"csMaxRank\": 308, \"accountPrefers\": {}, \"createAt\": \"1637891333\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_SHORT\", \"title\": 904090024, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1775716149\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000026, \"skinColor\": 50, \"clothes\": [204000813, 205000051, 211001011, 211037013, 214036002, 203035032], \"equipedSkills\": [16, 3006, 8, 1, 16, 606, 8, 2, 16, 7406, 8, 3, 16, 2003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1672108666}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000118, \"name\": \"rajajii\", \"level\": 7, \"exp\": 6017, \"isSelected\": true, \"skinId\": 1310000185, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"4459503529\", \"language\": \"Language_EN\", \"signature\": \"insta/  rohit_jaiswal_194\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775364033\"}}}"
       }
     ],
     "bomber_history": [],
@@ -13759,6 +13767,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-06 08:50:18"
+        },
+        {
+          "id": 931,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7821590143,
+          "username": "Proy9219",
+          "first_name": "PRADIP",
+          "join_date": "2026-04-06 08:57:54",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-06 08:58:52"
         },
         {
           "id": 911,
