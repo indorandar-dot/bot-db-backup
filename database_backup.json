@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 11:14:30",
+    "created_at": "2026-04-06 11:16:36",
     "stats": {
       "main_users": 458,
       "main_admins": 1,
@@ -3958,8 +3958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 12,
-        "last_active": "2026-04-04 07:38:57",
+        "total_searches": 14,
+        "last_active": "2026-04-06 11:16:29",
         "money": 0,
         "clone_bots": 0
       },
@@ -13723,6 +13723,22 @@
         "query": "{'user_id': 8421324876, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-06 11:02:02",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8421324876\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 494,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8638698776, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-06 11:16:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8638698776\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 495,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7257048084, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-06 11:16:29",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7257048084\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
