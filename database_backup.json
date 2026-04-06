@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 03:01:18",
+    "created_at": "2026-04-06 03:03:23",
     "stats": {
       "main_users": 453,
       "main_admins": 1,
@@ -870,8 +870,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-06 03:00:38",
+        "total_searches": 3,
+        "last_active": "2026-04-06 03:01:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -13497,6 +13497,14 @@
         "query": "7185508371",
         "search_date": "2026-04-06 03:00:38",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7185508371\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 481,
+        "user_id": 6217868759,
+        "search_type": "userid",
+        "query": "6759027386",
+        "search_date": "2026-04-06 03:01:26",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6759027386\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
