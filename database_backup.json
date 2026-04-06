@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 08:54:55",
+    "created_at": "2026-04-06 08:57:00",
     "stats": {
       "main_users": 454,
       "main_admins": 1,
@@ -1105,13 +1105,13 @@
         "first_name": "ITACHI",
         "join_date": "2026-04-02 03:04:02",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-04 23:31:46",
+        "total_searches": 7,
+        "last_active": "2026-04-06 08:56:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -13599,6 +13599,14 @@
         "query": "@princeintg",
         "search_date": "2026-04-06 08:39:39",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"princeintg\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 489,
+        "user_id": 6403986015,
+        "search_type": "ff_info",
+        "query": "4459503529",
+        "search_date": "2026-04-06 08:56:40",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"4459503529\", \"accountType\": 1, \"nickname\": \"\\u27b3\\u1d39\\u1d3f\\u1b44\\u024c\\u00f8\\u0127\\u0268\\u0167\\u024e\\u0166\", \"region\": \"IND\", \"level\": 55, \"exp\": 508873, \"bannerId\": 901040022, \"headPic\": 902035007, \"rank\": 306, \"rankingPoints\": 1597, \"badgeCnt\": 4, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 1379, \"showRank\": true, \"lastLoginAt\": \"1775465703\", \"csRank\": 308, \"csRankingPoints\": 29, \"pinId\": 910031002, \"maxRank\": 306, \"csMaxRank\": 308, \"accountPrefers\": {}, \"createAt\": \"1637891333\", \"veteranLeaveDaysTag\": \"VeteranLeaveDays_SHORT\", \"title\": 904090024, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB52\", \"veteranExpireTime\": \"1775716149\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000026, \"skinColor\": 50, \"clothes\": [204000813, 205000051, 211001011, 211037013, 214036002, 203035032], \"equipedSkills\": [16, 3006, 8, 1, 16, 606, 8, 2, 16, 7406, 8, 3, 16, 2003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1672108666}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000118, \"name\": \"rajajii\", \"level\": 7, \"exp\": 6017, \"isSelected\": true, \"skinId\": 1310000185, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"4459503529\", \"language\": \"Language_EN\", \"signature\": \"insta/  rohit_jaiswal_194\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775364033\"}}}"
       }
     ],
     "bomber_history": [],
