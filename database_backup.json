@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 02:01:03",
+    "created_at": "2026-04-06 02:03:08",
     "stats": {
       "main_users": 453,
       "main_admins": 1,
-      "clone_bots": 4,
-      "total_clone_users": 14
+      "clone_bots": 1,
+      "total_clone_users": 9
     }
   },
   "main_bot": {
@@ -13496,33 +13496,6 @@
         "requested_at": "2026-04-05 09:16:53",
         "approved_at": "2026-04-05 09:17:29",
         "is_manually_stopped": 0
-      },
-      {
-        "id": 8,
-        "user_id": 8228262708,
-        "token": "8787819383:AAF8WEP78nz4Z098y76a0z1-QR4SAMJqru0",
-        "status": "approved",
-        "requested_at": "2026-04-05 09:21:03",
-        "approved_at": "2026-04-05 09:21:25",
-        "is_manually_stopped": 0
-      },
-      {
-        "id": 10,
-        "user_id": 6975957363,
-        "token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
-        "status": "approved",
-        "requested_at": "2026-04-05 10:14:26",
-        "approved_at": "2026-04-05 10:17:38",
-        "is_manually_stopped": 0
-      },
-      {
-        "id": 12,
-        "user_id": 8033984049,
-        "token": "8764280366:AAETL6Djkmh2KEI7IC3EeWy80Q43XIT-PEU",
-        "status": "pending",
-        "requested_at": "2026-04-05 13:29:05",
-        "approved_at": null,
-        "is_manually_stopped": 0
       }
     ],
     "admins": [],
@@ -13530,58 +13503,6 @@
     "credits": []
   },
   "clone_user_data": {
-    "80601527...": {
-      "users": [
-        {
-          "id": 898,
-          "clone_token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
-          "user_id": 6975957363,
-          "username": "Mr_Maxxu",
-          "first_name": "Maxx",
-          "join_date": "2026-04-05 10:18:06",
-          "referrer": null,
-          "credits": 10,
-          "is_blocked": 0,
-          "is_premium": 0,
-          "premium_until": null,
-          "total_searches": 0,
-          "last_active": "2026-04-05 10:50:35"
-        },
-        {
-          "id": 919,
-          "clone_token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
-          "user_id": 7709888258,
-          "username": "NOTHINGGMR7",
-          "first_name": "NOTHINGGMR7",
-          "join_date": "2026-04-05 16:07:59",
-          "referrer": null,
-          "credits": 10,
-          "is_blocked": 0,
-          "is_premium": 0,
-          "premium_until": null,
-          "total_searches": 0,
-          "last_active": "2026-04-05 16:07:59"
-        },
-        {
-          "id": 897,
-          "clone_token": "8060152704:AAGMN7Y5Ds5fq7sKs9Z52dZmhEzrSPdIIKE",
-          "user_id": 8703382327,
-          "username": "",
-          "first_name": "🕊️⃝≛⃝𝄞⍣⃟❤️⃝ꕶɪᴍ𝚁ᴀɴ🕊️⃝≛⃝𝄞࿐",
-          "join_date": "2026-04-05 10:17:53",
-          "referrer": null,
-          "credits": 10,
-          "is_blocked": 0,
-          "is_premium": 0,
-          "premium_until": null,
-          "total_searches": 0,
-          "last_active": "2026-04-05 11:59:51"
-        }
-      ],
-      "daily_claims": [],
-      "referrals": [],
-      "search_history": []
-    },
     "82221182...": {
       "users": [
         {
@@ -13718,43 +13639,6 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-05 16:14:08"
-        }
-      ],
-      "daily_claims": [],
-      "referrals": [],
-      "search_history": []
-    },
-    "87878193...": {
-      "users": [
-        {
-          "id": 890,
-          "clone_token": "8787819383:AAF8WEP78nz4Z098y76a0z1-QR4SAMJqru0",
-          "user_id": 8228262708,
-          "username": "Villen_4_4_4",
-          "first_name": "亗ꪜɪʟʟᴇɴ亗",
-          "join_date": "2026-04-05 09:22:35",
-          "referrer": null,
-          "credits": 10,
-          "is_blocked": 0,
-          "is_premium": 0,
-          "premium_until": null,
-          "total_searches": 0,
-          "last_active": "2026-04-05 09:22:35"
-        },
-        {
-          "id": 891,
-          "clone_token": "8787819383:AAF8WEP78nz4Z098y76a0z1-QR4SAMJqru0",
-          "user_id": 8703382327,
-          "username": "",
-          "first_name": "🕊️⃝≛⃝𝄞⍣⃟❤️⃝ꕶɪᴍ𝚁ᴀɴ🕊️⃝≛⃝𝄞࿐",
-          "join_date": "2026-04-05 09:28:50",
-          "referrer": null,
-          "credits": 10,
-          "is_blocked": 0,
-          "is_premium": 0,
-          "premium_until": null,
-          "total_searches": 0,
-          "last_active": "2026-04-05 12:00:10"
         }
       ],
       "daily_claims": [],
