@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-06 05:45:36",
+    "created_at": "2026-04-06 05:47:42",
     "stats": {
       "main_users": 454,
       "main_admins": 1,
@@ -7270,8 +7270,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-05 14:33:07",
+        "total_searches": 6,
+        "last_active": "2026-04-06 05:46:11",
         "money": 0,
         "clone_bots": 0
       }
@@ -13563,6 +13563,14 @@
         "query": "KOMAL_MODZ",
         "search_date": "2026-04-06 05:42:06",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"KOMAL_MODZ\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 485,
+        "user_id": 8797725398,
+        "search_type": "typed_userid",
+        "query": "8572820643",
+        "search_date": "2026-04-06 05:46:11",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8572820643\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
