@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-07 15:22:33",
+    "created_at": "2026-04-07 15:24:38",
     "stats": {
       "main_users": 465,
       "main_admins": 1,
@@ -7441,13 +7441,13 @@
         "first_name": "علي",
         "join_date": "2026-03-30 14:16:17",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-06 10:41:48",
+        "total_searches": 8,
+        "last_active": "2026-04-07 15:24:31",
         "money": 0,
         "clone_bots": 0
       }
@@ -14165,6 +14165,14 @@
         "query": "8041167457",
         "search_date": "2026-04-07 15:20:27",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8041167457\", \"username\": \"B0y_nitish\", \"full_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"first_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"last_name\": \"\", \"bio\": \"Kisi ko bot chahiye kaisa v to join my channel \\ud83d\\ude1d\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8041167457\", \"first_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"last_name\": null, \"is_active\": true, \"total_groups\": 2, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8041167457\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 0, \"usernames_count\": 1}, \"target_id\": \"8041167457\", \"tg_id\": \"8041167457\", \"username\": \"B0y_nitish\", \"first_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"last_name\": \"\", \"full_name\": \"\\u279b\\u059f\\u05af\\u135d\\u0362\\ud81b\\udf61\\ud81b\\udf79\\ud81b\\udf93\\ud81b\\udf98\\ud81b\\udf94\\ud81b\\udf97\\uaab3\\u0362\\ud81a\\udcc3\\u0335\\u20d5\\ud83e\\ude90\\u1ab3\\u1df1\\u0311\", \"bio\": \"Kisi ko bot chahiye kaisa v to join my channel \\ud83d\\ude1d\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"B0y_nitish\"]}}"
+      },
+      {
+        "id": 530,
+        "user_id": 8797725398,
+        "search_type": "typed_userid",
+        "query": "7239237648",
+        "search_date": "2026-04-07 15:24:31",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7239237648\", \"username\": \"\", \"full_name\": \"#\\ud835\\udc19\\ud835\\udc04\\ud835\\udc0d\\ud835\\udc08\\ud835\\udc17\", \"first_name\": \"#\\ud835\\udc19\\ud835\\udc04\\ud835\\udc0d\\ud835\\udc08\\ud835\\udc17\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-04-20T03:01:10Z\", \"first_name\": \"#\\ud835\\udc19\\ud835\\udc04\\ud835\\udc0d\\ud835\\udc08\\ud835\\udc17\", \"is_active\": true, \"last_msg_date\": \"2025-08-11T04:46:52Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 17, \"total_msg_count\": 49, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-04-20T03:01:10Z\", \"first_name\": \"#\\ud835\\udc19\\ud835\\udc04\\ud835\\udc0d\\ud835\\udc08\\ud835\\udc17\", \"is_active\": true, \"last_msg_date\": \"2025-08-11T04:46:52Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 17, \"total_msg_count\": 49, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7239237648\"}}"
       }
     ],
     "bomber_history": [],
