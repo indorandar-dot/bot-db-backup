@@ -1,13 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-07 17:00:38",
-    "stats": {
-      "main_users": 469,
-      "main_admins": 1,
-      "clone_bots": 3,
-      "total_clone_users": 36
-    }
+    "created_at": "2026-04-07 17:01:26"
   },
   "main_bot": {
     "users": [
@@ -8829,6 +8823,73 @@
         "bot_dp_file_id": null,
         "first_time_sticker": "CAACAgUAAxkBAAJLu2nSJRUmMhefBpOmYIqJGKbkzWu1AALKHwACe4XJVVmO5p7ugcK8OwQ",
         "is_default": 1
+      }
+    ],
+    "autolike_entries": [
+      {
+        "id": 9,
+        "uid": "1872849977",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "Ꮇᴏ፝֟ᴛUㅤᏞɪᴠᴇ",
+        "added_by": 8703382327,
+        "added_at": 1774993903.0867512,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
+      },
+      {
+        "id": 13,
+        "uid": "10310075525",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "(NG_NOT)",
+        "added_by": 8703382327,
+        "added_at": 1774994006.1740646,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 0
+      },
+      {
+        "id": 15,
+        "uid": "8138647082",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "~Aᴅɪᴛʏᴀ_ʏᴛ",
+        "added_by": 8703382327,
+        "added_at": 1775067880.8690135,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 30
+      },
+      {
+        "id": 17,
+        "uid": "8237577585",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "Ꮶᴜ፝֟፝֟ɴᴏɴ⚡︎",
+        "added_by": 8703382327,
+        "added_at": 1775068091.6698284,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
+      },
+      {
+        "id": 18,
+        "uid": "2093756995",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003860365503",
+        "nickname": "-ㅤʀɪ֟፝ᴄᴋㅤ-",
+        "added_by": 8703382327,
+        "added_at": 1775375122.4341538,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
       }
     ],
     "referrals": [
