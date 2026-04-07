@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-07 15:03:43",
+    "created_at": "2026-04-07 15:05:49",
     "stats": {
       "main_users": 464,
       "main_admins": 1,
       "clone_bots": 3,
-      "total_clone_users": 28
+      "total_clone_users": 30
     }
   },
   "main_bot": {
@@ -14532,6 +14532,43 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-07 11:29:55"
+        }
+      ],
+      "daily_claims": [],
+      "referrals": [],
+      "search_history": []
+    },
+    "82757826...": {
+      "users": [
+        {
+          "id": 990,
+          "clone_token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+          "user_id": 8041167457,
+          "username": "B0y_nitish",
+          "first_name": "➛֟֯፝͢𖽡𖽹𖾓𖾘𖾔𖾗ꪳ͢𖣃̵⃕🪐᪳ᷱ̑",
+          "join_date": "2026-04-07 15:04:42",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-07 15:04:42"
+        },
+        {
+          "id": 989,
+          "clone_token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+          "user_id": 8703382327,
+          "username": "",
+          "first_name": "🕊️⃝≛⃝𝄞⍣⃟❤️⃝ꕶɪᴍ𝚁ᴀɴ🕊️⃝≛⃝𝄞࿐",
+          "join_date": "2026-04-07 15:04:09",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-07 15:04:09"
         }
       ],
       "daily_claims": [],
