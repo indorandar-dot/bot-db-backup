@@ -1,11 +1,11 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-07 15:01:38",
+    "created_at": "2026-04-07 15:03:43",
     "stats": {
       "main_users": 464,
       "main_admins": 1,
-      "clone_bots": 2,
+      "clone_bots": 3,
       "total_clone_users": 28
     }
   },
@@ -4017,7 +4017,7 @@
         "first_name": "Your Father",
         "join_date": "2026-04-02 05:16:23",
         "referrer": null,
-        "credits": 1,
+        "credits": 11,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14094,6 +14094,15 @@
         "status": "pending",
         "requested_at": "2026-04-06 03:03:38",
         "approved_at": null,
+        "is_manually_stopped": 0
+      },
+      {
+        "id": 14,
+        "user_id": 8041167457,
+        "token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+        "status": "approved",
+        "requested_at": "2026-04-07 15:02:37",
+        "approved_at": "2026-04-07 15:03:13",
         "is_manually_stopped": 0
       }
     ],
