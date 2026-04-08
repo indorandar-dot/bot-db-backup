@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 13:45:51",
+    "created_at": "2026-04-08 13:47:55",
     "stats": {
       "main_users": 480,
       "main_admins": 1,
@@ -6481,13 +6481,13 @@
         "first_name": "𒆜ＲＯＣＫＹܓ ＢＨＡＩ !",
         "join_date": "2026-03-30 07:17:02",
         "referrer": null,
-        "credits": 4,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 23,
-        "last_active": "2026-04-08 13:45:12",
+        "total_searches": 27,
+        "last_active": "2026-04-08 13:46:54",
         "money": 0,
         "clone_bots": 0
       },
@@ -8251,7 +8251,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-04-08 11:39:04",
+        "last_active": "2026-04-08 13:46:18",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -9072,6 +9072,10 @@
       },
       {
         "user_id": 6679896022,
+        "claim_date": "2026-04-08"
+      },
+      {
+        "user_id": 8440279273,
         "claim_date": "2026-04-08"
       }
     ],
@@ -14811,6 +14815,38 @@
         "query": "9876543210",
         "search_date": "2026-04-08 13:45:12",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR. DEEPAK MEHTA\"}, {\"address\": \"FARAH SHAZIA\", \"alt\": \"QAISER ALAM\", \"circle\": \"8/2/1B DR BIRESH GUHA STREET CIRCUS AVENUE KOLKATA West Bengal 700017\", \"email\": \"\", \"fname\": \"\\\"9836307000\", \"id\": \"8337007000\", \"mobile\": \"9876543210\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"S/O B D Dobriyal H No 2651/67 A Molarband Extn 60 Futa Road 3 Badarpur South Delhi Delhi 110044\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"B D Dobriyal\", \"id\": \"572783453594\", \"mobile\": \"9999883039\", \"name\": \"Sampurna Nand Dobriyal\"}, {\"address\": \"barrack no 2 police station delhichanakyapuri delhi Delhi 110001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Pappu\", \"id\": \"\", \"mobile\": \"9999866575\", \"name\": \"Sachin\"}, {\"address\": \"S/O Suraj Prakash Dhingra M-2/23 GF MODEL TOWN-3 MODEL TOWN North West Delhi Delhi 110009\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Suraj Prakash Dhingra\", \"id\": \"254944943909\", \"mobile\": \"9999772425\", \"name\": \"Nitin Dhingra\"}, {\"address\": \"132 Milansaar Appartment paschim vihar new delhi Paschim Vihar Delhi 110063\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Subhash Kwatra\", \"id\": \"550759224898\", \"mobile\": \"9999565653\", \"name\": \"Puneet Kwatra\"}, {\"address\": \"New T-56 1st Floor Gali No -1 New T Block Near Shukkar Bazar Axis Atm Uttam Nagar Uttam Nagar D k Mohan GardenWest Delhi Delhi 110059\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"sameer chakraborty\", \"id\": \"386605929525\", \"mobile\": \"9990905121\", \"name\": \"Abhishek Chakraborty\"}, {\"address\": \"S/O Qamrul Hasan Usmani H no-482 2nd Floor Zakir Nagar Jamia Nagar South Delhi Delhi 110025\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Qamrul Hasan Usmani\", \"id\": \"487080720599\", \"mobile\": \"9990278168\", \"name\": \"Naved Sajid Usmani\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Yogi Mehto\", \"id\": \"901139751977\", \"mobile\": \"9971995142\", \"name\": \"Sudhir Mehto\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Madan Lal\", \"id\": \"666762808344\", \"mobile\": \"9971846361\", \"name\": \"Anil Sharma\"}, {\"address\": \"G-707 METRO VIHAR SHASTRI PARK DMRC STAFF QUTER DELHIGarhi Mendu North East Delhi 110053\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"late\", \"id\": \"956750738466\", \"mobile\": \"9971796970\", \"name\": \"AMIT KUMAR\"}, {\"address\": \"S/O Jagdish Lal Manocha WZ-153/1 FIRST FLOOR gali no-6 VIRENDER NAGAR West Delhi Delhi 110058\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Jagdish Lal Manocha\", \"id\": \"743704479544\", \"mobile\": \"9971792267\", \"name\": \"Ravinder Kant Manocha\"}, {\"address\": \"S/O Gyasi Ram A-111 FRIENDS ENCLAVE MUNDKA West Delhi Delhi 110041\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Gyasi Ram\", \"id\": \"379547157577\", \"mobile\": \"9971749310\", \"name\": \"Bijender Singh\"}, {\"address\": \"a1 402 tower 1 purvanchal silver city sector 93 Noida Uttar Pradesh 201304\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"richa2619@gmail.com\", \"fname\": \"rajeev varma\", \"id\": \"917436237683\", \"mobile\": \"9971360404\", \"name\": \"richa varma\"}, {\"address\": \"S/O Rattan Chand House No -13 B Railway Board Officers Flats Near New Tamilnadu HouseChanakya Puri New Delhi Delhi 110021\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Rattan Chand\", \"id\": \"949708408337\", \"mobile\": \"9971269111\", \"name\": \"Deepak Kumar\"}]}"
+      },
+      {
+        "id": 570,
+        "user_id": 8440279273,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7515862733, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 13:46:23",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7515862733\", \"username\": \"\", \"full_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919149214212\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-25T12:51:10Z\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T03:03:33Z\", \"last_name\": null, \"msg_in_groups_count\": 28, \"names_count\": 14, \"total_groups\": 32, \"total_msg_count\": 4719, \"usernames_count\": 10}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-25T12:51:10Z\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T03:03:33Z\", \"last_name\": null, \"msg_in_groups_count\": 28, \"names_count\": 14, \"total_groups\": 32, \"total_msg_count\": 4719, \"usernames_count\": 10}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919149214212\", \"status\": true, \"target_id\": \"7515862733\"}}"
+      },
+      {
+        "id": 571,
+        "user_id": 8440279273,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8156670159, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 13:46:32",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8156670159\", \"username\": \"\", \"full_name\": \"\\u13ab\\u1d07\\u059f\\u135d\\u1d07\\u1d1b \\ud83e\\udd0d \\u2728\", \"first_name\": \"\\u13ab\\u1d07\\u059f\\u135d\\u1d07\\u1d1b \\ud83e\\udd0d \\u2728\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919002831610\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-07-17T09:47:00Z\", \"first_name\": \"\\u13ab\\u1d07\\u059f\\u135d\\u1d07\\u1d1b \\ud83e\\udd0d \\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T03:50:40Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 8, \"total_groups\": 24, \"total_msg_count\": 205, \"usernames_count\": 6}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-07-17T09:47:00Z\", \"first_name\": \"\\u13ab\\u1d07\\u059f\\u135d\\u1d07\\u1d1b \\ud83e\\udd0d \\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T03:50:40Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 8, \"total_groups\": 24, \"total_msg_count\": 205, \"usernames_count\": 6}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919002831610\", \"status\": true, \"target_id\": \"8156670159\"}}"
+      },
+      {
+        "id": 572,
+        "user_id": 8440279273,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8703382327, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 13:46:44",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8703382327\", \"username\": \"\", \"full_name\": \"\\u5914\\u250b \\ud835\\udc12\\u026a\\u1d0d\\u0280\\u1d00\\u0274 !!\", \"first_name\": \"\\u5914\\u250b \\ud835\\udc12\\u026a\\u1d0d\\u0280\\u1d00\\u0274 !!\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-08T04:47:29Z\", \"first_name\": \"\\u5914\\u250b \\ud835\\udc12\\u026a\\u1d0d\\u0280\\u1d00\\u0274 !!\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T06:08:04Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 4, \"total_groups\": 9, \"total_msg_count\": 281, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-08T04:47:29Z\", \"first_name\": \"\\u5914\\u250b \\ud835\\udc12\\u026a\\u1d0d\\u0280\\u1d00\\u0274 !!\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T06:08:04Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 4, \"total_groups\": 9, \"total_msg_count\": 281, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8703382327\"}}"
+      },
+      {
+        "id": 573,
+        "user_id": 8440279273,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6304812503, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 13:46:54",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6304812503\", \"username\": \"\", \"full_name\": \"ANIRBAN GAMING X ZX\", \"first_name\": \"ANIRBAN GAMING X ZX\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918250593502\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 2, \"first_msg_date\": \"2024-10-01T01:46:22Z\", \"first_name\": \"ANIRBAN GAMING X ZX\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T05:57:31Z\", \"last_name\": null, \"msg_in_groups_count\": 58, \"names_count\": 11, \"total_groups\": 80, \"total_msg_count\": 1372, \"usernames_count\": 7}, \"_raw\": {\"data\": {\"admin_groups\": 2, \"first_msg_date\": \"2024-10-01T01:46:22Z\", \"first_name\": \"ANIRBAN GAMING X ZX\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T05:57:31Z\", \"last_name\": null, \"msg_in_groups_count\": 58, \"names_count\": 11, \"total_groups\": 80, \"total_msg_count\": 1372, \"usernames_count\": 7}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918250593502\", \"status\": true, \"target_id\": \"6304812503\"}}"
       }
     ],
     "bomber_history": [],
