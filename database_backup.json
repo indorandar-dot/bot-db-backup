@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 09:01:54",
+    "created_at": "2026-04-08 09:04:00",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -529,13 +529,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-08 07:54:14",
+        "total_searches": 10,
+        "last_active": "2026-04-08 09:03:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -14609,6 +14609,14 @@
         "query": "7906461039",
         "search_date": "2026-04-08 09:00:14",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O: Ishtiyak Ahamed House Number-1702Gali Number-02 NiwazipuraNear Sikander Gate Bhandapatti HapurHapur Uttar Pradesh 245101\", \"alt\": \"+917217375470\", \"circle\": \"JIO UPW\", \"email\": \"\", \"fname\": \"Ishtiyak Ahamed\", \"id\": \"815447680658\", \"mobile\": \"7906461039\", \"name\": \"Md Javed\"}, {\"address\": \"S/O Roshan Lal dhimarpura Chherat Sudhal Aligarh Uttar Pradesh 202122\", \"alt\": \"918449765322\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"Roshan Lal\", \"id\": \"\", \"mobile\": \"7906461039\", \"name\": \"Daya Shankar\"}, {\"address\": \"S/O Roshan Lal dhimarpura Chherat Sudhal Aligarh Uttar Pradesh 202122\", \"alt\": \"918449765322\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"Roshan Lal\", \"id\": \"\", \"mobile\": \"7906461039\", \"name\": \"Daya Shankar\"}]}"
+      },
+      {
+        "id": 560,
+        "user_id": 5713879636,
+        "search_type": "username",
+        "query": "@ameliahuyaar",
+        "search_date": "2026-04-08 09:03:09",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7843009869\", \"username\": \"ameliahuyaar\", \"full_name\": \"\\ud835\\udc00\\u1d0d\\u1d07\\u029f\\u026a\\ud835\\udc00 /~\\ud83e\\udd0d\", \"first_name\": \"\\ud835\\udc00\\u1d0d\\u1d07\\u029f\\u026a\\ud835\\udc00 /~\\ud83e\\udd0d\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7843009869\", \"first_name\": \"\\ud835\\udc00\\u1d0d\\u1d07\\u029f\\u026a\\ud835\\udc00 /~\\ud83e\\udd0d\", \"last_name\": null, \"is_active\": true, \"total_groups\": 32, \"admin_groups\": 0, \"total_msg_count\": 587, \"msg_in_groups_count\": 20, \"names_count\": 1, \"usernames_count\": 2, \"first_msg_date\": \"2025-11-26T10:57:40Z\", \"last_msg_date\": \"2026-03-29T00:22:32Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"7843009869\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-26T10:57:40Z\", \"first_name\": \"\\ud835\\udc00\\u1d0d\\u1d07\\u029f\\u026a\\ud835\\udc00 /~\\ud83e\\udd0d\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T00:22:32Z\", \"last_name\": null, \"msg_in_groups_count\": 20, \"names_count\": 1, \"total_groups\": 32, \"total_msg_count\": 587, \"usernames_count\": 2}, \"target_id\": \"7843009869\"}}"
       }
     ],
     "bomber_history": [],
