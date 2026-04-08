@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 08:57:45",
+    "created_at": "2026-04-08 08:59:49",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -65,13 +65,13 @@
         "first_name": "𝐍 ɪ ᴛ ɪ 𝐍 !!🧃",
         "join_date": "2026-03-31 07:15:42",
         "referrer": 8703382327,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 07:17:08",
+        "total_searches": 2,
+        "last_active": "2026-04-08 08:58:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -14593,6 +14593,14 @@
         "query": "@chuptmkb",
         "search_date": "2026-04-08 07:54:14",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8148439398\", \"username\": \"chuptmkb\", \"full_name\": \"Luv\", \"first_name\": \"Luv\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919899095849\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8148439398\", \"first_name\": \"Luv\", \"last_name\": null, \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 9, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 4, \"first_msg_date\": \"2026-02-28T12:55:11Z\", \"last_msg_date\": \"2026-04-07T17:44:29Z\"}, \"_raw\": {\"status\": true, \"number\": \"919899095849\", \"telegram_id\": \"8148439398\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T12:55:11Z\", \"first_name\": \"Luv\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T17:44:29Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 9, \"usernames_count\": 4}, \"target_id\": \"8148439398\"}}"
+      },
+      {
+        "id": 558,
+        "user_id": 1017838545,
+        "search_type": "mobile_number",
+        "query": "8920577935",
+        "search_date": "2026-04-08 08:58:28",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}, {\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}, {\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}]}"
       }
     ],
     "bomber_history": [],
