@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 07:53:20",
+    "created_at": "2026-04-08 07:55:25",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -529,13 +529,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-05 18:09:32",
+        "total_searches": 9,
+        "last_active": "2026-04-08 07:54:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -14585,6 +14585,14 @@
         "query": "@Unknown_6554",
         "search_date": "2026-04-08 07:19:50",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8555037541\", \"username\": \"Unknown_6554\", \"full_name\": \"Unknown\", \"first_name\": \"Unknown\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8555037541\", \"first_name\": \"Unknown\", \"last_name\": null, \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 4, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2026-04-01T15:44:35Z\", \"last_msg_date\": \"2026-04-02T16:36:32Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8555037541\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-01T15:44:35Z\", \"first_name\": \"Unknown\", \"is_active\": true, \"last_msg_date\": \"2026-04-02T16:36:32Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 4, \"usernames_count\": 1}, \"target_id\": \"8555037541\"}}"
+      },
+      {
+        "id": 557,
+        "user_id": 5713879636,
+        "search_type": "username",
+        "query": "@chuptmkb",
+        "search_date": "2026-04-08 07:54:14",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8148439398\", \"username\": \"chuptmkb\", \"full_name\": \"Luv\", \"first_name\": \"Luv\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919899095849\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8148439398\", \"first_name\": \"Luv\", \"last_name\": null, \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 9, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 4, \"first_msg_date\": \"2026-02-28T12:55:11Z\", \"last_msg_date\": \"2026-04-07T17:44:29Z\"}, \"_raw\": {\"status\": true, \"number\": \"919899095849\", \"telegram_id\": \"8148439398\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T12:55:11Z\", \"first_name\": \"Luv\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T17:44:29Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 9, \"usernames_count\": 4}, \"target_id\": \"8148439398\"}}"
       }
     ],
     "bomber_history": [],
