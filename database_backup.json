@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 10:24:58",
+    "created_at": "2026-04-08 10:27:03",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -529,13 +529,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-08 09:03:09",
+        "total_searches": 11,
+        "last_active": "2026-04-08 10:25:57",
         "money": 0,
         "clone_bots": 0
       },
@@ -14629,6 +14629,14 @@
         "query": "3419823759",
         "search_date": "2026-04-08 10:06:14",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3419823759\", \"accountType\": 1, \"nickname\": \"I'm\\u3164Fazy\\u3164!\", \"region\": \"IND\", \"level\": 63, \"exp\": 1387771, \"bannerId\": 901000171, \"headPic\": 902000189, \"rank\": 317, \"rankingPoints\": 2975, \"badgeCnt\": 38, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 10056, \"showRank\": true, \"lastLoginAt\": \"1775641260\", \"csRank\": 321, \"csRankingPoints\": 100, \"weaponSkinShows\": [907193903, 912049002], \"pinId\": 910030002, \"maxRank\": 317, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1624948311\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [203000482, 211000049, 214041002, 205000059, 204000181, 211000017], \"equipedSkills\": [16, 6201, 8, 1, 16, 2506, 8, 2, 16, 2701, 8, 3, 16, 1001], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1653835028, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3049910231\", \"clanName\": \"I'm\\u3164Fazy\\u3164!!\", \"captainId\": \"3419823759\", \"clanLevel\": 5, \"capacity\": 45, \"memberNum\": 5}, \"captainBasicInfo\": {\"accountId\": \"3419823759\", \"accountType\": 1, \"nickname\": \"I'm\\u3164Fazy\\u3164!\", \"region\": \"IND\", \"level\": 63, \"exp\": 1387771, \"bannerId\": 901000171, \"headPic\": 902000189, \"rank\": 317, \"rankingPoints\": 2975, \"badgeCnt\": 38, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 10056, \"showRank\": true, \"lastLoginAt\": \"1775641260\", \"csRank\": 321, \"csRankingPoints\": 100, \"weaponSkinShows\": [907193903, 912049002], \"pinId\": 910030002, \"maxRank\": 317, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1624948311\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000093, \"selectedSkillId\": 1315000011}, \"socialInfo\": {\"accountId\": \"3419823759\", \"language\": \"Language_ARABIC\", \"signature\": \"[b][c][FF0099]\\u256d\\u2500\\u256e\\n\\u2502\\u2661\\u2502 KOLOKTI\\n\\u2570\\u2500\\u256f\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1775532164\"}}}"
+      },
+      {
+        "id": 562,
+        "user_id": 5713879636,
+        "search_type": "username",
+        "query": "@REHAN_S786",
+        "search_date": "2026-04-08 10:25:57",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"1601407637\", \"username\": \"REHAN_S786\", \"full_name\": \"VILLAIN HU\", \"first_name\": \"VILLAIN HU\", \"last_name\": \"LADLE \\ud83c\\udf1a\", \"bio\": \"\", \"phone\": \"919284112508\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"1601407637\", \"first_name\": \"VILLAIN HU\", \"last_name\": \"LADLE \\ud83c\\udf1a\", \"is_active\": true, \"total_groups\": 5, \"admin_groups\": 0, \"total_msg_count\": 90, \"msg_in_groups_count\": 4, \"names_count\": 3, \"usernames_count\": 2, \"first_msg_date\": \"2026-01-29T21:47:10Z\", \"last_msg_date\": \"2026-04-06T14:38:27Z\"}, \"_raw\": {\"status\": true, \"number\": \"919284112508\", \"telegram_id\": \"1601407637\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-29T21:47:10Z\", \"first_name\": \"VILLAIN HU\", \"is_active\": true, \"last_msg_date\": \"2026-04-06T14:38:27Z\", \"last_name\": \"LADLE \\ud83c\\udf1a\", \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 5, \"total_msg_count\": 90, \"usernames_count\": 2}, \"target_id\": \"1601407637\"}}"
       }
     ],
     "bomber_history": [],
