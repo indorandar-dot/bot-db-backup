@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 07:18:01",
+    "created_at": "2026-04-08 07:20:06",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -1793,7 +1793,7 @@
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
         "join_date": "2026-03-30 11:54:16",
         "referrer": null,
-        "credits": 15,
+        "credits": 16,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -7089,13 +7089,13 @@
         "first_name": "Shivi",
         "join_date": "2026-03-31 15:22:09",
         "referrer": null,
-        "credits": 2,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-01 12:35:17",
+        "total_searches": 6,
+        "last_active": "2026-04-08 07:19:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -8946,6 +8946,10 @@
       },
       {
         "user_id": 8220310921,
+        "claim_date": "2026-04-08"
+      },
+      {
+        "user_id": 6929609082,
         "claim_date": "2026-04-08"
       }
     ],
@@ -14565,6 +14569,22 @@
         "query": "{'user_id': 7726861134, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-08 07:16:20",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7726861134\", \"username\": \"\", \"full_name\": \"Mohit \\ud83c\\udf43\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917747871733\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-28T16:11:13Z\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"is_active\": true, \"last_msg_date\": \"2026-01-05T04:54:26Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 10, \"total_msg_count\": 16, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-28T16:11:13Z\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"is_active\": true, \"last_msg_date\": \"2026-01-05T04:54:26Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 10, \"total_msg_count\": 16, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917747871733\", \"status\": true, \"target_id\": \"7726861134\"}}"
+      },
+      {
+        "id": 555,
+        "user_id": 8555037541,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7726861134, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 07:18:48",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7726861134\", \"username\": \"\", \"full_name\": \"Mohit \\ud83c\\udf43\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917747871733\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-28T16:11:13Z\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"is_active\": true, \"last_msg_date\": \"2026-01-05T04:54:26Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 10, \"total_msg_count\": 16, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-28T16:11:13Z\", \"first_name\": \"Mohit \\ud83c\\udf43\", \"is_active\": true, \"last_msg_date\": \"2026-01-05T04:54:26Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 3, \"total_groups\": 10, \"total_msg_count\": 16, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917747871733\", \"status\": true, \"target_id\": \"7726861134\"}}"
+      },
+      {
+        "id": 556,
+        "user_id": 8555037541,
+        "search_type": "username",
+        "query": "@Unknown_6554",
+        "search_date": "2026-04-08 07:19:50",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8555037541\", \"username\": \"Unknown_6554\", \"full_name\": \"Unknown\", \"first_name\": \"Unknown\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8555037541\", \"first_name\": \"Unknown\", \"last_name\": null, \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 4, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2026-04-01T15:44:35Z\", \"last_msg_date\": \"2026-04-02T16:36:32Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8555037541\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-01T15:44:35Z\", \"first_name\": \"Unknown\", \"is_active\": true, \"last_msg_date\": \"2026-04-02T16:36:32Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 4, \"usernames_count\": 1}, \"target_id\": \"8555037541\"}}"
       }
     ],
     "bomber_history": [],
