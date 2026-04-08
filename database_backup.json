@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 18:07:30",
+    "created_at": "2026-04-08 18:09:34",
     "stats": {
       "main_users": 483,
       "main_admins": 1,
@@ -5910,8 +5910,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-07 16:38:08",
+        "total_searches": 5,
+        "last_active": "2026-04-08 18:08:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -14999,6 +14999,30 @@
         "query": "Pvtli",
         "search_date": "2026-04-08 18:00:06",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5671176925\", \"username\": \"Pvtli\", \"full_name\": \"\\u2728\\ud83e\\udd8b\", \"first_name\": \"\\u2728\\ud83e\\udd8b\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5671176925\", \"first_name\": \"\\u2728\\ud83e\\udd8b\", \"last_name\": null, \"is_active\": true, \"total_groups\": 25, \"admin_groups\": 0, \"total_msg_count\": 409, \"msg_in_groups_count\": 21, \"names_count\": 5, \"usernames_count\": 2, \"first_msg_date\": \"2025-01-19T08:30:47Z\", \"last_msg_date\": \"2026-04-06T16:57:11Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"5671176925\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-19T08:30:47Z\", \"first_name\": \"\\u2728\\ud83e\\udd8b\", \"is_active\": true, \"last_msg_date\": \"2026-04-06T16:57:11Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 5, \"total_groups\": 25, \"total_msg_count\": 409, \"usernames_count\": 2}, \"target_id\": \"5671176925\"}}"
+      },
+      {
+        "id": 586,
+        "user_id": 8352130903,
+        "search_type": "username",
+        "query": "@Davidbelcum",
+        "search_date": "2026-04-08 18:07:45",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Davidbelcum\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 587,
+        "user_id": 8352130903,
+        "search_type": "username",
+        "query": "@Aditya_ytx",
+        "search_date": "2026-04-08 18:08:05",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Aditya_ytx\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 588,
+        "user_id": 8352130903,
+        "search_type": "typed_userid",
+        "query": "8352130903",
+        "search_date": "2026-04-08 18:08:59",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8352130903\", \"username\": \"Adispidey12\", \"full_name\": \"Aditya\", \"first_name\": \"Aditya\", \"last_name\": \"\", \"bio\": \"......................................................................\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8352130903\", \"username\": \"Adispidey12\", \"first_name\": \"Aditya\", \"last_name\": \"\", \"full_name\": \"Aditya\", \"bio\": \"......................................................................\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Adispidey12\"]}}"
       }
     ],
     "bomber_history": [],
@@ -15460,7 +15484,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-08 18:07:21"
+          "last_active": "2026-04-08 18:08:22"
         },
         {
           "id": 892,
