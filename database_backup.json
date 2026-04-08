@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 02:02:28",
+    "created_at": "2026-04-08 02:04:33",
     "stats": {
       "main_users": 472,
       "main_admins": 1,
@@ -5665,13 +5665,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 17,
+        "credits": 16,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 15,
-        "last_active": "2026-04-08 01:37:34",
+        "total_searches": 16,
+        "last_active": "2026-04-08 02:02:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -14435,6 +14435,14 @@
         "query": "@Felixraand",
         "search_date": "2026-04-08 01:37:34",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8154922225\", \"username\": \"Felixraand\", \"full_name\": \"~\\ud835\\udc11\\ud835\\udc00\\ud835\\udc09 !! \\ud83e\\udd61\", \"first_name\": \"~\\ud835\\udc11\\ud835\\udc00\\ud835\\udc09 !! \\ud83e\\udd61\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918881294364\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8154922225\", \"first_name\": \"~\\ud835\\udc11\\ud835\\udc00\\ud835\\udc09 !! \\ud83e\\udd61\", \"last_name\": null, \"is_active\": true, \"total_groups\": 10, \"admin_groups\": 0, \"total_msg_count\": 713, \"msg_in_groups_count\": 8, \"names_count\": 7, \"usernames_count\": 1, \"first_msg_date\": \"2026-01-06T17:47:31Z\", \"last_msg_date\": \"2026-03-29T09:44:06Z\"}, \"_raw\": {\"status\": true, \"number\": \"918881294364\", \"telegram_id\": \"8154922225\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-06T17:47:31Z\", \"first_name\": \"~\\ud835\\udc11\\ud835\\udc00\\ud835\\udc09 !! \\ud83e\\udd61\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T09:44:06Z\", \"last_name\": null, \"msg_in_groups_count\": 8, \"names_count\": 7, \"total_groups\": 10, \"total_msg_count\": 713, \"usernames_count\": 1}, \"target_id\": \"8154922225\"}}"
+      },
+      {
+        "id": 546,
+        "user_id": 8335023642,
+        "search_type": "mobile_number",
+        "query": "7488035880",
+        "search_date": "2026-04-08 02:02:40",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Md Manjur Ansari Kapali ROAD NO-1 MILLAT NAGAR KAPALI Chandil Dobo SeraikelaKharsawan Jharkhand 831012\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"Md Manjur Ansari\", \"id\": \"491279241326\", \"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\"}, {\"address\": \"W/O Md Manjur Ansari Kapali ROAD NO-1 MILLAT NAGAR KAPALI Chandil Dobo SeraikelaKharsawan Jharkhand 831012\", \"alt\": \"919709586997\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Md Manjur Ansari\", \"id\": \"491279241326\", \"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\"}, {\"address\": \"W/O Md Manjur Ansari Kapali ROAD NO-1 MILLAT NAGAR KAPALI Chandil Dobo SeraikelaKharsawan Jharkhand 831012\", \"alt\": \"919709586997\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Md Manjur Ansari\", \"id\": \"491279241326\", \"mobile\": \"7488035880\", \"name\": \"Raushan Perween Arshi\"}]}"
       }
     ],
     "bomber_history": [],
