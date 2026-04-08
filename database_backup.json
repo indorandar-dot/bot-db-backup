@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 08:59:49",
+    "created_at": "2026-04-08 09:01:54",
     "stats": {
       "main_users": 475,
       "main_admins": 1,
@@ -65,13 +65,13 @@
         "first_name": "𝐍 ɪ ᴛ ɪ 𝐍 !!🧃",
         "join_date": "2026-03-31 07:15:42",
         "referrer": 8703382327,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-08 08:58:28",
+        "total_searches": 3,
+        "last_active": "2026-04-08 09:00:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -14601,6 +14601,14 @@
         "query": "8920577935",
         "search_date": "2026-04-08 08:58:28",
         "result": "{\"success\": true, \"data\": [{\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}, {\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}, {\"address\": \"House No-863 Gali No-4 Near Noor Layi Maszid Hindon Vihar Ghaziabad Ghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9643404319\", \"circle\": \"Delhi Jio\", \"email\": \"\", \"fname\": \"Jameel Kureshi\", \"id\": \"283622874152\", \"mobile\": \"8920577935\", \"name\": \"Amir Kureshi\"}]}"
+      },
+      {
+        "id": 559,
+        "user_id": 1017838545,
+        "search_type": "mobile_number",
+        "query": "7906461039",
+        "search_date": "2026-04-08 09:00:14",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O: Ishtiyak Ahamed House Number-1702Gali Number-02 NiwazipuraNear Sikander Gate Bhandapatti HapurHapur Uttar Pradesh 245101\", \"alt\": \"+917217375470\", \"circle\": \"JIO UPW\", \"email\": \"\", \"fname\": \"Ishtiyak Ahamed\", \"id\": \"815447680658\", \"mobile\": \"7906461039\", \"name\": \"Md Javed\"}, {\"address\": \"S/O Roshan Lal dhimarpura Chherat Sudhal Aligarh Uttar Pradesh 202122\", \"alt\": \"918449765322\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"Roshan Lal\", \"id\": \"\", \"mobile\": \"7906461039\", \"name\": \"Daya Shankar\"}, {\"address\": \"S/O Roshan Lal dhimarpura Chherat Sudhal Aligarh Uttar Pradesh 202122\", \"alt\": \"918449765322\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"Roshan Lal\", \"id\": \"\", \"mobile\": \"7906461039\", \"name\": \"Daya Shankar\"}]}"
       }
     ],
     "bomber_history": [],
