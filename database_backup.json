@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 17:03:01",
+    "created_at": "2026-04-08 17:05:05",
     "stats": {
       "main_users": 483,
       "main_admins": 1,
@@ -4182,8 +4182,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 19,
-        "last_active": "2026-04-07 16:55:20",
+        "total_searches": 21,
+        "last_active": "2026-04-08 17:04:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -14959,6 +14959,22 @@
         "query": "2220676578",
         "search_date": "2026-04-08 16:55:14",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2220676578\", \"accountType\": 1, \"nickname\": \"\\u3164\\u043d\\u03b9\\u043c\\u03b1\\u03b7s\\u043d\\u03c5\\u3164\\u221a\", \"region\": \"IND\", \"level\": 68, \"exp\": 2410189, \"bannerId\": 901000009, \"headPic\": 902000325, \"rank\": 326, \"rankingPoints\": 6676, \"badgeCnt\": 39, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 15520, \"showRank\": true, \"lastLoginAt\": \"1775665540\", \"csRank\": 321, \"csRankingPoints\": 93, \"weaponSkinShows\": [907101817, 912052001], \"pinId\": 910040001, \"maxRank\": 326, \"csMaxRank\": 321, \"accountPrefers\": {}, \"createAt\": \"1595831562\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [211051004, 203000449, 214035012, 211052009, 204000006, 205000101], \"equipedSkills\": [16, 7206, 8, 1, 16, 7506, 8, 2, 16, 2506, 8, 3, 16, 305], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3048969491\", \"clanName\": \"\\u01ac\\u029c\\u1d07\\u262f\\ufe0e\\u1d0b\\u026a\\u029f\\u029f\\u1d07\\u0280s\", \"captainId\": \"2220676578\", \"clanLevel\": 3, \"capacity\": 30, \"memberNum\": 24}, \"captainBasicInfo\": {\"accountId\": \"2220676578\", \"accountType\": 1, \"nickname\": \"\\u3164\\u043d\\u03b9\\u043c\\u03b1\\u03b7s\\u043d\\u03c5\\u3164\\u221a\", \"region\": \"IND\", \"level\": 68, \"exp\": 2410189, \"bannerId\": 901000009, \"headPic\": 902000325, \"rank\": 326, \"rankingPoints\": 6676, \"badgeCnt\": 39, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 15520, \"showRank\": true, \"lastLoginAt\": \"1775665540\", \"csRank\": 321, \"csRankingPoints\": 93, \"weaponSkinShows\": [907101817, 912052001], \"pinId\": 910040001, \"maxRank\": 326, \"csMaxRank\": 321, \"accountPrefers\": {}, \"createAt\": \"1595831562\", \"title\": 904290048, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000100, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"2220676578\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_MORNING\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"HAR HAR MAHADEV\\n\\nhimanshu_rider78 insta I'd\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775620021\"}}}"
+      },
+      {
+        "id": 581,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8713207261, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 17:03:36",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8713207261\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 582,
+        "user_id": 8041167457,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7584428129, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-08 17:04:34",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7584428129\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
