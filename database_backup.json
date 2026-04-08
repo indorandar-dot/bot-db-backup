@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-08 03:17:25",
+    "created_at": "2026-04-08 03:19:30",
     "stats": {
       "main_users": 473,
       "main_admins": 1,
@@ -7430,8 +7430,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 128,
-        "last_active": "2026-04-08 03:17:06",
+        "total_searches": 132,
+        "last_active": "2026-04-08 03:18:32",
         "money": 0,
         "clone_bots": 0
       },
@@ -7839,7 +7839,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-08 03:17:19",
+        "last_active": "2026-04-08 03:18:24",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -14475,6 +14475,38 @@
         "query": "Anu3singh",
         "search_date": "2026-04-08 03:17:06",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6735960885\", \"username\": \"Anu3singh\", \"full_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919263356840\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6735960885\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"last_name\": null, \"is_active\": true, \"total_groups\": 31, \"admin_groups\": 1, \"total_msg_count\": 2074, \"msg_in_groups_count\": 18, \"names_count\": 4, \"usernames_count\": 3, \"first_msg_date\": \"2024-10-17T13:38:47Z\", \"last_msg_date\": \"2026-04-07T14:32:22Z\"}, \"_raw\": {\"status\": true, \"number\": \"919263356840\", \"telegram_id\": \"6735960885\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2024-10-17T13:38:47Z\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T14:32:22Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 4, \"total_groups\": 31, \"total_msg_count\": 2074, \"usernames_count\": 3}, \"target_id\": \"6735960885\"}}"
+      },
+      {
+        "id": 549,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "Anu3singh",
+        "search_date": "2026-04-08 03:17:35",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6735960885\", \"username\": \"Anu3singh\", \"full_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919263356840\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6735960885\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"last_name\": null, \"is_active\": true, \"total_groups\": 31, \"admin_groups\": 1, \"total_msg_count\": 2074, \"msg_in_groups_count\": 18, \"names_count\": 4, \"usernames_count\": 3, \"first_msg_date\": \"2024-10-17T13:38:47Z\", \"last_msg_date\": \"2026-04-07T14:32:22Z\"}, \"_raw\": {\"status\": true, \"number\": \"919263356840\", \"telegram_id\": \"6735960885\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2024-10-17T13:38:47Z\", \"first_name\": \"\\u4e97 \\ud835\\udc00\\u050d\\u1d07\\u0274\\u0442\\u3005\\u2776\\u2776\\u277b\\u221a\\u1d35\\u1d2c\\u1d39\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud83d\\udc3c\\u20dd\\u2764\\ufe0f\\u1d00\\u0274U SINGH\\ud83c\\udf0d\\u20df\\u2764\\ufe0f\\ud83e\\udd8b\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T14:32:22Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 4, \"total_groups\": 31, \"total_msg_count\": 2074, \"usernames_count\": 3}, \"target_id\": \"6735960885\"}}"
+      },
+      {
+        "id": 550,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9263356840",
+        "search_date": "2026-04-08 03:17:51",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}, {\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}]}"
+      },
+      {
+        "id": 551,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "6207990356",
+        "search_date": "2026-04-08 03:18:15",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}, {\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}]}"
+      },
+      {
+        "id": 552,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "6207990356",
+        "search_date": "2026-04-08 03:18:32",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"- - NARGA gopal bigha Narga Arwal Bihar 804419\", \"alt\": \"\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"naresh singh\", \"id\": \"NA\", \"mobile\": \"6207990356\", \"name\": \"VIJAY SINGH\"}, {\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}, {\"address\": \"D/O Ramishwar Mahto - - Karpi NARGA - - narga gopal bigha narga karpi Karpi arwal Bihar 804419\", \"alt\": \"6207990356\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Ramishwar Mahto\", \"id\": \"951248322630\", \"mobile\": \"9263356840\", \"name\": \"Lalo Devi\"}]}"
       }
     ],
     "bomber_history": [],
@@ -14965,7 +14997,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-08 03:17:19"
+          "last_active": "2026-04-08 03:18:24"
         },
         {
           "id": 1043,
