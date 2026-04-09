@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 09:05:38",
+    "created_at": "2026-04-09 09:07:42",
     "stats": {
       "main_users": 493,
       "main_admins": 1,
@@ -1862,8 +1862,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-04 10:37:43",
+        "total_searches": 6,
+        "last_active": "2026-04-09 09:07:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -15383,6 +15383,14 @@
         "query": "7677713638",
         "search_date": "2026-04-09 08:49:34",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7677713638\", \"username\": \"\", \"full_name\": \"\\u2014\\u035e\\ud835\\udc31\\ud835\\udc0f\\ud835\\udc27\\ud835\\udc0b \\ud835\\udc0c\\ud835\\udc17\\ud835\\udc1a\\ud835\\udc11 [\\ud83c\\udde7\\ud83c\\udde9]\\u1160\\u1160\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u2e19\\ua80b\\ua80b\\ua80b\", \"first_name\": \"\\u2014\\u035e\\ud835\\udc31\\ud835\\udc0f\\ud835\\udc27\\ud835\\udc0b \\ud835\\udc0c\\ud835\\udc17\\ud835\\udc1a\\ud835\\udc11 [\\ud83c\\udde7\\ud83c\\udde9]\\u1160\\u1160\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u2e19\\ua80b\\ua80b\\ua80b\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"8801862858174\", \"country\": \"Bangladesh\", \"country_code\": \"+880\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-08T08:49:20Z\", \"first_name\": \"\\u2014\\u035e\\ud835\\udc31\\ud835\\udc0f\\ud835\\udc27\\ud835\\udc0b \\ud835\\udc0c\\ud835\\udc17\\ud835\\udc1a\\ud835\\udc11 [\\ud83c\\udde7\\ud83c\\udde9]\\u1160\\u1160\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u2e19\\ua80b\\ua80b\\ua80b\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T10:42:08Z\", \"last_name\": null, \"msg_in_groups_count\": 48, \"names_count\": 7, \"total_groups\": 54, \"total_msg_count\": 500, \"usernames_count\": 3}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-08T08:49:20Z\", \"first_name\": \"\\u2014\\u035e\\ud835\\udc31\\ud835\\udc0f\\ud835\\udc27\\ud835\\udc0b \\ud835\\udc0c\\ud835\\udc17\\ud835\\udc1a\\ud835\\udc11 [\\ud83c\\udde7\\ud83c\\udde9]\\u1160\\u1160\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e7\\u08e7\\u08e7\\u2e19\\ua80b\\ua80b\\ua80b\", \"is_active\": true, \"last_msg_date\": \"2026-04-07T10:42:08Z\", \"last_name\": null, \"msg_in_groups_count\": 48, \"names_count\": 7, \"total_groups\": 54, \"total_msg_count\": 500, \"usernames_count\": 3}, \"info\": {\"country\": \"Bangladesh\", \"country_code\": \"+880\"}, \"number\": \"8801862858174\", \"status\": true, \"target_id\": \"7677713638\"}}"
+      },
+      {
+        "id": 603,
+        "user_id": 6929609082,
+        "search_type": "username",
+        "query": "@MichaelovicBOGACHEV",
+        "search_date": "2026-04-09 09:07:16",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
