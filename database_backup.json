@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 07:51:02",
+    "created_at": "2026-04-09 07:53:06",
     "stats": {
       "main_users": 491,
       "main_admins": 1,
@@ -7857,13 +7857,13 @@
         "first_name": "علي",
         "join_date": "2026-03-30 14:16:17",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-07 15:24:31",
+        "total_searches": 9,
+        "last_active": "2026-04-09 07:51:50",
         "money": 0,
         "clone_bots": 0
       }
@@ -8307,7 +8307,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-09 06:09:44",
+        "last_active": "2026-04-09 07:51:32",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -15311,6 +15311,14 @@
         "query": "9883422784",
         "search_date": "2026-04-09 07:01:11",
         "result": "{\"success\": true, \"data\": [{\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}, {\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}]}"
+      },
+      {
+        "id": 598,
+        "user_id": 8797725398,
+        "search_type": "typed_userid",
+        "query": "8339811152",
+        "search_date": "2026-04-09 07:51:50",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8339811152\", \"username\": \"\", \"full_name\": \"Anmol hu bsdk\", \"first_name\": \"Anmol hu bsdk\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919955365985\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-10-10T10:05:31Z\", \"first_name\": \"Anmol hu bsdk\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T05:30:58Z\", \"last_name\": \"[active]\", \"msg_in_groups_count\": 111, \"names_count\": 26, \"total_groups\": 131, \"total_msg_count\": 18020, \"usernames_count\": 5}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-10-10T10:05:31Z\", \"first_name\": \"Anmol hu bsdk\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T05:30:58Z\", \"last_name\": \"[active]\", \"msg_in_groups_count\": 111, \"names_count\": 26, \"total_groups\": 131, \"total_msg_count\": 18020, \"usernames_count\": 5}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919955365985\", \"status\": true, \"target_id\": \"8339811152\"}}"
       }
     ],
     "bomber_history": [],
