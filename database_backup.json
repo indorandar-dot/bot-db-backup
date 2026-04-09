@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 04:07:42",
+    "created_at": "2026-04-09 04:09:46",
     "stats": {
       "main_users": 485,
       "main_admins": 1,
@@ -6737,13 +6737,13 @@
         "first_name": "₊· ͟͟͞͞➳꯭❥꯭꯭꯭꯭❛ 𝙋𝙍𝙄𝙉𝘾𝙀 𝙅𝘼𝙄𝙎𝙒𝘼𝙇❜꯭𝆺꯭꯭꯭꯭꯭𝅥༎꯭ࠫ✺‌➛",
         "join_date": "2026-04-09 04:07:25",
         "referrer": 8041167457,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-09 04:07:25",
+        "total_searches": 1,
+        "last_active": "2026-04-09 04:08:51",
         "money": 0,
         "clone_bots": 0
       },
@@ -15157,6 +15157,14 @@
         "query": "7828364328",
         "search_date": "2026-04-09 03:25:46",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Ajay Singh gram barbaspur post bamhani bhawal teh narayanganj Bamnhi Bhawal NA BamhaniPartala Niwas Mandla NA Madhya Pradesh 481662\", \"alt\": \"9165521607\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"Ajay Singh\", \"id\": \"553395895780\", \"mobile\": \"7828364328\", \"name\": \"Mahesh Kumar\"}, {\"address\": \"S/O Uderam Kadwe S/O Uderam Kadwe Bichhua Bichhua Bichhua BICHHUA-CHHINDWARA MP 480111\", \"alt\": \"7828364328\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"UDERAM KADWE\", \"id\": \"602550655283\", \"mobile\": \"9926576255\", \"name\": \"SANJAY KADWE\"}]}"
+      },
+      {
+        "id": 593,
+        "user_id": 8468556166,
+        "search_type": "typed_userid",
+        "query": "8030391671",
+        "search_date": "2026-04-09 04:08:51",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8030391671\", \"username\": \"\", \"full_name\": \"\\u1bd3\\ud834\\udc58\\u0ecd\\ud80c\\uddb0\\u273f\\u20df\\uabed\\uabed\\uabed\\u200c \\ud83c\\udd82\\ud835\\udf84\\ud835\\udf79\\uabed\\ud835\\udf7e\\u035d\\u135d\\u059f\\uabed\\ud835\\udf7e\\uabed\\ud835\\udf76\\ud83c\\udf80\\ud834\\uddbc\\u21e0\\uabed\\u0335 \\u0335 \\u0335 \\u0335 \\u0335 \\u0335\", \"first_name\": \"\\u1bd3\\ud834\\udc58\\u0ecd\\ud80c\\uddb0\\u273f\\u20df\\uabed\\uabed\\uabed\\u200c \\ud83c\\udd82\\ud835\\udf84\\ud835\\udf79\\uabed\\ud835\\udf7e\\u035d\\u135d\\u059f\\uabed\\ud835\\udf7e\\uabed\\ud835\\udf76\\ud83c\\udf80\\ud834\\uddbc\\u21e0\\uabed\\u0335 \\u0335 \\u0335 \\u0335 \\u0335 \\u0335\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-06T09:27:15Z\", \"first_name\": \"\\u1bd3\\ud834\\udc58\\u0ecd\\ud80c\\uddb0\\u273f\\u20df\\uabed\\uabed\\uabed\\u200c \\ud83c\\udd82\\ud835\\udf84\\ud835\\udf79\\uabed\\ud835\\udf7e\\u035d\\u135d\\u059f\\uabed\\ud835\\udf7e\\uabed\\ud835\\udf76\\ud83c\\udf80\\ud834\\uddbc\\u21e0\\uabed\\u0335 \\u0335 \\u0335 \\u0335 \\u0335 \\u0335\", \"is_active\": true, \"last_msg_date\": \"2026-04-06T11:46:28Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 8, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-06T09:27:15Z\", \"first_name\": \"\\u1bd3\\ud834\\udc58\\u0ecd\\ud80c\\uddb0\\u273f\\u20df\\uabed\\uabed\\uabed\\u200c \\ud83c\\udd82\\ud835\\udf84\\ud835\\udf79\\uabed\\ud835\\udf7e\\u035d\\u135d\\u059f\\uabed\\ud835\\udf7e\\uabed\\ud835\\udf76\\ud83c\\udf80\\ud834\\uddbc\\u21e0\\uabed\\u0335 \\u0335 \\u0335 \\u0335 \\u0335 \\u0335\", \"is_active\": true, \"last_msg_date\": \"2026-04-06T11:46:28Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 8, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8030391671\"}}"
       }
     ],
     "bomber_history": [],
