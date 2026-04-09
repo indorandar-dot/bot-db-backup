@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 03:24:17",
+    "created_at": "2026-04-09 03:26:21",
     "stats": {
       "main_users": 484,
       "main_admins": 1,
@@ -6817,13 +6817,13 @@
         "first_name": "Raj kumar",
         "join_date": "2026-03-31 06:30:04",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-09 03:22:48",
+        "total_searches": 3,
+        "last_active": "2026-04-09 03:25:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -15127,6 +15127,14 @@
         "query": "@Mehulbhai443322",
         "search_date": "2026-04-09 03:22:48",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7749340112\", \"username\": \"Mehulbhai443322\", \"full_name\": \"Mehul\", \"first_name\": \"Mehul\", \"last_name\": \"!!\", \"bio\": \"\", \"phone\": \"917828364328\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7749340112\", \"first_name\": \"Mehul\", \"last_name\": \"!!\", \"is_active\": true, \"total_groups\": 7, \"admin_groups\": 0, \"total_msg_count\": 43, \"msg_in_groups_count\": 5, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2025-05-23T15:35:59Z\", \"last_msg_date\": \"2026-03-29T09:59:06Z\"}, \"_raw\": {\"status\": true, \"number\": \"917828364328\", \"telegram_id\": \"7749340112\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-23T15:35:59Z\", \"first_name\": \"Mehul\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T09:59:06Z\", \"last_name\": \"!!\", \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 7, \"total_msg_count\": 43, \"usernames_count\": 1}, \"target_id\": \"7749340112\"}}"
+      },
+      {
+        "id": 592,
+        "user_id": 8483983586,
+        "search_type": "mobile_number",
+        "query": "7828364328",
+        "search_date": "2026-04-09 03:25:46",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Ajay Singh gram barbaspur post bamhani bhawal teh narayanganj Bamnhi Bhawal NA BamhaniPartala Niwas Mandla NA Madhya Pradesh 481662\", \"alt\": \"9165521607\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"Ajay Singh\", \"id\": \"553395895780\", \"mobile\": \"7828364328\", \"name\": \"Mahesh Kumar\"}, {\"address\": \"S/O Uderam Kadwe S/O Uderam Kadwe Bichhua Bichhua Bichhua BICHHUA-CHHINDWARA MP 480111\", \"alt\": \"7828364328\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"UDERAM KADWE\", \"id\": \"602550655283\", \"mobile\": \"9926576255\", \"name\": \"SANJAY KADWE\"}]}"
       }
     ],
     "bomber_history": [],
