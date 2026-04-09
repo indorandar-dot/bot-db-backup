@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 19:52:41",
+    "created_at": "2026-04-09 19:54:45",
     "stats": {
       "main_users": 496,
       "main_admins": 1,
@@ -5254,8 +5254,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-09 10:56:50",
+        "total_searches": 7,
+        "last_active": "2026-04-09 19:53:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -15445,6 +15445,14 @@
         "query": "9329178241",
         "search_date": "2026-04-09 18:16:30",
         "result": "{\"success\": true, \"data\": [{\"address\": \"w/o vijay das house number-11 mahuapara school road Rajpur sij near haigh school budhabagicha budha bagicha Rajpur rajpur Chhattisgarh 497118\", \"alt\": \"8770788576\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"vijay das\", \"id\": \"514897662151\", \"mobile\": \"9329178241\", \"name\": \"Babi Das\"}, {\"address\": \"S/O Palatan Ram Bek Sewari Gram Baidhi Baidhi Rajpur Balrampur Chhattisgarh 497118\", \"alt\": \"9329178241\", \"circle\": \"JIO MP\", \"email\": \"nishantguptan951@gmail.com\", \"fname\": \"Palatan Ram Bek\", \"id\": \"742673232092\", \"mobile\": \"6263525654\", \"name\": \"Pardeshi Bek\"}]}"
+      },
+      {
+        "id": 607,
+        "user_id": 8228262708,
+        "search_type": "username",
+        "query": "@7449706138",
+        "search_date": "2026-04-09 19:53:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"7449706138\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
