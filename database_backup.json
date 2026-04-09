@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 02:26:24",
+    "created_at": "2026-04-09 02:28:28",
     "stats": {
-      "main_users": 483,
+      "main_users": 484,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 53
@@ -7384,6 +7384,22 @@
         "joined_channels": "[]",
         "total_searches": 7,
         "last_active": "2026-04-07 09:19:48",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8591454774,
+        "username": "",
+        "first_name": "Ꮋꫀʏㅤ𝙳 𝙴 𝙽 𝚉 𝙸ㅤᥫ᭡",
+        "join_date": "2026-04-09 02:28:26",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-09 02:28:26",
         "money": 0,
         "clone_bots": 0
       },
