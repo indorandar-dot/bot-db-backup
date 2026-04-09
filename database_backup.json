@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 04:05:37",
+    "created_at": "2026-04-09 04:07:33",
     "stats": {
-      "main_users": 484,
+      "main_users": 485,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 54
+      "total_clone_users": 55
     }
   },
   "main_bot": {
@@ -4177,7 +4177,7 @@
         "first_name": "Your Father",
         "join_date": "2026-04-02 05:16:23",
         "referrer": null,
-        "credits": 28,
+        "credits": 30,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -6728,6 +6728,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-30 08:58:48",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8468556166,
+        "username": "",
+        "first_name": "₊· ͟͟͞͞➳꯭❥꯭꯭꯭꯭❛ 𝙋𝙍𝙄𝙉𝘾𝙀 𝙅𝘼𝙄𝙎𝙒𝘼𝙇❜꯭𝆺꯭꯭꯭꯭꯭𝅥༎꯭ࠫ✺‌➛",
+        "join_date": "2026-04-09 04:07:25",
+        "referrer": 8041167457,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-09 04:07:25",
         "money": 0,
         "clone_bots": 0
       },
@@ -10397,6 +10413,12 @@
         "referrer": 6929609082,
         "referred": 6909828107,
         "date": "2026-04-08 07:13:15"
+      },
+      {
+        "id": 196,
+        "referrer": 8041167457,
+        "referred": 8468556166,
+        "date": "2026-04-09 04:07:25"
       }
     ],
     "search_history": [
@@ -15934,6 +15956,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-08 13:42:29"
+        },
+        {
+          "id": 1111,
+          "clone_token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+          "user_id": 8468556166,
+          "username": "",
+          "first_name": "₊· ͟͟͞͞➳꯭❥꯭꯭꯭꯭❛ 𝙋𝙍𝙄𝙉𝘾𝙀 𝙅𝘼𝙄𝙎𝙒𝘼𝙇❜꯭𝆺꯭꯭꯭꯭꯭𝅥༎꯭ࠫ✺‌➛",
+          "join_date": "2026-04-09 04:07:25",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-09 04:07:25"
         },
         {
           "id": 1001,
