@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-09 07:38:37",
+    "created_at": "2026-04-09 07:40:41",
     "stats": {
-      "main_users": 490,
+      "main_users": 491,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 57
+      "total_clone_users": 58
     }
   },
   "main_bot": {
@@ -680,6 +680,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-02 04:47:15",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 5857378844,
+        "username": "Me_Tera_Param_Sundera18",
+        "first_name": "❤⃝‌ঔৣ{𝕜𝕒𝕣t‌i‌k‌ s‌h‌a r мꍏঔৣ꧂❥‌‌💙᭄",
+        "join_date": "2026-04-09 07:40:40",
+        "referrer": 8041167457,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-09 07:40:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -4225,7 +4241,7 @@
         "first_name": "Your Father",
         "join_date": "2026-04-02 05:16:23",
         "referrer": null,
-        "credits": 30,
+        "credits": 32,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -10511,6 +10527,12 @@
         "referrer": 8041167457,
         "referred": 8468556166,
         "date": "2026-04-09 04:07:25"
+      },
+      {
+        "id": 197,
+        "referrer": 8041167457,
+        "referred": 5857378844,
+        "date": "2026-04-09 07:40:40"
       }
     ],
     "search_history": [
@@ -15983,6 +16005,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-07 18:23:52"
+        },
+        {
+          "id": 1121,
+          "clone_token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+          "user_id": 5857378844,
+          "username": "Me_Tera_Param_Sundera18",
+          "first_name": "❤⃝‌ঔৣ{𝕜𝕒𝕣t‌i‌k‌ s‌h‌a r мꍏঔৣ꧂❥‌‌💙᭄",
+          "join_date": "2026-04-09 07:40:40",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-09 07:40:40"
         },
         {
           "id": 1070,
