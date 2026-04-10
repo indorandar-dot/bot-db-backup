@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 19:28:02",
+    "created_at": "2026-04-10 19:30:05",
     "stats": {
       "main_users": 511,
       "main_admins": 1,
@@ -1473,7 +1473,7 @@
         "first_name": "⎝⎝✧ 殺 𝐒𝐎𝐌𝐈𝐑 𝐁𝐇𝐀𝐈 ✧⎠⎠",
         "join_date": "2026-04-10 19:27:55",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -9788,6 +9788,10 @@
       },
       {
         "user_id": 6049790255,
+        "claim_date": "2026-04-10"
+      },
+      {
+        "user_id": 6562600117,
         "claim_date": "2026-04-10"
       }
     ],
