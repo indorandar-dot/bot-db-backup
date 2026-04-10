@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 13:54:27",
+    "created_at": "2026-04-10 13:56:31",
     "stats": {
       "main_users": 502,
       "main_admins": 1,
@@ -6433,13 +6433,13 @@
         "first_name": "𓆩👑⃟𓆪•𝐌𝐀𝐃𝐄𝐗•𓆩⃟🔥𓆪",
         "join_date": "2026-04-04 17:14:44",
         "referrer": null,
-        "credits": 1004,
+        "credits": 1005,
         "is_blocked": 0,
         "is_premium": 1,
         "premium_until": "2026-05-05 03:29:32",
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-06 08:04:43",
+        "total_searches": 3,
+        "last_active": "2026-04-10 13:55:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -8543,7 +8543,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-10 13:50:26",
+        "last_active": "2026-04-10 13:55:22",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -9586,6 +9586,10 @@
       },
       {
         "user_id": 6975957363,
+        "claim_date": "2026-04-10"
+      },
+      {
+        "user_id": 8389496051,
         "claim_date": "2026-04-10"
       }
     ],
@@ -15798,6 +15802,14 @@
         "search_type": "mobile_number",
         "query": "7079843653",
         "search_date": "2026-04-10 13:09:26",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}, {\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}]}"
+      },
+      {
+        "id": 627,
+        "user_id": 8389496051,
+        "search_type": "mobile_number",
+        "query": "7079843653",
+        "search_date": "2026-04-10 13:55:08",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}, {\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}]}"
       }
     ],
