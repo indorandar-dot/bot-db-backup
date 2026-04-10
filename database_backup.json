@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 09:54:15",
+    "created_at": "2026-04-10 09:56:19",
     "stats": {
       "main_users": 500,
       "main_admins": 1,
@@ -1201,13 +1201,13 @@
         "first_name": "Digital Bhai MK",
         "join_date": "2026-03-31 09:15:03",
         "referrer": null,
-        "credits": 3,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-10 09:54:13",
+        "total_searches": 4,
+        "last_active": "2026-04-10 09:55:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -7041,13 +7041,13 @@
         "first_name": "Raj kumar",
         "join_date": "2026-03-31 06:30:04",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-09 03:25:46",
+        "total_searches": 4,
+        "last_active": "2026-04-10 09:55:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -15681,6 +15681,30 @@
         "query": "9955446831",
         "search_date": "2026-04-10 09:54:13",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Nivaran Mandal NA Udhwa Udhwa Sahibganj NA Jharkhand 816108\", \"alt\": \"9955446831\", \"circle\": \"JIO BHR&JHR\", \"email\": \"bishnu.kumar09@gmail.com\", \"fname\": \"Nivaran Mandal\", \"id\": \"278900792479\", \"mobile\": \"9955446831\", \"name\": \"Vishnu Kumar Mandal\"}, {\"address\": \"S/O Nivaran Mandal NA Udhwa Udhwa Sahibganj NA Jharkhand 816108\", \"alt\": \"9955446831\", \"circle\": \"JIO BHR&JHR\", \"email\": \"bishnu.kumar09@gmail.com\", \"fname\": \"Nivaran Mandal\", \"id\": \"278900792479\", \"mobile\": \"9955446831\", \"name\": \"Vishnu Kumar Mandal\"}, {\"address\": \"no76 kumbalagodu shiva temple road 1stmain kumbalagodu Bangalore South Bangalore Karnataka 560074\", \"alt\": \"9955446831\", \"circle\": \"JIO KARNATKA\", \"email\": \"\", \"fname\": \"markash lang\", \"id\": \"930283311180\", \"mobile\": \"8761806212\", \"name\": \"Laban Lang\"}]}"
+      },
+      {
+        "id": 621,
+        "user_id": 6403460745,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6163871435, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-10 09:54:44",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6163871435\", \"username\": \"\", \"full_name\": \"(\\u02f6\\u02c3 \\u1d55 \\u02c2\\u02f6)\", \"first_name\": \"(\\u02f6\\u02c3 \\u1d55 \\u02c2\\u02f6)\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918122152734\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-10-29T09:27:57Z\", \"first_name\": \"(\\u02f6\\u02c3 \\u1d55 \\u02c2\\u02f6)\", \"is_active\": true, \"last_msg_date\": \"2026-03-28T07:36:29Z\", \"last_name\": null, \"msg_in_groups_count\": 40, \"names_count\": 2, \"total_groups\": 53, \"total_msg_count\": 259, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-10-29T09:27:57Z\", \"first_name\": \"(\\u02f6\\u02c3 \\u1d55 \\u02c2\\u02f6)\", \"is_active\": true, \"last_msg_date\": \"2026-03-28T07:36:29Z\", \"last_name\": null, \"msg_in_groups_count\": 40, \"names_count\": 2, \"total_groups\": 53, \"total_msg_count\": 259, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918122152734\", \"status\": true, \"target_id\": \"6163871435\"}}"
+      },
+      {
+        "id": 622,
+        "user_id": 8483983586,
+        "search_type": "username",
+        "query": "@URF_NOVA",
+        "search_date": "2026-04-10 09:55:11",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7229517038\", \"username\": \"URF_NOVA\", \"full_name\": \"\\ud835\\udc0d\\ud835\\udc0e\\ud835\\udc15\\ud835\\udc00 \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11 \\u267b\\ufe0f\", \"first_name\": \"\\ud835\\udc0d\\ud835\\udc0e\\ud835\\udc15\\ud835\\udc00 \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11 \\u267b\\ufe0f\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918750673645\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7229517038\", \"first_name\": \"\\ud835\\udc0d\\ud835\\udc0e\\ud835\\udc15\\ud835\\udc00 \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11 \\u267b\\ufe0f\", \"last_name\": null, \"is_active\": true, \"total_groups\": 79, \"admin_groups\": 0, \"total_msg_count\": 1800, \"msg_in_groups_count\": 61, \"names_count\": 11, \"usernames_count\": 11, \"first_msg_date\": \"2024-11-29T17:53:30Z\", \"last_msg_date\": \"2026-04-02T10:03:19Z\"}, \"_raw\": {\"status\": true, \"number\": \"918750673645\", \"telegram_id\": \"7229517038\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-29T17:53:30Z\", \"first_name\": \"\\ud835\\udc0d\\ud835\\udc0e\\ud835\\udc15\\ud835\\udc00 \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11 \\u267b\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-04-02T10:03:19Z\", \"last_name\": null, \"msg_in_groups_count\": 61, \"names_count\": 11, \"total_groups\": 79, \"total_msg_count\": 1800, \"usernames_count\": 11}, \"target_id\": \"7229517038\"}}"
+      },
+      {
+        "id": 623,
+        "user_id": 6403460745,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7175256368, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-10 09:55:39",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7175256368\", \"username\": \"\", \"full_name\": \"\\uff3a\\uff29\\uff2d\\uff2f \\uff11\\uff2d\", \"first_name\": \"\\uff3a\\uff29\\uff2d\\uff2f \\uff11\\uff2d\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917606087050\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-09-07T03:23:20Z\", \"first_name\": \"\\uff3a\\uff29\\uff2d\\uff2f \\uff11\\uff2d\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T15:59:14Z\", \"last_name\": null, \"msg_in_groups_count\": 8, \"names_count\": 10, \"total_groups\": 12, \"total_msg_count\": 799, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-09-07T03:23:20Z\", \"first_name\": \"\\uff3a\\uff29\\uff2d\\uff2f \\uff11\\uff2d\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T15:59:14Z\", \"last_name\": null, \"msg_in_groups_count\": 8, \"names_count\": 10, \"total_groups\": 12, \"total_msg_count\": 799, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917606087050\", \"status\": true, \"target_id\": \"7175256368\"}}"
       }
     ],
     "bomber_history": [],
@@ -15842,7 +15866,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-10 09:49:45"
+          "last_active": "2026-04-10 09:55:23"
         },
         {
           "id": 905,
