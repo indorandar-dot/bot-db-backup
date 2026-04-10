@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 16:42:19",
+    "created_at": "2026-04-10 16:44:03",
     "stats": {
-      "main_users": 508,
+      "main_users": 509,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 73
@@ -4280,6 +4280,22 @@
         "joined_channels": "[]",
         "total_searches": 1,
         "last_active": "2026-04-10 08:17:23",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7987584764,
+        "username": "Harshxhack07",
+        "first_name": "H4R$H X H4CK ☠️",
+        "join_date": "2026-04-10 16:43:56",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 16:43:56",
         "money": 0,
         "clone_bots": 0
       },
