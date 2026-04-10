@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 17:23:44",
+    "created_at": "2026-04-10 17:25:48",
     "stats": {
       "main_users": 510,
       "main_admins": 1,
@@ -2481,13 +2481,13 @@
         "first_name": "꧁𓊈𒆜ʟᴜᴄɪ፝֟ꜰᴇʀ𒆜𓊉꧂",
         "join_date": "2026-04-10 17:01:04",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-10 17:11:03",
+        "total_searches": 2,
+        "last_active": "2026-04-10 17:24:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -16056,6 +16056,14 @@
         "search_type": "mobile_number",
         "query": "7542853031",
         "search_date": "2026-04-10 17:11:03",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}, {\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}]}"
+      },
+      {
+        "id": 636,
+        "user_id": 7270324356,
+        "search_type": "mobile_number",
+        "query": "7542853031",
+        "search_date": "2026-04-10 17:24:38",
         "result": "{\"success\": true, \"data\": [{\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}, {\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}]}"
       }
     ],
