@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 13:08:50",
+    "created_at": "2026-04-10 13:10:00",
     "stats": {
-      "main_users": 501,
+      "main_users": 502,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 69
+      "total_clone_users": 70
     }
   },
   "main_bot": {
@@ -3281,13 +3281,13 @@
         "first_name": "Yash",
         "join_date": "2026-04-01 10:43:01",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-04 07:11:38",
+        "total_searches": 7,
+        "last_active": "2026-04-10 13:09:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -7580,6 +7580,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8575485230,
+        "username": "",
+        "first_name": "Sabitw",
+        "join_date": "2026-04-10 13:09:52",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 13:09:52",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8579760156,
         "username": "",
         "first_name": "Prince",
@@ -8527,7 +8543,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-10 12:11:18",
+        "last_active": "2026-04-10 13:09:21",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -8677,7 +8693,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-04-10 13:05:46",
+        "last_active": "2026-04-10 13:09:55",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -15775,6 +15791,14 @@
         "query": "6360495446",
         "search_date": "2026-04-10 12:17:24",
         "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Subramanya G1-303/8 Kuntipapu House Bantwal Taluk Kalladka Golthamajal Dakshina Kannada Karnataka 574222\", \"alt\": \"919164014449\", \"circle\": \"JIO KARNATKA\", \"email\": \"\", \"fname\": \"Subramanya\", \"id\": \"564632556188\", \"mobile\": \"6360495446\", \"name\": \"Sridevi L\"}]}"
+      },
+      {
+        "id": 626,
+        "user_id": 7667099238,
+        "search_type": "mobile_number",
+        "query": "7079843653",
+        "search_date": "2026-04-10 13:09:26",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}, {\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}]}"
       }
     ],
     "bomber_history": [],
@@ -16417,6 +16441,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-05 12:54:51"
+        },
+        {
+          "id": 1267,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8575485230,
+          "username": "",
+          "first_name": "Sabitw",
+          "join_date": "2026-04-10 13:09:52",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-10 13:09:52"
         },
         {
           "id": 941,
