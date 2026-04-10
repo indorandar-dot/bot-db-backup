@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 14:33:49",
+    "created_at": "2026-04-10 14:35:54",
     "stats": {
       "main_users": 504,
       "main_admins": 1,
@@ -1350,8 +1350,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-10 14:32:08",
+        "total_searches": 1,
+        "last_active": "2026-04-10 14:34:29",
         "money": 0,
         "clone_bots": 0
       },
@@ -15847,6 +15847,14 @@
         "query": "7079843653",
         "search_date": "2026-04-10 13:55:08",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}, {\"address\": \"S/O Subhash Kumar Sah asish lok near bus stand kahalgaon Bhagalpur BHAGALPUR Bhagalpur BIHAR 813203\", \"alt\": \"\", \"circle\": \"VODA BHR&JHR\", \"email\": \"\", \"fname\": \"S/O Subhash Kumar Sah\", \"id\": \"\", \"mobile\": \"7079843653\", \"name\": \"Prabhat Kumar\"}]}"
+      },
+      {
+        "id": 628,
+        "user_id": 6515303657,
+        "search_type": "username",
+        "query": "@REGAFOREVER",
+        "search_date": "2026-04-10 14:34:29",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
