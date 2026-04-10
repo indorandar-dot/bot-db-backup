@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 16:05:00",
+    "created_at": "2026-04-10 16:07:04",
     "stats": {
       "main_users": 507,
       "main_admins": 1,
@@ -1617,13 +1617,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 20,
-        "last_active": "2026-04-09 06:08:11",
+        "total_searches": 21,
+        "last_active": "2026-04-10 16:05:35",
         "money": 0,
         "clone_bots": 0
       },
@@ -15973,6 +15973,14 @@
         "query": "tapx777",
         "search_date": "2026-04-10 16:01:33",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 632,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "7570403375",
+        "search_date": "2026-04-10 16:05:35",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7570403375\", \"username\": \"\", \"full_name\": \"\\ud80c\\uddb0\\ud835\\udc02\\ud835\\ude91\\ud835\\ude8e\\ud835\\ude9b\\ud835\\ude9b\\ud835\\udea2 \\ud83c\\udf38\\ud80c\\uddaa\", \"first_name\": \"\\ud80c\\uddb0\\ud835\\udc02\\ud835\\ude91\\ud835\\ude8e\\ud835\\ude9b\\ud835\\ude9b\\ud835\\udea2 \\ud83c\\udf38\\ud80c\\uddaa\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918926104865\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-18T07:16:11Z\", \"first_name\": \"\\ud80c\\uddb0\\ud835\\udc02\\ud835\\ude91\\ud835\\ude8e\\ud835\\ude9b\\ud835\\ude9b\\ud835\\udea2 \\ud83c\\udf38\\ud80c\\uddaa\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T08:58:57Z\", \"last_name\": null, \"msg_in_groups_count\": 46, \"names_count\": 7, \"total_groups\": 53, \"total_msg_count\": 921, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-18T07:16:11Z\", \"first_name\": \"\\ud80c\\uddb0\\ud835\\udc02\\ud835\\ude91\\ud835\\ude8e\\ud835\\ude9b\\ud835\\ude9b\\ud835\\udea2 \\ud83c\\udf38\\ud80c\\uddaa\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T08:58:57Z\", \"last_name\": null, \"msg_in_groups_count\": 46, \"names_count\": 7, \"total_groups\": 53, \"total_msg_count\": 921, \"usernames_count\": 2}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918926104865\", \"status\": true, \"target_id\": \"7570403375\"}}"
       }
     ],
     "bomber_history": [],
