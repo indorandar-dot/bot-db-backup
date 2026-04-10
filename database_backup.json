@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 14:31:45",
+    "created_at": "2026-04-10 14:32:15",
     "stats": {
-      "main_users": 503,
+      "main_users": 504,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 72
@@ -1336,6 +1336,22 @@
         "joined_channels": "[]",
         "total_searches": 5,
         "last_active": "2026-04-10 01:17:32",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6515303657,
+        "username": "O3mdfn",
+        "first_name": "Omi",
+        "join_date": "2026-04-10 14:32:08",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 14:32:08",
         "money": 0,
         "clone_bots": 0
       },
