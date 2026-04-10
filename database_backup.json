@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 08:14:57",
+    "created_at": "2026-04-10 08:16:40",
     "stats": {
-      "main_users": 499,
+      "main_users": 500,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 65
+      "total_clone_users": 66
     }
   },
   "main_bot": {
@@ -4184,6 +4184,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:08:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7980377863,
+        "username": "Heybuddyy78",
+        "first_name": "❤️F❤️",
+        "join_date": "2026-04-10 08:16:33",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 08:16:33",
         "money": 0,
         "clone_bots": 0
       },
@@ -16032,6 +16048,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-08 13:59:43"
+        },
+        {
+          "id": 1251,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7980377863,
+          "username": "Heybuddyy78",
+          "first_name": "❤️F❤️",
+          "join_date": "2026-04-10 08:16:33",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-10 08:16:33"
         },
         {
           "id": 1244,
