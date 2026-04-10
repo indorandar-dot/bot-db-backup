@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 23:48:39",
+    "created_at": "2026-04-10 23:50:43",
     "stats": {
       "main_users": 512,
       "main_admins": 1,
@@ -6113,13 +6113,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 16,
+        "credits": 15,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 16,
-        "last_active": "2026-04-08 02:02:40",
+        "total_searches": 17,
+        "last_active": "2026-04-10 23:50:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -8703,7 +8703,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-10 22:51:44",
+        "last_active": "2026-04-10 23:50:11",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -16149,6 +16149,14 @@
         "query": "{'user_id': 5332550081, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-10 23:18:17",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5332550081\", \"username\": \"\", \"full_name\": \"Kasif\", \"first_name\": \"Kasif\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"916207764427\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-04-09T11:54:32Z\", \"first_name\": \"Kasif\", \"is_active\": true, \"last_msg_date\": \"2024-01-10T11:06:55Z\", \"last_name\": \"Sheikh\", \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 35, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-04-09T11:54:32Z\", \"first_name\": \"Kasif\", \"is_active\": true, \"last_msg_date\": \"2024-01-10T11:06:55Z\", \"last_name\": \"Sheikh\", \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 35, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"916207764427\", \"status\": true, \"target_id\": \"5332550081\"}}"
+      },
+      {
+        "id": 643,
+        "user_id": 8335023642,
+        "search_type": "mobile_number",
+        "query": "9999999999",
+        "search_date": "2026-04-10 23:50:31",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Sabita Paul\", \"alt\": \"W/O: Ashok Paul\", \"circle\": \"W/O Ashok Paul HUMAIPUR North 24 Parganas KOLKATA North 24 Parganas West Bengal 700155\", \"email\": \"\", \"fname\": \"\\\"9836676391\", \"id\": \"9830037514\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"MS SUSMITA GHOSH\", \"alt\": \"Tulsi Ghosh\", \"circle\": \"D/O Tulsi Ghosh bodai hatdanga HATDANGA Bodai NORTH 24 PARGANAS KOLKATA NORTH 24 PARGANAS West Bengal 700126\", \"email\": \"\", \"fname\": \"\\\"9836002196\", \"id\": \"8637065134\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Firoja Bibi\", \"alt\": \"W/O: Ashraf Ali Gazi\", \"circle\": \"W/O Ashraf Ali Gazi N IMDARIA North 24 Parganas NORTH 24 PARGANAS North 24 Parganas West Bengal 743429\", \"email\": \"\", \"fname\": \"9735003771\", \"id\": \"9999999999\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"Firoja Bibi\", \"alt\": \"W/O: Ashraf Ali Gazi\", \"circle\": \"W/O Ashraf Ali Gazi NIMDARIA North 24 Parganas NORTH 24 PARGANAS North 24 Parganas West Bengal 743429\", \"email\": \"\", \"fname\": \"9735003771\", \"id\": \"9999999999\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"\", \"alt\": \"\", \"circle\": \"\", \"email\": \"\", \"fname\": \"392711813087\\\"9933061011\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"AIRTEL WB\"}, {\"address\": \"Mst Khadija Khatun\", \"alt\": \"liyakat ali mondal\", \"circle\": \"Mohammad Liyakat Ali SIKDESHPUKURIA CHHOTOJAGULIA City/District North 24 Parganas State West Bengal NORTH 24 PARGANAS West Bengal 743294\", \"email\": \"\", \"fname\": \"\\\"9836785294\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Sanowar Hossain\", \"alt\": \"alimuddin sk\", \"circle\": \"- BAGREPARA City/District Murshidabad State West Bengal BHARATPUR MURSHIDABAD West Bengal 742301\", \"email\": \"\", \"fname\": \"9735469597\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"AIRTEL WB\"}, {\"address\": \"MS SAHEBA BIBI\", \"alt\": \"Jugnu Sekh\", \"circle\": \"BALLITOLA MOTHABARI KALIACHAK MOTHABARI MOTHABARI MALDA MALDA MALDA West Bengal 732207\", \"email\": \"\", \"fname\": \"9735613247\", \"id\": \"97335 40146\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"Seikh Ataullah\", \"alt\": \"OyasedSk\", \"circle\": \"Tildanga Uttar Bhabanipur Farakka Barrage Murshidabad MURSHIDABAD Murshidabad West Bengal 742212\", \"email\": \"\", \"fname\": \"9735332463\", \"id\": \"9735566152\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"TAPAS MAJI\", \"alt\": \"TapanMaji\", \"circle\": \"NAIKURI Bishnubar Naikuri NAIKURI Naikuri Purba Medinipur West Bengal 7 21630\", \"email\": \"\", \"fname\": \"815027115682\\\"9734602159\", \"id\": \"9735508861\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"Suparna Mondal\", \"alt\": \"C/O: Samaresh Mondal\", \"circle\": \"C/O Samaresh Mondal CHANDIPUR PARA Nadia NADIA Nadia West Bengal 741504\", \"email\": \"\", \"fname\": \"9883223011\", \"id\": \"9 999999999\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"TAPAS RAKSHIT\", \"alt\": \"TaraknathRakshit\", \"circle\": \"6/1/A RAJENDRA NATH SEN LANE Beadon Street SO BEADON STREET Kolkata Kolkata West Bengal 700006\", \"email\": \"\", \"fname\": \"9883070345\", \"id\": \"9830226657\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"MR ASLAM KHAN\", \"alt\": \"Nur Mohammad\", \"circle\": \"7 NO GALI PBM BYE LANE champadani champadani WARD-19 BAIDYABATI BAIDYABATI HOOGHLY HOOGHLY HOOGHLY West Bengal 712222\", \"email\": \"\", \"fname\": \"xxxxxxxx6 716\\\"9874367032\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"MR ASISH CHAKRAVARTY\", \"alt\": \"Arun Uday Chakravarty\", \"circle\": \"S/O Arun Uday Chakravarty C/O PATHFINDER EDUCATIONAL CENTER 2ND FLOOR NR ANJALI JEWELLERS near Arjya vidya mandir 522B/1 DIAMOND HARBOUR ROAD BEHALA KOLKATA Kolkata WEST BENGAL 700034\", \"email\": \"\", \"fname\": \"813223173758\\\"9830568805\", \"id\": \"9830173331\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Rajib Mukherjee\", \"alt\": \"Sudhamoy\", \"circle\": \"Purandarpur Purandarpur Bankura - II Bankura West Bengal 722155\", \"email\": \"\", \"fname\": \"9800241318\", \"id\": \"9679257223\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"RAMPRASAD BAURI\", \"alt\": \"SUDAM BAURI\", \"circle\": \"JORISHA KASHIPUR JORISHA KASHIPUR BEKO PURULIA 723121 DUMMY KOLKATA West Bengal 666666\", \"email\": \"\", \"fname\": \"936013804989\\\"9830488395\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Jyotirmoy Chatterjee\", \"alt\": \"Santimoy Chatterjee\", \"circle\": \"Santimoy Chatterjee 3 LAL MOHAN BANERJEE ROAD City/District North 24 Parganas State West Bengal MUKHERJE E PARA NORTH 24 PARGANAS West Bengal 700114\", \"email\": \"\", \"fname\": \"9830467197\", \"id\": \"9874803112\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"MR BARZAHAN SEKH\", \"alt\": \"Manik Chand Sheikh\", \"circle\": \"kulutiaketugrambardhaman Kulut ia Ketugram - I Barddhaman kulutiaketugrambardhaman BARDWAN West Bengal 713129\", \"email\": \"\", \"fname\": \"637736899940\\\"9775860385\", \"id\": \"8372097724\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA R\"}, {\"address\": \"SUSAMA DAS\", \"alt\": \"BISWANATH DAS\", \"circle\": \"98A/H/5 SUREN SARKAR ROAD BELIAGHATA KOLKATA West Bengal 700010\", \"email\": \"\", \"fname\": \"424358194421\\\"9883063182\", \"id\": \"\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Sutapa Patra\", \"alt\": \"Khagen Patra\", \"circle\": \"D/O Khagen Patra Kharagpur sanjoal kharagpur m kharagpur Paschim Me dinipur paschim medinipur West Bengal 721301\", \"email\": \"\", \"fname\": \"xxxxxxxx9056\\\"9851649929\", \"id\": \"7003421491\", \"mobile\": \"9999999999\", \"name\": \"VODAFONE KOLKATA\"}]}"
       }
     ],
     "bomber_history": [],
