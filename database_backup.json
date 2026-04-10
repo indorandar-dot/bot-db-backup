@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 17:09:15",
+    "created_at": "2026-04-10 17:11:19",
     "stats": {
       "main_users": 510,
       "main_admins": 1,
@@ -2481,13 +2481,13 @@
         "first_name": "꧁𓊈𒆜ʟᴜᴄɪ፝֟ꜰᴇʀ𒆜𓊉꧂",
         "join_date": "2026-04-10 17:01:04",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-10 17:01:04",
+        "total_searches": 1,
+        "last_active": "2026-04-10 17:11:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -8671,7 +8671,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-10 17:08:03",
+        "last_active": "2026-04-10 17:10:46",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -16049,6 +16049,14 @@
         "query": "9876543210",
         "search_date": "2026-04-10 16:56:33",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR. DEEPAK MEHTA\"}, {\"address\": \"FARAH SHAZIA\", \"alt\": \"QAISER ALAM\", \"circle\": \"8/2/1B DR BIRESH GUHA STREET CIRCUS AVENUE KOLKATA West Bengal 700017\", \"email\": \"\", \"fname\": \"\\\"9836307000\", \"id\": \"8337007000\", \"mobile\": \"9876543210\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"S/O B D Dobriyal H No 2651/67 A Molarband Extn 60 Futa Road 3 Badarpur South Delhi Delhi 110044\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"B D Dobriyal\", \"id\": \"572783453594\", \"mobile\": \"9999883039\", \"name\": \"Sampurna Nand Dobriyal\"}, {\"address\": \"barrack no 2 police station delhichanakyapuri delhi Delhi 110001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Pappu\", \"id\": \"\", \"mobile\": \"9999866575\", \"name\": \"Sachin\"}, {\"address\": \"S/O Suraj Prakash Dhingra M-2/23 GF MODEL TOWN-3 MODEL TOWN North West Delhi Delhi 110009\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Suraj Prakash Dhingra\", \"id\": \"254944943909\", \"mobile\": \"9999772425\", \"name\": \"Nitin Dhingra\"}, {\"address\": \"132 Milansaar Appartment paschim vihar new delhi Paschim Vihar Delhi 110063\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Subhash Kwatra\", \"id\": \"550759224898\", \"mobile\": \"9999565653\", \"name\": \"Puneet Kwatra\"}, {\"address\": \"New T-56 1st Floor Gali No -1 New T Block Near Shukkar Bazar Axis Atm Uttam Nagar Uttam Nagar D k Mohan GardenWest Delhi Delhi 110059\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"sameer chakraborty\", \"id\": \"386605929525\", \"mobile\": \"9990905121\", \"name\": \"Abhishek Chakraborty\"}, {\"address\": \"S/O Qamrul Hasan Usmani H no-482 2nd Floor Zakir Nagar Jamia Nagar South Delhi Delhi 110025\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Qamrul Hasan Usmani\", \"id\": \"487080720599\", \"mobile\": \"9990278168\", \"name\": \"Naved Sajid Usmani\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Yogi Mehto\", \"id\": \"901139751977\", \"mobile\": \"9971995142\", \"name\": \"Sudhir Mehto\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Madan Lal\", \"id\": \"666762808344\", \"mobile\": \"9971846361\", \"name\": \"Anil Sharma\"}, {\"address\": \"G-707 METRO VIHAR SHASTRI PARK DMRC STAFF QUTER DELHIGarhi Mendu North East Delhi 110053\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"late\", \"id\": \"956750738466\", \"mobile\": \"9971796970\", \"name\": \"AMIT KUMAR\"}, {\"address\": \"S/O Jagdish Lal Manocha WZ-153/1 FIRST FLOOR gali no-6 VIRENDER NAGAR West Delhi Delhi 110058\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Jagdish Lal Manocha\", \"id\": \"743704479544\", \"mobile\": \"9971792267\", \"name\": \"Ravinder Kant Manocha\"}, {\"address\": \"S/O Gyasi Ram A-111 FRIENDS ENCLAVE MUNDKA West Delhi Delhi 110041\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Gyasi Ram\", \"id\": \"379547157577\", \"mobile\": \"9971749310\", \"name\": \"Bijender Singh\"}, {\"address\": \"a1 402 tower 1 purvanchal silver city sector 93 Noida Uttar Pradesh 201304\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"richa2619@gmail.com\", \"fname\": \"rajeev varma\", \"id\": \"917436237683\", \"mobile\": \"9971360404\", \"name\": \"richa varma\"}, {\"address\": \"S/O Rattan Chand House No -13 B Railway Board Officers Flats Near New Tamilnadu HouseChanakya Puri New Delhi Delhi 110021\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Rattan Chand\", \"id\": \"949708408337\", \"mobile\": \"9971269111\", \"name\": \"Deepak Kumar\"}]}"
+      },
+      {
+        "id": 635,
+        "user_id": 7270324356,
+        "search_type": "mobile_number",
+        "query": "7542853031",
+        "search_date": "2026-04-10 17:11:03",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}, {\"address\": \"DORMA ward no-02 G.bihra PO Saharsa Ukahi Satar Kataiya Saharsa Saharsa Bihar 852124\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"BUCCHI CHAUDHARY\", \"id\": \"990004657228\", \"mobile\": \"7542853031\", \"name\": \"Indra Mohan Choudhary\"}]}"
       }
     ],
     "bomber_history": [],
