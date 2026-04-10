@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 03:04:51",
+    "created_at": "2026-04-10 03:05:47",
     "stats": {
-      "main_users": 497,
+      "main_users": 498,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 61
+      "total_clone_users": 62
     }
   },
   "main_bot": {
@@ -7832,6 +7832,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-09 06:49:43",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8730893045,
+        "username": "",
+        "first_name": "Abhi Mehta",
+        "join_date": "2026-04-10 03:05:40",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 03:05:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -16319,7 +16335,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-10 02:58:09"
+          "last_active": "2026-04-10 03:05:02"
         },
         {
           "id": 990,
@@ -16470,6 +16486,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-09 17:47:39"
+        },
+        {
+          "id": 1234,
+          "clone_token": "8275782678:AAHKo-UzWHMNxoeVv4F-mqXtcK-DCjVlZBI",
+          "user_id": 8730893045,
+          "username": "",
+          "first_name": "Abhi Mehta",
+          "join_date": "2026-04-10 03:05:40",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-10 03:05:40"
         },
         {
           "id": 1094,
