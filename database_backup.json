@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 07:43:55",
+    "created_at": "2026-04-10 07:45:06",
     "stats": {
-      "main_users": 498,
+      "main_users": 499,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 65
@@ -184,6 +184,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 06:31:05",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 1925135970,
+        "username": "",
+        "first_name": "Mahedi Hasan",
+        "join_date": "2026-04-10 07:44:59",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-10 07:44:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -7777,7 +7793,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 1091,
+        "credits": 1093,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -10673,6 +10689,12 @@
         "referrer": 8041167457,
         "referred": 5857378844,
         "date": "2026-04-09 07:40:40"
+      },
+      {
+        "id": 198,
+        "referrer": 8703382327,
+        "referred": 1925135970,
+        "date": "2026-04-10 07:44:59"
       }
     ],
     "search_history": [
