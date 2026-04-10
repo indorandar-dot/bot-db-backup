@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 09:52:10",
+    "created_at": "2026-04-10 09:54:15",
     "stats": {
       "main_users": 500,
       "main_admins": 1,
@@ -1201,13 +1201,13 @@
         "first_name": "Digital Bhai MK",
         "join_date": "2026-03-31 09:15:03",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-03-31 09:15:28",
+        "total_searches": 2,
+        "last_active": "2026-04-10 09:54:13",
         "money": 0,
         "clone_bots": 0
       },
@@ -15673,6 +15673,14 @@
         "query": "9835600014",
         "search_date": "2026-04-10 08:17:23",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Laldhar Das Majhauli Patna Bihar 801104\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Laldhar Das\", \"id\": \"906586813842\", \"mobile\": \"9835600014\", \"name\": \"Lalmohan Das\"}, {\"address\": \"S/O Laldhar Das Majhauli Patna Bihar 801104\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Laldhar Das\", \"id\": \"906586813842\", \"mobile\": \"9835600014\", \"name\": \"Lalmohan Das\"}, {\"address\": \"s/o laldhar das Akhtiyarpur akhtiyarpur majhauli Bikram patna Bihar 801104\", \"alt\": \"9835600014\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"laldhar das\", \"id\": \"906586813842\", \"mobile\": \"6206251840\", \"name\": \"Lalmohan Das\"}, {\"address\": \"s/o laldhar das Akhtiyarpur akhtiyarpur majhauli Bikram patna Bihar 801104\", \"alt\": \"9835600014\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"laldhar das\", \"id\": \"906586813842\", \"mobile\": \"6206251840\", \"name\": \"Lalmohan Das\"}]}"
+      },
+      {
+        "id": 620,
+        "user_id": 6403460745,
+        "search_type": "mobile_number",
+        "query": "9955446831",
+        "search_date": "2026-04-10 09:54:13",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Nivaran Mandal NA Udhwa Udhwa Sahibganj NA Jharkhand 816108\", \"alt\": \"9955446831\", \"circle\": \"JIO BHR&JHR\", \"email\": \"bishnu.kumar09@gmail.com\", \"fname\": \"Nivaran Mandal\", \"id\": \"278900792479\", \"mobile\": \"9955446831\", \"name\": \"Vishnu Kumar Mandal\"}, {\"address\": \"S/O Nivaran Mandal NA Udhwa Udhwa Sahibganj NA Jharkhand 816108\", \"alt\": \"9955446831\", \"circle\": \"JIO BHR&JHR\", \"email\": \"bishnu.kumar09@gmail.com\", \"fname\": \"Nivaran Mandal\", \"id\": \"278900792479\", \"mobile\": \"9955446831\", \"name\": \"Vishnu Kumar Mandal\"}, {\"address\": \"no76 kumbalagodu shiva temple road 1stmain kumbalagodu Bangalore South Bangalore Karnataka 560074\", \"alt\": \"9955446831\", \"circle\": \"JIO KARNATKA\", \"email\": \"\", \"fname\": \"markash lang\", \"id\": \"930283311180\", \"mobile\": \"8761806212\", \"name\": \"Laban Lang\"}]}"
       }
     ],
     "bomber_history": [],
