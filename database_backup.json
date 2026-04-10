@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 01:17:25",
+    "created_at": "2026-04-10 01:19:29",
     "stats": {
       "main_users": 497,
       "main_admins": 1,
@@ -1302,8 +1302,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-05 14:56:14",
+        "total_searches": 5,
+        "last_active": "2026-04-10 01:17:32",
         "money": 0,
         "clone_bots": 0
       },
@@ -15481,6 +15481,14 @@
         "query": "6351437026",
         "search_date": "2026-04-10 00:55:30",
         "result": "{\"success\": true, \"data\": [{\"address\": \"271 dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur nagbaidhar area dhar society Jetpur Navagadh Jetpur Rajkot Gujarat Gondal\", \"alt\": \"8799261699\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"bhagubhai\", \"id\": \"rum1270222\", \"mobile\": \"6351437026\", \"name\": \"solanki Rameshbhai\"}, {\"address\": \"271 dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur nagbaidhar area dhar society Jetpur Navagadh Jetpur Rajkot Gujarat Gondal\", \"alt\": \"8799261699\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"bhagubhai\", \"id\": \"rum1270222\", \"mobile\": \"6351437026\", \"name\": \"solanki Rameshbhai\"}, {\"address\": \"271 dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur Navagadh Jetpur Rajkot Gujarat dhar society Jetpur nagbaidhar area dhar society Jetpur Navagadh Jetpur Rajkot Gujarat Gondal\", \"alt\": \"8799261699\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"bhagubhai\", \"id\": \"rum1270222\", \"mobile\": \"6351437026\", \"name\": \"solanki Rameshbhai\"}]}"
+      },
+      {
+        "id": 609,
+        "user_id": 6503790542,
+        "search_type": "username",
+        "query": "@SANKAR_BABY0",
+        "search_date": "2026-04-10 01:17:32",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
