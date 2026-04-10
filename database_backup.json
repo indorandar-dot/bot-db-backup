@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-10 07:50:06",
+    "created_at": "2026-04-10 07:52:10",
     "stats": {
       "main_users": 499,
       "main_admins": 1,
@@ -7025,7 +7025,7 @@
         "first_name": "Raj kumar",
         "join_date": "2026-03-31 06:30:04",
         "referrer": null,
-        "credits": 4,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -9492,6 +9492,10 @@
       },
       {
         "user_id": 8346889410,
+        "claim_date": "2026-04-10"
+      },
+      {
+        "user_id": 8483983586,
         "claim_date": "2026-04-10"
       }
     ],
