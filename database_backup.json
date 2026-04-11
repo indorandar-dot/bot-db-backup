@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 15:03:01",
+    "created_at": "2026-04-11 15:05:05",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -17,13 +17,13 @@
         "first_name": "Telegram",
         "join_date": "2026-03-31 06:29:36",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-03-31 06:29:36",
+        "total_searches": 1,
+        "last_active": "2026-04-11 15:04:33",
         "money": 0,
         "clone_bots": 0
       },
@@ -8995,7 +8995,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:29:36",
-        "last_active": "2026-04-11 13:11:33",
+        "last_active": "2026-04-11 15:04:28",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -16737,6 +16737,14 @@
         "query": "{'user_id': 8384513671, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-11 14:04:02",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8384513671\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 693,
+        "user_id": 777000,
+        "search_type": "ff_info",
+        "query": "8420391277",
+        "search_date": "2026-04-11 15:04:33",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"8420391277\", \"accountType\": 1, \"nickname\": \"Plut\\u00f3n2T6w3\", \"region\": \"US\", \"level\": 12, \"exp\": 9709, \"bannerId\": 901047009, \"headPic\": 902036007, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 31, \"lastLoginAt\": \"1737232777\", \"returnAt\": \"1737232777\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1698561997\", \"title\": 904490053, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB47\", \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000027, \"skinColor\": 50, \"clothes\": [203000096, 205000051, 204000068, 211000211], \"equipedSkills\": [16, 4206, 8, 1, 16, 2506, 8, 2, 16, 5806, 8, 3, 16, 6306], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1733537403}, \"clanBasicInfo\": {\"clanId\": \"2047248612\", \"clanName\": \"CK3.E-SPORT\", \"captainId\": \"8813462208\", \"clanLevel\": 1, \"capacity\": 25, \"memberNum\": 11}, \"captainBasicInfo\": {\"accountId\": \"8813462208\", \"accountType\": 1, \"nickname\": \"NO3ed38f0a31\", \"region\": \"US\", \"level\": 23, \"exp\": 26828, \"headPic\": 902029012, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 67, \"lastLoginAt\": \"1713109894\", \"csRank\": 301, \"weaponSkinShows\": [907101435], \"maxRank\": 301, \"csMaxRank\": 301, \"gameBagShow\": 904036001, \"accountPrefers\": {}, \"createAt\": \"1706926008\", \"title\": 904090022, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB43\"}, \"petInfo\": {\"id\": 1300000051, \"level\": 4, \"exp\": 556, \"isSelected\": true, \"skinId\": 1310000052, \"selectedSkillId\": 1315000004}, \"socialInfo\": {\"accountId\": \"8420391277\", \"language\": \"Language_SPANISH\", \"signature\": \"Amo Free Fire\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 800}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775919872\"}}}"
       }
     ],
     "bomber_history": [],
@@ -16793,7 +16801,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-09 09:56:49"
+          "last_active": "2026-04-11 15:04:28"
         },
         {
           "id": 923,
@@ -17198,7 +17206,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-11 10:03:55"
+          "last_active": "2026-04-11 15:04:04"
         },
         {
           "id": 931,
