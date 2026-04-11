@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 02:35:55",
+    "created_at": "2026-04-11 02:38:00",
     "stats": {
       "main_users": 512,
       "main_admins": 2,
@@ -5153,13 +5153,13 @@
         "first_name": "—͞𝐅𝐋𝐀𝐒𝐇 </> 𝐃𝐄𝐕 [🇮🇳]",
         "join_date": "2026-03-30 14:33:09",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-08 10:06:14",
+        "total_searches": 6,
+        "last_active": "2026-04-11 02:37:24",
         "money": 0,
         "clone_bots": 0
       },
@@ -8709,7 +8709,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-11 02:34:58",
+        "last_active": "2026-04-11 02:37:18",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -16203,6 +16203,14 @@
         "query": "admins",
         "search_date": "2026-04-11 02:20:31",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"admins\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 648,
+        "user_id": 8192518877,
+        "search_type": "ff_info",
+        "query": "3419823759",
+        "search_date": "2026-04-11 02:37:24",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"3419823759\", \"accountType\": 1, \"nickname\": \"I'm\\u3164Fazy\\u3164!\", \"region\": \"IND\", \"level\": 63, \"exp\": 1389236, \"bannerId\": 901000171, \"headPic\": 902000189, \"rank\": 317, \"rankingPoints\": 3004, \"badgeCnt\": 40, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 10594, \"showRank\": true, \"lastLoginAt\": \"1775868515\", \"csRank\": 321, \"csRankingPoints\": 100, \"weaponSkinShows\": [907193903, 912049002], \"pinId\": 910030002, \"maxRank\": 317, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1624948311\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000024, \"skinColor\": 50, \"clothes\": [203000482, 204000181, 214039004, 205000059, 211000017, 211000049], \"equipedSkills\": [16, 2701, 8, 1, 16, 4901, 8, 2, 16, 2506, 8, 3, 16, 5806], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockType\": \"UnlockType_LINK\", \"unlockTime\": 1655252214}, \"clanBasicInfo\": {\"clanId\": \"3049910231\", \"clanName\": \"I'm\\u3164Fazy\\u3164!!\", \"captainId\": \"3419823759\", \"clanLevel\": 5, \"capacity\": 45, \"memberNum\": 5}, \"captainBasicInfo\": {\"accountId\": \"3419823759\", \"accountType\": 1, \"nickname\": \"I'm\\u3164Fazy\\u3164!\", \"region\": \"IND\", \"level\": 63, \"exp\": 1389236, \"bannerId\": 901000171, \"headPic\": 902000189, \"rank\": 317, \"rankingPoints\": 3004, \"badgeCnt\": 40, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 10594, \"showRank\": true, \"lastLoginAt\": \"1775868515\", \"csRank\": 321, \"csRankingPoints\": 100, \"weaponSkinShows\": [907193903, 912049002], \"pinId\": 910030002, \"maxRank\": 317, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1624948311\", \"title\": 904590059, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000093, \"selectedSkillId\": 1315000011}, \"socialInfo\": {\"accountId\": \"3419823759\", \"language\": \"Language_ARABIC\", \"signature\": \"[b][c][FF0099]\\u256d\\u2500\\u256e\\n\\u2502\\u2661\\u2502 KOLOKTI\\n\\u2570\\u2500\\u256f\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1775791451\"}}}"
       }
     ],
     "bomber_history": [],
