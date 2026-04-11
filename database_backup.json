@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 09:30:43",
+    "created_at": "2026-04-11 09:32:47",
     "stats": {
       "main_users": 518,
       "main_admins": 1,
@@ -8198,8 +8198,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-08 02:58:52",
+        "total_searches": 2,
+        "last_active": "2026-04-11 09:31:40",
         "money": 0,
         "clone_bots": 0
       },
@@ -8589,7 +8589,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-01 10:41:57",
-        "last_active": "2026-04-11 07:17:13",
+        "last_active": "2026-04-11 09:31:27",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -16507,6 +16507,14 @@
         "query": "8780847085",
         "search_date": "2026-04-11 08:34:03",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8780847085\", \"username\": \"\", \"full_name\": \"E\\u0274\\u0274\\u1d00\", \"first_name\": \"E\\u0274\\u0274\\u1d00\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-10T03:32:55Z\", \"first_name\": \"E\\u0274\\u0274\\u1d00\", \"is_active\": true, \"last_msg_date\": \"2026-04-10T03:42:52Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 16, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-10T03:32:55Z\", \"first_name\": \"E\\u0274\\u0274\\u1d00\", \"is_active\": true, \"last_msg_date\": \"2026-04-10T03:42:52Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 16, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8780847085\"}}"
+      },
+      {
+        "id": 672,
+        "user_id": 8742641150,
+        "search_type": "username",
+        "query": "H4X_Deepak_bhai",
+        "search_date": "2026-04-11 09:31:40",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -17418,7 +17426,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-08 02:58:38"
+          "last_active": "2026-04-11 09:31:27"
         }
       ],
       "daily_claims": [],
