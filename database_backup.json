@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 14:03:08",
+    "created_at": "2026-04-11 14:05:13",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -2486,8 +2486,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-11 10:33:35",
+        "total_searches": 4,
+        "last_active": "2026-04-11 14:04:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -16699,6 +16699,14 @@
         "query": "9608219101",
         "search_date": "2026-04-11 13:44:48",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Mohammad Hasim ward no 2 parna Parna NA Parna Cheria Bariarpur Begusarai NA Bihar 851131\", \"alt\": \"8677850651\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"Mohammad Hasim\", \"id\": \"789914985613\", \"mobile\": \"9608219101\", \"name\": \"Mohammad Azhar\"}, {\"address\": \"S/O Mohammad Hasim ward no 2 parna Parna NA Parna Cheria Bariarpur Begusarai NA Bihar 851131\", \"alt\": \"8677850651\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Mohammad Hasim\", \"id\": \"789914985613\", \"mobile\": \"9608219101\", \"name\": \"Mohammad Azhar\"}, {\"address\": \"S/O Mohammad Hasim ward no 2 parna Parna NA Parna Cheria Bariarpur Begusarai NA Bihar 851131\", \"alt\": \"8677850651\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"Mohammad Hasim\", \"id\": \"789914985613\", \"mobile\": \"9608219101\", \"name\": \"Mohammad Azhar\"}]}"
+      },
+      {
+        "id": 692,
+        "user_id": 7257725476,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8384513671, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 14:04:02",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8384513671\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -17737,7 +17745,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-09 13:34:39"
+          "last_active": "2026-04-11 14:03:30"
         },
         {
           "id": 1302,
