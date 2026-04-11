@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 15:54:35",
+    "created_at": "2026-04-11 15:56:39",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -6321,13 +6321,13 @@
         "first_name": "DARK X LIVE",
         "join_date": "2026-04-02 09:20:48",
         "referrer": null,
-        "credits": 3,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-10 05:28:50",
+        "total_searches": 8,
+        "last_active": "2026-04-11 15:56:27",
         "money": 0,
         "clone_bots": 0
       },
@@ -9990,6 +9990,10 @@
       },
       {
         "user_id": 7980377863,
+        "claim_date": "2026-04-11"
+      },
+      {
+        "user_id": 8346889410,
         "claim_date": "2026-04-11"
       }
     ],
@@ -16745,6 +16749,14 @@
         "query": "8420391277",
         "search_date": "2026-04-11 15:04:33",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"8420391277\", \"accountType\": 1, \"nickname\": \"Plut\\u00f3n2T6w3\", \"region\": \"US\", \"level\": 12, \"exp\": 9709, \"bannerId\": 901047009, \"headPic\": 902036007, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 31, \"lastLoginAt\": \"1737232777\", \"returnAt\": \"1737232777\", \"csRank\": 301, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1698561997\", \"title\": 904490053, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB47\", \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000027, \"skinColor\": 50, \"clothes\": [203000096, 205000051, 204000068, 211000211], \"equipedSkills\": [16, 4206, 8, 1, 16, 2506, 8, 2, 16, 5806, 8, 3, 16, 6306], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1733537403}, \"clanBasicInfo\": {\"clanId\": \"2047248612\", \"clanName\": \"CK3.E-SPORT\", \"captainId\": \"8813462208\", \"clanLevel\": 1, \"capacity\": 25, \"memberNum\": 11}, \"captainBasicInfo\": {\"accountId\": \"8813462208\", \"accountType\": 1, \"nickname\": \"NO3ed38f0a31\", \"region\": \"US\", \"level\": 23, \"exp\": 26828, \"headPic\": 902029012, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 67, \"lastLoginAt\": \"1713109894\", \"csRank\": 301, \"weaponSkinShows\": [907101435], \"maxRank\": 301, \"csMaxRank\": 301, \"gameBagShow\": 904036001, \"accountPrefers\": {}, \"createAt\": \"1706926008\", \"title\": 904090022, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB43\"}, \"petInfo\": {\"id\": 1300000051, \"level\": 4, \"exp\": 556, \"isSelected\": true, \"skinId\": 1310000052, \"selectedSkillId\": 1315000004}, \"socialInfo\": {\"accountId\": \"8420391277\", \"language\": \"Language_SPANISH\", \"signature\": \"Amo Free Fire\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 800}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775919872\"}}}"
+      },
+      {
+        "id": 694,
+        "user_id": 8346889410,
+        "search_type": "username",
+        "query": "@DARK_VIP_CODING",
+        "search_date": "2026-04-11 15:56:27",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
