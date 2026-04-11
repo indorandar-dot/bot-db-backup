@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 10:55:15",
+    "created_at": "2026-04-11 10:57:19",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -5457,13 +5457,13 @@
         "first_name": "𝙘𝙝𝙞𝙠𝙪....",
         "join_date": "2026-04-11 09:40:09",
         "referrer": null,
-        "credits": 3,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-11 10:54:30",
+        "total_searches": 4,
+        "last_active": "2026-04-11 10:56:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -16563,6 +16563,22 @@
         "query": "7250514968",
         "search_date": "2026-04-11 10:54:30",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}, {\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}]}"
+      },
+      {
+        "id": 677,
+        "user_id": 8218016230,
+        "search_type": "mobile_number",
+        "query": "9006489517",
+        "search_date": "2026-04-11 10:55:22",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Vill Post Ghon Ghour Ps Babubarhi Madhubani Madhubani 847235\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Hirday Ray\", \"id\": \"\", \"mobile\": \"9006489517\", \"name\": \"Umedlal Ray\"}, {\"address\": \"Vill Post Ghon Ghour Ps Babubarhi Madhubani Madhubani 847235\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Hirday Ray\", \"id\": \"\", \"mobile\": \"9006489517\", \"name\": \"Umedlal Ray\"}]}"
+      },
+      {
+        "id": 678,
+        "user_id": 8218016230,
+        "search_type": "mobile_number",
+        "query": "9570721212",
+        "search_date": "2026-04-11 10:56:31",
+        "result": "{\"success\": true, \"data\": [{\"address\": \".. DIGHI KALAN .. DIGHI KALAN VAISHALI Vaishali VAISHALI Bihar 844102\", \"alt\": \"9955590412\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Shibdutta Rai\", \"id\": \"307072265730\", \"mobile\": \"9570721212\", \"name\": \"Ramanand Rai\"}, {\"address\": \".. DIGHI KALAN .. DIGHI KALAN VAISHALI Vaishali VAISHALI Bihar 844102\", \"alt\": \"9955590412\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Shibdutta Rai\", \"id\": \"307072265730\", \"mobile\": \"9570721212\", \"name\": \"Ramanand Rai\"}]}"
       }
     ],
     "bomber_history": [],
