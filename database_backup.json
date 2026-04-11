@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 02:09:03",
+    "created_at": "2026-04-11 02:11:07",
     "stats": {
       "main_users": 512,
       "main_admins": 1,
@@ -1985,7 +1985,7 @@
         "first_name": "𝐒ᴀʟᴀᴀʀ",
         "join_date": "2026-03-31 06:31:02",
         "referrer": null,
-        "credits": 4,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -9812,6 +9812,10 @@
       },
       {
         "user_id": 8483983586,
+        "claim_date": "2026-04-11"
+      },
+      {
+        "user_id": 6955078320,
         "claim_date": "2026-04-11"
       }
     ],
