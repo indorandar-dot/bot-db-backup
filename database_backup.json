@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 11:20:02",
+    "created_at": "2026-04-11 11:22:06",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -5462,8 +5462,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-11 10:56:31",
+        "total_searches": 7,
+        "last_active": "2026-04-11 11:21:41",
         "money": 0,
         "clone_bots": 0
       },
@@ -16611,6 +16611,30 @@
         "query": "7375493935",
         "search_date": "2026-04-11 11:04:43",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7375493935\", \"username\": \"SAGUU_HAREE\", \"full_name\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud835\\udde6\\ud835\\uddd4\\ud835\\uddda\\ud835\\udde8\\ud835\\udde8 \\ud835\\udddb\\ud835\\uddd4\\ud835\\udde5\\ud835\\uddd8\\ud835\\uddd8..! \\ud83e\\udef6\\ud83c\\udffb\\u2764\\ufe0f\\u200d\\ud83e\\ude79 \\ud83d\\udf32 [ \\ud835\\uddd5\\ud835\\udde2\\ud835\\udde7 \\ud835\\udde3\\ud835\\udde5\\ud835\\udde2\\ud835\\udde0\\ud835\\udde2\\ud835\\udde7\\ud835\\uddd8\\ud835\\udde5 ] [\\ud83e\\udef6\\ud83c\\udffb]\", \"first_name\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud835\\udde6\\ud835\\uddd4\\ud835\\uddda\\ud835\\udde8\\ud835\\udde8 \\ud835\\udddb\\ud835\\uddd4\\ud835\\udde5\\ud835\\uddd8\\ud835\\uddd8..! \\ud83e\\udef6\\ud83c\\udffb\\u2764\\ufe0f\\u200d\\ud83e\\ude79 \\ud83d\\udf32 [ \\ud835\\uddd5\\ud835\\udde2\\ud835\\udde7 \\ud835\\udde3\\ud835\\udde5\\ud835\\udde2\\ud835\\udde0\\ud835\\udde2\\ud835\\udde7\\ud835\\uddd8\\ud835\\udde5 ] [\\ud83e\\udef6\\ud83c\\udffb]\", \"last_name\": \"\", \"bio\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e \\ud81a\\udcd8 \\ud835\\udc04\\u1d20\\u1d07\\u0280\\u028f \\ud835\\udc03\\u1d0f\\u1d21\\u0274\\ua730\\u1d00\\u029f\\u029f \\ud835\\udc08\\ua731 \\ud835\\udc13\\u029c\\u1d07 \\ud835\\udc06\\u0280\\u1d07\\u1d00\\u1d1b\\u1d07\\ua731\\u1d1b \\ud835\\udc13\\u026a\\u1d0d\\u1d07 \\ud835\\udc13\\u1d0f \\ud835\\udc02\\u1d0f\\u1d0d\\u0299\\u1d00\\u1d04\\u1d0b \\ud83d\\udc80 ! -http://telegra.ph/Legal-Account-notice-12-20\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"7375493935\", \"username\": \"SAGUU_HAREE\", \"first_name\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud835\\udde6\\ud835\\uddd4\\ud835\\uddda\\ud835\\udde8\\ud835\\udde8 \\ud835\\udddb\\ud835\\uddd4\\ud835\\udde5\\ud835\\uddd8\\ud835\\uddd8..! \\ud83e\\udef6\\ud83c\\udffb\\u2764\\ufe0f\\u200d\\ud83e\\ude79 \\ud83d\\udf32 [ \\ud835\\uddd5\\ud835\\udde2\\ud835\\udde7 \\ud835\\udde3\\ud835\\udde5\\ud835\\udde2\\ud835\\udde0\\ud835\\udde2\\ud835\\udde7\\ud835\\uddd8\\ud835\\udde5 ] [\\ud83e\\udef6\\ud83c\\udffb]\", \"last_name\": \"\", \"full_name\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e\\ud835\\udde6\\ud835\\uddd4\\ud835\\uddda\\ud835\\udde8\\ud835\\udde8 \\ud835\\udddb\\ud835\\uddd4\\ud835\\udde5\\ud835\\uddd8\\ud835\\uddd8..! \\ud83e\\udef6\\ud83c\\udffb\\u2764\\ufe0f\\u200d\\ud83e\\ude79 \\ud83d\\udf32 [ \\ud835\\uddd5\\ud835\\udde2\\ud835\\udde7 \\ud835\\udde3\\ud835\\udde5\\ud835\\udde2\\ud835\\udde0\\ud835\\udde2\\ud835\\udde7\\ud835\\uddd8\\ud835\\udde5 ] [\\ud83e\\udef6\\ud83c\\udffb]\", \"bio\": \"\\u23e4\\u035f\\u035e\\u035f\\u035e \\ud81a\\udcd8 \\ud835\\udc04\\u1d20\\u1d07\\u0280\\u028f \\ud835\\udc03\\u1d0f\\u1d21\\u0274\\ua730\\u1d00\\u029f\\u029f \\ud835\\udc08\\ua731 \\ud835\\udc13\\u029c\\u1d07 \\ud835\\udc06\\u0280\\u1d07\\u1d00\\u1d1b\\u1d07\\ua731\\u1d1b \\ud835\\udc13\\u026a\\u1d0d\\u1d07 \\ud835\\udc13\\u1d0f \\ud835\\udc02\\u1d0f\\u1d0d\\u0299\\u1d00\\u1d04\\u1d0b \\ud83d\\udc80 ! -http://telegra.ph/Legal-Account-notice-12-20\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"SAGUU_HAREE\"]}}"
+      },
+      {
+        "id": 682,
+        "user_id": 8218016230,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8275940391, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 11:20:32",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8275940391\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 683,
+        "user_id": 8218016230,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7856823363, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 11:21:11",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7856823363\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 684,
+        "user_id": 8218016230,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8287345143, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 11:21:41",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8287345143\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
