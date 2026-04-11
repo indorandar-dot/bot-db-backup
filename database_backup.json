@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 12:13:39",
+    "created_at": "2026-04-11 12:15:43",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -1537,13 +1537,13 @@
         "first_name": "•ㅤㅤ",
         "join_date": "2026-04-01 10:43:07",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-01 10:43:07",
+        "total_searches": 1,
+        "last_active": "2026-04-11 12:14:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -16663,6 +16663,14 @@
         "query": "9077706666",
         "search_date": "2026-04-11 12:10:15",
         "result": "{\"success\": true, \"data\": [{\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"Abhishek Kumar Tiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}]}"
+      },
+      {
+        "id": 688,
+        "user_id": 6624358517,
+        "search_type": "mobile_number",
+        "query": "7903675780",
+        "search_date": "2026-04-11 12:14:45",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"kalyanpur kalyanpur town village kalyanapur anchal paliganj paliganj Patna Patna Bihar 801110\", \"alt\": \"7667212913\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"suresh singh\", \"id\": \"YML2444552\", \"mobile\": \"7903675780\", \"name\": \"ratnesh kumar\"}, {\"address\": \"kalyanpur kalyanpur town village kalyanapur anchal paliganj paliganj Patna Patna Bihar 801110\", \"alt\": \"7667212913\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"suresh singh\", \"id\": \"YML2444552\", \"mobile\": \"7903675780\", \"name\": \"ratnesh kumar\"}, {\"address\": \"kalyanpur kalyanpur town village kalyanapur anchal paliganj paliganj Patna Patna Bihar 801110\", \"alt\": \"7667212913\", \"circle\": \"JIO BHR&JHR\", \"email\": \"\", \"fname\": \"suresh singh\", \"id\": \"YML2444552\", \"mobile\": \"7903675780\", \"name\": \"ratnesh kumar\"}]}"
       }
     ],
     "bomber_history": [],
