@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 12:09:30",
+    "created_at": "2026-04-11 12:11:35",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -5553,13 +5553,13 @@
         "first_name": "亗ꪜɪʟʟᴇɴ亗",
         "join_date": "2026-03-30 16:59:43",
         "referrer": null,
-        "credits": 48,
+        "credits": 47,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-09 19:53:44",
+        "total_searches": 9,
+        "last_active": "2026-04-11 12:10:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -8815,7 +8815,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-11 12:09:10",
+        "last_active": "2026-04-11 12:10:49",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -9952,6 +9952,10 @@
       },
       {
         "user_id": 7375493935,
+        "claim_date": "2026-04-11"
+      },
+      {
+        "user_id": 8228262708,
         "claim_date": "2026-04-11"
       }
     ],
@@ -16643,6 +16647,22 @@
         "query": "{'user_id': 8467145858, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-11 11:24:50",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8467145858\", \"username\": \"\", \"full_name\": \"\\u1c14\\u1a5a\\u0362\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83c\\udded\\u200c\\ud835\\udd86\\ud835\\udd95\\ud835\\udd95\\ud835\\udd93\\ud835\\udd8e\\ud835\\udd93\\ud835\\udd8a\\ud835\\udd98\\ud835\\udd98\\ud83d\\udc3c\\ud83c\\uddf6\\u200c\\ud835\\udd9a\\ud835\\udd8a\\ud835\\udd8a\\ud835\\udd93\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83d\\udd4a\\ufe0f\", \"first_name\": \"\\u1c14\\u1a5a\\u0362\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83c\\udded\\u200c\\ud835\\udd86\\ud835\\udd95\\ud835\\udd95\\ud835\\udd93\\ud835\\udd8e\\ud835\\udd93\\ud835\\udd8a\\ud835\\udd98\\ud835\\udd98\\ud83d\\udc3c\\ud83c\\uddf6\\u200c\\ud835\\udd9a\\ud835\\udd8a\\ud835\\udd8a\\ud835\\udd93\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83d\\udd4a\\ufe0f\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-11T02:30:35Z\", \"first_name\": \"\\u1c14\\u1a5a\\u0362\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83c\\udded\\u200c\\ud835\\udd86\\ud835\\udd95\\ud835\\udd95\\ud835\\udd93\\ud835\\udd8e\\ud835\\udd93\\ud835\\udd8a\\ud835\\udd98\\ud835\\udd98\\ud83d\\udc3c\\ud83c\\uddf6\\u200c\\ud835\\udd9a\\ud835\\udd8a\\ud835\\udd8a\\ud835\\udd93\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83d\\udd4a\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-02-17T05:42:11Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 469, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-11T02:30:35Z\", \"first_name\": \"\\u1c14\\u1a5a\\u0362\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83c\\udded\\u200c\\ud835\\udd86\\ud835\\udd95\\ud835\\udd95\\ud835\\udd93\\ud835\\udd8e\\ud835\\udd93\\ud835\\udd8a\\ud835\\udd98\\ud835\\udd98\\ud83d\\udc3c\\ud83c\\uddf6\\u200c\\ud835\\udd9a\\ud835\\udd8a\\ud835\\udd8a\\ud835\\udd93\\ud83e\\udd8b\\u20df\\u225b\\u20dd\\ud83d\\udd4a\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-02-17T05:42:11Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 469, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8467145858\"}}"
+      },
+      {
+        "id": 686,
+        "user_id": 8228262708,
+        "search_type": "mobile_number",
+        "query": "9077706666",
+        "search_date": "2026-04-11 12:09:35",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"Abhishek Kumar Tiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}]}"
+      },
+      {
+        "id": 687,
+        "user_id": 8228262708,
+        "search_type": "mobile_number",
+        "query": "9077706666",
+        "search_date": "2026-04-11 12:10:15",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"Abhishek Kumar Tiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}, {\"address\": \"12/390 3rd flr gali no 4/lalita park ek minar DELHI Delhi 110092\", \"alt\": \"8258898790\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"ramjit tiwari\", \"id\": \"xxxxxxxx0916\", \"mobile\": \"9077706666\", \"name\": \"AbhishekKumarTiwari\"}]}"
       }
     ],
     "bomber_history": [],
