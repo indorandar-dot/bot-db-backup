@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 10:32:40",
+    "created_at": "2026-04-11 10:34:44",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -2481,13 +2481,13 @@
         "first_name": "˳ ꯭‌⏤꯭꯭꯭‌᳛𝚩꯭꯭ʜα꯭꯭ѵࣶε꯭꯭ѕҥ꯭꯭🍷꯭꯭𝁛˳",
         "join_date": "2026-04-07 18:23:52",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-10 04:24:35",
+        "total_searches": 3,
+        "last_active": "2026-04-11 10:33:35",
         "money": 0,
         "clone_bots": 0
       },
@@ -8815,7 +8815,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-11 10:11:53",
+        "last_active": "2026-04-11 10:34:05",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -16547,6 +16547,14 @@
         "query": "9570721212",
         "search_date": "2026-04-11 09:43:33",
         "result": "{\"success\": true, \"data\": [{\"address\": \".. DIGHI KALAN .. DIGHI KALAN VAISHALI Vaishali VAISHALI Bihar 844102\", \"alt\": \"9955590412\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Shibdutta Rai\", \"id\": \"307072265730\", \"mobile\": \"9570721212\", \"name\": \"Ramanand Rai\"}, {\"address\": \".. DIGHI KALAN .. DIGHI KALAN VAISHALI Vaishali VAISHALI Bihar 844102\", \"alt\": \"9955590412\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Shibdutta Rai\", \"id\": \"307072265730\", \"mobile\": \"9570721212\", \"name\": \"Ramanand Rai\"}]}"
+      },
+      {
+        "id": 675,
+        "user_id": 7257725476,
+        "search_type": "typed_userid",
+        "query": "8596761925",
+        "search_date": "2026-04-11 10:33:35",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8596761925\", \"username\": \"\", \"full_name\": \"...!\\u00a1\\u2022~\\ud83c\\udf80\\ud83d\\udd4a\\ufe0f\", \"first_name\": \"...!\\u00a1\\u2022~\\ud83c\\udf80\\ud83d\\udd4a\\ufe0f\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"...!\\u00a1\\u2022~\\ud83c\\udf80\\ud83d\\udd4a\\ufe0f\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"...!\\u00a1\\u2022~\\ud83c\\udf80\\ud83d\\udd4a\\ufe0f\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8596761925\"}}"
       }
     ],
     "bomber_history": [],
