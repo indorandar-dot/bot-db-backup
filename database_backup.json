@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 15:56:39",
+    "created_at": "2026-04-11 15:58:43",
     "stats": {
       "main_users": 519,
       "main_admins": 1,
@@ -6326,8 +6326,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-11 15:56:27",
+        "total_searches": 9,
+        "last_active": "2026-04-11 15:56:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -16756,6 +16756,14 @@
         "search_type": "username",
         "query": "@DARK_VIP_CODING",
         "search_date": "2026-04-11 15:56:27",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 695,
+        "user_id": 8346889410,
+        "search_type": "username",
+        "query": "@DARK_VIP_CODING",
+        "search_date": "2026-04-11 15:56:50",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
