@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 02:06:59",
+    "created_at": "2026-04-11 02:09:03",
     "stats": {
       "main_users": 512,
       "main_admins": 1,
@@ -1985,13 +1985,13 @@
         "first_name": "𝐒ᴀʟᴀᴀʀ",
         "join_date": "2026-03-31 06:31:02",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-10 15:35:53",
+        "total_searches": 6,
+        "last_active": "2026-04-11 02:07:30",
         "money": 0,
         "clone_bots": 0
       },
@@ -16177,6 +16177,14 @@
         "query": "7678202380",
         "search_date": "2026-04-11 01:12:18",
         "result": "{\"success\": true, \"data\": [{\"address\": \"C/O Mahaveer Singh A-133 Gali No-3 Sonia Vihar KHAJOORI KHAS NORTH EAST DELHI Delhi 110094\", \"alt\": \"919457156656\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Mahaveer Singh\", \"id\": \"770480227659\", \"mobile\": \"7678202380\", \"name\": \"Sachin Tyagi\"}, {\"address\": \"C/OMahaveer Singh A-133 Gali No-3 Sonia Vihar KHAJOORI KHAS NORTH EAST DELHI Delhi 110094\", \"alt\": \"919457156656\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Mahaveer Singh\", \"id\": \"770480227659\", \"mobile\": \"7678202380\", \"name\": \"Sachin Tyagi\"}, {\"address\": \"C/OMahaveer Singh A-133 Gali No-3 Sonia Vihar KHAJOORI KHAS NORTH EAST DELHI Delhi 110094\", \"alt\": \"919457156656\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Mahaveer Singh\", \"id\": \"770480227659\", \"mobile\": \"7678202380\", \"name\": \"Sachin Tyagi\"}]}"
+      },
+      {
+        "id": 646,
+        "user_id": 6955078320,
+        "search_type": "username",
+        "query": "@freefioffical",
+        "search_date": "2026-04-11 02:07:30",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7858206740\", \"username\": \"freefioffical\", \"full_name\": \"Pooja\", \"first_name\": \"Pooja\", \"last_name\": \"Dubey\", \"bio\": \"\", \"phone\": \"916297268973\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7858206740\", \"first_name\": \"Pooja\", \"last_name\": \"Dubey\", \"is_active\": true, \"total_groups\": 4, \"admin_groups\": 0, \"total_msg_count\": 3, \"msg_in_groups_count\": 2, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2025-08-29T11:28:28Z\", \"last_msg_date\": \"2026-01-03T04:34:00Z\"}, \"_raw\": {\"status\": true, \"number\": \"916297268973\", \"telegram_id\": \"7858206740\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-29T11:28:28Z\", \"first_name\": \"Pooja\", \"is_active\": true, \"last_msg_date\": \"2026-01-03T04:34:00Z\", \"last_name\": \"Dubey\", \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 4, \"total_msg_count\": 3, \"usernames_count\": 1}, \"target_id\": \"7858206740\"}}"
       }
     ],
     "bomber_history": [],
