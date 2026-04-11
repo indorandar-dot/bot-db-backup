@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 19:04:26",
+    "created_at": "2026-04-11 19:06:30",
     "stats": {
       "main_users": 523,
       "main_admins": 1,
@@ -758,8 +758,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-11 19:02:01",
+        "total_searches": 2,
+        "last_active": "2026-04-11 19:05:57",
         "money": 0,
         "clone_bots": 0
       },
@@ -16946,6 +16946,14 @@
         "search_type": "username",
         "query": "@Emptinesscasualties",
         "search_date": "2026-04-11 19:02:01",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 709,
+        "user_id": 5935806629,
+        "search_type": "username",
+        "query": "@Emptinesscasualties",
+        "search_date": "2026-04-11 19:05:57",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
