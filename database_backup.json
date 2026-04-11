@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 07:37:23",
+    "created_at": "2026-04-11 07:45:29",
     "stats": {
       "main_users": 516,
       "main_admins": 1,
@@ -7862,8 +7862,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-09 02:28:26",
+        "total_searches": 1,
+        "last_active": "2026-04-11 07:43:22",
         "money": 0,
         "clone_bots": 0
       },
@@ -8767,7 +8767,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-11 07:29:41",
+        "last_active": "2026-04-11 07:41:18",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -9884,6 +9884,10 @@
       },
       {
         "user_id": 6756554801,
+        "claim_date": "2026-04-11"
+      },
+      {
+        "user_id": 8591454774,
         "claim_date": "2026-04-11"
       }
     ],
@@ -16377,6 +16381,14 @@
         "query": "9794148529",
         "search_date": "2026-04-11 07:22:43",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O: Ram Gopal moti lal ka purva Razipur Chhulaha Fatehpur Uttar Pradesh 212650\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"Ram Gopal\", \"id\": \"226595773965\", \"mobile\": \"9794148529\", \"name\": \"Rama Shanker\"}, {\"address\": \"S/O: Ram Gopal moti lal ka purva Razipur Chhulaha Fatehpur Uttar Pradesh 212650\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"Ram Gopal\", \"id\": \"226595773965\", \"mobile\": \"9794148529\", \"name\": \"Rama Shanker\"}]}"
+      },
+      {
+        "id": 662,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8376245906, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 07:43:22",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8376245906\", \"username\": \"\", \"full_name\": \"Antima\", \"first_name\": \"Antima\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919793672137\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-08T00:04:18Z\", \"first_name\": \"Antima\", \"is_active\": true, \"last_msg_date\": \"2026-02-15T05:13:33Z\", \"last_name\": \"Yadav\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 12, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-08T00:04:18Z\", \"first_name\": \"Antima\", \"is_active\": true, \"last_msg_date\": \"2026-02-15T05:13:33Z\", \"last_name\": \"Yadav\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 12, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919793672137\", \"status\": true, \"target_id\": \"8376245906\"}}"
       }
     ],
     "bomber_history": [],
