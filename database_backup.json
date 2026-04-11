@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-11 07:51:42",
+    "created_at": "2026-04-11 07:53:46",
     "stats": {
       "main_users": 516,
       "main_admins": 1,
@@ -7862,8 +7862,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-11 07:43:22",
+        "total_searches": 2,
+        "last_active": "2026-04-11 07:52:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -16389,6 +16389,14 @@
         "query": "{'user_id': 8376245906, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-11 07:43:22",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8376245906\", \"username\": \"\", \"full_name\": \"Antima\", \"first_name\": \"Antima\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919793672137\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-08T00:04:18Z\", \"first_name\": \"Antima\", \"is_active\": true, \"last_msg_date\": \"2026-02-15T05:13:33Z\", \"last_name\": \"Yadav\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 12, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-08T00:04:18Z\", \"first_name\": \"Antima\", \"is_active\": true, \"last_msg_date\": \"2026-02-15T05:13:33Z\", \"last_name\": \"Yadav\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 12, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919793672137\", \"status\": true, \"target_id\": \"8376245906\"}}"
+      },
+      {
+        "id": 663,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8641238623, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-11 07:52:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8641238623\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
