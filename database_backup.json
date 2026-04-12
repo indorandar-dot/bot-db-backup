@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 22:13:34",
+    "created_at": "2026-04-12 22:14:35",
     "stats": {
-      "main_users": 533,
+      "main_users": 534,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 91
+      "total_clone_users": 92
     }
   },
   "main_bot": {
@@ -769,7 +769,7 @@
         "first_name": "Арман",
         "join_date": "2026-04-12 22:01:33",
         "referrer": null,
-        "credits": 3,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -6844,6 +6844,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8393477529,
+        "username": "Violacantikkka",
+        "first_name": "Bellisandra",
+        "join_date": "2026-04-12 22:14:27",
+        "referrer": 5963950371,
+        "credits": 6,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-12 22:14:27",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8400017370,
         "username": "ElenaBoett732505",
         "first_name": "李芳秀英",
@@ -10275,6 +10291,10 @@
       {
         "user_id": 6679797106,
         "claim_date": "2026-04-12"
+      },
+      {
+        "user_id": 8393477529,
+        "claim_date": "2026-04-12"
       }
     ],
     "welcome_settings": [
@@ -11495,6 +11515,12 @@
         "referrer": 5963950371,
         "referred": 6679797106,
         "date": "2026-04-12 22:11:14"
+      },
+      {
+        "id": 202,
+        "referrer": 5963950371,
+        "referred": 8393477529,
+        "date": "2026-04-12 22:14:27"
       }
     ],
     "search_history": [
@@ -18235,6 +18261,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-09 05:15:07"
+        },
+        {
+          "id": 1532,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8393477529,
+          "username": "Violacantikkka",
+          "first_name": "Bellisandra",
+          "join_date": "2026-04-12 22:14:27",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-12 22:14:27"
         },
         {
           "id": 1391,
