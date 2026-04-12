@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 19:09:27",
+    "created_at": "2026-04-12 19:09:53",
     "stats": {
-      "main_users": 530,
+      "main_users": 531,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 89
@@ -7068,6 +7068,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8438958280,
+        "username": "Lacking_Humanity",
+        "first_name": "𝙏𝙊𝘽𝙄",
+        "join_date": "2026-04-12 19:09:45",
+        "referrer": null,
+        "credits": 6,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-12 19:09:45",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8440184184,
         "username": "ROFIXBOT114",
         "first_name": "CO2",
@@ -10184,6 +10200,10 @@
       },
       {
         "user_id": 8033719088,
+        "claim_date": "2026-04-12"
+      },
+      {
+        "user_id": 8438958280,
         "claim_date": "2026-04-12"
       }
     ],
