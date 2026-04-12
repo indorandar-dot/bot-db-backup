@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 17:15:47",
+    "created_at": "2026-04-12 17:17:51",
     "stats": {
       "main_users": 529,
       "main_admins": 1,
@@ -6273,13 +6273,13 @@
         "first_name": "殺┋ 𝐅ᴇʟɪx 𝐁ʜᴀɪ !!",
         "join_date": "2026-03-30 09:15:53",
         "referrer": null,
-        "credits": 15,
+        "credits": 14,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 17,
-        "last_active": "2026-04-10 23:50:31",
+        "total_searches": 19,
+        "last_active": "2026-04-12 17:16:14",
         "money": 0,
         "clone_bots": 0
       },
@@ -17341,6 +17341,22 @@
         "query": "7255834728",
         "search_date": "2026-04-12 17:09:34",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"7255834728\", \"accountType\": 1, \"nickname\": \"R\\u1d00\\u1d0b\\u026a\\u0299\\u1d1c\\u029f\\u3164\\ubaa8\\u280b\", \"region\": \"IND\", \"level\": 61, \"exp\": 1079032, \"bannerId\": 901039007, \"headPic\": 902051002, \"rank\": 322, \"rankingPoints\": 4262, \"badgeCnt\": 38, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 4418, \"showRank\": true, \"lastLoginAt\": \"1775981844\", \"csRank\": 316, \"csRankingPoints\": 64, \"pinId\": 910049001, \"maxRank\": 322, \"csMaxRank\": 316, \"accountPrefers\": {}, \"createAt\": \"1673066351\", \"title\": 904590058, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000039, \"skinColor\": 50, \"clothes\": [211050036, 214000000, 211000594, 203048026, 204048026, 205048026], \"equipedSkills\": [16, 5206, 8, 1, 16, 3006, 8, 2, 16, 506, 8, 3, 16, 4306], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1751106629, \"isMarkedStar\": true}, \"clanBasicInfo\": {\"clanId\": \"3050344836\", \"clanName\": \"SD\\u3164YADAV45\", \"captainId\": \"6245842752\", \"clanLevel\": 1, \"capacity\": 20, \"memberNum\": 15}, \"captainBasicInfo\": {\"accountId\": \"6245842752\", \"accountType\": 1, \"nickname\": \"\\u2570\\u203f\\u256f\\u13a0\\u1d1c\\u0280\\u0262\\u1d07\\ua731\\u029c\\u2074\\u2075\", \"region\": \"IND\", \"level\": 48, \"exp\": 246142, \"bannerId\": 901000171, \"headPic\": 902000189, \"rank\": 324, \"rankingPoints\": 5164, \"badgeCnt\": 61, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 664, \"showRank\": true, \"lastLoginAt\": \"1775982491\", \"csRank\": 318, \"csRankingPoints\": 76, \"weaponSkinShows\": [907102710], \"pinId\": 910033001, \"maxRank\": 324, \"csMaxRank\": 318, \"gameBagShow\": 904000081, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1652067504\", \"title\": 905290002, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000117, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000172, \"selectedSkillId\": 1315000014}, \"socialInfo\": {\"accountId\": \"7255834728\", \"gender\": \"Gender_FEMALE\", \"language\": \"Language_BENGALI\", \"timeActive\": \"TimeActive_NIGHT\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"Battle in Style!\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1775933202\"}}}"
+      },
+      {
+        "id": 746,
+        "user_id": 8335023642,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6721663007, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-12 17:15:51",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6721663007\", \"username\": \"\", \"full_name\": \"\\ud80c\\uddb0\\ud834\\udd43\\ud83d\\udd25DARK FLASHYY\\u2363\\uabed\\uabed\\ud80c\\uddaa\\uabed\\ud83d\\udf50\", \"first_name\": \"\\ud80c\\uddb0\\ud834\\udd43\\ud83d\\udd25DARK FLASHYY\\u2363\\uabed\\uabed\\ud80c\\uddaa\\uabed\\ud83d\\udf50\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919646336708\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-20T08:52:59Z\", \"first_name\": \"\\ud80c\\uddb0\\ud834\\udd43\\ud83d\\udd25DARK FLASHYY\\u2363\\uabed\\uabed\\ud80c\\uddaa\\uabed\\ud83d\\udf50\", \"is_active\": true, \"last_msg_date\": \"2026-03-27T18:33:11Z\", \"last_name\": \"\\ud83d\\ude08\", \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 22, \"total_msg_count\": 365, \"usernames_count\": 5}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-20T08:52:59Z\", \"first_name\": \"\\ud80c\\uddb0\\ud834\\udd43\\ud83d\\udd25DARK FLASHYY\\u2363\\uabed\\uabed\\ud80c\\uddaa\\uabed\\ud83d\\udf50\", \"is_active\": true, \"last_msg_date\": \"2026-03-27T18:33:11Z\", \"last_name\": \"\\ud83d\\ude08\", \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 22, \"total_msg_count\": 365, \"usernames_count\": 5}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919646336708\", \"status\": true, \"target_id\": \"6721663007\"}}"
+      },
+      {
+        "id": 747,
+        "user_id": 8335023642,
+        "search_type": "username",
+        "query": "@flashyyontop",
+        "search_date": "2026-04-12 17:16:14",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
