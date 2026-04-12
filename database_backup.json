@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 03:51:30",
+    "created_at": "2026-04-12 03:53:34",
     "stats": {
       "main_users": 524,
       "main_admins": 1,
@@ -7745,13 +7745,13 @@
         "first_name": "Shivi",
         "join_date": "2026-03-31 15:22:09",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-09 09:38:47",
+        "total_searches": 8,
+        "last_active": "2026-04-12 03:51:44",
         "money": 0,
         "clone_bots": 0
       },
@@ -8595,7 +8595,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-07 15:13:19",
-        "last_active": "2026-04-11 18:34:17",
+        "last_active": "2026-04-12 03:52:43",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -16981,6 +16981,14 @@
         "query": "9671154904",
         "search_date": "2026-04-12 03:04:15",
         "result": "{\"success\": true, \"data\": [{\"address\": \"House NO131 City/District: Amroha DHANAURA UTTAR PRADESH 244255\", \"alt\": \"\", \"circle\": \"VODA UPW\", \"email\": \"\", \"fname\": \"Suresh\", \"id\": \"236919088296\", \"mobile\": \"9671154904\", \"name\": \"Ankur Tyagi\"}, {\"address\": \"House NO131 City/District: Amroha DHANAURA UTTAR PRADESH 244255\", \"alt\": \"\", \"circle\": \"VODA UPW\", \"email\": \"\", \"fname\": \"Suresh\", \"id\": \"236919088296\", \"mobile\": \"9671154904\", \"name\": \"Ankur Tyagi\"}, {\"address\": \"s/o suresh house no.131 Dehri Goojar Mustkam Amroha Amroha Read Hasanpur dehri goojar mustkam amroha Uttar Pradesh 244255\", \"alt\": \"9671154904\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"suresh\", \"id\": \"236919088296\", \"mobile\": \"9917737595\", \"name\": \"Ankur Tyagi\"}, {\"address\": \"s/o suresh house no.131 Dehri Goojar Mustkam Amroha Amroha Read Hasanpur dehri goojar mustkam amroha Uttar Pradesh 244255\", \"alt\": \"9671154904\", \"circle\": \"JIO UPW\", \"email\": \"\", \"fname\": \"suresh\", \"id\": \"236919088296\", \"mobile\": \"9917737595\", \"name\": \"Ankur Tyagi\"}, {\"address\": \"s/o suresh house no.131 Dehri Goojar Mustkam Amroha Amroha Read Hasanpur dehri goojar mustkam amroha Uttar Pradesh 244255\", \"alt\": \"9671154904\", \"circle\": \"JIO UPE UPW\", \"email\": \"\", \"fname\": \"suresh\", \"id\": \"236919088296\", \"mobile\": \"9917737595\", \"name\": \"Ankur Tyagi\"}]}"
+      },
+      {
+        "id": 714,
+        "user_id": 8555037541,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7515862733, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-12 03:51:44",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7515862733\", \"username\": \"\", \"full_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919149214212\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-25T12:51:10Z\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T05:33:37Z\", \"last_name\": null, \"msg_in_groups_count\": 28, \"names_count\": 15, \"total_groups\": 32, \"total_msg_count\": 4721, \"usernames_count\": 11}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-25T12:51:10Z\", \"first_name\": \"\\ud83e\\udd8b\\u22c6\\u23af\\uabed\\u200c\\ud834\\uddac\\ua953\\uabed\\ud835\\udc0b \\ud835\\udc08 \\ud835\\udc12 \\ud835\\udc00 \\ud835\\udc10 \\ud835\\udc14 \\ud835\\udc04 \\ud835\\udc0d \\ud835\\udc0d\\ud834\\uddbc\\ud834\\uddac\\uabed\\uabed\\uabed\\uabed\\ud83e\\udee7\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T05:33:37Z\", \"last_name\": null, \"msg_in_groups_count\": 28, \"names_count\": 15, \"total_groups\": 32, \"total_msg_count\": 4721, \"usernames_count\": 11}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919149214212\", \"status\": true, \"target_id\": \"7515862733\"}}"
       }
     ],
     "bomber_history": [],
