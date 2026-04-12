@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 15:32:29",
+    "created_at": "2026-04-12 15:34:33",
     "stats": {
       "main_users": 525,
       "main_admins": 1,
@@ -7366,8 +7366,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-12 11:18:38",
+        "total_searches": 11,
+        "last_active": "2026-04-12 15:32:58",
         "money": 0,
         "clone_bots": 0
       },
@@ -17236,6 +17236,14 @@
         "search_type": "username",
         "query": "Felix_bhai",
         "search_date": "2026-04-12 14:46:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 743,
+        "user_id": 8483983586,
+        "search_type": "username",
+        "query": "@JISHUNAYEK",
+        "search_date": "2026-04-12 15:32:58",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
