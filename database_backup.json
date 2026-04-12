@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 07:07:49",
+    "created_at": "2026-04-12 07:09:53",
     "stats": {
       "main_users": 524,
       "main_admins": 1,
@@ -1665,13 +1665,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 0,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 22,
-        "last_active": "2026-04-11 08:34:03",
+        "total_searches": 23,
+        "last_active": "2026-04-12 07:09:24",
         "money": 0,
         "clone_bots": 0
       },
@@ -10061,6 +10061,10 @@
       {
         "user_id": 8555037541,
         "claim_date": "2026-04-12"
+      },
+      {
+        "user_id": 6679896022,
+        "claim_date": "2026-04-12"
       }
     ],
     "welcome_settings": [
@@ -17037,6 +17041,14 @@
         "query": "@Sellerspanle",
         "search_date": "2026-04-12 06:52:56",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 721,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "7767402361",
+        "search_date": "2026-04-12 07:09:24",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7767402361\", \"username\": \"\", \"full_name\": \"\\ud835\\udc05\\u1d1c\\u1d04x\\u1d07\\u0280 \\u00bf \\ud83e\\udd0d\", \"first_name\": \"\\ud835\\udc05\\u1d1c\\u1d04x\\u1d07\\u0280 \\u00bf \\ud83e\\udd0d\", \"last_name\": \"\", \"bio\": \"I think she is busy \\u00bf\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"7767402361\", \"username\": \"\", \"first_name\": \"\\ud835\\udc05\\u1d1c\\u1d04x\\u1d07\\u0280 \\u00bf \\ud83e\\udd0d\", \"last_name\": \"\", \"full_name\": \"\\ud835\\udc05\\u1d1c\\u1d04x\\u1d07\\u0280 \\u00bf \\ud83e\\udd0d\", \"bio\": \"I think she is busy \\u00bf\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
       }
     ],
     "bomber_history": [],
