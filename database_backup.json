@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-12 06:26:29",
+    "created_at": "2026-04-12 06:28:33",
     "stats": {
       "main_users": 524,
       "main_admins": 1,
@@ -8182,8 +8182,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 156,
-        "last_active": "2026-04-12 06:26:23",
+        "total_searches": 158,
+        "last_active": "2026-04-12 06:28:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -17005,6 +17005,22 @@
         "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-12 06:26:23",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 717,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8443651511, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-12 06:28:02",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8443651511\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 718,
+        "user_id": 8703382327,
+        "search_type": "typed_userid",
+        "query": "8443651511",
+        "search_date": "2026-04-12 06:28:31",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919134905822\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-29T13:26:53Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"is_active\": true, \"last_msg_date\": \"2026-03-24T04:15:31Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 18, \"total_msg_count\": 430, \"usernames_count\": 3}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-29T13:26:53Z\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"is_active\": true, \"last_msg_date\": \"2026-03-24T04:15:31Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 5, \"total_groups\": 18, \"total_msg_count\": 430, \"usernames_count\": 3}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919134905822\", \"status\": true, \"target_id\": \"8443651511\", \"tg_id\": \"8443651511\", \"username\": \"si_name_77\", \"first_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"last_name\": \"\", \"full_name\": \"\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u2363\\u20df\\u2764\\ufe0f\\u20dd\\ua576\\u026a\\u1d0d\\ud835\\ude81\\u1d00\\u0274\\ud83d\\udd4a\\ufe0f\\u20dd\\u225b\\u20dd\\ud834\\udd1e\\u0fd0\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"si_name_77\"]}}"
       }
     ],
     "bomber_history": [],
