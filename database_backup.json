@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 13:37:27",
+    "created_at": "2026-04-13 13:39:32",
     "stats": {
       "main_users": 546,
       "main_admins": 1,
@@ -8193,13 +8193,13 @@
         "first_name": "Ajabul",
         "join_date": "2026-04-05 12:53:07",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-13 13:35:05",
+        "total_searches": 5,
+        "last_active": "2026-04-13 13:37:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -17911,6 +17911,14 @@
         "query": "9564183235",
         "search_date": "2026-04-13 13:35:05",
         "result": "{\"success\": true, \"data\": [{\"address\": \"na anishmali beleatipara mouja-anishmali j l no-94 anishmali dhantala Nadia South Nadia West Bengal 741253\", \"alt\": \"9093660174\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"akbar ali sarkar\", \"id\": \"MTK2809796\", \"mobile\": \"9564183235\", \"name\": \"sahajul sarkar\"}, {\"address\": \"na anishmali beleatipara mouja-anishmali j l no-94 anishmali dhantala Nadia South Nadia West Bengal 741253\", \"alt\": \"9093660174\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"akbar ali sarkar\", \"id\": \"MTK2809796\", \"mobile\": \"9564183235\", \"name\": \"sahajul sarkar\"}]}"
+      },
+      {
+        "id": 773,
+        "user_id": 8569233445,
+        "search_type": "mobile_number",
+        "query": "9735908164",
+        "search_date": "2026-04-13 13:37:31",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI West Bengal 735121\", \"alt\": \"9775408151\", \"circle\": \"VODAFONE KOLKATA R\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}, {\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI We\", \"alt\": \"9775408151\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}, {\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI We\", \"alt\": \"9775408151\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}]}"
       }
     ],
     "bomber_history": [],
@@ -18627,7 +18635,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-13 13:25:14"
+          "last_active": "2026-04-13 13:38:56"
         },
         {
           "id": 949,
