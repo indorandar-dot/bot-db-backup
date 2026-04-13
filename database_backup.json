@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 14:06:38",
+    "created_at": "2026-04-13 14:08:42",
     "stats": {
       "main_users": 546,
       "main_admins": 1,
@@ -7670,8 +7670,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 13,
-        "last_active": "2026-04-13 09:56:54",
+        "total_searches": 14,
+        "last_active": "2026-04-13 14:07:56",
         "money": 0,
         "clone_bots": 0
       },
@@ -17897,6 +17897,14 @@
         "query": "8101813831",
         "search_date": "2026-04-13 13:39:47",
         "result": "{\"success\": true, \"data\": [{\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"SAHAJUL Mandal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"W/O Ahad Ali Sarkar Rakhal Gachhi Rakhal Gachhi Aismali Nadia West Bengal 741253\", \"alt\": \"919564328652\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Ahad Ali Sarkar\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"NAZIMA SARKAR\"}, {\"address\": \"BELEATIPARA AINSHMALI Aismali Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"S Mondal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"BELEATIPARA AINSHMALI Aismali Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"S Mondal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"SAHAJUL Mandal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"W/O Ahad Ali Sarkar Rakhal Gachhi Rakhal Gachhi Aismali Nadia West Bengal 741253\", \"alt\": \"919564328652\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Ahad Ali Sarkar\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"NAZIMA SARKAR\"}, {\"address\": \"S/O Atiar Sarkar 0 belehati para . Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O Atiar Sarkar\", \"id\": \"\", \"mobile\": \"9775259150\", \"name\": \"Asif Reja Sarkar\"}, {\"address\": \"S/O: Rabiul Mondal . . Beleatipara Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O: Rabiul Mondal\", \"id\": \"\", \"mobile\": \"9775232990\", \"name\": \"Majbur Mondal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9775062141\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9735439909\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mandal\", \"id\": \"\", \"mobile\": \"9733095030\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"rakhalgachi RANAGHAT-II ainshmali BELEATIPARA BELEATIPARA AINSHMALI Anishmali Aismali NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Anarul Mandal\", \"id\": \"555730697975\", \"mobile\": \"9382201074\", \"name\": \"MR ARIF MANDAL\"}, {\"address\": \"s/o rasidul mondal Anishmali anishmali beleati para anishmali aismali Ranaghat - II nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"rasidul mondal\", \"id\": \"627123537597\", \"mobile\": \"9339822750\", \"name\": \"Sakir Ali Mondal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9093266921\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"S/O RASIDUL MONDAL ANISHMALI BELEATI PARA ANISHMALI BELEATI PARA ANISHMALI ANISHMALI ANISHMALI NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rasidul Ali Mondal\", \"id\": \"627123537597\", \"mobile\": \"9083246939\", \"name\": \"MR SAKIR ALI MONDAL\"}, {\"address\": \"S/O IDRIS MONDAL BELAHATI PARA BELAHATI PARA high school high school ANISHMALI NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Idris Mondal\", \"id\": \"256614555215\", \"mobile\": \"8768538615\", \"name\": \"MR AJAHAR MONDAL\"}, {\"address\": \"S/O Atiar Sarkar 0 belehati para . Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O Atiar Sarkar\", \"id\": \"\", \"mobile\": \"8538847601\", \"name\": \"Asif Reja Sarkar\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mandal\", \"id\": \"\", \"mobile\": \"8101976466\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Saharjul Mondal\", \"id\": \"\", \"mobile\": \"8001359408\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"s/o rasidul mondal Anishmali anishmali beleati para anishmali aismali Ranaghat - II nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"rasidul mondal\", \"id\": \"627123537597\", \"mobile\": \"7994273318\", \"name\": \"Sakir Ali Mondal\"}]}"
+      },
+      {
+        "id": 775,
+        "user_id": 8483983586,
+        "search_type": "username",
+        "query": "@Nayak_Paid",
+        "search_date": "2026-04-13 14:07:56",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
