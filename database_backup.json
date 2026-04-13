@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 14:44:08",
+    "created_at": "2026-04-13 14:46:13",
     "stats": {
       "main_users": 546,
       "main_admins": 1,
@@ -8289,13 +8289,13 @@
         "first_name": "Ꮋꫀʏㅤ𝙳 𝙴 𝙽 𝚉 𝙸ㅤᥫ᭡",
         "join_date": "2026-04-09 02:28:26",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-11 08:06:49",
+        "total_searches": 9,
+        "last_active": "2026-04-13 14:45:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -17921,6 +17921,14 @@
         "query": "7783044552",
         "search_date": "2026-04-13 14:39:28",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Ward No-4 Belahi Belahi Bhawanipur Madhubani Belhi Bhawanipur Laukahi Bihar 847108\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Maksudan Chaurwar\", \"id\": \"210226850429\", \"mobile\": \"7783044552\", \"name\": \"Shyam Chaurwar\"}, {\"address\": \"Ward No-4 Belahi Belahi Bhawanipur Madhubani Belhi Bhawanipur Laukahi Bihar 847108\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Maksudan Chaurwar\", \"id\": \"210226850429\", \"mobile\": \"7783044552\", \"name\": \"Shyam Chaurwar\"}]}"
+      },
+      {
+        "id": 777,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8560429199, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-13 14:45:06",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8560429199\", \"username\": \"\", \"full_name\": \"\\ud800\\udfd3\\ud80c\\udda9\\uabed\\ud83c\\uddf2\\uabed\\uabed\\uabed\\u1ab5\\u1ab5\\u1ab5\\u1ab3\\u1ab3\\u1ab4\\ud835\\udc11\\uabed\\ud80c\\uddaa\\ud834\\uddbc\\uabed\\u0f0e\\u082b\\uabed\\uabed\\u26e7\\u200c\\u0656\\u0656\\u0656\\u0656\\u0656\\u0656\\u065c\\uabed\\uabed\\u2363\\u20ea\\u035c\\ud835\\udc12\\uabed\\ud835\\udc1a\\uabed\\ud835\\udc21\\uabed\\ud835\\udc22\\ud835\\udc25\\u3004\\u2e3c\\uab57\\u033d\\u0325\\ud834\\uddbc\\uabed\\u0f0e\\ud834\\udd60\", \"first_name\": \"\\ud800\\udfd3\\ud80c\\udda9\\uabed\\ud83c\\uddf2\\uabed\\uabed\\uabed\\u1ab5\\u1ab5\\u1ab5\\u1ab3\\u1ab3\\u1ab4\\ud835\\udc11\\uabed\\ud80c\\uddaa\\ud834\\uddbc\\uabed\\u0f0e\\u082b\\uabed\\uabed\\u26e7\\u200c\\u0656\\u0656\\u0656\\u0656\\u0656\\u0656\\u065c\\uabed\\uabed\\u2363\\u20ea\\u035c\\ud835\\udc12\\uabed\\ud835\\udc1a\\uabed\\ud835\\udc21\\uabed\\ud835\\udc22\\ud835\\udc25\\u3004\\u2e3c\\uab57\\u033d\\u0325\\ud834\\uddbc\\uabed\\u0f0e\\ud834\\udd60\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-13T16:21:21Z\", \"first_name\": \"\\ud800\\udfd3\\ud80c\\udda9\\uabed\\ud83c\\uddf2\\uabed\\uabed\\uabed\\u1ab5\\u1ab5\\u1ab5\\u1ab3\\u1ab3\\u1ab4\\ud835\\udc11\\uabed\\ud80c\\uddaa\\ud834\\uddbc\\uabed\\u0f0e\\u082b\\uabed\\uabed\\u26e7\\u200c\\u0656\\u0656\\u0656\\u0656\\u0656\\u0656\\u065c\\uabed\\uabed\\u2363\\u20ea\\u035c\\ud835\\udc12\\uabed\\ud835\\udc1a\\uabed\\ud835\\udc21\\uabed\\ud835\\udc22\\ud835\\udc25\\u3004\\u2e3c\\uab57\\u033d\\u0325\\ud834\\uddbc\\uabed\\u0f0e\\ud834\\udd60\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T18:13:25Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 11, \"total_groups\": 11, \"total_msg_count\": 170, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-13T16:21:21Z\", \"first_name\": \"\\ud800\\udfd3\\ud80c\\udda9\\uabed\\ud83c\\uddf2\\uabed\\uabed\\uabed\\u1ab5\\u1ab5\\u1ab5\\u1ab3\\u1ab3\\u1ab4\\ud835\\udc11\\uabed\\ud80c\\uddaa\\ud834\\uddbc\\uabed\\u0f0e\\u082b\\uabed\\uabed\\u26e7\\u200c\\u0656\\u0656\\u0656\\u0656\\u0656\\u0656\\u065c\\uabed\\uabed\\u2363\\u20ea\\u035c\\ud835\\udc12\\uabed\\ud835\\udc1a\\uabed\\ud835\\udc21\\uabed\\ud835\\udc22\\ud835\\udc25\\u3004\\u2e3c\\uab57\\u033d\\u0325\\ud834\\uddbc\\uabed\\u0f0e\\ud834\\udd60\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T18:13:25Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 11, \"total_groups\": 11, \"total_msg_count\": 170, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8560429199\"}}"
       }
     ],
     "bomber_history": [],
