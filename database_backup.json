@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 12:18:32",
+    "created_at": "2026-04-13 12:20:36",
     "stats": {
       "main_users": 544,
       "main_admins": 1,
@@ -4673,13 +4673,13 @@
         "first_name": "Sagar",
         "join_date": "2026-04-12 17:34:09",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-12 17:34:09",
+        "total_searches": 2,
+        "last_active": "2026-04-13 12:20:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -10460,6 +10460,10 @@
       },
       {
         "user_id": 8483983586,
+        "claim_date": "2026-04-13"
+      },
+      {
+        "user_id": 8033719088,
         "claim_date": "2026-04-13"
       }
     ],
@@ -17799,6 +17803,22 @@
         "query": "{'user_id': 7637845592, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-13 12:03:35",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7637845592\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 764,
+        "user_id": 8033719088,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6864278112, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-13 12:19:38",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6864278112\", \"username\": \"\", \"full_name\": \"Lu Guang\", \"first_name\": \"Lu Guang\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-02-11T05:08:42Z\", \"first_name\": \"Lu Guang\", \"is_active\": true, \"last_msg_date\": \"2024-05-10T17:22:29Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 11, \"total_groups\": 15, \"total_msg_count\": 56, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-02-11T05:08:42Z\", \"first_name\": \"Lu Guang\", \"is_active\": true, \"last_msg_date\": \"2024-05-10T17:22:29Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 11, \"total_groups\": 15, \"total_msg_count\": 56, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6864278112\"}}"
+      },
+      {
+        "id": 765,
+        "user_id": 8033719088,
+        "search_type": "typed_userid",
+        "query": "8033719088",
+        "search_date": "2026-04-13 12:20:16",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8033719088\", \"username\": \"Sagarkun0\", \"full_name\": \"Sagar Kun\", \"first_name\": \"Sagar\", \"last_name\": \"Kun\", \"bio\": \"https://t.me/hitbinzbackup\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-18T08:50:30Z\", \"first_name\": \"Sagar\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T11:09:46Z\", \"last_name\": \"Kun\", \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 25, \"total_msg_count\": 5267, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-18T08:50:30Z\", \"first_name\": \"Sagar\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T11:09:46Z\", \"last_name\": \"Kun\", \"msg_in_groups_count\": 21, \"names_count\": 1, \"total_groups\": 25, \"total_msg_count\": 5267, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8033719088\", \"tg_id\": \"8033719088\", \"username\": \"Sagarkun0\", \"first_name\": \"Sagar\", \"last_name\": \"Kun\", \"full_name\": \"Sagar Kun\", \"bio\": \"https://t.me/hitbinzbackup\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Sagarkun0\"]}}"
       }
     ],
     "bomber_history": [],
