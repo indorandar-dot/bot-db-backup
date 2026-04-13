@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 06:36:12",
+    "created_at": "2026-04-13 06:38:16",
     "stats": {
       "main_users": 538,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 93
+      "total_clone_users": 94
     }
   },
   "main_bot": {
@@ -6486,8 +6486,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-11 15:58:55",
+        "total_searches": 11,
+        "last_active": "2026-04-13 06:37:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -10344,6 +10344,10 @@
       },
       {
         "user_id": 5713879636,
+        "claim_date": "2026-04-13"
+      },
+      {
+        "user_id": 8346889410,
         "claim_date": "2026-04-13"
       }
     ],
@@ -17565,6 +17569,14 @@
         "query": "{'user_id': 7257725476, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-13 03:47:10",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7257725476\", \"username\": \"\", \"full_name\": \"\\u2212\\u13f4\\ud835\\uddc1\\ud835\\uddba\\ud835\\uddcf\\ud835\\uddbe\\ud835\\uddcc\\ud835\\uddc1.\\ud83e\\ude90\", \"first_name\": \"\\u2212\\u13f4\\ud835\\uddc1\\ud835\\uddba\\ud835\\uddcf\\ud835\\uddbe\\ud835\\uddcc\\ud835\\uddc1.\\ud83e\\ude90\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919798155942\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-03-08T15:17:30Z\", \"first_name\": \"\\u2212\\u13f4\\ud835\\uddc1\\ud835\\uddba\\ud835\\uddcf\\ud835\\uddbe\\ud835\\uddcc\\ud835\\uddc1.\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T13:09:43Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 24, \"total_groups\": 28, \"total_msg_count\": 1642, \"usernames_count\": 5}, \"_raw\": {\"data\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-03-08T15:17:30Z\", \"first_name\": \"\\u2212\\u13f4\\ud835\\uddc1\\ud835\\uddba\\ud835\\uddcf\\ud835\\uddbe\\ud835\\uddcc\\ud835\\uddc1.\\ud83e\\ude90\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T13:09:43Z\", \"last_name\": null, \"msg_in_groups_count\": 14, \"names_count\": 24, \"total_groups\": 28, \"total_msg_count\": 1642, \"usernames_count\": 5}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919798155942\", \"status\": true, \"target_id\": \"7257725476\"}}"
+      },
+      {
+        "id": 750,
+        "user_id": 8346889410,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8583787152, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-13 06:37:49",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8583787152\", \"username\": \"\", \"full_name\": \"TL HARSH 1M\", \"first_name\": \"TL HARSH 1M\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917827943860\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-14T05:50:04Z\", \"first_name\": \"TL HARSH 1M\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T06:14:00Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 20, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-14T05:50:04Z\", \"first_name\": \"TL HARSH 1M\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T06:14:00Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 20, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917827943860\", \"status\": true, \"target_id\": \"8583787152\"}}"
       }
     ],
     "bomber_history": [],
@@ -18282,6 +18294,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-10 02:29:49"
+        },
+        {
+          "id": 1541,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8346889410,
+          "username": "",
+          "first_name": "㍿┋DARK X LIVE㊗️",
+          "join_date": "2026-04-13 06:37:22",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-13 06:37:22"
         },
         {
           "id": 969,
