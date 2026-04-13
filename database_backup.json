@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 13:39:32",
+    "created_at": "2026-04-13 13:41:36",
     "stats": {
       "main_users": 546,
       "main_admins": 1,
@@ -8193,13 +8193,13 @@
         "first_name": "Ajabul",
         "join_date": "2026-04-05 12:53:07",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-13 13:37:31",
+        "total_searches": 6,
+        "last_active": "2026-04-13 13:39:47",
         "money": 0,
         "clone_bots": 0
       },
@@ -8977,7 +8977,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-07 15:13:19",
-        "last_active": "2026-04-13 07:28:48",
+        "last_active": "2026-04-13 13:41:21",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -17919,6 +17919,14 @@
         "query": "9735908164",
         "search_date": "2026-04-13 13:37:31",
         "result": "{\"success\": true, \"data\": [{\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI West Bengal 735121\", \"alt\": \"9775408151\", \"circle\": \"VODAFONE KOLKATA R\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}, {\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI We\", \"alt\": \"9775408151\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}, {\"address\": \"PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI PATKATA COLONYPART PAHARPUR KOTWALI JALPAIGURI jalpaiguri JALPAIGURI JALPAIGURI JALPAIGURI We\", \"alt\": \"9775408151\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Amrit Modak\", \"id\": \"TJR1704352\", \"mobile\": \"9735908164\", \"name\": \"MR SURAJIT MODAK\"}]}"
+      },
+      {
+        "id": 774,
+        "user_id": 8569233445,
+        "search_type": "mobile_number",
+        "query": "8101813831",
+        "search_date": "2026-04-13 13:39:47",
+        "result": "{\"success\": true, \"data\": [{\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"SAHAJUL Mandal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"W/O Ahad Ali Sarkar Rakhal Gachhi Rakhal Gachhi Aismali Nadia West Bengal 741253\", \"alt\": \"919564328652\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Ahad Ali Sarkar\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"NAZIMA SARKAR\"}, {\"address\": \"BELEATIPARA AINSHMALI Aismali Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"S Mondal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"BELEATIPARA AINSHMALI Aismali Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"S Mondal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"SAHAJUL Mandal\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"W/O Ahad Ali Sarkar Rakhal Gachhi Rakhal Gachhi Aismali Nadia West Bengal 741253\", \"alt\": \"919564328652\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Ahad Ali Sarkar\", \"id\": \"\", \"mobile\": \"8101813831\", \"name\": \"NAZIMA SARKAR\"}, {\"address\": \"S/O Atiar Sarkar 0 belehati para . Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O Atiar Sarkar\", \"id\": \"\", \"mobile\": \"9775259150\", \"name\": \"Asif Reja Sarkar\"}, {\"address\": \"S/O: Rabiul Mondal . . Beleatipara Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O: Rabiul Mondal\", \"id\": \"\", \"mobile\": \"9775232990\", \"name\": \"Majbur Mondal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9775062141\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9735439909\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mandal\", \"id\": \"\", \"mobile\": \"9733095030\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"rakhalgachi RANAGHAT-II ainshmali BELEATIPARA BELEATIPARA AINSHMALI Anishmali Aismali NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Anarul Mandal\", \"id\": \"555730697975\", \"mobile\": \"9382201074\", \"name\": \"MR ARIF MANDAL\"}, {\"address\": \"s/o rasidul mondal Anishmali anishmali beleati para anishmali aismali Ranaghat - II nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"rasidul mondal\", \"id\": \"627123537597\", \"mobile\": \"9339822750\", \"name\": \"Sakir Ali Mondal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Sahajul Mondal\", \"id\": \"\", \"mobile\": \"9093266921\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"S/O RASIDUL MONDAL ANISHMALI BELEATI PARA ANISHMALI BELEATI PARA ANISHMALI ANISHMALI ANISHMALI NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rasidul Ali Mondal\", \"id\": \"627123537597\", \"mobile\": \"9083246939\", \"name\": \"MR SAKIR ALI MONDAL\"}, {\"address\": \"S/O IDRIS MONDAL BELAHATI PARA BELAHATI PARA high school high school ANISHMALI NADIA NADIA NADIA West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Idris Mondal\", \"id\": \"256614555215\", \"mobile\": \"8768538615\", \"name\": \"MR AJAHAR MONDAL\"}, {\"address\": \"S/O Atiar Sarkar 0 belehati para . Nadia NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"S/O Atiar Sarkar\", \"id\": \"\", \"mobile\": \"8538847601\", \"name\": \"Asif Reja Sarkar\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Sahajul Mandal\", \"id\": \"\", \"mobile\": \"8101976466\", \"name\": \"Mustakin Mandal\"}, {\"address\": \". . BELEATIPARA AINSHMALI Nadia BELEATIPARA NADIA Nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Saharjul Mondal\", \"id\": \"\", \"mobile\": \"8001359408\", \"name\": \"Mustakin Mandal\"}, {\"address\": \"s/o rasidul mondal Anishmali anishmali beleati para anishmali aismali Ranaghat - II nadia West Bengal 741253\", \"alt\": \"8101813831\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"rasidul mondal\", \"id\": \"627123537597\", \"mobile\": \"7994273318\", \"name\": \"Sakir Ali Mondal\"}]}"
       }
     ],
     "bomber_history": [],
@@ -18635,7 +18643,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-13 13:38:56"
+          "last_active": "2026-04-13 13:41:06"
         },
         {
           "id": 949,
@@ -19332,7 +19340,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-12 16:43:29"
+          "last_active": "2026-04-13 13:41:21"
         },
         {
           "id": 1501,
