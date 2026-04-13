@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-13 12:30:58",
+    "created_at": "2026-04-13 12:31:39",
     "stats": {
-      "main_users": 544,
+      "main_users": 545,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 98
+      "total_clone_users": 99
     }
   },
   "main_bot": {
@@ -3896,6 +3896,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:42",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 7801886071,
+        "username": "nenoyalert",
+        "first_name": "there",
+        "join_date": "2026-04-13 12:31:31",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-13 12:31:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -18380,6 +18396,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-13 09:56:02"
+        },
+        {
+          "id": 1551,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 7801886071,
+          "username": "nenoyalert",
+          "first_name": "there",
+          "join_date": "2026-04-13 12:31:31",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-13 12:31:31"
         },
         {
           "id": 931,
