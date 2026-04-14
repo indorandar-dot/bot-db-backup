@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 10:04:16",
+    "created_at": "2026-04-14 10:06:20",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11958,8 +11958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 174,
-        "last_active": "2026-04-14 07:13:36",
+        "total_searches": 175,
+        "last_active": "2026-04-14 10:06:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -22781,6 +22781,14 @@
         "query": "rahulbhai511201",
         "search_date": "2026-04-14 07:13:36",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8610407141\", \"username\": \"rahulbhai511201\", \"full_name\": \"\\u2570\\u2500\\ud835\\udde8\\ud835\\udddc\\u2500\\u256f\\ud835\\udde5 \\ud835\\uddd4 \\ud835\\udddb \\ud835\\udde8 \\ud835\\udddf\", \"first_name\": \"\\u2570\\u2500\\ud835\\udde8\\ud835\\udddc\\u2500\\u256f\\ud835\\udde5 \\ud835\\uddd4 \\ud835\\udddb \\ud835\\udde8 \\ud835\\udddf\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8610407141\", \"first_name\": \"\\u2570\\u2500\\ud835\\udde8\\ud835\\udddc\\u2500\\u256f\\ud835\\udde5 \\ud835\\uddd4 \\ud835\\udddb \\ud835\\udde8 \\ud835\\udddf\", \"last_name\": null, \"is_active\": true, \"total_groups\": 5, \"admin_groups\": 0, \"total_msg_count\": 159, \"msg_in_groups_count\": 5, \"names_count\": 2, \"usernames_count\": 1, \"first_msg_date\": \"2026-03-14T13:38:03Z\", \"last_msg_date\": \"2026-04-12T09:17:17Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8610407141\", \"info\": {\"country\": null, \"country_code\": null, \"data\": {\"id\": \"8610407141\", \"first_name\": \"\\u2570\\u2500\\ud835\\udde8\\ud835\\udddc\\u2500\\u256f\\ud835\\udde5 \\ud835\\uddd4 \\ud835\\udddb \\ud835\\udde8 \\ud835\\udddf\", \"last_name\": null, \"is_active\": true, \"total_groups\": 5, \"admin_groups\": 0, \"total_msg_count\": 159, \"msg_in_groups_count\": 5, \"names_count\": 2, \"usernames_count\": 1, \"first_msg_date\": \"2026-03-14T13:38:03Z\", \"last_msg_date\": \"2026-04-12T09:17:17Z\"}}}}"
+      },
+      {
+        "id": 792,
+        "user_id": 8703382327,
+        "search_type": "typed_userid",
+        "query": "8557865568",
+        "search_date": "2026-04-14 10:06:11",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8557865568\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
