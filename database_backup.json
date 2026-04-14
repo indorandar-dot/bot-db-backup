@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 14:24:13",
+    "created_at": "2026-04-14 14:26:18",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11958,8 +11958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 178,
-        "last_active": "2026-04-14 10:28:31",
+        "total_searches": 180,
+        "last_active": "2026-04-14 14:25:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -22887,6 +22887,22 @@
         "query": "8528278897",
         "search_date": "2026-04-14 14:15:50",
         "result": "{\"success\": true, \"data\": [{\"address\": \"s/o late ram prashad 10/8 sewagram colony dadanagar 10/8 sewagram colony dadanagar kanpur kanpur nagar Uttar Pradesh 208022\", \"alt\": \"9793687888\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"late ram prashad\", \"id\": \"408260797577\", \"mobile\": \"8528278897\", \"name\": \"Rajesh Kumar\"}, {\"address\": \"s/o late ram prashad 10/8 sewagram colony dadanagar 10/8 sewagram colony dadanagar kanpur kanpur nagar Uttar Pradesh 208022\", \"alt\": \"9793687888\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"late ram prashad\", \"id\": \"408260797577\", \"mobile\": \"8528278897\", \"name\": \"Rajesh Kumar\"}, {\"address\": \"s/o late ram prashad 10/8 sewagram colony dadanagar 10/8 sewagram colony dadanagar kanpur kanpur nagar Uttar Pradesh 208022\", \"alt\": \"8528278897\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"late ram prashad\", \"id\": \"408260797577\", \"mobile\": \"9005306030\", \"name\": \"Rajesh Kumar\"}, {\"address\": \"s/o late ram prashad 10/8 sewagram colony dadanagar 10/8 sewagram colony dadanagar kanpur kanpur nagar Uttar Pradesh 208022\", \"alt\": \"8528278897\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"late ram prashad\", \"id\": \"408260797577\", \"mobile\": \"9005306030\", \"name\": \"Rajesh Kumar\"}]}"
+      },
+      {
+        "id": 801,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7637845592, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-14 14:25:44",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7637845592\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 802,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7637845592, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-14 14:25:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7637845592\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
