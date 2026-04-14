@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 03:54:53",
+    "created_at": "2026-04-14 03:56:57",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -8689,13 +8689,13 @@
         "first_name": "𝙘𝙝𝙞𝙠𝙪....",
         "join_date": "2026-04-11 09:40:09",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-14 03:54:09",
+        "total_searches": 10,
+        "last_active": "2026-04-14 03:55:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -12687,7 +12687,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-14 03:53:02",
+        "last_active": "2026-04-14 03:56:47",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -22685,6 +22685,14 @@
         "query": "{'user_id': 7943491169, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-14 03:54:09",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7943491169\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 782,
+        "user_id": 8218016230,
+        "search_type": "ff_info",
+        "query": "9668533455",
+        "search_date": "2026-04-14 03:55:31",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"9668533455\", \"accountType\": 1, \"nickname\": \"\\u280f\\u04a8\\u135d\\u059f\\u135d\\u0274Misski\", \"region\": \"IND\", \"level\": 57, \"exp\": 655358, \"bannerId\": 901000053, \"headPic\": 902000096, \"rank\": 322, \"rankingPoints\": 4010, \"badgeCnt\": 38, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 3884, \"showRank\": true, \"lastLoginAt\": \"1776107271\", \"csRank\": 310, \"csRankingPoints\": 37, \"weaponSkinShows\": [907104729], \"pinId\": 910049001, \"maxRank\": 322, \"csMaxRank\": 310, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1721200491\", \"title\": 904190030, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 101000018, \"skinColor\": 50, \"clothes\": [203049022, 211052046, 214049000, 211000342, 205000557, 204049020], \"equipedSkills\": [16, 3006, 8, 1, 16, 1806, 8, 2, 16, 4906, 8, 3, 16, 5506], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1723355556}, \"clanBasicInfo\": {\"clanId\": \"3042332260\", \"clanName\": \"Loyal_Queen!\", \"captainId\": \"9668533455\", \"clanLevel\": 1, \"capacity\": 35, \"memberNum\": 17}, \"captainBasicInfo\": {\"accountId\": \"9668533455\", \"accountType\": 1, \"nickname\": \"\\u280f\\u04a8\\u135d\\u059f\\u135d\\u0274Misski\", \"region\": \"IND\", \"level\": 57, \"exp\": 655358, \"bannerId\": 901000053, \"headPic\": 902000096, \"rank\": 322, \"rankingPoints\": 4010, \"badgeCnt\": 38, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 3884, \"showRank\": true, \"lastLoginAt\": \"1776107271\", \"csRank\": 310, \"csRankingPoints\": 37, \"weaponSkinShows\": [907104729], \"pinId\": 910049001, \"maxRank\": 322, \"csMaxRank\": 310, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1721200491\", \"title\": 904190030, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000001, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000001, \"selectedSkillId\": 1315000002}, \"socialInfo\": {\"accountId\": \"9668533455\", \"gender\": \"Gender_FEMALE\", \"language\": \"Language_CN_TRADITIONAL\", \"signature\": \"\\ua9c1.\\u2764\\ufe0f\\u2605MUMMY K LIYE EK LIKE please\\u2605\\u2764\\ufe0f.\\ua9c2\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1775999402\"}}}"
       }
     ],
     "bomber_history": [],
