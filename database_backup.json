@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 16:35:38",
+    "created_at": "2026-04-14 16:37:44",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11958,8 +11958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 198,
-        "last_active": "2026-04-14 15:33:33",
+        "total_searches": 199,
+        "last_active": "2026-04-14 16:36:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -23156,6 +23156,14 @@
         "query": "@aarshxz",
         "search_date": "2026-04-14 16:13:54",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"aarshxz\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 828,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9813157615",
+        "search_date": "2026-04-14 16:36:11",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"NALHAR 113 MEWAT NALHAR 113 MEWAT NEAR MEDICAL COLLAGE NALHAR 113 MEWAT NUH MEWAT HARYANA 122107\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"email\": \"\", \"fname\": \"SHAREEF KHAN\", \"id\": \"220619477139\", \"mobile\": \"9813157615\", \"name\": \"WAKIL AHMED\"}, {\"address\": \"S/O SHAREEF KHAN NALHAR 113 MEWAT NALHAR 113 MEWAT NEAR MEDICAL COLLAGE NALHAR 113 MEWAT NUH MEWAT HARYANA 122107\", \"alt\": \"NA\", \"circle\": \"AIRTEL HARYANA\", \"email\": \"\", \"fname\": \"SHAREEF KHAN\", \"id\": \"220619477139\", \"mobile\": \"9813157615\", \"name\": \"WAKIL AHMED\"}, {\"address\": \"S/O Shareef Khan Nalhar 113 MEWAT Nalhar 113near medical College near medical College teh nuhGURGAON NUH GURGAON HARYANA 122107\", \"alt\": \"9813157615\", \"circle\": \"VI HAR\", \"email\": \"\", \"fname\": \"Shareef Khan\", \"id\": \"220619477139\", \"mobile\": \"9812457615\", \"name\": \"MR WAKIL AHMED\"}]}"
       }
     ],
     "bomber_history": [],
