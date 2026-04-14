@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 15:56:07",
+    "created_at": "2026-04-14 15:58:12",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -2081,7 +2081,7 @@
         "first_name": "亗-ꜱᴜɴɢ_ᴊɪɴᴡᴏᴏ-亗",
         "join_date": "2026-04-02 13:38:03",
         "referrer": null,
-        "credits": 140,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -11729,13 +11729,13 @@
         "first_name": "𝐂𝐚𝐧𝐝𝐲 𝐃𝐨𝐰𝐧𝐅𝐚𝐥𝐥",
         "join_date": "2026-03-31 06:31:14",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-06 14:40:03",
+        "total_searches": 2,
+        "last_active": "2026-04-14 15:57:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -11953,7 +11953,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 1097,
+        "credits": 997,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -23059,6 +23059,14 @@
         "query": "7868181523",
         "search_date": "2026-04-14 15:33:33",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7868181523\", \"username\": \"\", \"full_name\": \"Pika \\ud83e\\udd85\", \"first_name\": \"Pika \\ud83e\\udd85\", \"last_name\": \"\", \"bio\": \"Hello, this account does not violate Telegram policy. Thank you @durov\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-01T09:47:10Z\", \"first_name\": \"Pika \\ud83e\\udd85\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T18:21:12Z\", \"last_name\": null, \"msg_in_groups_count\": 44, \"names_count\": 5, \"total_groups\": 69, \"total_msg_count\": 1342, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-01T09:47:10Z\", \"first_name\": \"Pika \\ud83e\\udd85\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T18:21:12Z\", \"last_name\": null, \"msg_in_groups_count\": 44, \"names_count\": 5, \"total_groups\": 69, \"total_msg_count\": 1342, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7868181523\", \"tg_id\": \"7868181523\", \"username\": \"\", \"first_name\": \"Pika \\ud83e\\udd85\", \"last_name\": \"\", \"full_name\": \"Pika \\ud83e\\udd85\", \"bio\": \"Hello, this account does not violate Telegram policy. Thank you @durov\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
+      },
+      {
+        "id": 822,
+        "user_id": 8593989565,
+        "search_type": "mobile_number",
+        "query": "9123230790",
+        "search_date": "2026-04-14 15:57:39",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"s/o kitabuddin Gram - post Madhopur gram - post madhopur madhopur madhopur saran Bihar 841415\", \"alt\": \"9821901708\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"kitabuddin\", \"id\": \"788468516564\", \"mobile\": \"9123230790\", \"name\": \"Samir Ali\"}, {\"address\": \"s/o kitabuddin Gram - post Madhopur gram - post madhopur madhopur madhopur saran Bihar 841415\", \"alt\": \"9821901708\", \"circle\": \"JIO BHR&JHR\", \"email\": \"samirali417@gmail.com\", \"fname\": \"kitabuddin\", \"id\": \"788468516564\", \"mobile\": \"9123230790\", \"name\": \"Samir Ali\"}, {\"address\": \"s/o kitabuddin Gram - post Madhopur gram - post madhopur madhopur madhopur saran Bihar 841415\", \"alt\": \"9821901708\", \"circle\": \"JIO BHR&JHR\", \"email\": \"samirali417@gmail.com\", \"fname\": \"kitabuddin\", \"id\": \"788468516564\", \"mobile\": \"9123230790\", \"name\": \"Samir Ali\"}]}"
       }
     ],
     "bomber_history": [],
@@ -24135,7 +24143,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-06 14:39:59"
+          "last_active": "2026-04-14 15:58:11"
         },
         {
           "id": 951,
