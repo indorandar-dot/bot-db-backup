@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 03:17:38",
+    "created_at": "2026-04-14 03:19:42",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11958,8 +11958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 167,
-        "last_active": "2026-04-13 12:21:39",
+        "total_searches": 168,
+        "last_active": "2026-04-14 03:18:36",
         "money": 0,
         "clone_bots": 0
       },
@@ -22665,6 +22665,14 @@
         "query": "@lord_obito_999",
         "search_date": "2026-04-14 01:28:47",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 780,
+        "user_id": 8703382327,
+        "search_type": "userid",
+        "query": "7270324356",
+        "search_date": "2026-04-14 03:18:36",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7270324356\", \"username\": \"Lucifer6061\", \"full_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-06-06T01:38:44Z\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T06:20:42Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 5, \"total_groups\": 24, \"total_msg_count\": 692, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-06-06T01:38:44Z\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T06:20:42Z\", \"last_name\": null, \"msg_in_groups_count\": 18, \"names_count\": 5, \"total_groups\": 24, \"total_msg_count\": 692, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7270324356\", \"tg_id\": \"7270324356\", \"username\": \"Lucifer6061\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"last_name\": \"\", \"full_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"bio\": \"\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"Lucifer6061\"]}}"
       }
     ],
     "bomber_history": [],
