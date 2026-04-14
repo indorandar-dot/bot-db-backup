@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 14:42:56",
+    "created_at": "2026-04-14 14:45:01",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11958,8 +11958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 186,
-        "last_active": "2026-04-14 14:42:48",
+        "total_searches": 187,
+        "last_active": "2026-04-14 14:42:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -22951,6 +22951,14 @@
         "query": "{'user_id': 8389496051, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-14 14:42:48",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8389496051\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 809,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8389496051, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-14 14:42:59",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8389496051\", \"username\": \"\", \"full_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"first_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-10T08:28:28Z\", \"first_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T12:03:48Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 25, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-10T08:28:28Z\", \"first_name\": \"\\ud80c\\udda9\\ud83d\\udc51\\u20df\\ud80c\\uddaa\\u2022\\ud835\\udc0c\\ud835\\udc00\\ud835\\udc03\\ud835\\udc04\\ud835\\udc17\\u2022\\ud80c\\udda9\\u20df\\ud83d\\udd25\\ud80c\\uddaa\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T12:03:48Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 25, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8389496051\"}}"
       }
     ],
     "bomber_history": [],
