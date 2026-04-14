@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 13:27:57",
+    "created_at": "2026-04-14 13:30:02",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -11489,13 +11489,13 @@
         "first_name": "Shivi",
         "join_date": "2026-03-31 15:22:09",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-14 13:26:36",
+        "total_searches": 11,
+        "last_active": "2026-04-14 13:28:20",
         "money": 0,
         "clone_bots": 0
       },
@@ -22855,6 +22855,14 @@
         "query": "{'user_id': 7665828039, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-14 13:26:36",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7665828039\", \"username\": \"\", \"full_name\": \"\\ud835\\udcd1\\ud835\\udcfe\\ud835\\udcfd\\ud835\\udcfd\\ud835\\udcee\\ud835\\udcfb\\ud835\\udcef\\ud835\\udcf5\\ud835\\udd02\\ud83e\\udd8b\\ud83e\\udd8b\", \"first_name\": \"\\ud835\\udcd1\\ud835\\udcfe\\ud835\\udcfd\\ud835\\udcfd\\ud835\\udcee\\ud835\\udcfb\\ud835\\udcef\\ud835\\udcf5\\ud835\\udd02\\ud83e\\udd8b\\ud83e\\udd8b\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-09-11T01:30:32Z\", \"first_name\": \"\\ud835\\udcd1\\ud835\\udcfe\\ud835\\udcfd\\ud835\\udcfd\\ud835\\udcee\\ud835\\udcfb\\ud835\\udcef\\ud835\\udcf5\\ud835\\udd02\\ud83e\\udd8b\\ud83e\\udd8b\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T00:04:47Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4583, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-09-11T01:30:32Z\", \"first_name\": \"\\ud835\\udcd1\\ud835\\udcfe\\ud835\\udcfd\\ud835\\udcfd\\ud835\\udcee\\ud835\\udcfb\\ud835\\udcef\\ud835\\udcf5\\ud835\\udd02\\ud83e\\udd8b\\ud83e\\udd8b\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T00:04:47Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4583, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7665828039\"}}"
+      },
+      {
+        "id": 797,
+        "user_id": 8555037541,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7888531130, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-14 13:28:20",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7888531130\", \"username\": \"\", \"full_name\": \"Nuna\", \"first_name\": \"Nuna\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-29T00:51:48Z\", \"first_name\": \"Nuna\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T19:52:39Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 5, \"total_msg_count\": 191, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-29T00:51:48Z\", \"first_name\": \"Nuna\", \"is_active\": true, \"last_msg_date\": \"2026-04-13T19:52:39Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 5, \"total_msg_count\": 191, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7888531130\"}}"
       }
     ],
     "bomber_history": [],
