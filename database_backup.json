@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 16:08:36",
+    "created_at": "2026-04-14 16:10:41",
     "stats": {
       "main_users": 761,
       "main_admins": 1,
@@ -10641,7 +10641,7 @@
         "first_name": "𝙏𝙊𝘽𝙄",
         "join_date": "2026-04-12 19:09:45",
         "referrer": null,
-        "credits": 6,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -13995,6 +13995,10 @@
       },
       {
         "user_id": 8192518877,
+        "claim_date": "2026-04-14"
+      },
+      {
+        "user_id": 8438958280,
         "claim_date": "2026-04-14"
       }
     ],
