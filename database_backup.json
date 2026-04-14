@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-14 01:09:09",
+    "created_at": "2026-04-14 01:10:58",
     "stats": {
-      "main_users": 549,
+      "main_users": 550,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 103
@@ -1368,6 +1368,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-01 14:30:16",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6445014739,
+        "username": "FFHACKDETECTNEW",
+        "first_name": "FF HACK DETECT",
+        "join_date": "2026-04-14 01:10:50",
+        "referrer": 8224757249,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-14 01:10:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -5745,7 +5761,7 @@
         "first_name": "𓋰 𓆩𝐓ᴇᴄʜɴᴏ𓆪 ˣ [𝗧𝗢𝗣 𝗩𝗜𝗣 𝗦𝗘𝗟𝗟𝗘𝗥",
         "join_date": "2026-04-02 12:02:13",
         "referrer": null,
-        "credits": 3,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -11759,6 +11775,12 @@
         "referrer": 7438114899,
         "referred": 8683831617,
         "date": "2026-04-13 09:51:54"
+      },
+      {
+        "id": 204,
+        "referrer": 8224757249,
+        "referred": 6445014739,
+        "date": "2026-04-14 01:10:50"
       }
     ],
     "search_history": [
