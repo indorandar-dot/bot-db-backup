@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 19:34:39",
+    "created_at": "2026-04-15 19:36:44",
     "stats": {
       "main_users": 771,
       "main_admins": 1,
@@ -5233,7 +5233,7 @@
         "first_name": "𝐑𝐔𝐃𝐑𝐀 𝐇𝐄𝐑𝐄 🤍🧿🚬",
         "join_date": "2026-04-02 19:56:13",
         "referrer": 8703382327,
-        "credits": 3,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14259,6 +14259,10 @@
       },
       {
         "user_id": 5713879636,
+        "claim_date": "2026-04-15"
+      },
+      {
+        "user_id": 7399093360,
         "claim_date": "2026-04-15"
       }
     ],
