@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 09:40:01",
+    "created_at": "2026-04-15 09:40:30",
     "stats": {
-      "main_users": 766,
+      "main_users": 767,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 108
@@ -7340,6 +7340,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7984381783,
+        "username": "R4m9x",
+        "first_name": "𓆰𓆩⃟👑𝗥𝗔𝗠𝗘𝗦𝗛•~~~⚡✨🥀",
+        "join_date": "2026-04-15 09:40:22",
+        "referrer": 8008313092,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-15 09:40:22",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7987584764,
         "username": "Harshxhack07",
         "first_name": "H4R$H X H4CK ☠️",
@@ -7393,7 +7409,7 @@
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
         "join_date": "2026-03-30 16:48:07",
         "referrer": 8703382327,
-        "credits": 8,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -16678,6 +16694,12 @@
         "referrer": 8156670159,
         "referred": 8006385873,
         "date": "2026-04-15 03:00:47"
+      },
+      {
+        "id": 417,
+        "referrer": 8008313092,
+        "referred": 7984381783,
+        "date": "2026-04-15 09:40:22"
       }
     ],
     "search_history": [
