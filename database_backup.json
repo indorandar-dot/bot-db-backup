@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 14:53:34",
+    "created_at": "2026-04-15 14:55:39",
     "stats": {
       "main_users": 769,
       "main_admins": 1,
@@ -6166,8 +6166,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-10 13:09:26",
+        "total_searches": 8,
+        "last_active": "2026-04-15 14:53:42",
         "money": 0,
         "clone_bots": 0
       },
@@ -23554,6 +23554,14 @@
         "query": "8849632489",
         "search_date": "2026-04-15 14:53:00",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N H 8 behind abad party plot opp central warehousing corp Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}]}"
+      },
+      {
+        "id": 853,
+        "user_id": 7667099238,
+        "search_type": "mobile_number",
+        "query": "9955583818",
+        "search_date": "2026-04-15 14:53:42",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Yogesh Das hajyar Palsa Istamrar Katihar Bihar 854317\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Yogesh Das\", \"id\": \"\", \"mobile\": \"9955583818\", \"name\": \"Chaotu Kumar Das\"}, {\"address\": \"S/O Yogesh Das hajyar Palsa Istamrar Katihar Bihar 854317\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Yogesh Das\", \"id\": \"\", \"mobile\": \"9955583818\", \"name\": \"Chaotu Kumar Das\"}, {\"address\": \"Vill/Post- Baghmara Ps- Baliapur Baliapur Dhanbad Baliapur Jharkhand 828201\", \"alt\": \"9955583818\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Pawan Mahato\", \"id\": \"630752355279\", \"mobile\": \"9608901415\", \"name\": \"Gangadhar Kumar Mahato\"}, {\"address\": \"Vill/Post- Baghmara Ps- Baliapur Baliapur Dhanbad Baliapur Jharkhand 828201\", \"alt\": \"9955583818\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Pawan Mahato\", \"id\": \"630752355279\", \"mobile\": \"9608901415\", \"name\": \"Gangadhar Kumar Mahato\"}]}"
       }
     ],
     "bomber_history": [],
