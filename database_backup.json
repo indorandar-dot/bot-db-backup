@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 17:35:10",
+    "created_at": "2026-04-15 17:37:15",
     "stats": {
       "main_users": 770,
       "main_admins": 1,
@@ -225,13 +225,13 @@
         "first_name": "KITTU",
         "join_date": "2026-04-15 17:20:34",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-15 17:33:57",
+        "total_searches": 3,
+        "last_active": "2026-04-15 17:36:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -23614,6 +23614,14 @@
         "query": "9569147828",
         "search_date": "2026-04-15 17:33:57",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Naushad ward 16 Lar fattenagar post lar ward 16 pakari WARD FATTENAGAR PO. LAR Pakari Deoria Uttar Pradesh 274502\", \"alt\": \"8795408707\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"Naushad\", \"id\": \"624783110139\", \"mobile\": \"9569147828\", \"name\": \"Muhammad Yusuf\"}, {\"address\": \"S/O Naushad ward 16 Lar fattenagar post lar ward 16 pakari WARD FATTENAGAR PO. LAR Pakari Deoria Uttar Pradesh 274502\", \"alt\": \"8795408707\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"Naushad\", \"id\": \"624783110139\", \"mobile\": \"9569147828\", \"name\": \"Muhammad Yusuf\"}]}"
+      },
+      {
+        "id": 858,
+        "user_id": 1993275918,
+        "search_type": "mobile_number",
+        "query": "6204307545",
+        "search_date": "2026-04-15 17:36:28",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"VILL MANGALPUR PO PS PANKI Palamu Jharkhand Naudiha Palamu Panki Palamau Palamau Jharkhand 822122\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Satyendra Baitha\", \"id\": \"798951448570\", \"mobile\": \"6204307545\", \"name\": \"Laxman Baitha\"}, {\"address\": \"VILL MANGALPUR PO PS PANKI Palamu Jharkhand Naudiha Palamu Panki Palamau Palamau Jharkhand 822122\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Satyendra Baitha\", \"id\": \"798951448570\", \"mobile\": \"6204307545\", \"name\": \"Laxman Baitha\"}]}"
       }
     ],
     "bomber_history": [],
@@ -23730,7 +23738,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-15 17:34:54"
+          "last_active": "2026-04-15 17:37:06"
         },
         {
           "id": 953,
