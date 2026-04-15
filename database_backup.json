@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 06:04:21",
+    "created_at": "2026-04-15 06:06:26",
     "stats": {
       "main_users": 766,
       "main_admins": 1,
@@ -3617,13 +3617,13 @@
         "first_name": "Maxx",
         "join_date": "2026-04-03 06:15:22",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 15,
-        "last_active": "2026-04-10 12:17:24",
+        "total_searches": 16,
+        "last_active": "2026-04-15 06:05:24",
         "money": 0,
         "clone_bots": 0
       },
@@ -23368,6 +23368,14 @@
         "query": "{'user_id': 7360263850, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-15 05:37:05",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7360263850\", \"username\": \"\", \"full_name\": \"Jha jii \\ud83d\\ude0a\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-28T15:15:19Z\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T14:43:24Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 18, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-28T15:15:19Z\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T14:43:24Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 18, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7360263850\"}}"
+      },
+      {
+        "id": 838,
+        "user_id": 6975957363,
+        "search_type": "mobile_number",
+        "query": "8951741346",
+        "search_date": "2026-04-15 06:05:24",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Mohd Khaja Sab h no T-5-470/15/77/g2 Ring Road Gulbarga GBN Gunj Near Buland Parwaz Masjid Buland Parwaz Colony Kalaburagi KALABURAGI Karnataka 585104\", \"alt\": \"9916354602\", \"circle\": \"AIRTEL KARNATKA\", \"email\": \"\", \"fname\": \"Mohd Khaja Sab\", \"id\": \"458621668428\", \"mobile\": \"8951741346\", \"name\": \"Mohd Yousuf Javed\"}]}"
       }
     ],
     "bomber_history": [],
