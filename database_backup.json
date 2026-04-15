@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 07:46:53",
+    "created_at": "2026-04-15 07:49:00",
     "stats": {
       "main_users": 766,
       "main_admins": 1,
@@ -11542,8 +11542,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 13,
-        "last_active": "2026-04-14 13:30:26",
+        "total_searches": 14,
+        "last_active": "2026-04-15 07:48:47",
         "money": 0,
         "clone_bots": 0
       },
@@ -14163,6 +14163,10 @@
       },
       {
         "user_id": 8656875519,
+        "claim_date": "2026-04-15"
+      },
+      {
+        "user_id": 8555037541,
         "claim_date": "2026-04-15"
       }
     ],
@@ -23404,6 +23408,14 @@
         "query": "8372963908",
         "search_date": "2026-04-15 07:39:45",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Majna Majna- -East Midnapore West Bengal 721433\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"sudden bhunia\", \"id\": \"736743998747\", \"mobile\": \"8372963908\", \"name\": \"Budhadeb Bhunia\"}, {\"address\": \". BALARAM PUR . Birbhum BIRBHUM Birbhum West Bengal 731302\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Jin\", \"id\": \"\", \"mobile\": \"8372963908\", \"name\": \"Mukti Mohammad Sekh\"}, {\"address\": \"Majna Majna- -East Midnapore West Bengal 721433\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"sudden bhunia\", \"id\": \"736743998747\", \"mobile\": \"8372963908\", \"name\": \"Budhadeb Bhunia\"}, {\"address\": \". BALARAM PUR . Birbhum BIRBHUM Birbhum West Bengal 731302\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Jin\", \"id\": \"\", \"mobile\": \"8372963908\", \"name\": \"Mukti Mohammad Sekh\"}]}"
+      },
+      {
+        "id": 842,
+        "user_id": 8555037541,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7051421564, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-15 07:48:47",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7051421564\", \"username\": \"\", \"full_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-02-21T18:54:09Z\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T16:13:24Z\", \"last_name\": \"\\ud835\\udc72\\ud835\\udc6f\\ud835\\udc7c\\ud835\\udc7a\\ud835\\udc6f\\ud835\\udc70\\u2728\\ud83d\\udda4\", \"msg_in_groups_count\": 40, \"names_count\": 3, \"total_groups\": 49, \"total_msg_count\": 3443, \"usernames_count\": 4}, \"_raw\": {\"data\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-02-21T18:54:09Z\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T16:13:24Z\", \"last_name\": \"\\ud835\\udc72\\ud835\\udc6f\\ud835\\udc7c\\ud835\\udc7a\\ud835\\udc6f\\ud835\\udc70\\u2728\\ud83d\\udda4\", \"msg_in_groups_count\": 40, \"names_count\": 3, \"total_groups\": 49, \"total_msg_count\": 3443, \"usernames_count\": 4}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7051421564\"}}"
       }
     ],
     "bomber_history": [],
