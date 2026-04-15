@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 14:18:00",
+    "created_at": "2026-04-15 14:20:06",
     "stats": {
       "main_users": 769,
       "main_admins": 1,
@@ -11809,13 +11809,13 @@
         "first_name": "Ꮋꫀʏㅤ𝙳 𝙴 𝙽 𝚉 𝙸ㅤᥫ᭡",
         "join_date": "2026-04-09 02:28:26",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 11,
-        "last_active": "2026-04-15 05:37:05",
+        "total_searches": 14,
+        "last_active": "2026-04-15 14:19:56",
         "money": 0,
         "clone_bots": 0
       },
@@ -12815,7 +12815,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-15 13:34:39",
+        "last_active": "2026-04-15 14:18:33",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -23522,6 +23522,30 @@
         "query": "11111111",
         "search_date": "2026-04-15 13:34:29",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"11111111\", \"accountType\": 1, \"nickname\": \"\\u041a\\u0454\\u03bd\\u03b1\\u2113\\u0192\\u0192\", \"region\": \"IND\", \"level\": 69, \"exp\": 2691526, \"bannerId\": 901034005, \"headPic\": 902000149, \"rank\": 325, \"rankingPoints\": 5642, \"role\": 6, \"hasElitePass\": true, \"badgeCnt\": 124, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 2437619, \"lastLoginAt\": \"1776249677\", \"csRank\": 313, \"csRankingPoints\": 48, \"weaponSkinShows\": [907194207, 912052003, 914051001], \"maxRank\": 325, \"csMaxRank\": 313, \"accountPrefers\": {}, \"createAt\": \"1512441578\", \"title\": 904990070, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000005, \"skinColor\": 50, \"clothes\": [211000045, 203000182, 204050033, 211000612, 205000640, 214000101], \"equipedSkills\": [16, 7406, 8, 1, 16, 4306, 8, 2, 16, 4806, 8, 3, 16, 6906], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {\"clanId\": \"60205231\", \"clanName\": \"MG\\u3164INDIA\\u3164\\uf8ff\", \"captainId\": \"11111111\", \"clanLevel\": 7, \"capacity\": 55, \"memberNum\": 35}, \"captainBasicInfo\": {\"accountId\": \"11111111\", \"accountType\": 1, \"nickname\": \"\\u041a\\u0454\\u03bd\\u03b1\\u2113\\u0192\\u0192\", \"region\": \"IND\", \"level\": 69, \"exp\": 2691526, \"bannerId\": 901034005, \"headPic\": 902000149, \"rank\": 325, \"rankingPoints\": 5642, \"role\": 6, \"hasElitePass\": true, \"badgeCnt\": 124, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 2437619, \"lastLoginAt\": \"1776249677\", \"csRank\": 313, \"csRankingPoints\": 48, \"weaponSkinShows\": [907194207, 912052003, 914051001], \"maxRank\": 325, \"csMaxRank\": 313, \"accountPrefers\": {}, \"createAt\": \"1512441578\", \"title\": 904990070, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000071, \"level\": 7, \"exp\": 6100, \"isSelected\": true, \"skinId\": 1310000074, \"selectedSkillId\": 1315000006, \"isMarkedStar\": true}, \"socialInfo\": {\"accountId\": \"11111111\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"modePrefer\": \"ModePrefer_BR\", \"signature\": \"YOUTUBE - KEVAL FF\\nInstagram @Kevalborad123\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1776121811\"}}}"
+      },
+      {
+        "id": 849,
+        "user_id": 8591454774,
+        "search_type": "mobile_number",
+        "query": "7250514968",
+        "search_date": "2026-04-15 14:19:33",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}, {\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}]}"
+      },
+      {
+        "id": 850,
+        "user_id": 8591454774,
+        "search_type": "mobile_number",
+        "query": "7250514968",
+        "search_date": "2026-04-15 14:19:34",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}, {\"address\": \"Titaiganj Tikari Gaya Tekari Tikari Bihar 824236\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Suresh Mistri\", \"id\": \"937598633290\", \"mobile\": \"7250514968\", \"name\": \"Tinku Kumar\"}]}"
+      },
+      {
+        "id": 851,
+        "user_id": 8591454774,
+        "search_type": "userid",
+        "query": "7250514968",
+        "search_date": "2026-04-15 14:19:56",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7250514968\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
