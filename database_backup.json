@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 04:17:49",
+    "created_at": "2026-04-15 04:19:53",
     "stats": {
       "main_users": 766,
       "main_admins": 1,
@@ -3489,7 +3489,7 @@
         "first_name": "𝐒𝐀𝐍𝐓𝐎𝐒𝐇",
         "join_date": "2026-04-11 08:06:54",
         "referrer": 8703382327,
-        "credits": 6,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14151,6 +14151,10 @@
       },
       {
         "user_id": 8156670159,
+        "claim_date": "2026-04-15"
+      },
+      {
+        "user_id": 6920545450,
         "claim_date": "2026-04-15"
       }
     ],
