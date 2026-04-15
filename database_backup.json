@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 01:44:04",
+    "created_at": "2026-04-15 01:46:08",
     "stats": {
       "main_users": 764,
       "main_admins": 1,
@@ -11969,13 +11969,13 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 1017,
+        "credits": 1018,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 200,
-        "last_active": "2026-04-14 16:49:27",
+        "total_searches": 201,
+        "last_active": "2026-04-15 01:44:49",
         "money": 0,
         "clone_bots": 0
       },
@@ -13209,7 +13209,7 @@
     "feature_costs": [
       {
         "feature_key": "like",
-        "cost": 1
+        "cost": 0
       }
     ],
     "feature_maintenance": [
@@ -14112,6 +14112,10 @@
       {
         "user_id": 6403986015,
         "claim_date": "2026-04-14"
+      },
+      {
+        "user_id": 8703382327,
+        "claim_date": "2026-04-15"
       }
     ],
     "welcome_settings": [
@@ -23290,6 +23294,14 @@
         "query": "9381698411",
         "search_date": "2026-04-14 18:44:59",
         "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Sri Harsha 9-1-173/G SHANTHI NAGAR COLONY Bhadrachalam Khammam Telangana 507111\", \"alt\": \"919581046842\", \"circle\": \"JIO AP\", \"email\": \"\", \"fname\": \"Sri Harsha\", \"id\": \"\", \"mobile\": \"9381698411\", \"name\": \"Yendamuri Pushpalatha\"}]}"
+      },
+      {
+        "id": 835,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9883422784",
+        "search_date": "2026-04-15 01:44:49",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}, {\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}]}"
       }
     ],
     "bomber_history": [],
