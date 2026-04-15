@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 09:10:40",
+    "created_at": "2026-04-15 09:12:47",
     "stats": {
       "main_users": 766,
       "main_admins": 1,
@@ -177,13 +177,13 @@
         "first_name": "┆⃝𝐌𝐄𝐄𝐓 𝐁𝐀𝐏𝐔あ",
         "join_date": "2026-04-03 10:02:21",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-05 07:52:32",
+        "total_searches": 5,
+        "last_active": "2026-04-15 09:11:20",
         "money": 0,
         "clone_bots": 0
       },
@@ -23416,6 +23416,14 @@
         "query": "{'user_id': 7051421564, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-15 07:48:47",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7051421564\", \"username\": \"\", \"full_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-02-21T18:54:09Z\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T16:13:24Z\", \"last_name\": \"\\ud835\\udc72\\ud835\\udc6f\\ud835\\udc7c\\ud835\\udc7a\\ud835\\udc6f\\ud835\\udc70\\u2728\\ud83d\\udda4\", \"msg_in_groups_count\": 40, \"names_count\": 3, \"total_groups\": 49, \"total_msg_count\": 3443, \"usernames_count\": 4}, \"_raw\": {\"data\": {\"admin_groups\": 4, \"first_msg_date\": \"2025-02-21T18:54:09Z\", \"first_name\": \"\\ud83d\\udda4\\u2728\\ud835\\ude48\\ud835\\ude5e\\ud835\\ude68\\ud835\\ude68\\u2728\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-04-11T16:13:24Z\", \"last_name\": \"\\ud835\\udc72\\ud835\\udc6f\\ud835\\udc7c\\ud835\\udc7a\\ud835\\udc6f\\ud835\\udc70\\u2728\\ud83d\\udda4\", \"msg_in_groups_count\": 40, \"names_count\": 3, \"total_groups\": 49, \"total_msg_count\": 3443, \"usernames_count\": 4}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7051421564\"}}"
+      },
+      {
+        "id": 843,
+        "user_id": 1870120632,
+        "search_type": "mobile_number",
+        "query": "8849619166",
+        "search_date": "2026-04-15 09:11:20",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"02 bhativas mejarpura Mejarpura Banaskantha Panchada Vadgam\", \"alt\": \"\", \"circle\": \"AIRTEL GUJARAT\", \"email\": \"\", \"fname\": \"Laxmanji\", \"id\": \"677740890299\", \"mobile\": \"8849619166\", \"name\": \"Bhati Chelsinh Laxmanji\"}, {\"address\": \"02 bhativas mejarpura Mejarpura Banaskantha Panchada Vadgam\", \"alt\": \"\", \"circle\": \"AIRTEL GUJARAT\", \"email\": \"\", \"fname\": \"Laxmanji\", \"id\": \"677740890299\", \"mobile\": \"8849619166\", \"name\": \"Bhati Chelsinh Laxmanji\"}]}"
       }
     ],
     "bomber_history": [],
