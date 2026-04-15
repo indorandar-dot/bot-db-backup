@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 05:35:04",
+    "created_at": "2026-04-15 05:37:09",
     "stats": {
       "main_users": 766,
       "main_admins": 1,
@@ -11766,8 +11766,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 10,
-        "last_active": "2026-04-14 07:11:03",
+        "total_searches": 11,
+        "last_active": "2026-04-15 05:37:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -12767,7 +12767,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-15 03:32:28",
+        "last_active": "2026-04-15 05:36:23",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -14155,6 +14155,10 @@
       },
       {
         "user_id": 6920545450,
+        "claim_date": "2026-04-15"
+      },
+      {
+        "user_id": 8591454774,
         "claim_date": "2026-04-15"
       }
     ],
@@ -23356,6 +23360,14 @@
         "query": "1515859404",
         "search_date": "2026-04-15 03:22:12",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"1515859404\", \"username\": \"\", \"full_name\": \"\\u3164\", \"first_name\": \"\\u3164\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2021-12-28T04:19:00Z\", \"first_name\": \"\\u3164\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T02:33:27Z\", \"last_name\": null, \"msg_in_groups_count\": 8, \"names_count\": 7, \"total_groups\": 12, \"total_msg_count\": 332, \"usernames_count\": 3}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2021-12-28T04:19:00Z\", \"first_name\": \"\\u3164\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T02:33:27Z\", \"last_name\": null, \"msg_in_groups_count\": 8, \"names_count\": 7, \"total_groups\": 12, \"total_msg_count\": 332, \"usernames_count\": 3}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"1515859404\"}}"
+      },
+      {
+        "id": 837,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7360263850, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-15 05:37:05",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7360263850\", \"username\": \"\", \"full_name\": \"Jha jii \\ud83d\\ude0a\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-28T15:15:19Z\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T14:43:24Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 18, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-28T15:15:19Z\", \"first_name\": \"Jha jii \\ud83d\\ude0a\", \"is_active\": true, \"last_msg_date\": \"2026-03-29T14:43:24Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 3, \"total_groups\": 2, \"total_msg_count\": 18, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7360263850\"}}"
       }
     ],
     "bomber_history": [],
