@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 12:08:25",
+    "created_at": "2026-04-15 12:10:30",
     "stats": {
       "main_users": 767,
       "main_admins": 1,
@@ -1681,13 +1681,13 @@
         "first_name": "Obito _",
         "join_date": "2026-03-30 08:55:51",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-10 16:19:22",
+        "total_searches": 3,
+        "last_active": "2026-04-15 12:10:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -23474,6 +23474,14 @@
         "query": "6558777689",
         "search_date": "2026-04-15 09:55:29",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6558777689\", \"username\": \"\", \"full_name\": \">\\u1d17<\", \"first_name\": \">\\u1d17<\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 2, \"first_msg_date\": \"2023-11-09T12:05:08Z\", \"first_name\": \">\\u1d17<\", \"is_active\": true, \"last_msg_date\": \"2025-12-25T17:25:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 13, \"total_groups\": 29, \"total_msg_count\": 1025, \"usernames_count\": 4}, \"_raw\": {\"data\": {\"admin_groups\": 2, \"first_msg_date\": \"2023-11-09T12:05:08Z\", \"first_name\": \">\\u1d17<\", \"is_active\": true, \"last_msg_date\": \"2025-12-25T17:25:29Z\", \"last_name\": null, \"msg_in_groups_count\": 21, \"names_count\": 13, \"total_groups\": 29, \"total_msg_count\": 1025, \"usernames_count\": 4}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6558777689\"}}"
+      },
+      {
+        "id": 847,
+        "user_id": 6049790255,
+        "search_type": "mobile_number",
+        "query": "8585916977",
+        "search_date": "2026-04-15 12:10:00",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Katwaru N-11 Shakarpur laxmi nagar Shakar Pur Baramad-Gandhi Nagar-East Delhi Delhi 110092\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Katwaru\", \"id\": \"869935935104\", \"mobile\": \"8585916977\", \"name\": \"Ramdhani\"}, {\"address\": \"Katwaru N-11 Shakarpur laxmi nagar Shakar Pur Baramad-Gandhi Nagar-East Delhi Delhi 110092\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Katwaru\", \"id\": \"869935935104\", \"mobile\": \"8585916977\", \"name\": \"Ramdhani\"}, {\"address\": \"Katwaru N-11 Shakarpur laxmi nagar Shakar Pur Baramad-Gandhi Nagar-East Delhi Delhi 110092\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Katwaru\", \"id\": \"869935935104\", \"mobile\": \"8585916977\", \"name\": \"Ramdhani\"}, {\"address\": \"h no -306 gali no 1 NA mandawali shakarpur baramad shakarpur east delhi Delhi East East NA Delhi 110092\", \"alt\": \"8585916977\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"ramdhani\", \"id\": \"685224817516\", \"mobile\": \"9354872898\", \"name\": \"pradeep Kumar\"}, {\"address\": \"h no -306gali no 1 NA mandawali shakarpur baramad shakarpur east delhi Delhi EastEast NA Delhi 110092\", \"alt\": \"8585916977\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"ramdhani\", \"id\": \"685224817516\", \"mobile\": \"9354872898\", \"name\": \"pradeep Kumar\"}, {\"address\": \"h no -306gali no 1 NA mandawali shakarpur baramad shakarpur east delhi Delhi EastEast NA Delhi 110092\", \"alt\": \"8585916977\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"ramdhani\", \"id\": \"685224817516\", \"mobile\": \"9354872898\", \"name\": \"pradeep Kumar\"}]}"
       }
     ],
     "bomber_history": [],
