@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 03:00:42",
+    "created_at": "2026-04-15 03:00:54",
     "stats": {
-      "main_users": 765,
+      "main_users": 766,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 107
@@ -7372,6 +7372,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8006385873,
+        "username": "",
+        "first_name": "𝙵𝙵 𝙿𝙰𝙸𝙳",
+        "join_date": "2026-04-15 03:00:47",
+        "referrer": 8156670159,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-15 03:00:47",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8008313092,
         "username": "Ydv1l",
         "first_name": "𝐒ɪʀ 𝐉ᴀᴄᴋ ༆",
@@ -8241,7 +8257,7 @@
         "first_name": "Ꭻᴇ֟፝ᴇᴛ 🤍 ✨",
         "join_date": "2026-03-31 05:09:03",
         "referrer": null,
-        "credits": 3,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -16640,6 +16656,12 @@
         "referrer": 8224757249,
         "referred": 8203300515,
         "date": "2026-04-14 01:13:58"
+      },
+      {
+        "id": 416,
+        "referrer": 8156670159,
+        "referred": 8006385873,
+        "date": "2026-04-15 03:00:47"
       }
     ],
     "search_history": [
