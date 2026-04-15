@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-15 20:22:45",
+    "created_at": "2026-04-15 20:24:51",
     "stats": {
       "main_users": 771,
       "main_admins": 1,
@@ -5238,8 +5238,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-14 14:15:50",
+        "total_searches": 5,
+        "last_active": "2026-04-15 20:24:12",
         "money": 0,
         "clone_bots": 0
       },
@@ -23674,6 +23674,14 @@
         "query": "6263266994",
         "search_date": "2026-04-15 20:21:57",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Mohammad Mokhtar thane ke samne Pachore karanwas Karanvas Rajgarh Rajgarh Madhya Pradesh 465683\", \"alt\": \"917240949439\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"Mohammad Mokhtar\", \"id\": \"864809732115\", \"mobile\": \"6263266994\", \"name\": \"Mohammad Mustak\"}]}"
+      },
+      {
+        "id": 862,
+        "user_id": 7399093360,
+        "search_type": "typed_userid",
+        "query": "8429693945",
+        "search_date": "2026-04-15 20:24:12",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8429693945\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
