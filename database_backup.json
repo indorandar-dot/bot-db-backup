@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 15:58:46",
+    "created_at": "2026-04-16 16:00:52",
     "stats": {
       "main_users": 776,
       "main_admins": 1,
@@ -3553,13 +3553,13 @@
         "first_name": "⸙‌‌‌‌‌‌‎ —͞𝐑ᴏ֟፝ʟᴇxㅤᴇ᙭ᴇ 모",
         "join_date": "2026-03-30 11:54:16",
         "referrer": null,
-        "credits": 15,
+        "credits": 14,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-15 14:53:00",
+        "total_searches": 8,
+        "last_active": "2026-04-16 15:59:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -23980,6 +23980,14 @@
         "query": "9198375522",
         "search_date": "2026-04-16 12:37:06",
         "result": "{\"success\": true, \"data\": [{\"address\": \"45 uttar thok sitapur mandir sitapur ralamau Sitapur Sitapur Uttar Pradesh 261403\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"mohan\", \"id\": \"448697578411\", \"mobile\": \"9198375522\", \"name\": \"Baiju\"}, {\"address\": \"45 uttar thok sitapur mandir sitapur ralamau Sitapur Sitapur Uttar Pradesh 261403\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"mohan\", \"id\": \"448697578411\", \"mobile\": \"9198375522\", \"name\": \"Baiju\"}]}"
+      },
+      {
+        "id": 877,
+        "user_id": 6929609082,
+        "search_type": "mobile_number",
+        "query": "9732162891",
+        "search_date": "2026-04-16 15:59:59",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Madhusudhan Ray Senera Senara-Raghunathpur - I-Puruliya West Bengal 723121\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Madhusudhan Ray\", \"id\": \"985180281804\", \"mobile\": \"9732162891\", \"name\": \"Bablu Ray\"}, {\"address\": \"Madhusudhan Ray Senera Senara-Raghunathpur - I-Puruliya West Bengal 723121\", \"alt\": \"\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Madhusudhan Ray\", \"id\": \"985180281804\", \"mobile\": \"9732162891\", \"name\": \"Bablu Ray\"}]}"
       }
     ],
     "bomber_history": [],
