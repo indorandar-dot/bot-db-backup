@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 18:12:03",
+    "created_at": "2026-04-16 18:12:55",
     "stats": {
       "main_users": 777,
       "main_admins": 1,
@@ -241,13 +241,13 @@
         "first_name": "CPC",
         "join_date": "2026-04-16 17:58:25",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-16 18:11:30",
+        "total_searches": 4,
+        "last_active": "2026-04-16 18:12:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -12951,7 +12951,7 @@
         "email_info_enabled": 1,
         "pan_info_enabled": 1,
         "pak_num_info_enabled": 1,
-        "ff_info_enabled": 1,
+        "ff_info_enabled": 0,
         "pincode_info_enabled": 1,
         "hitek_info_enabled": 1,
         "tg_bomber_enabled": 1,
@@ -24044,6 +24044,14 @@
         "query": "1151821992",
         "search_date": "2026-04-16 18:11:30",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"1151821992\", \"username\": \"ZeyroxMode\", \"full_name\": \"Pinkesh Kumar\", \"first_name\": \"Pinkesh\", \"last_name\": \"Kumar\", \"bio\": \"https://t.me/KraftonGamingYT\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Pinkesh\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Kumar\", \"msg_in_groups_count\": 0, \"names_count\": 4, \"total_groups\": 163, \"total_msg_count\": 0, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Pinkesh\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Kumar\", \"msg_in_groups_count\": 0, \"names_count\": 4, \"total_groups\": 163, \"total_msg_count\": 0, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"1151821992\", \"tg_id\": \"1151821992\", \"username\": \"ZeyroxMode\", \"first_name\": \"Pinkesh\", \"last_name\": \"Kumar\", \"full_name\": \"Pinkesh Kumar\", \"bio\": \"https://t.me/KraftonGamingYT\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"ZeyroxMode\"]}}"
+      },
+      {
+        "id": 882,
+        "user_id": 5024998123,
+        "search_type": "username",
+        "query": "@HACUCHIHA",
+        "search_date": "2026-04-16 18:12:11",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6093409252\", \"username\": \"HACUCHIHA\", \"full_name\": \"HACKER UCHIHA\", \"first_name\": \"HACKER UCHIHA\", \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6093409252\", \"first_name\": \"HACKER UCHIHA\", \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 5, \"usernames_count\": 2, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"6093409252\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"HACKER UCHIHA\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"msg_in_groups_count\": 0, \"names_count\": 5, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 2}, \"target_id\": \"6093409252\"}}"
       }
     ],
     "bomber_history": [],
