@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 05:23:04",
+    "created_at": "2026-04-16 05:26:54",
     "stats": {
-      "main_users": 772,
+      "main_users": 774,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 112
+      "total_clone_users": 114
     }
   },
   "main_bot": {
@@ -2808,6 +2808,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-03 21:50:54",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6559112128,
+        "username": "",
+        "first_name": "𒐖𒀼𒆸",
+        "join_date": "2026-04-16 05:26:45",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-16 05:26:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -7777,7 +7793,7 @@
         "first_name": "𝕣ꪮⅈꪀꪊ𝕛",
         "join_date": "2026-04-02 04:45:18",
         "referrer": null,
-        "credits": 4,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -8936,6 +8952,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-13 13:26:26",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8241211585,
+        "username": "",
+        "first_name": "𝕛ꪊꪀⅈꪮ𝕣",
+        "join_date": "2026-04-16 05:25:35",
+        "referrer": 8064976690,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-16 05:25:35",
         "money": 0,
         "clone_bots": 0
       },
@@ -16820,6 +16852,12 @@
         "referrer": 8008313092,
         "referred": 7984381783,
         "date": "2026-04-15 09:40:22"
+      },
+      {
+        "id": 418,
+        "referrer": 8064976690,
+        "referred": 8241211585,
+        "date": "2026-04-16 05:25:35"
       }
     ],
     "search_history": [
@@ -23989,6 +24027,21 @@
           "last_active": "2026-04-15 12:47:37"
         },
         {
+          "id": 1697,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 6559112128,
+          "username": "",
+          "first_name": "𒐖𒀼𒆸",
+          "join_date": "2026-04-16 05:26:45",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-16 05:26:46"
+        },
+        {
           "id": 913,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 6592651371,
@@ -24451,7 +24504,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-16 05:21:57"
+          "last_active": "2026-04-16 05:26:00"
         },
         {
           "id": 1063,
@@ -24512,6 +24565,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-13 13:26:26"
+        },
+        {
+          "id": 1694,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8241211585,
+          "username": "",
+          "first_name": "𝕛ꪊꪀⅈꪮ𝕣",
+          "join_date": "2026-04-16 05:25:35",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-16 05:25:35"
         },
         {
           "id": 1259,
