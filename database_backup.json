@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 12:35:25",
+    "created_at": "2026-04-16 12:37:30",
     "stats": {
       "main_users": 776,
       "main_admins": 1,
@@ -6913,13 +6913,13 @@
         "first_name": "Kꫝɪᴢꪊ🕸️",
         "join_date": "2026-04-02 16:00:44",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-16 12:11:49",
+        "total_searches": 3,
+        "last_active": "2026-04-16 12:37:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -23972,6 +23972,14 @@
         "query": "9735940302",
         "search_date": "2026-04-16 12:31:16",
         "result": "{\"success\": true, \"data\": [{\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"8250028977\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"8250028977\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}]}"
+      },
+      {
+        "id": 876,
+        "user_id": 7874323382,
+        "search_type": "mobile_number",
+        "query": "9198375522",
+        "search_date": "2026-04-16 12:37:06",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"45 uttar thok sitapur mandir sitapur ralamau Sitapur Sitapur Uttar Pradesh 261403\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"mohan\", \"id\": \"448697578411\", \"mobile\": \"9198375522\", \"name\": \"Baiju\"}, {\"address\": \"45 uttar thok sitapur mandir sitapur ralamau Sitapur Sitapur Uttar Pradesh 261403\", \"alt\": \"\", \"circle\": \"UP EAST\", \"email\": \"\", \"fname\": \"mohan\", \"id\": \"448697578411\", \"mobile\": \"9198375522\", \"name\": \"Baiju\"}]}"
       }
     ],
     "bomber_history": [],
