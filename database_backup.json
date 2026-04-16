@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 19:05:13",
+    "created_at": "2026-04-16 19:05:24",
     "stats": {
-      "main_users": 779,
+      "main_users": 780,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 120
@@ -1240,6 +1240,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-14 01:13:06",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 5615161833,
+        "username": "SuNxSlayz",
+        "first_name": "𝐖𝐞𝐛_𝟑_𝐆𝐀𝐌𝐄𝐑⁴⁵",
+        "join_date": "2026-04-16 19:05:16",
+        "referrer": 8703382327,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-16 19:05:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -10369,7 +10385,7 @@
         "first_name": "Zoro x",
         "join_date": "2026-04-16 19:04:45",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -12193,7 +12209,7 @@
         "first_name": "Bot Owner",
         "join_date": "2026-03-30 07:02:21",
         "referrer": null,
-        "credits": 1018,
+        "credits": 1020,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -12765,7 +12781,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-03-31 06:31:14",
-        "last_active": "2026-04-16 19:04:45",
+        "last_active": "2026-04-16 19:05:21",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -14497,6 +14513,10 @@
       },
       {
         "user_id": 5024998123,
+        "claim_date": "2026-04-16"
+      },
+      {
+        "user_id": 8383068231,
         "claim_date": "2026-04-16"
       }
     ],
@@ -17026,6 +17046,12 @@
         "referrer": 8064976690,
         "referred": 8747843035,
         "date": "2026-04-16 05:28:24"
+      },
+      {
+        "id": 420,
+        "referrer": 8703382327,
+        "referred": 5615161833,
+        "date": "2026-04-16 19:05:16"
       }
     ],
     "search_history": [
