@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 07:30:15",
+    "created_at": "2026-04-16 07:32:20",
     "stats": {
       "main_users": 775,
       "main_admins": 1,
@@ -11894,8 +11894,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 14,
-        "last_active": "2026-04-15 14:19:56",
+        "total_searches": 15,
+        "last_active": "2026-04-16 07:30:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -14401,6 +14401,10 @@
       },
       {
         "user_id": 8218016230,
+        "claim_date": "2026-04-16"
+      },
+      {
+        "user_id": 8591454774,
         "claim_date": "2026-04-16"
       }
     ],
@@ -23860,6 +23864,14 @@
         "query": "8849632489",
         "search_date": "2026-04-16 05:10:45",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N H 8 behind abad party plot opp central warehousing corp Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}]}"
+      },
+      {
+        "id": 867,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8168948568, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-16 07:30:45",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8168948568\", \"username\": \"\", \"full_name\": \"\\ud83e\\udd17\\ud83d\\udda4 miss\\u2665\\ufe0fChhoti \\ud83d\\udda4\\ud83e\\udee3\\ud83e\\udd70\", \"first_name\": \"\\ud83e\\udd17\\ud83d\\udda4 miss\\u2665\\ufe0fChhoti \\ud83d\\udda4\\ud83e\\udee3\\ud83e\\udd70\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-14T06:35:26Z\", \"first_name\": \"\\ud83e\\udd17\\ud83d\\udda4 miss\\u2665\\ufe0fChhoti \\ud83d\\udda4\\ud83e\\udee3\\ud83e\\udd70\", \"is_active\": true, \"last_msg_date\": \"2025-05-31T00:28:04Z\", \"last_name\": \"\\ud83e\\udee3\\ud83d\\udc70\\ud83e\\udec5\", \"msg_in_groups_count\": 3, \"names_count\": 1, \"total_groups\": 10, \"total_msg_count\": 17, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-05-14T06:35:26Z\", \"first_name\": \"\\ud83e\\udd17\\ud83d\\udda4 miss\\u2665\\ufe0fChhoti \\ud83d\\udda4\\ud83e\\udee3\\ud83e\\udd70\", \"is_active\": true, \"last_msg_date\": \"2025-05-31T00:28:04Z\", \"last_name\": \"\\ud83e\\udee3\\ud83d\\udc70\\ud83e\\udec5\", \"msg_in_groups_count\": 3, \"names_count\": 1, \"total_groups\": 10, \"total_msg_count\": 17, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8168948568\"}}"
       }
     ],
     "bomber_history": [],
