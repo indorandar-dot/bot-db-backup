@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 03:51:27",
+    "created_at": "2026-04-16 03:53:32",
     "stats": {
       "main_users": 771,
       "main_admins": 1,
@@ -3382,8 +3382,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-14 01:28:47",
+        "total_searches": 5,
+        "last_active": "2026-04-16 03:52:43",
         "money": 0,
         "clone_bots": 0
       },
@@ -23694,6 +23694,14 @@
         "query": "8429693945",
         "search_date": "2026-04-15 20:24:12",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8429693945\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 863,
+        "user_id": 6843859380,
+        "search_type": "username",
+        "query": "@god_obito_745",
+        "search_date": "2026-04-16 03:52:43",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"god_obito_745\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
