@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 05:10:33",
+    "created_at": "2026-04-16 05:12:17",
     "stats": {
-      "main_users": 771,
+      "main_users": 772,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 112
@@ -10124,6 +10124,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8374735842,
+        "username": "samxply",
+        "first_name": "𓆰𝐒𝙰ᴍ𓆩⃟🇮🇲𓆪𓆪",
+        "join_date": "2026-04-16 05:12:09",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-16 05:12:09",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8375426977,
         "username": "akboss333",
         "first_name": "☠️AK",
@@ -12086,8 +12102,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 203,
-        "last_active": "2026-04-16 04:58:43",
+        "total_searches": 204,
+        "last_active": "2026-04-16 05:10:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -12547,7 +12563,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-07 15:13:19",
-        "last_active": "2026-04-16 03:07:47",
+        "last_active": "2026-04-16 05:11:15",
         "goodbye_enabled": 1,
         "goodbye_message": "╭━━━〔 <tg-emoji emoji-id=\"6041921818896372382\">👋</tg-emoji> 𝗚𝗢𝗢𝗗𝗕𝗬𝗘 〕━━━╮\n┃ <tg-emoji emoji-id=\"5778145208411624388\">👤</tg-emoji> {name}\n┃\n┃ <tg-emoji emoji-id=\"6035130900075777681\">🚪</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃ <tg-emoji emoji-id=\"5890937706803894250\">📅</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5983150113483134607\">⏰️</tg-emoji> 𝗧𝗶𝗺𝗲 : {time} (IST)\n┃\n╰━━━━━━━━━━━━━━━━━━╯",
         "welcome_photo_file_id": null,
@@ -12847,7 +12863,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-16 05:10:27",
+        "last_active": "2026-04-16 05:12:14",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -23726,6 +23742,14 @@
         "query": "2463653880",
         "search_date": "2026-04-16 05:03:22",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2463653880\", \"accountType\": 1, \"nickname\": \"O\\u0274\\u029f\\u028f\\u3164S\\u1d00\\u1d0d\\ubaa8\", \"region\": \"IND\", \"level\": 62, \"exp\": 1212556, \"headPic\": 902000052, \"rank\": 308, \"rankingPoints\": 1814, \"badgeCnt\": 68, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6392, \"showRank\": true, \"lastLoginAt\": \"1776281618\", \"csRank\": 321, \"csRankingPoints\": 88, \"weaponSkinShows\": [907103130], \"pinId\": 910002801, \"maxRank\": 308, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1603169290\", \"title\": 904090022, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [203046040, 204000181, 211000041, 214043011, 205000051], \"equipedSkills\": [16, 7606, 24, 1, 8, 1, 16, 2101, 8, 2, 16, 2705, 8, 3, 16, 3206], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000111, \"level\": 1, \"exp\": 27, \"isSelected\": true, \"skinId\": 1310000111, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"2463653880\", \"language\": \"Language_EN\", \"signature\": \"H.A.C.K.E.R\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1776061667\"}}}"
+      },
+      {
+        "id": 866,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "8849632489",
+        "search_date": "2026-04-16 05:10:45",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N H 8 behind abad party plot opp central warehousing corp Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}, {\"address\": \"S/O Ramkishan c-209 SHRIRAM RESIDENCY N.H.8 behind abad party plot opp.central warehousing corp. Lambha Daskroi Ahmedabad Gujarat 382405\", \"alt\": \"919427208152\", \"circle\": \"JIO GUJARAT\", \"email\": \"sharma.sombir77@gmail.com\", \"fname\": \"Ramkishan\", \"id\": \"469389234152\", \"mobile\": \"8849632489\", \"name\": \"Sharma Sombir\"}]}"
       }
     ],
     "bomber_history": [],
@@ -25259,7 +25283,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-14 15:08:44"
+          "last_active": "2026-04-16 05:11:15"
         },
         {
           "id": 1024,
