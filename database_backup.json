@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 18:12:55",
+    "created_at": "2026-04-16 18:14:56",
     "stats": {
       "main_users": 777,
       "main_admins": 1,
@@ -12166,8 +12166,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 206,
-        "last_active": "2026-04-16 18:11:19",
+        "total_searches": 207,
+        "last_active": "2026-04-16 18:13:08",
         "money": 0,
         "clone_bots": 0
       },
@@ -12943,7 +12943,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-16 18:11:09",
+        "last_active": "2026-04-16 18:14:18",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJV-WnTfbdET5zwVjlXJ2NecRd3DoPjAALLDWsboM6YVs0LtPXsNBtRAQADAgADeQADOwQ",
@@ -24052,6 +24052,14 @@
         "query": "@HACUCHIHA",
         "search_date": "2026-04-16 18:12:11",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6093409252\", \"username\": \"HACUCHIHA\", \"full_name\": \"HACKER UCHIHA\", \"first_name\": \"HACKER UCHIHA\", \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6093409252\", \"first_name\": \"HACKER UCHIHA\", \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 5, \"usernames_count\": 2, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"6093409252\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"HACKER UCHIHA\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"\\ud83d\\ude01\\ud83d\\udc79\", \"msg_in_groups_count\": 0, \"names_count\": 5, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 2}, \"target_id\": \"6093409252\"}}"
+      },
+      {
+        "id": 883,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "9883422784",
+        "search_date": "2026-04-16 18:13:08",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}, {\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}]}"
       }
     ],
     "bomber_history": [],
