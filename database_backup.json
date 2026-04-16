@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 18:25:25",
+    "created_at": "2026-04-16 18:27:31",
     "stats": {
       "main_users": 778,
       "main_admins": 1,
@@ -1217,13 +1217,13 @@
         "first_name": "A",
         "join_date": "2026-04-16 18:25:10",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-16 18:25:10",
+        "total_searches": 1,
+        "last_active": "2026-04-16 18:27:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -24076,6 +24076,14 @@
         "query": "9883422784",
         "search_date": "2026-04-16 18:13:08",
         "result": "{\"success\": true, \"data\": [{\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}, {\"address\": \"W/O mohan tamang Tallo Syari PW Lower Syari Near Chai Dara Tathangchen Syari GPU Tadong East Sikkim 737102\", \"alt\": \"7551025364\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"Mohan Tamang\", \"id\": \"659282403219\", \"mobile\": \"9883422784\", \"name\": \"Sunita Tamang\"}]}"
+      },
+      {
+        "id": 884,
+        "user_id": 5595436792,
+        "search_type": "mobile_number",
+        "query": "6297048092",
+        "search_date": "2026-04-16 18:27:16",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Hope Tea Garden Hope Tea Garden kothiline hope tea garden kothiline kuthiling nagrakata nagrakata jalpaiguri West Bengal 735225\", \"alt\": \"8927326322\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"amit tury\", \"id\": \"800614907590\", \"mobile\": \"6297048092\", \"name\": \"merry turi\"}, {\"address\": \"Hope Tea Garden Hope Tea Garden kothiline hope tea garden kothiline kuthiling nagrakata nagrakata jalpaiguri West Bengal 735225\", \"alt\": \"8927326322\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"amit tury\", \"id\": \"800614907590\", \"mobile\": \"6297048092\", \"name\": \"merry turi\"}]}"
       }
     ],
     "bomber_history": [],
