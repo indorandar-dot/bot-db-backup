@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 05:02:14",
+    "created_at": "2026-04-16 05:04:19",
     "stats": {
       "main_users": 771,
       "main_admins": 1,
@@ -8806,8 +8806,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-01 03:16:54",
+        "total_searches": 2,
+        "last_active": "2026-04-16 05:03:22",
         "money": 0,
         "clone_bots": 0
       },
@@ -14283,6 +14283,10 @@
       },
       {
         "user_id": 8192518877,
+        "claim_date": "2026-04-16"
+      },
+      {
+        "user_id": 8220310921,
         "claim_date": "2026-04-16"
       }
     ],
@@ -23714,6 +23718,14 @@
         "query": "9876543210",
         "search_date": "2026-04-16 04:58:43",
         "result": "{\"success\": true, \"data\": [{\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR. DEEPAK MEHTA\"}, {\"address\": \"FARAH SHAZIA\", \"alt\": \"QAISER ALAM\", \"circle\": \"8/2/1B DR BIRESH GUHA STREET CIRCUS AVENUE KOLKATA West Bengal 700017\", \"email\": \"\", \"fname\": \"\\\"9836307000\", \"id\": \"8337007000\", \"mobile\": \"9876543210\", \"name\": \"VODAFONE KOLKATA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"D71 KAMLA NAGAR KAMLA NAGARNORTH DELHI DELHI DELHI 110007\", \"alt\": \"9999400000\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"CHANDER PRAKASH MEHTA\", \"id\": \"886553666165\", \"mobile\": \"9876543210\", \"name\": \"MR DEEPAK MEHTA\"}, {\"address\": \"Tower 9 Flat 1506 Lotus Boulevard NoidaSector 100 NoidaGautam Buddha Nagar Uttar Pradesh 201301\", \"alt\": \"\", \"circle\": \"AIRTEL DELHI\", \"email\": \"devjroy@gmail.com\", \"fname\": \"Salil Kumar Roy\", \"id\": \"\", \"mobile\": \"9876543210\", \"name\": \"Dev Jyoti Roy\"}, {\"address\": \"S/O B D Dobriyal H No 2651/67 A Molarband Extn 60 Futa Road 3 Badarpur South Delhi Delhi 110044\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"B D Dobriyal\", \"id\": \"572783453594\", \"mobile\": \"9999883039\", \"name\": \"Sampurna Nand Dobriyal\"}, {\"address\": \"barrack no 2 police station delhichanakyapuri delhi Delhi 110001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Pappu\", \"id\": \"\", \"mobile\": \"9999866575\", \"name\": \"Sachin\"}, {\"address\": \"S/O Suraj Prakash Dhingra M-2/23 GF MODEL TOWN-3 MODEL TOWN North West Delhi Delhi 110009\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Suraj Prakash Dhingra\", \"id\": \"254944943909\", \"mobile\": \"9999772425\", \"name\": \"Nitin Dhingra\"}, {\"address\": \"132 Milansaar Appartment paschim vihar new delhi Paschim Vihar Delhi 110063\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Subhash Kwatra\", \"id\": \"550759224898\", \"mobile\": \"9999565653\", \"name\": \"Puneet Kwatra\"}, {\"address\": \"New T-56 1st Floor Gali No -1 New T Block Near Shukkar Bazar Axis Atm Uttam Nagar Uttam Nagar D k Mohan GardenWest Delhi Delhi 110059\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"sameer chakraborty\", \"id\": \"386605929525\", \"mobile\": \"9990905121\", \"name\": \"Abhishek Chakraborty\"}, {\"address\": \"S/O Qamrul Hasan Usmani H no-482 2nd Floor Zakir Nagar Jamia Nagar South Delhi Delhi 110025\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Qamrul Hasan Usmani\", \"id\": \"487080720599\", \"mobile\": \"9990278168\", \"name\": \"Naved Sajid Usmani\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Yogi Mehto\", \"id\": \"901139751977\", \"mobile\": \"9971995142\", \"name\": \"Sudhir Mehto\"}, {\"address\": \"01 na ghaziabadghaziabad Ghaziabad Uttar Pradesh 201001\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Madan Lal\", \"id\": \"666762808344\", \"mobile\": \"9971846361\", \"name\": \"Anil Sharma\"}, {\"address\": \"G-707 METRO VIHAR SHASTRI PARK DMRC STAFF QUTER DELHIGarhi Mendu North East Delhi 110053\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"late\", \"id\": \"956750738466\", \"mobile\": \"9971796970\", \"name\": \"AMIT KUMAR\"}, {\"address\": \"S/O Jagdish Lal Manocha WZ-153/1 FIRST FLOOR gali no-6 VIRENDER NAGAR West Delhi Delhi 110058\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Jagdish Lal Manocha\", \"id\": \"743704479544\", \"mobile\": \"9971792267\", \"name\": \"Ravinder Kant Manocha\"}, {\"address\": \"S/O Gyasi Ram A-111 FRIENDS ENCLAVE MUNDKA West Delhi Delhi 110041\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Gyasi Ram\", \"id\": \"379547157577\", \"mobile\": \"9971749310\", \"name\": \"Bijender Singh\"}, {\"address\": \"a1 402 tower 1 purvanchal silver city sector 93 Noida Uttar Pradesh 201304\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"richa2619@gmail.com\", \"fname\": \"rajeev varma\", \"id\": \"917436237683\", \"mobile\": \"9971360404\", \"name\": \"richa varma\"}, {\"address\": \"S/O Rattan Chand House No -13 B Railway Board Officers Flats Near New Tamilnadu HouseChanakya Puri New Delhi Delhi 110021\", \"alt\": \"9876543210\", \"circle\": \"AIRTEL DELHI\", \"email\": \"\", \"fname\": \"Rattan Chand\", \"id\": \"949708408337\", \"mobile\": \"9971269111\", \"name\": \"Deepak Kumar\"}]}"
+      },
+      {
+        "id": 865,
+        "user_id": 8220310921,
+        "search_type": "ff_info",
+        "query": "2463653880",
+        "search_date": "2026-04-16 05:03:22",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2463653880\", \"accountType\": 1, \"nickname\": \"O\\u0274\\u029f\\u028f\\u3164S\\u1d00\\u1d0d\\ubaa8\", \"region\": \"IND\", \"level\": 62, \"exp\": 1212556, \"headPic\": 902000052, \"rank\": 308, \"rankingPoints\": 1814, \"badgeCnt\": 68, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6392, \"showRank\": true, \"lastLoginAt\": \"1776281618\", \"csRank\": 321, \"csRankingPoints\": 88, \"weaponSkinShows\": [907103130], \"pinId\": 910002801, \"maxRank\": 308, \"csMaxRank\": 321, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1603169290\", \"title\": 904090022, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000015, \"skinColor\": 50, \"clothes\": [203046040, 204000181, 211000041, 214043011, 205000051], \"equipedSkills\": [16, 7606, 24, 1, 8, 1, 16, 2101, 8, 2, 16, 2705, 8, 3, 16, 3206], \"isSelected\": true, \"isSelectedAwaken\": true, \"isMarkedStar\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000111, \"level\": 1, \"exp\": 27, \"isSelected\": true, \"skinId\": 1310000111, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"2463653880\", \"language\": \"Language_EN\", \"signature\": \"H.A.C.K.E.R\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1776061667\"}}}"
       }
     ],
     "bomber_history": [],
