@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 18:08:45",
+    "created_at": "2026-04-16 18:10:50",
     "stats": {
       "main_users": 777,
       "main_admins": 1,
@@ -241,13 +241,13 @@
         "first_name": "CPC",
         "join_date": "2026-04-16 17:58:25",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-16 18:04:45",
+        "total_searches": 2,
+        "last_active": "2026-04-16 18:10:27",
         "money": 0,
         "clone_bots": 0
       },
@@ -24020,6 +24020,14 @@
         "query": "@Sudhanshu_das01",
         "search_date": "2026-04-16 18:04:45",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 879,
+        "user_id": 5024998123,
+        "search_type": "username",
+        "query": "@ZeyroxMode",
+        "search_date": "2026-04-16 18:10:27",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"1151821992\", \"username\": \"ZeyroxMode\", \"full_name\": \"Pinkesh\", \"first_name\": \"Pinkesh\", \"last_name\": \"Kumar\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"1151821992\", \"first_name\": \"Pinkesh\", \"last_name\": \"Kumar\", \"is_active\": true, \"total_groups\": 163, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 4, \"usernames_count\": 1, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"1151821992\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Pinkesh\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Kumar\", \"msg_in_groups_count\": 0, \"names_count\": 4, \"total_groups\": 163, \"total_msg_count\": 0, \"usernames_count\": 1}, \"target_id\": \"1151821992\"}}"
       }
     ],
     "bomber_history": [],
@@ -24151,7 +24159,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-16 17:58:25"
+          "last_active": "2026-04-16 18:09:43"
         },
         {
           "id": 953,
