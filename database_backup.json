@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 09:56:29",
+    "created_at": "2026-04-16 09:58:34",
     "stats": {
       "main_users": 776,
       "main_admins": 1,
@@ -2726,8 +2726,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-09 05:05:57",
+        "total_searches": 5,
+        "last_active": "2026-04-16 09:57:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -23896,6 +23896,14 @@
         "query": "SIMRAN_HOSTING_ROBOT",
         "search_date": "2026-04-16 08:38:45",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8795717407\", \"username\": \"SIMRAN_HOSTING_ROBOT\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8795717407\", \"first_name\": null, \"last_name\": null, \"is_active\": true, \"total_groups\": 0, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 0, \"usernames_count\": 0, \"first_msg_date\": null, \"last_msg_date\": null}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8795717407\", \"info\": {\"country\": null, \"country_code\": null, \"data\": {\"id\": \"8795717407\", \"first_name\": null, \"last_name\": null, \"is_active\": true, \"total_groups\": 0, \"admin_groups\": 0, \"total_msg_count\": 0, \"msg_in_groups_count\": 0, \"names_count\": 0, \"usernames_count\": 0, \"first_msg_date\": null, \"last_msg_date\": null}}}}"
+      },
+      {
+        "id": 869,
+        "user_id": 6515662923,
+        "search_type": "username",
+        "query": "@savi_tiwari",
+        "search_date": "2026-04-16 09:57:17",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
