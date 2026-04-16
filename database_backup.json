@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 12:31:13",
+    "created_at": "2026-04-16 12:33:19",
     "stats": {
       "main_users": 776,
       "main_admins": 1,
@@ -9425,13 +9425,13 @@
         "first_name": "Mustakin",
         "join_date": "2026-04-05 12:52:39",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-15 16:03:56",
+        "total_searches": 7,
+        "last_active": "2026-04-16 12:31:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -23964,6 +23964,14 @@
         "query": "@Fckinallcomm",
         "search_date": "2026-04-16 12:22:46",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5848480543\", \"username\": \"Fckinallcomm\", \"full_name\": \"D3xtor\", \"first_name\": \"D3xtor\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5848480543\", \"first_name\": \"D3xtor\", \"last_name\": null, \"is_active\": true, \"total_groups\": 34, \"admin_groups\": 0, \"total_msg_count\": 431, \"msg_in_groups_count\": 26, \"names_count\": 8, \"usernames_count\": 5, \"first_msg_date\": \"2024-07-28T16:48:32Z\", \"last_msg_date\": \"2026-04-16T08:40:43Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"5848480543\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-07-28T16:48:32Z\", \"first_name\": \"D3xtor\", \"is_active\": true, \"last_msg_date\": \"2026-04-16T08:40:43Z\", \"last_name\": null, \"msg_in_groups_count\": 26, \"names_count\": 8, \"total_groups\": 34, \"total_msg_count\": 431, \"usernames_count\": 5}, \"target_id\": \"5848480543\"}}"
+      },
+      {
+        "id": 875,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "9735940302",
+        "search_date": "2026-04-16 12:31:16",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"8250028977\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"\", \"circle\": \"JIO KOL\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}, {\"address\": \"- - - - Nadia - NADIA Nadia West Bengal 741253\", \"alt\": \"8250028977\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Rashidul Mondal\", \"id\": \"\", \"mobile\": \"9735940302\", \"name\": \"Sekendar Ali Mandal\"}]}"
       }
     ],
     "bomber_history": [],
