@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 05:27:09",
+    "created_at": "2026-04-16 05:28:32",
     "stats": {
-      "main_users": 774,
+      "main_users": 775,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 114
+      "total_clone_users": 115
     }
   },
   "main_bot": {
@@ -7793,7 +7793,7 @@
         "first_name": "𝕣ꪮⅈꪀꪊ𝕛",
         "join_date": "2026-04-02 04:45:18",
         "referrer": null,
-        "credits": 6,
+        "credits": 8,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -12232,6 +12232,22 @@
         "joined_channels": "[]",
         "total_searches": 3,
         "last_active": "2026-04-11 09:33:53",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8747843035,
+        "username": "",
+        "first_name": "🫥",
+        "join_date": "2026-04-16 05:28:24",
+        "referrer": 8064976690,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-16 05:28:24",
         "money": 0,
         "clone_bots": 0
       },
@@ -16858,6 +16874,12 @@
         "referrer": 8064976690,
         "referred": 8241211585,
         "date": "2026-04-16 05:25:35"
+      },
+      {
+        "id": 419,
+        "referrer": 8064976690,
+        "referred": 8747843035,
+        "date": "2026-04-16 05:28:24"
       }
     ],
     "search_history": [
@@ -25120,6 +25142,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-16 04:58:05"
+        },
+        {
+          "id": 1700,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8747843035,
+          "username": "",
+          "first_name": "🫥",
+          "join_date": "2026-04-16 05:28:24",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-16 05:28:24"
         },
         {
           "id": 1518,
