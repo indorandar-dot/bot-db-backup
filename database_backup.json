@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-16 12:27:02",
+    "created_at": "2026-04-16 12:29:07",
     "stats": {
       "main_users": 776,
       "main_admins": 1,
@@ -9425,7 +9425,7 @@
         "first_name": "Mustakin",
         "join_date": "2026-04-05 12:52:39",
         "referrer": null,
-        "credits": 0,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14437,6 +14437,10 @@
       },
       {
         "user_id": 7874323382,
+        "claim_date": "2026-04-16"
+      },
+      {
+        "user_id": 8298646971,
         "claim_date": "2026-04-16"
       }
     ],
