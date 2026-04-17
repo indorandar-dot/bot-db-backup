@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 15:52:48",
+    "created_at": "2026-04-17 15:54:53",
     "stats": {
       "main_users": 785,
       "main_admins": 1,
@@ -12294,8 +12294,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 207,
-        "last_active": "2026-04-16 18:13:08",
+        "total_searches": 208,
+        "last_active": "2026-04-17 15:54:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -13071,7 +13071,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-17 12:15:02",
+        "last_active": "2026-04-17 15:54:34",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJvkWnhNZ7rb-NzjqqoqswctmQ0nAHeAAInFWsbIXYIVzTMXO_eGu3AAQADAgADdwADOwQ",
@@ -24520,6 +24520,14 @@
         "query": "@Vaibhaviiiii",
         "search_date": "2026-04-17 15:32:51",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 917,
+        "user_id": 8703382327,
+        "search_type": "mobile_number",
+        "query": "7649025016",
+        "search_date": "2026-04-17 15:54:45",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Kanhaiyalal Jatawa 32 VISHNUPURA Vishnupura Ujjain 32 VISHNUPURA UJJAIN AMBODIYA UJJAIN Madhya Pradesh 456001\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"KANHAIYALAL JATAWA\", \"id\": \"948075661692\", \"mobile\": \"8959779537\", \"name\": \"ANKESH JATWA\"}, {\"address\": \"S/O Mahendra Jatwa 14 Sanwer Road Ujjain Sanwer Road Ujjain Vishnupura Ujjain MANDSAUR UJJAIN MANDSAUR Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"Mahendra Jatwa\", \"id\": \"520460977772\", \"mobile\": \"8878894418\", \"name\": \"MR DEVENDRA JATWA\"}, {\"address\": \"s/o chotu 46 vishnupura ujjain ujjain 46 vishnupura ujjain Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"chotu\", \"id\": \"858919920565\", \"mobile\": \"8586085842\", \"name\": \"ankit kuwal\"}, {\"address\": \"13 13 3 khajur wali majit ujjain ujjain 13 3 khajur wali majit ujjain ujjain ujjain ujjain 13 3 khajur wali majit ujjain ujjain SHAJAPUR BADHKUMMED SHAJAPUR Madhya Pradesh 456006\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"Mohamad Aslam\", \"id\": \"911055803721\", \"mobile\": \"7722969695\", \"name\": \"MR MOHOMAD KASIM\"}, {\"address\": \"46 vishnupura Ujjain Ujjain Ujjain Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"AIRTEL MP\", \"email\": \"\", \"fname\": \"Chotu\", \"id\": \"\", \"mobile\": \"7415437376\", \"name\": \"Ankit Kuwal\"}]}"
       }
     ],
     "bomber_history": [],
