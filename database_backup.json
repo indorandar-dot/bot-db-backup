@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 08:15:02",
+    "created_at": "2026-04-17 08:17:08",
     "stats": {
       "main_users": 784,
       "main_admins": 1,
@@ -241,13 +241,13 @@
         "first_name": "CPC",
         "join_date": "2026-04-16 17:58:25",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-17 08:14:37",
+        "total_searches": 6,
+        "last_active": "2026-04-17 08:15:30",
         "money": 0,
         "clone_bots": 0
       },
@@ -24326,6 +24326,14 @@
         "query": "{'user_id': 7749798939, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-17 08:14:37",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7749798939\", \"username\": \"\", \"full_name\": \"cvele\", \"first_name\": \"cvele\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-10-18T21:53:08Z\", \"first_name\": \"cvele\", \"is_active\": true, \"last_msg_date\": \"2024-11-12T18:07:09Z\", \"last_name\": \"cvele\", \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-10-18T21:53:08Z\", \"first_name\": \"cvele\", \"is_active\": true, \"last_msg_date\": \"2024-11-12T18:07:09Z\", \"last_name\": \"cvele\", \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7749798939\"}}"
+      },
+      {
+        "id": 897,
+        "user_id": 5024998123,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8370415267, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 08:15:30",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8370415267\", \"username\": \"\", \"full_name\": \"Ankit\", \"first_name\": \"Ankit\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-08-01T12:37:53Z\", \"first_name\": \"Ankit\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T11:56:33Z\", \"last_name\": \"Verma\", \"msg_in_groups_count\": 32, \"names_count\": 8, \"total_groups\": 37, \"total_msg_count\": 830, \"usernames_count\": 6}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-08-01T12:37:53Z\", \"first_name\": \"Ankit\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T11:56:33Z\", \"last_name\": \"Verma\", \"msg_in_groups_count\": 32, \"names_count\": 8, \"total_groups\": 37, \"total_msg_count\": 830, \"usernames_count\": 6}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8370415267\"}}"
       }
     ],
     "bomber_history": [],
