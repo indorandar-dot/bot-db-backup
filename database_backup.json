@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 16:32:31",
+    "created_at": "2026-04-17 16:34:37",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -3142,8 +3142,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 24,
-        "last_active": "2026-04-13 06:42:02",
+        "total_searches": 25,
+        "last_active": "2026-04-17 16:33:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -14670,6 +14670,10 @@
       {
         "user_id": 8745378869,
         "claim_date": "2026-04-17"
+      },
+      {
+        "user_id": 6679896022,
+        "claim_date": "2026-04-17"
       }
     ],
     "welcome_settings": [
@@ -24548,6 +24552,14 @@
         "query": "7649025016",
         "search_date": "2026-04-17 15:54:45",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Kanhaiyalal Jatawa 32 VISHNUPURA Vishnupura Ujjain 32 VISHNUPURA UJJAIN AMBODIYA UJJAIN Madhya Pradesh 456001\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"KANHAIYALAL JATAWA\", \"id\": \"948075661692\", \"mobile\": \"8959779537\", \"name\": \"ANKESH JATWA\"}, {\"address\": \"S/O Mahendra Jatwa 14 Sanwer Road Ujjain Sanwer Road Ujjain Vishnupura Ujjain MANDSAUR UJJAIN MANDSAUR Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"Mahendra Jatwa\", \"id\": \"520460977772\", \"mobile\": \"8878894418\", \"name\": \"MR DEVENDRA JATWA\"}, {\"address\": \"s/o chotu 46 vishnupura ujjain ujjain 46 vishnupura ujjain Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"JIO MP\", \"email\": \"\", \"fname\": \"chotu\", \"id\": \"858919920565\", \"mobile\": \"8586085842\", \"name\": \"ankit kuwal\"}, {\"address\": \"13 13 3 khajur wali majit ujjain ujjain 13 3 khajur wali majit ujjain ujjain ujjain ujjain 13 3 khajur wali majit ujjain ujjain SHAJAPUR BADHKUMMED SHAJAPUR Madhya Pradesh 456006\", \"alt\": \"7649025016\", \"circle\": \"VI MP\", \"email\": \"\", \"fname\": \"Mohamad Aslam\", \"id\": \"911055803721\", \"mobile\": \"7722969695\", \"name\": \"MR MOHOMAD KASIM\"}, {\"address\": \"46 vishnupura Ujjain Ujjain Ujjain Madhya Pradesh 456010\", \"alt\": \"7649025016\", \"circle\": \"AIRTEL MP\", \"email\": \"\", \"fname\": \"Chotu\", \"id\": \"\", \"mobile\": \"7415437376\", \"name\": \"Ankit Kuwal\"}]}"
+      },
+      {
+        "id": 918,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "7547808629",
+        "search_date": "2026-04-17 16:33:04",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7547808629\", \"username\": \"\", \"full_name\": \"\\uc0e4\\uad70\\u2728\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T17:08:01Z\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T23:22:41Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 396, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T17:08:01Z\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T23:22:41Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 396, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7547808629\"}}"
       }
     ],
     "bomber_history": [],
