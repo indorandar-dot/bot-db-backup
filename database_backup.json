@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 08:12:56",
+    "created_at": "2026-04-17 08:15:02",
     "stats": {
       "main_users": 784,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 123
+      "total_clone_users": 124
     }
   },
   "main_bot": {
@@ -241,13 +241,13 @@
         "first_name": "CPC",
         "join_date": "2026-04-16 17:58:25",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-16 18:12:11",
+        "total_searches": 5,
+        "last_active": "2026-04-17 08:14:37",
         "money": 0,
         "clone_bots": 0
       },
@@ -7713,13 +7713,13 @@
         "first_name": "Krishna",
         "join_date": "2026-04-17 08:08:28",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-17 08:08:28",
+        "total_searches": 1,
+        "last_active": "2026-04-17 08:13:12",
         "money": 0,
         "clone_bots": 0
       },
@@ -24310,6 +24310,22 @@
         "query": "6953935614",
         "search_date": "2026-04-17 07:56:25",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6953935614\", \"username\": \"\", \"full_name\": \"z\\u0454\\u03b7\\u03b9\\u0442\\u043d \\ud83e\\udd42\", \"first_name\": \"z\\u0454\\u03b7\\u03b9\\u0442\\u043d \\ud83e\\udd42\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-04-26T17:26:25Z\", \"first_name\": \"z\\u0454\\u03b7\\u03b9\\u0442\\u043d \\ud83e\\udd42\", \"is_active\": true, \"last_msg_date\": \"2026-04-16T10:53:21Z\", \"last_name\": null, \"msg_in_groups_count\": 50, \"names_count\": 58, \"total_groups\": 74, \"total_msg_count\": 3243, \"usernames_count\": 6}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-04-26T17:26:25Z\", \"first_name\": \"z\\u0454\\u03b7\\u03b9\\u0442\\u043d \\ud83e\\udd42\", \"is_active\": true, \"last_msg_date\": \"2026-04-16T10:53:21Z\", \"last_name\": null, \"msg_in_groups_count\": 50, \"names_count\": 58, \"total_groups\": 74, \"total_msg_count\": 3243, \"usernames_count\": 6}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6953935614\"}}"
+      },
+      {
+        "id": 895,
+        "user_id": 8037300335,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6694298612, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 08:13:12",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6694298612\", \"username\": \"\", \"full_name\": \"NAJMI\", \"first_name\": \"NAJMI\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-21T10:26:11Z\", \"first_name\": \"NAJMI\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T18:05:03Z\", \"last_name\": \"ADMIN\", \"msg_in_groups_count\": 18, \"names_count\": 4, \"total_groups\": 31, \"total_msg_count\": 744, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-21T10:26:11Z\", \"first_name\": \"NAJMI\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T18:05:03Z\", \"last_name\": \"ADMIN\", \"msg_in_groups_count\": 18, \"names_count\": 4, \"total_groups\": 31, \"total_msg_count\": 744, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6694298612\"}}"
+      },
+      {
+        "id": 896,
+        "user_id": 5024998123,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7749798939, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 08:14:37",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7749798939\", \"username\": \"\", \"full_name\": \"cvele\", \"first_name\": \"cvele\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-10-18T21:53:08Z\", \"first_name\": \"cvele\", \"is_active\": true, \"last_msg_date\": \"2024-11-12T18:07:09Z\", \"last_name\": \"cvele\", \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-10-18T21:53:08Z\", \"first_name\": \"cvele\", \"is_active\": true, \"last_msg_date\": \"2024-11-12T18:07:09Z\", \"last_name\": \"cvele\", \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 4, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7749798939\"}}"
       }
     ],
     "bomber_history": [],
@@ -24441,7 +24457,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-17 07:23:59"
+          "last_active": "2026-04-17 08:13:35"
         },
         {
           "id": 953,
@@ -25102,6 +25118,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-10 08:16:33"
+        },
+        {
+          "id": 1743,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 8037300335,
+          "username": "Krishna_girl0",
+          "first_name": "Krishna",
+          "join_date": "2026-04-17 08:14:46",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-17 08:14:46"
         },
         {
           "id": 1244,
