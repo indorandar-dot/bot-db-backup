@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 15:27:41",
+    "created_at": "2026-04-17 15:29:47",
     "stats": {
       "main_users": 785,
       "main_admins": 1,
@@ -1537,13 +1537,13 @@
         "first_name": "Prince",
         "join_date": "2026-04-11 19:01:07",
         "referrer": 8703382327,
-        "credits": 5,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-11 19:05:57",
+        "total_searches": 5,
+        "last_active": "2026-04-17 15:29:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -24476,6 +24476,30 @@
         "query": "9873194957",
         "search_date": "2026-04-17 14:00:07",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Itwari House No Prem Nagar Near Sunheri Masjid Ghaziabad Near Sunheri Masjid GHAZIABAD Ghaziabad UTTAR PRADESH 201102\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"S/O Itwari\", \"id\": \"\", \"mobile\": \"9873194957\", \"name\": \"Warish Ahmed\"}, {\"address\": \"S/O Itwari House No Prem NagarNear Sunheri Masjid Ghaziabad Near Sunheri Masjid GHAZIABAD Ghaziabad UTTAR PRADESH 201102\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"S/O Itwari\", \"id\": \"\", \"mobile\": \"9873194957\", \"name\": \"Warish Ahmed\"}, {\"address\": \"S/O Itwari House No Prem NagarNear Sunheri Masjid Ghaziabad Near Sunheri Masjid GHAZIABAD Ghaziabad UTTAR PRADESH 201102\", \"alt\": \"\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"S/O Itwari\", \"id\": \"\", \"mobile\": \"9873194957\", \"name\": \"Warish Ahmed\"}, {\"address\": \"16/317GALI NO-3HARDHYAN ROAD BAPA NAGARKAROL BAGH NRPYARE LAL ROAD SCHOOL DELHI DELHI 110005\", \"alt\": \"9873194957\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Sochand Tiwari\", \"id\": \"NOTAVAILABLE\", \"mobile\": \"9811300582\", \"name\": \"MR. SHAILENDRA TIWARI\"}, {\"address\": \"16/317GALI NO-3HARDHYAN ROAD BAPA NAGARKAROL BAGH NRPYARE LAL ROAD SCHOOL DELHI DELHI 110005\", \"alt\": \"9873194957\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Sochand Tiwari\", \"id\": \"NOTAVAILABLE\", \"mobile\": \"9811300582\", \"name\": \"MR SHAILENDRA TIWARI\"}, {\"address\": \"16/317GALI NO-3HARDHYAN ROAD BAPA NAGARKAROL BAGH NRPYARE LAL ROAD SCHOOL DELHI DELHI 110005\", \"alt\": \"9873194957\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Sochand Tiwari\", \"id\": \"NOTAVAILABLE\", \"mobile\": \"9811300582\", \"name\": \"MR SHAILENDRA TIWARI\"}, {\"address\": \"16/317GALI NO-3HARDHYAN ROAD BAPA NAGARKAROL BAGH NRPYARE LAL ROAD SCHOOL DELHI DELHI 110005\", \"alt\": \"9873194957\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Sochand Tiwari\", \"id\": \"NOTAVAILABLE\", \"mobile\": \"9811300582\", \"name\": \"MR SHAILENDRA TIWARI\"}, {\"address\": \"16/317GALI NO-3HARDHYAN ROAD BAPA NAGARKAROL BAGH NRPYARE LAL ROAD SCHOOL DELHI DELHI 110005\", \"alt\": \"9873194957\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Sochand Tiwari\", \"id\": \"NOTAVAILABLE\", \"mobile\": \"9811300582\", \"name\": \"MR SHAILENDRA TIWARI\"}]}"
+      },
+      {
+        "id": 912,
+        "user_id": 5935806629,
+        "search_type": "mobile_number",
+        "query": "7705071646",
+        "search_date": "2026-04-17 15:28:30",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Vashist Muni 194 bhagawanapur chauhan tola ward 16 Gorakhpur Gorakhpur Uttar Pradesh 273007\", \"alt\": \"917905708894\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"Vashist Muni\", \"id\": \"\", \"mobile\": \"7705071646\", \"name\": \"Lalita Devi\"}, {\"address\": \"W/O Vashist Muni 194 bhagawanapur chauhan tola ward 16 Gorakhpur Gorakhpur Uttar Pradesh 273007\", \"alt\": \"917905708894\", \"circle\": \"JIO UPE\", \"email\": \"\", \"fname\": \"Vashist Muni\", \"id\": \"\", \"mobile\": \"7705071646\", \"name\": \"Lalita Devi\"}]}"
+      },
+      {
+        "id": 913,
+        "user_id": 5935806629,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6551401819, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 15:28:59",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6551401819\", \"username\": \"\", \"full_name\": \"Al3X\", \"first_name\": \"Al3X\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-04-05T09:39:13Z\", \"first_name\": \"Al3X\", \"is_active\": true, \"last_msg_date\": \"2026-03-10T04:00:09Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 2, \"total_groups\": 9, \"total_msg_count\": 103, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-04-05T09:39:13Z\", \"first_name\": \"Al3X\", \"is_active\": true, \"last_msg_date\": \"2026-03-10T04:00:09Z\", \"last_name\": null, \"msg_in_groups_count\": 5, \"names_count\": 2, \"total_groups\": 9, \"total_msg_count\": 103, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6551401819\"}}"
+      },
+      {
+        "id": 914,
+        "user_id": 5935806629,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6824174206, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 15:29:28",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6824174206\", \"username\": \"\", \"full_name\": \"Tobi\", \"first_name\": \"Tobi\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-09T19:41:48Z\", \"first_name\": \"Tobi\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T04:22:54Z\", \"last_name\": \"Thakur \\ud83e\\udd19\\ud83c\\udffb\\ud83d\\udd25\", \"msg_in_groups_count\": 27, \"names_count\": 1, \"total_groups\": 32, \"total_msg_count\": 228, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-09T19:41:48Z\", \"first_name\": \"Tobi\", \"is_active\": true, \"last_msg_date\": \"2026-04-12T04:22:54Z\", \"last_name\": \"Thakur \\ud83e\\udd19\\ud83c\\udffb\\ud83d\\udd25\", \"msg_in_groups_count\": 27, \"names_count\": 1, \"total_groups\": 32, \"total_msg_count\": 228, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6824174206\"}}"
       }
     ],
     "bomber_history": [],
