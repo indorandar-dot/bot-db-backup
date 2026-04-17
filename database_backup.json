@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 20:24:47",
+    "created_at": "2026-04-17 20:26:52",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -230,8 +230,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-15 20:21:57",
+        "total_searches": 7,
+        "last_active": "2026-04-17 20:24:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -14686,6 +14686,10 @@
       {
         "user_id": 8241211585,
         "claim_date": "2026-04-17"
+      },
+      {
+        "user_id": 1993275918,
+        "claim_date": "2026-04-17"
       }
     ],
     "welcome_settings": [
@@ -24612,6 +24616,14 @@
         "query": "9310323136",
         "search_date": "2026-04-17 20:11:39",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Sou.Prashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}, {\"address\": \"S/O SouPrashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}, {\"address\": \"S/O SouPrashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}]}"
+      },
+      {
+        "id": 924,
+        "user_id": 1993275918,
+        "search_type": "mobile_number",
+        "query": "9905345968",
+        "search_date": "2026-04-17 20:24:55",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}, {\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"JIO BHR&JHR\", \"email\": \"pankajkumar@gimel.com\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}, {\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"JIO BHR&JHR\", \"email\": \"pankajkumar@gimel.com\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}]}"
       }
     ],
     "bomber_history": [],
@@ -24728,7 +24740,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-17 20:24:14"
+          "last_active": "2026-04-17 20:25:41"
         },
         {
           "id": 1723,
