@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 10:10:02",
+    "created_at": "2026-04-17 10:12:08",
     "stats": {
       "main_users": 785,
       "main_admins": 1,
@@ -4486,8 +4486,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-17 08:34:48",
+        "total_searches": 7,
+        "last_active": "2026-04-17 10:11:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -24432,6 +24432,14 @@
         "query": "5725500843",
         "search_date": "2026-04-17 10:03:31",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5725500843\", \"username\": \"\", \"full_name\": \"\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"first_name\": \"\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-12-11T06:02:41Z\", \"first_name\": \"\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T14:14:38Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 12, \"total_groups\": 6, \"total_msg_count\": 73, \"usernames_count\": 9}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-12-11T06:02:41Z\", \"first_name\": \"\\u2764\\ufe0f\\u200d\\ud83e\\ude79\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T14:14:38Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 12, \"total_groups\": 6, \"total_msg_count\": 73, \"usernames_count\": 9}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"5725500843\"}}"
+      },
+      {
+        "id": 907,
+        "user_id": 7257725476,
+        "search_type": "username",
+        "query": "@II_WHISKY_QUEEN_II",
+        "search_date": "2026-04-17 10:11:45",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
