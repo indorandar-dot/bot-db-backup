@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 08:23:26",
+    "created_at": "2026-04-17 08:25:33",
     "stats": {
       "main_users": 784,
       "main_admins": 1,
@@ -11398,8 +11398,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 16,
-        "last_active": "2026-04-14 05:45:51",
+        "total_searches": 17,
+        "last_active": "2026-04-17 08:24:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -24334,6 +24334,14 @@
         "query": "{'user_id': 8370415267, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-17 08:15:30",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8370415267\", \"username\": \"\", \"full_name\": \"Ankit\", \"first_name\": \"Ankit\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-08-01T12:37:53Z\", \"first_name\": \"Ankit\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T11:56:33Z\", \"last_name\": \"Verma\", \"msg_in_groups_count\": 32, \"names_count\": 8, \"total_groups\": 37, \"total_msg_count\": 830, \"usernames_count\": 6}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-08-01T12:37:53Z\", \"first_name\": \"Ankit\", \"is_active\": true, \"last_msg_date\": \"2026-04-14T11:56:33Z\", \"last_name\": \"Verma\", \"msg_in_groups_count\": 32, \"names_count\": 8, \"total_groups\": 37, \"total_msg_count\": 830, \"usernames_count\": 6}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8370415267\"}}"
+      },
+      {
+        "id": 898,
+        "user_id": 8483983586,
+        "search_type": "username",
+        "query": "@BAKKARF",
+        "search_date": "2026-04-17 08:24:31",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
