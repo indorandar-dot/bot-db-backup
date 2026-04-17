@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 03:26:21",
+    "created_at": "2026-04-17 03:28:27",
     "stats": {
       "main_users": 782,
       "main_admins": 1,
@@ -9494,8 +9494,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-16 12:31:16",
+        "total_searches": 8,
+        "last_active": "2026-04-17 03:27:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -14528,6 +14528,10 @@
       {
         "user_id": 6068811688,
         "claim_date": "2026-04-16"
+      },
+      {
+        "user_id": 8298646971,
+        "claim_date": "2026-04-17"
       }
     ],
     "welcome_settings": [
@@ -24168,6 +24172,14 @@
         "query": "9837881389",
         "search_date": "2026-04-17 03:21:35",
         "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Musir 137 nagla pota Etah Etah Uttar Pradesh 207001\", \"alt\": \"\", \"circle\": \"AIRTEL UPW\", \"email\": \"\", \"fname\": \"Musir\", \"id\": \"\", \"mobile\": \"9837881389\", \"name\": \"Rafik\"}, {\"address\": \"S/O Musir 137 nagla pota Etah Etah Uttar Pradesh 207001\", \"alt\": \"\", \"circle\": \"AIRTEL UPW\", \"email\": \"\", \"fname\": \"Musir\", \"id\": \"\", \"mobile\": \"9837881389\", \"name\": \"Rafik\"}]}"
+      },
+      {
+        "id": 889,
+        "user_id": 8298646971,
+        "search_type": "mobile_number",
+        "query": "8250122892",
+        "search_date": "2026-04-17 03:27:16",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"Panchberia Rajapur Nadia West Bengal 741501\", \"alt\": \"919733309380\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"abdul oyahed mondal\", \"id\": \"237585898652\", \"mobile\": \"8250122892\", \"name\": \"Hasiya Mondal\"}, {\"address\": \"Panchberia Rajapur Nadia West Bengal 741501\", \"alt\": \"919733309380\", \"circle\": \"JIO WB\", \"email\": \"\", \"fname\": \"abdul oyahed mondal\", \"id\": \"237585898652\", \"mobile\": \"8250122892\", \"name\": \"Hasiya Mondal\"}]}"
       }
     ],
     "bomber_history": [],
