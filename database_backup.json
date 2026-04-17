@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 20:10:07",
+    "created_at": "2026-04-17 20:12:12",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -6481,13 +6481,13 @@
         "first_name": "𓆰 BLAZE 𓆩⃟🇦🇱",
         "join_date": "2026-03-31 07:07:55",
         "referrer": null,
-        "credits": 11,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 12,
-        "last_active": "2026-04-17 19:08:16",
+        "total_searches": 13,
+        "last_active": "2026-04-17 20:11:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -24600,6 +24600,14 @@
         "query": "7047242025",
         "search_date": "2026-04-17 19:08:16",
         "result": "{\"success\": true, \"data\": [{\"address\": \"SHYAMOL KUMAR GHOSH NEW DANGAL PARA Suri PO SIURY Suri - I Suri - I Birbhum Birbhum West Bengal 731101\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"SHYAMOL KUMAR GHOSH\", \"id\": \"354765619800\", \"mobile\": \"7047242025\", \"name\": \"Subhendu Ghosh\"}, {\"address\": \"SHYAMOL KUMAR GHOSH NEW DANGAL PARA Suri PO SIURY Suri - I Suri - I Birbhum Birbhum West Bengal 731101\", \"alt\": \"\", \"circle\": \"AIRTEL WB\", \"email\": \"\", \"fname\": \"SHYAMOL KUMAR GHOSH\", \"id\": \"354765619800\", \"mobile\": \"7047242025\", \"name\": \"Subhendu Ghosh\"}, {\"address\": \"- - - City/District: Uttar Dinajpur RABINDRA NAGAR COLONY NORTH DINAJPUR West Bengal 733216\", \"alt\": \"7047242025\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Prasanta Barman\", \"id\": \"287557756146\", \"mobile\": \"9434539003\", \"name\": \"Pratima Barman\"}, {\"address\": \"- - - City/District: Uttar Dinajpur RABINDRA NAGAR COLONY NORTH DINAJPUR West Bengal 733216\", \"alt\": \"7047242025\", \"circle\": \"VI KOL & WB\", \"email\": \"\", \"fname\": \"Prasanta Barman\", \"id\": \"287557756146\", \"mobile\": \"9434539003\", \"name\": \"Pratima Barman\"}]}"
+      },
+      {
+        "id": 923,
+        "user_id": 7747929547,
+        "search_type": "mobile_number",
+        "query": "9310323136",
+        "search_date": "2026-04-17 20:11:39",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Sou.Prashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}, {\"address\": \"S/O SouPrashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}, {\"address\": \"S/O SouPrashad B -9 old govind pura krishna nagar krishna nagar gandhi nagar Gandhi Nagar East Delhi Delhi 110051\", \"alt\": \"9310323136\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Sou Prashad\", \"id\": \"359132338544\", \"mobile\": \"9310323136\", \"name\": \"Gopi Chand\"}]}"
       }
     ],
     "bomber_history": [],
