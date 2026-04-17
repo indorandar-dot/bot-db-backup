@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 03:20:06",
+    "created_at": "2026-04-17 03:22:12",
     "stats": {
       "main_users": 782,
       "main_admins": 1,
@@ -3457,13 +3457,13 @@
         "first_name": "Obito",
         "join_date": "2026-03-30 10:16:03",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-16 03:52:43",
+        "total_searches": 6,
+        "last_active": "2026-04-17 03:21:35",
         "money": 0,
         "clone_bots": 0
       },
@@ -24160,6 +24160,14 @@
         "query": "7217767856",
         "search_date": "2026-04-16 19:21:20",
         "result": "{\"success\": true, \"data\": [{\"address\": \"D/O Radha Charan 4607 Gali Choudhary Sundar Singh Arya Pura Roshana Road Delhi Kishan Ganj North Delhi Delhi 110007\", \"alt\": \"919213299560\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Radha Charan\", \"id\": \"\", \"mobile\": \"7217767856\", \"name\": \"Geeta\"}, {\"address\": \"D/O Radha Charan 4607Gali Choudhary Sundar Singh Arya Pura Roshana RoadDelhi Kishan GanjNorth Delhi Delhi 110007\", \"alt\": \"919213299560\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Radha Charan\", \"id\": \"\", \"mobile\": \"7217767856\", \"name\": \"Geeta\"}, {\"address\": \"D/O Radha Charan 4607Gali Choudhary Sundar Singh Arya Pura Roshana RoadDelhi Kishan GanjNorth Delhi Delhi 110007\", \"alt\": \"919213299560\", \"circle\": \"JIO DELHI\", \"email\": \"\", \"fname\": \"Radha Charan\", \"id\": \"\", \"mobile\": \"7217767856\", \"name\": \"Geeta\"}]}"
+      },
+      {
+        "id": 888,
+        "user_id": 6843859380,
+        "search_type": "mobile_number",
+        "query": "9837881389",
+        "search_date": "2026-04-17 03:21:35",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"S/O Musir 137 nagla pota Etah Etah Uttar Pradesh 207001\", \"alt\": \"\", \"circle\": \"AIRTEL UPW\", \"email\": \"\", \"fname\": \"Musir\", \"id\": \"\", \"mobile\": \"9837881389\", \"name\": \"Rafik\"}, {\"address\": \"S/O Musir 137 nagla pota Etah Etah Uttar Pradesh 207001\", \"alt\": \"\", \"circle\": \"AIRTEL UPW\", \"email\": \"\", \"fname\": \"Musir\", \"id\": \"\", \"mobile\": \"9837881389\", \"name\": \"Rafik\"}]}"
       }
     ],
     "bomber_history": [],
