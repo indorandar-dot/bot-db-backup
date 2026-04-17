@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 17:35:20",
+    "created_at": "2026-04-17 17:37:25",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -1297,13 +1297,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 4,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 15,
-        "last_active": "2026-04-16 18:55:06",
+        "total_searches": 18,
+        "last_active": "2026-04-17 17:36:51",
         "money": 0,
         "clone_bots": 0
       },
@@ -24560,6 +24560,30 @@
         "query": "7547808629",
         "search_date": "2026-04-17 16:33:04",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7547808629\", \"username\": \"\", \"full_name\": \"\\uc0e4\\uad70\\u2728\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T17:08:01Z\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T23:22:41Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 396, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-28T17:08:01Z\", \"first_name\": \"\\uc0e4\\uad70\\u2728\", \"is_active\": true, \"last_msg_date\": \"2026-03-19T23:22:41Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 396, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7547808629\"}}"
+      },
+      {
+        "id": 919,
+        "user_id": 5713879636,
+        "search_type": "username",
+        "query": "@Arthhuji",
+        "search_date": "2026-04-17 17:35:25",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 920,
+        "user_id": 5713879636,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7560439786, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-17 17:35:47",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7560439786\", \"username\": \"\", \"full_name\": \"\\ud835\\udc00\\u0280\\ud835\\ude83\\ud835\\udc07\", \"first_name\": \"\\ud835\\udc00\\u0280\\ud835\\ude83\\ud835\\udc07\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-10T09:55:09Z\", \"first_name\": \"\\ud835\\udc00\\u0280\\ud835\\ude83\\ud835\\udc07\", \"is_active\": true, \"last_msg_date\": \"2026-04-17T16:31:47Z\", \"last_name\": \"\\ud83d\\udc90\", \"msg_in_groups_count\": 25, \"names_count\": 3, \"total_groups\": 39, \"total_msg_count\": 932, \"usernames_count\": 4}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-10T09:55:09Z\", \"first_name\": \"\\ud835\\udc00\\u0280\\ud835\\ude83\\ud835\\udc07\", \"is_active\": true, \"last_msg_date\": \"2026-04-17T16:31:47Z\", \"last_name\": \"\\ud83d\\udc90\", \"msg_in_groups_count\": 25, \"names_count\": 3, \"total_groups\": 39, \"total_msg_count\": 932, \"usernames_count\": 4}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7560439786\"}}"
+      },
+      {
+        "id": 921,
+        "user_id": 5713879636,
+        "search_type": "mobile_number",
+        "query": "7209532699",
+        "search_date": "2026-04-17 17:36:51",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"MOTI MAHAL L N M U CAMPUS Post-Lalbagh Darbhanga Darbhanga Bihar 846004\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Krishnadev Yadav\", \"id\": \"622792146301\", \"mobile\": \"7209532699\", \"name\": \"Anand Bharti\"}, {\"address\": \"MOTI MAHAL L N M U CAMPUS Post-Lalbagh Darbhanga Darbhanga Bihar 846004\", \"alt\": \"\", \"circle\": \"AIRTEL BHR&JHR\", \"email\": \"\", \"fname\": \"Krishnadev Yadav\", \"id\": \"622792146301\", \"mobile\": \"7209532699\", \"name\": \"Anand Bharti\"}]}"
       }
     ],
     "bomber_history": [],
