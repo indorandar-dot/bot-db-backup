@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 12:27:43",
+    "created_at": "2026-04-17 12:29:49",
     "stats": {
       "main_users": 785,
       "main_admins": 1,
@@ -11414,8 +11414,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 17,
-        "last_active": "2026-04-17 08:24:31",
+        "total_searches": 18,
+        "last_active": "2026-04-17 12:29:39",
         "money": 0,
         "clone_bots": 0
       },
@@ -24443,6 +24443,14 @@
         "search_type": "username",
         "query": "@II_WHISKY_QUEEN_II",
         "search_date": "2026-04-17 10:11:45",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 908,
+        "user_id": 8483983586,
+        "search_type": "username",
+        "query": "@Nakul73030",
+        "search_date": "2026-04-17 12:29:39",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
