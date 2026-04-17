@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-17 08:31:51",
+    "created_at": "2026-04-17 08:32:27",
     "stats": {
-      "main_users": 784,
+      "main_users": 785,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 124
+      "total_clone_users": 125
     }
   },
   "main_bot": {
@@ -3660,6 +3660,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 6953935614,
+        "username": "priinsh",
+        "first_name": "zєηιтн 🥂",
+        "join_date": "2026-04-17 08:32:19",
+        "referrer": 7257725476,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-17 08:32:19",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 6955078320,
         "username": "",
         "first_name": "𝐒ᴀʟᴀᴀʀ",
@@ -4465,7 +4481,7 @@
         "first_name": "˳ ꯭‌⏤꯭꯭꯭‌᳛𝚩꯭꯭ʜα꯭꯭ѵࣶε꯭꯭ѕҥ꯭꯭🍷꯭꯭𝁛˳",
         "join_date": "2026-04-07 18:23:52",
         "referrer": null,
-        "credits": 4,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -17156,6 +17172,12 @@
         "referrer": 8703382327,
         "referred": 5615161833,
         "date": "2026-04-16 19:05:16"
+      },
+      {
+        "id": 421,
+        "referrer": 7257725476,
+        "referred": 6953935614,
+        "date": "2026-04-17 08:32:19"
       }
     ],
     "search_history": [
@@ -24731,6 +24753,21 @@
           "last_active": "2026-04-11 08:06:54"
         },
         {
+          "id": 1745,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 6953935614,
+          "username": "priinsh",
+          "first_name": "zєηιтн 🥂",
+          "join_date": "2026-04-17 08:32:19",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-17 08:32:19"
+        },
+        {
           "id": 1712,
           "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
           "user_id": 6975957363,
@@ -24818,7 +24855,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-17 07:56:06"
+          "last_active": "2026-04-17 08:32:15"
         },
         {
           "id": 894,
