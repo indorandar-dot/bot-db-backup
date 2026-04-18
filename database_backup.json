@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 03:47:08",
+    "created_at": "2026-04-18 03:49:13",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -7393,13 +7393,13 @@
         "first_name": "𓆩𓆩⃟𖤍𝐄ʀᴇɴ~🖤🥀𓆪",
         "join_date": "2026-04-01 07:44:29",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-12 13:37:14",
+        "total_searches": 7,
+        "last_active": "2026-04-18 03:48:25",
         "money": 0,
         "clone_bots": 0
       },
@@ -24632,6 +24632,14 @@
         "query": "9905345968",
         "search_date": "2026-04-17 20:24:55",
         "result": "{\"success\": true, \"data\": [{\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"BIHAR JIO\", \"email\": \"\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}, {\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"JIO BHR&JHR\", \"email\": \"pankajkumar@gimel.com\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}, {\"address\": \"s/o nandlal thakur 00 lodipur near vishhari asthan thakur tola lodipur bhagalpur Bihar 812001\", \"alt\": \"9472503060\", \"circle\": \"JIO BHR&JHR\", \"email\": \"pankajkumar@gimel.com\", \"fname\": \"nandlal thakur\", \"id\": \"379698603312\", \"mobile\": \"9905345968\", \"name\": \"Pankaj Kumar Thakur\"}]}"
+      },
+      {
+        "id": 925,
+        "user_id": 7969481584,
+        "search_type": "mobile_number",
+        "query": "9871221374",
+        "search_date": "2026-04-18 03:48:25",
+        "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagar east delhi EAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagar east delhi EAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagareast delhiEAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagareast delhiEAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}]}"
       }
     ],
     "bomber_history": [],
