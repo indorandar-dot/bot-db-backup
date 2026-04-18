@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 08:20:25",
+    "created_at": "2026-04-18 08:22:30",
     "stats": {
       "main_users": 788,
       "main_admins": 1,
@@ -12065,13 +12065,13 @@
         "first_name": "Ꮋꫀʏㅤ𝙳 𝙴 𝙽 𝚉 𝙸ㅤᥫ᭡",
         "join_date": "2026-04-09 02:28:26",
         "referrer": null,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 15,
-        "last_active": "2026-04-16 07:30:45",
+        "total_searches": 16,
+        "last_active": "2026-04-18 08:20:26",
         "money": 0,
         "clone_bots": 0
       },
@@ -24696,6 +24696,14 @@
         "query": "@ff_rec43",
         "search_date": "2026-04-18 07:27:50",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7502221693\", \"username\": \"ff_rec43\", \"full_name\": \"Vyntra Store \\ubaa8\", \"first_name\": \"Vyntra Store \\ubaa8\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7502221693\", \"first_name\": \"Vyntra Store \\ubaa8\", \"last_name\": null, \"is_active\": true, \"total_groups\": 14, \"admin_groups\": 0, \"total_msg_count\": 41, \"msg_in_groups_count\": 12, \"names_count\": 7, \"usernames_count\": 7, \"first_msg_date\": \"2025-01-13T21:31:02Z\", \"last_msg_date\": \"2026-04-06T07:55:45Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"7502221693\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-01-13T21:31:02Z\", \"first_name\": \"Vyntra Store \\ubaa8\", \"is_active\": true, \"last_msg_date\": \"2026-04-06T07:55:45Z\", \"last_name\": null, \"msg_in_groups_count\": 12, \"names_count\": 7, \"total_groups\": 14, \"total_msg_count\": 41, \"usernames_count\": 7}, \"target_id\": \"7502221693\"}}"
+      },
+      {
+        "id": 928,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8073102823, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-18 08:20:26",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8073102823\", \"username\": \"\", \"full_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-03T18:10:14Z\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"is_active\": true, \"last_msg_date\": \"2026-01-16T05:57:54Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 5, \"total_groups\": 3, \"total_msg_count\": 4, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-03T18:10:14Z\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"is_active\": true, \"last_msg_date\": \"2026-01-16T05:57:54Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 5, \"total_groups\": 3, \"total_msg_count\": 4, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8073102823\"}}"
       }
     ],
     "bomber_history": [],
