@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 21:13:44",
+    "created_at": "2026-04-18 21:15:50",
     "stats": {
       "main_users": 795,
       "main_admins": 1,
@@ -12438,8 +12438,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 209,
-        "last_active": "2026-04-18 14:00:28",
+        "total_searches": 210,
+        "last_active": "2026-04-18 21:15:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -24904,6 +24904,14 @@
         "query": "@ibullyzod",
         "search_date": "2026-04-18 14:51:59",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 939,
+        "user_id": 8703382327,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 5048013288, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-18 21:15:38",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"5048013288\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
