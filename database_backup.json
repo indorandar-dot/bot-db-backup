@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 01:02:27",
+    "created_at": "2026-04-18 01:04:32",
     "stats": {
       "main_users": 786,
       "main_admins": 1,
@@ -7905,7 +7905,7 @@
         "first_name": "𝕣ꪮⅈꪀꪊ𝕛",
         "join_date": "2026-04-02 04:45:18",
         "referrer": null,
-        "credits": 9,
+        "credits": 10,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14690,6 +14690,10 @@
       {
         "user_id": 1993275918,
         "claim_date": "2026-04-17"
+      },
+      {
+        "user_id": 8064976690,
+        "claim_date": "2026-04-18"
       }
     ],
     "welcome_settings": [
@@ -25475,7 +25479,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-16 06:01:21"
+          "last_active": "2026-04-18 01:03:26"
         },
         {
           "id": 1063,
