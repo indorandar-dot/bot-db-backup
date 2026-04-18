@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 07:09:26",
+    "created_at": "2026-04-18 07:11:31",
     "stats": {
       "main_users": 787,
       "main_admins": 1,
@@ -3142,8 +3142,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 25,
-        "last_active": "2026-04-17 16:33:04",
+        "total_searches": 26,
+        "last_active": "2026-04-18 07:11:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -14714,6 +14714,10 @@
       {
         "user_id": 8218016230,
         "claim_date": "2026-04-18"
+      },
+      {
+        "user_id": 6679896022,
+        "claim_date": "2026-04-18"
       }
     ],
     "welcome_settings": [
@@ -24656,6 +24660,14 @@
         "query": "9871221374",
         "search_date": "2026-04-18 03:48:25",
         "result": "{\"success\": true, \"data\": [{\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagar east delhi EAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagar east delhi EAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"VI DELHI\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagareast delhiEAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"W/O Ashok Kumar J-11-A/4 GALI NO-8 J-11-A/4 GALI NO-8 Laxmi nagareast delhiEAST DELHI DELHI EAST DELHI Delhi 110092\", \"alt\": \"8851280585\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"704671146182\", \"mobile\": \"9871221374\", \"name\": \"MS MANJU RANI\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}, {\"address\": \"H No 11/A4 J Block Laxmi Nagar DELHI DELHI 110092\", \"alt\": \"9871221374\", \"circle\": \"Delhi Voda\", \"email\": \"\", \"fname\": \"Ashok Kumar\", \"id\": \"\", \"mobile\": \"8447451511\", \"name\": \"Manju Rani\"}]}"
+      },
+      {
+        "id": 926,
+        "user_id": 6679896022,
+        "search_type": "typed_userid",
+        "query": "8501794144",
+        "search_date": "2026-04-18 07:11:11",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8501794144\", \"username\": \"\", \"full_name\": \"\\ud83d\\udd78\\ufe0f\", \"first_name\": \"\\ud83d\\udd78\\ufe0f\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-22T20:18:20Z\", \"first_name\": \"\\ud83d\\udd78\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-03-24T15:31:38Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 2, \"total_groups\": 1, \"total_msg_count\": 28, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-22T20:18:20Z\", \"first_name\": \"\\ud83d\\udd78\\ufe0f\", \"is_active\": true, \"last_msg_date\": \"2026-03-24T15:31:38Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 2, \"total_groups\": 1, \"total_msg_count\": 28, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8501794144\"}}"
       }
     ],
     "bomber_history": [],
