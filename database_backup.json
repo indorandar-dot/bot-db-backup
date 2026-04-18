@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-18 09:20:53",
+    "created_at": "2026-04-18 09:22:57",
     "stats": {
       "main_users": 788,
       "main_admins": 1,
@@ -3137,13 +3137,13 @@
         "first_name": "𝐑<3!🐬🩵",
         "join_date": "2026-04-04 14:47:49",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 26,
-        "last_active": "2026-04-18 07:11:11",
+        "total_searches": 27,
+        "last_active": "2026-04-18 09:22:51",
         "money": 0,
         "clone_bots": 0
       },
@@ -24704,6 +24704,14 @@
         "query": "{'user_id': 8073102823, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-18 08:20:26",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8073102823\", \"username\": \"\", \"full_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-03T18:10:14Z\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"is_active\": true, \"last_msg_date\": \"2026-01-16T05:57:54Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 5, \"total_groups\": 3, \"total_msg_count\": 4, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-03T18:10:14Z\", \"first_name\": \"\\u043c\\u03c5\\u0455\\u043a\\u03b1\\u03b7 \\u03c1\\u044f\\u03b1\\u05e0\\u03b1\\u03c1\\u03b1\\u0442\\u03b9..\\u2665\\ufe0e\", \"is_active\": true, \"last_msg_date\": \"2026-01-16T05:57:54Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 5, \"total_groups\": 3, \"total_msg_count\": 4, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8073102823\"}}"
+      },
+      {
+        "id": 929,
+        "user_id": 6679896022,
+        "search_type": "username",
+        "query": "@ReddAnnadeal",
+        "search_date": "2026-04-18 09:22:51",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7843411185\", \"username\": \"ReddAnnadeal\", \"full_name\": \"Sachin Yadav\", \"first_name\": \"Sachin Yadav\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7843411185\", \"first_name\": \"Sachin Yadav\", \"last_name\": null, \"is_active\": true, \"total_groups\": 10, \"admin_groups\": 0, \"total_msg_count\": 32, \"msg_in_groups_count\": 7, \"names_count\": 3, \"usernames_count\": 3, \"first_msg_date\": \"2024-11-09T03:42:40Z\", \"last_msg_date\": \"2025-11-15T05:16:49Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"7843411185\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-09T03:42:40Z\", \"first_name\": \"Sachin Yadav\", \"is_active\": true, \"last_msg_date\": \"2025-11-15T05:16:49Z\", \"last_name\": null, \"msg_in_groups_count\": 7, \"names_count\": 3, \"total_groups\": 10, \"total_msg_count\": 32, \"usernames_count\": 3}, \"target_id\": \"7843411185\"}}"
       }
     ],
     "bomber_history": [],
