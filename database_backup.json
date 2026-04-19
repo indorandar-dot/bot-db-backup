@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 07:55:19",
+    "created_at": "2026-04-19 07:57:24",
     "stats": {
       "main_users": 807,
       "main_admins": 1,
@@ -12934,14 +12934,6 @@
     ],
     "force_join_channels": [
       {
-        "id": 6,
-        "link": "https://t.me/In7formation_bot?start=8703382327",
-        "username": "📋 ᴄʜᴀɴɴᴇʟ ʟɪꜱᴛ",
-        "added_by": 8703382327,
-        "added_date": "2026-04-02 08:04:44",
-        "channel_type": "bot_link"
-      },
-      {
         "id": 11,
         "link": "https://t.me/+jyo1GQKwjJ44NTk1",
         "username": "",
@@ -12956,6 +12948,14 @@
         "added_by": 8703382327,
         "added_date": "2026-04-19 07:55:13",
         "channel_type": "channel"
+      },
+      {
+        "id": 14,
+        "link": "https://t.me/In7formation_bot?start=8703382327",
+        "username": "SECOND BOT 🐥",
+        "added_by": 8703382327,
+        "added_date": "2026-04-19 07:55:58",
+        "channel_type": "bot_link"
       }
     ],
     "bot_groups": [
@@ -26995,7 +26995,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-17 16:20:06"
+          "last_active": "2026-04-19 07:56:23"
         },
         {
           "id": 1043,
