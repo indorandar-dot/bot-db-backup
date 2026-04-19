@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 07:35:44",
+    "created_at": "2026-04-19 07:36:34",
     "stats": {
       "main_users": 804,
       "main_admins": 1,
@@ -8529,7 +8529,7 @@
         "first_name": "~🔱",
         "join_date": "2026-04-19 07:35:22",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -9937,13 +9937,13 @@
         "first_name": "🏴‍☠️ Ꮲαραʝ̶i™ ᴀʀɴᴀᴠ ̶2̶9̶5 [PS] 🗽",
         "join_date": "2026-04-17 06:48:11",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-17 06:49:07",
+        "total_searches": 3,
+        "last_active": "2026-04-19 07:35:59",
         "money": 0,
         "clone_bots": 0
       },
@@ -13263,7 +13263,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-19 07:35:34",
-        "last_active": "2026-04-19 07:35:34",
+        "last_active": "2026-04-19 07:36:07",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -15041,6 +15041,10 @@
       },
       {
         "user_id": 7549909625,
+        "claim_date": "2026-04-19"
+      },
+      {
+        "user_id": 8154268271,
         "claim_date": "2026-04-19"
       }
     ],
@@ -25190,6 +25194,14 @@
         "query": "@Like_seller_0961",
         "search_date": "2026-04-19 07:07:20",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7061525521\", \"username\": \"Like_seller_0961\", \"full_name\": \"Like\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"bio\": \"\", \"phone\": \"917012265627\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7061525521\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"is_active\": true, \"total_groups\": 11, \"admin_groups\": 0, \"total_msg_count\": 71, \"msg_in_groups_count\": 9, \"names_count\": 3, \"usernames_count\": 3, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"last_msg_date\": \"2026-04-19T01:14:38Z\"}, \"_raw\": {\"status\": true, \"number\": \"917012265627\", \"telegram_id\": \"7061525521\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"first_name\": \"Like\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T01:14:38Z\", \"last_name\": \"seller\", \"msg_in_groups_count\": 9, \"names_count\": 3, \"total_groups\": 11, \"total_msg_count\": 71, \"usernames_count\": 3}, \"target_id\": \"7061525521\"}}"
+      },
+      {
+        "id": 951,
+        "user_id": 8329539196,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6096667043, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 07:35:59",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6096667043\", \"username\": \"\", \"full_name\": \"Hemant\", \"first_name\": \"Hemant\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"917061464285\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Hemant\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Hemant\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"917061464285\", \"status\": true, \"target_id\": \"6096667043\"}}"
       }
     ],
     "bomber_history": [],
