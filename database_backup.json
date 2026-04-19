@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 09:41:33",
+    "created_at": "2026-04-19 09:43:38",
     "stats": {
       "main_users": 811,
       "main_admins": 1,
@@ -4934,8 +4934,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-11 11:24:50",
+        "total_searches": 4,
+        "last_active": "2026-04-19 09:42:04",
         "money": 0,
         "clone_bots": 0
       },
@@ -25416,6 +25416,14 @@
         "query": "FFHAKERZ",
         "search_date": "2026-04-19 09:39:15",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 960,
+        "user_id": 7333026020,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7695757561, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 09:42:04",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7695757561\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
