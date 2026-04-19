@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 07:42:49",
+    "created_at": "2026-04-19 07:44:54",
     "stats": {
       "main_users": 807,
       "main_admins": 1,
@@ -8582,8 +8582,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-19 07:35:22",
+        "total_searches": 1,
+        "last_active": "2026-04-19 07:43:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -25250,6 +25250,14 @@
         "query": "{'user_id': 8761535796, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-19 07:39:19",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8761535796\", \"username\": \"\", \"full_name\": \"OP\", \"first_name\": \"OP\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-25T02:19:51Z\", \"first_name\": \"OP\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T16:30:56Z\", \"last_name\": \"KRISH \\uf8ff\", \"msg_in_groups_count\": 9, \"names_count\": 1, \"total_groups\": 9, \"total_msg_count\": 538, \"usernames_count\": 2}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-25T02:19:51Z\", \"first_name\": \"OP\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T16:30:56Z\", \"last_name\": \"KRISH \\uf8ff\", \"msg_in_groups_count\": 9, \"names_count\": 1, \"total_groups\": 9, \"total_msg_count\": 538, \"usernames_count\": 2}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8761535796\"}}"
+      },
+      {
+        "id": 953,
+        "user_id": 8154268271,
+        "search_type": "username",
+        "query": "@_shivamx47",
+        "search_date": "2026-04-19 07:43:09",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"_shivamx47\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -26236,7 +26244,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-19 07:40:02"
+          "last_active": "2026-04-19 07:44:25"
         },
         {
           "id": 1063,
