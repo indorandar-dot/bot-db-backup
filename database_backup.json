@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 01:55:02",
+    "created_at": "2026-04-19 01:57:07",
     "stats": {
       "main_users": 798,
       "main_admins": 1,
@@ -25066,7 +25066,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-19 01:09:11"
+          "last_active": "2026-04-19 01:56:10"
         },
         {
           "id": 1723,
