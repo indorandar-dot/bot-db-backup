@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 13:51:50",
+    "created_at": "2026-04-19 13:53:55",
     "stats": {
       "main_users": 820,
       "main_admins": 1,
@@ -10129,13 +10129,13 @@
         "first_name": "🏴‍☠️ Ꮲαραʝ̶i™ ᴀʀɴᴀᴠ ̶2̶9̶5 [PS] 🗽",
         "join_date": "2026-04-17 06:48:11",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-19 07:35:59",
+        "total_searches": 4,
+        "last_active": "2026-04-19 13:52:53",
         "money": 0,
         "clone_bots": 0
       },
@@ -25640,6 +25640,14 @@
         "query": "@BOSSGAGAN",
         "search_date": "2026-04-19 13:07:48",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 970,
+        "user_id": 8329539196,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8693056059, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 13:52:53",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8693056059\", \"username\": \"\", \"full_name\": \"Aashu\", \"first_name\": \"Aashu\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918085912764\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-31T12:29:49Z\", \"first_name\": \"Aashu\", \"is_active\": true, \"last_msg_date\": \"2026-03-31T15:20:38Z\", \"last_name\": \"Aashu1277\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 11, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-31T12:29:49Z\", \"first_name\": \"Aashu\", \"is_active\": true, \"last_msg_date\": \"2026-03-31T15:20:38Z\", \"last_name\": \"Aashu1277\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 11, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918085912764\", \"status\": true, \"target_id\": \"8693056059\"}}"
       }
     ],
     "bomber_history": [],
