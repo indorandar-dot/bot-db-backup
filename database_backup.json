@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 17:05:25",
+    "created_at": "2026-04-19 17:07:30",
     "stats": {
       "main_users": 823,
       "main_admins": 1,
@@ -2929,13 +2929,13 @@
         "first_name": "❤️",
         "join_date": "2026-04-19 16:55:11",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-19 17:03:42",
+        "total_searches": 2,
+        "last_active": "2026-04-19 17:05:32",
         "money": 0,
         "clone_bots": 0
       },
@@ -25732,6 +25732,14 @@
         "query": "{'user_id': 5789983383, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-19 17:03:42",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5789983383\", \"username\": \"\", \"full_name\": \"Santosh Rai\", \"first_name\": \"Santosh Rai\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918130079564\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Santosh Rai\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Ray\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Santosh Rai\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Ray\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918130079564\", \"status\": true, \"target_id\": \"5789983383\"}}"
+      },
+      {
+        "id": 975,
+        "user_id": 6539994289,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6783995803, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 17:05:32",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6783995803\", \"username\": \"\", \"full_name\": \"rananaresh543@gmail.coma\", \"first_name\": \"rananaresh543@gmail.coma\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919601924796\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-22T13:34:51Z\", \"first_name\": \"rananaresh543@gmail.coma\", \"is_active\": true, \"last_msg_date\": \"2025-02-22T13:34:51Z\", \"last_name\": \"rananaresh543@gmail.coma\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 1, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-22T13:34:51Z\", \"first_name\": \"rananaresh543@gmail.coma\", \"is_active\": true, \"last_msg_date\": \"2025-02-22T13:34:51Z\", \"last_name\": \"rananaresh543@gmail.coma\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 1, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919601924796\", \"status\": true, \"target_id\": \"6783995803\"}}"
       }
     ],
     "bomber_history": [],
