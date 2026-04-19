@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 10:04:28",
+    "created_at": "2026-04-19 10:06:33",
     "stats": {
       "main_users": 815,
       "main_admins": 1,
@@ -6049,13 +6049,13 @@
         "first_name": "RAKA",
         "join_date": "2026-04-19 07:35:16",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-19 07:39:19",
+        "total_searches": 2,
+        "last_active": "2026-04-19 10:06:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -13559,7 +13559,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-19 08:21:09",
-        "last_active": "2026-04-19 10:03:09",
+        "last_active": "2026-04-19 10:05:17",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -25496,6 +25496,14 @@
         "query": "detailking8",
         "search_date": "2026-04-19 09:58:42",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6939088982\", \"username\": \"detailking8\", \"full_name\": \"Josh\", \"first_name\": \"Josh\", \"last_name\": \"page \\ud83d\\ude00\", \"bio\": \"\", \"phone\": \"918872067960\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6939088982\", \"first_name\": \"Josh\", \"last_name\": \"page \\ud83d\\ude00\", \"is_active\": true, \"total_groups\": 13, \"admin_groups\": 0, \"total_msg_count\": 196, \"msg_in_groups_count\": 11, \"names_count\": 12, \"usernames_count\": 7, \"first_msg_date\": \"2025-12-10T07:57:25Z\", \"last_msg_date\": \"2026-04-18T12:46:57Z\"}, \"_raw\": {\"status\": true, \"number\": \"918872067960\", \"telegram_id\": \"6939088982\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-10T07:57:25Z\", \"first_name\": \"Josh\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T12:46:57Z\", \"last_name\": \"page \\ud83d\\ude00\", \"msg_in_groups_count\": 11, \"names_count\": 12, \"total_groups\": 13, \"total_msg_count\": 196, \"usernames_count\": 7}, \"target_id\": \"6939088982\"}}"
+      },
+      {
+        "id": 962,
+        "user_id": 7549909625,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7624708556, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 10:06:02",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7624708556\", \"username\": \"\", \"full_name\": \"balraj\", \"first_name\": \"balraj\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918544847476\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-05T15:50:40Z\", \"first_name\": \"balraj\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T19:34:55Z\", \"last_name\": \"sohal\", \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 48, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-05T15:50:40Z\", \"first_name\": \"balraj\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T19:34:55Z\", \"last_name\": \"sohal\", \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 48, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918544847476\", \"status\": true, \"target_id\": \"7624708556\"}}"
       }
     ],
     "bomber_history": [],
