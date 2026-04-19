@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 06:44:30",
+    "created_at": "2026-04-19 06:46:35",
     "stats": {
       "main_users": 802,
       "main_admins": 1,
@@ -10598,8 +10598,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-16 19:06:14",
+        "total_searches": 2,
+        "last_active": "2026-04-19 06:45:06",
         "money": 0,
         "clone_bots": 0
       },
@@ -14993,6 +14993,10 @@
       },
       {
         "user_id": 6068811688,
+        "claim_date": "2026-04-19"
+      },
+      {
+        "user_id": 8383068231,
         "claim_date": "2026-04-19"
       }
     ],
@@ -25126,6 +25130,14 @@
         "query": "1799390374",
         "search_date": "2026-04-19 05:20:52",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"1799390374\", \"accountType\": 1, \"nickname\": \"P\\u0280\\u026a\\u1d0d\\u1d07_ARYAN!\", \"region\": \"IND\", \"level\": 61, \"exp\": 1163596, \"bannerId\": 901035020, \"headPic\": 902000344, \"rank\": 323, \"rankingPoints\": 4763, \"badgeCnt\": 88, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 4068, \"showRank\": true, \"lastLoginAt\": \"1776530892\", \"csRank\": 323, \"csRankingPoints\": 161, \"maxRank\": 323, \"csMaxRank\": 323, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1581992014\", \"title\": 904090026, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000018, \"skinColor\": 50, \"clothes\": [204000068, 203000000, 214000023, 211036083, 205000051], \"equipedSkills\": [16, 7706, 8, 1, 16, 2803, 8, 2, 16, 1304, 8, 3, 16, 5203], \"isSelected\": true, \"isSelectedAwaken\": true}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000114, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000141, \"selectedSkillId\": 1315000023}, \"socialInfo\": {\"accountId\": \"1799390374\", \"gender\": \"Gender_MALE\", \"language\": \"Language_HINDI\", \"modePrefer\": \"ModePrefer_ENTERTAINMENT\", \"signature\": \"RAM RAM\", \"rankShow\": \"RankShow_CS\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 88, \"periodicSummaryEndTime\": \"1776474743\"}}}"
+      },
+      {
+        "id": 949,
+        "user_id": 8383068231,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7123796934, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 06:45:06",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7123796934\", \"username\": \"\", \"full_name\": \"wasim\", \"first_name\": \"wasim\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919130955505\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-10-24T18:54:10Z\", \"first_name\": \"wasim\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T05:37:05Z\", \"last_name\": \"boat\", \"msg_in_groups_count\": 17, \"names_count\": 1, \"total_groups\": 20, \"total_msg_count\": 265, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-10-24T18:54:10Z\", \"first_name\": \"wasim\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T05:37:05Z\", \"last_name\": \"boat\", \"msg_in_groups_count\": 17, \"names_count\": 1, \"total_groups\": 20, \"total_msg_count\": 265, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919130955505\", \"status\": true, \"target_id\": \"7123796934\"}}"
       }
     ],
     "bomber_history": [],
