@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 05:21:13",
+    "created_at": "2026-04-19 05:23:18",
     "stats": {
       "main_users": 801,
       "main_admins": 1,
@@ -12449,7 +12449,7 @@
         "first_name": "Ritik",
         "join_date": "2026-04-19 04:52:30",
         "referrer": null,
-        "credits": 4,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -14935,6 +14935,10 @@
       },
       {
         "user_id": 8290482303,
+        "claim_date": "2026-04-19"
+      },
+      {
+        "user_id": 8679276510,
         "claim_date": "2026-04-19"
       }
     ],
