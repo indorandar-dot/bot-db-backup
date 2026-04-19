@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 07:05:20",
+    "created_at": "2026-04-19 07:07:25",
     "stats": {
       "main_users": 802,
       "main_admins": 1,
@@ -7761,13 +7761,13 @@
         "first_name": "GOJO X SAKURA",
         "join_date": "2026-04-05 17:06:34",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-17 09:45:00",
+        "total_searches": 4,
+        "last_active": "2026-04-19 07:07:20",
         "money": 0,
         "clone_bots": 0
       },
@@ -25108,6 +25108,14 @@
         "query": "{'user_id': 7123796934, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-19 06:45:06",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7123796934\", \"username\": \"\", \"full_name\": \"wasim\", \"first_name\": \"wasim\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919130955505\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-10-24T18:54:10Z\", \"first_name\": \"wasim\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T05:37:05Z\", \"last_name\": \"boat\", \"msg_in_groups_count\": 17, \"names_count\": 1, \"total_groups\": 20, \"total_msg_count\": 265, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-10-24T18:54:10Z\", \"first_name\": \"wasim\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T05:37:05Z\", \"last_name\": \"boat\", \"msg_in_groups_count\": 17, \"names_count\": 1, \"total_groups\": 20, \"total_msg_count\": 265, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919130955505\", \"status\": true, \"target_id\": \"7123796934\"}}"
+      },
+      {
+        "id": 950,
+        "user_id": 8033984049,
+        "search_type": "username",
+        "query": "@Like_seller_0961",
+        "search_date": "2026-04-19 07:07:20",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7061525521\", \"username\": \"Like_seller_0961\", \"full_name\": \"Like\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"bio\": \"\", \"phone\": \"917012265627\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7061525521\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"is_active\": true, \"total_groups\": 11, \"admin_groups\": 0, \"total_msg_count\": 71, \"msg_in_groups_count\": 9, \"names_count\": 3, \"usernames_count\": 3, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"last_msg_date\": \"2026-04-19T01:14:38Z\"}, \"_raw\": {\"status\": true, \"number\": \"917012265627\", \"telegram_id\": \"7061525521\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"first_name\": \"Like\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T01:14:38Z\", \"last_name\": \"seller\", \"msg_in_groups_count\": 9, \"names_count\": 3, \"total_groups\": 11, \"total_msg_count\": 71, \"usernames_count\": 3}, \"target_id\": \"7061525521\"}}"
       }
     ],
     "bomber_history": [],
@@ -26019,7 +26027,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-17 09:41:26"
+          "last_active": "2026-04-19 07:05:45"
         },
         {
           "id": 1743,
