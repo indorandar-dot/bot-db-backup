@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 01:57:07",
+    "created_at": "2026-04-19 01:59:12",
     "stats": {
       "main_users": 798,
       "main_admins": 1,
@@ -230,8 +230,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-17 20:24:55",
+        "total_searches": 8,
+        "last_active": "2026-04-19 01:57:21",
         "money": 0,
         "clone_bots": 0
       },
@@ -24950,6 +24950,14 @@
         "query": "8703382327",
         "search_date": "2026-04-18 21:22:42",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8703382327\", \"username\": \"\", \"full_name\": \"\\u30cc\\u30fc\\u30eb\", \"first_name\": \"\\u30cc\\u30fc\\u30eb\", \"last_name\": \"\", \"bio\": \"\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"8703382327\", \"username\": \"\", \"first_name\": \"\\u30cc\\u30fc\\u30eb\", \"last_name\": \"\", \"full_name\": \"\\u30cc\\u30fc\\u30eb\", \"bio\": \"\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\\u209a\\u0366\\u17f0\\u1ddc\\u2373\\u0665\\u3164\\u3164\\u3164\\u3164c\\u0665\\u02b7\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
+      },
+      {
+        "id": 942,
+        "user_id": 1993275918,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 6853090938, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 01:57:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6853090938\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
