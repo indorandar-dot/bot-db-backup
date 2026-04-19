@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 09:37:24",
+    "created_at": "2026-04-19 09:39:28",
     "stats": {
       "main_users": 811,
       "main_admins": 1,
@@ -6870,8 +6870,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-19 09:33:59",
+        "total_searches": 1,
+        "last_active": "2026-04-19 09:39:15",
         "money": 0,
         "clone_bots": 0
       },
@@ -9249,7 +9249,7 @@
         "first_name": "Ravi",
         "join_date": "2026-04-19 09:36:06",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -13495,7 +13495,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-19 08:21:09",
-        "last_active": "2026-04-19 09:36:31",
+        "last_active": "2026-04-19 09:39:01",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -15187,6 +15187,10 @@
       },
       {
         "user_id": 8154268271,
+        "claim_date": "2026-04-19"
+      },
+      {
+        "user_id": 8237214593,
         "claim_date": "2026-04-19"
       }
     ],
@@ -25400,6 +25404,14 @@
         "query": "7807730099",
         "search_date": "2026-04-19 09:27:15",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7807730099\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 959,
+        "user_id": 7814644693,
+        "search_type": "username",
+        "query": "FFHAKERZ",
+        "search_date": "2026-04-19 09:39:15",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
