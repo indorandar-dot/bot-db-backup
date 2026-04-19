@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 10:46:07",
+    "created_at": "2026-04-19 10:46:35",
     "stats": {
-      "main_users": 816,
+      "main_users": 818,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 143
@@ -6396,6 +6396,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 7648035259,
+        "username": "Bhup_Says",
+        "first_name": "Bhupendra",
+        "join_date": "2026-04-19 10:46:27",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-19 10:46:27",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 7652110314,
         "username": "vsdvsdvsdbsdfb",
         "first_name": "Fox",
@@ -12620,6 +12636,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8657539346,
+        "username": "BAKKARF",
+        "first_name": "𖤍 𝐙𝐗𝐂 𝐓𝐑𝐈𝐗𝐗𝐓 𝐌𝐄𝐌𝐁𝐄𝐑 𖤍",
+        "join_date": "2026-04-19 10:46:26",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-19 10:46:26",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8660000864,
         "username": "",
         "first_name": "Ismail",
@@ -13575,7 +13607,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-19 08:21:09",
-        "last_active": "2026-04-19 10:40:00",
+        "last_active": "2026-04-19 10:46:27",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
