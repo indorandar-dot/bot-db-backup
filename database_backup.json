@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 03:47:31",
+    "created_at": "2026-04-19 03:49:36",
     "stats": {
       "main_users": 800,
       "main_admins": 1,
       "clone_bots": 2,
-      "total_clone_users": 138
+      "total_clone_users": 139
     }
   },
   "main_bot": {
@@ -9585,13 +9585,13 @@
         "first_name": "Aditya Jha",
         "join_date": "2026-04-13 10:05:24",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-13 14:39:28",
+        "total_searches": 2,
+        "last_active": "2026-04-19 03:48:51",
         "money": 0,
         "clone_bots": 0
       },
@@ -24998,6 +24998,14 @@
         "query": "{'user_id': 6853090938, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-19 01:57:21",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6853090938\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 943,
+        "user_id": 8290482303,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7830367284, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 03:48:51",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7830367284\", \"username\": \"\", \"full_name\": \"\\ud83c\\udde6\\u200c\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc14\\ud835\\udc12 \\ud83c\\uddf0\\u200c\\ud835\\udc14\\ud835\\udc12\\ud835\\udc07\\ud835\\udc16\\ud835\\udc00\\ud835\\udc07\\ud835\\udc00\", \"first_name\": \"\\ud83c\\udde6\\u200c\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc14\\ud835\\udc12 \\ud83c\\uddf0\\u200c\\ud835\\udc14\\ud835\\udc12\\ud835\\udc07\\ud835\\udc16\\ud835\\udc00\\ud835\\udc07\\ud835\\udc00\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919801829655\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-17T08:06:03Z\", \"first_name\": \"\\ud83c\\udde6\\u200c\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc14\\ud835\\udc12 \\ud83c\\uddf0\\u200c\\ud835\\udc14\\ud835\\udc12\\ud835\\udc07\\ud835\\udc16\\ud835\\udc00\\ud835\\udc07\\ud835\\udc00\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T17:45:56Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 4, \"total_groups\": 13, \"total_msg_count\": 254, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-03-17T08:06:03Z\", \"first_name\": \"\\ud83c\\udde6\\u200c\\ud835\\udc0d\\ud835\\udc0a\\ud835\\udc14\\ud835\\udc12 \\ud83c\\uddf0\\u200c\\ud835\\udc14\\ud835\\udc12\\ud835\\udc07\\ud835\\udc16\\ud835\\udc00\\ud835\\udc07\\ud835\\udc00\", \"is_active\": true, \"last_msg_date\": \"2026-04-18T17:45:56Z\", \"last_name\": null, \"msg_in_groups_count\": 9, \"names_count\": 4, \"total_groups\": 13, \"total_msg_count\": 254, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919801829655\", \"status\": true, \"target_id\": \"7830367284\"}}"
       }
     ],
     "bomber_history": [],
@@ -25355,6 +25363,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-12 22:11:14"
+        },
+        {
+          "id": 1830,
+          "clone_token": "8222118299:AAGbfvces62y11oxUVIXbd6KXQiixZ2zcvQ",
+          "user_id": 6701907262,
+          "username": "adityaabhinav",
+          "first_name": "[Aᴅɪᴛʏᴀ",
+          "join_date": "2026-04-19 03:49:30",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-19 03:49:30"
         },
         {
           "id": 1313,
