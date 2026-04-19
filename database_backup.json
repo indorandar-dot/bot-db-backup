@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 05:29:33",
+    "created_at": "2026-04-19 05:30:03",
     "stats": {
-      "main_users": 801,
+      "main_users": 802,
       "main_admins": 1,
       "clone_bots": 2,
       "total_clone_users": 139
@@ -1297,7 +1297,7 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 3,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -12444,6 +12444,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8675390193,
+        "username": "",
+        "first_name": "Alyan",
+        "join_date": "2026-04-19 05:29:55",
+        "referrer": 5713879636,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-19 05:29:55",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8679276510,
         "username": "",
         "first_name": "Ritik",
@@ -17484,6 +17500,12 @@
         "referrer": 7257725476,
         "referred": 6953935614,
         "date": "2026-04-17 08:32:19"
+      },
+      {
+        "id": 422,
+        "referrer": 5713879636,
+        "referred": 8675390193,
+        "date": "2026-04-19 05:29:55"
       }
     ],
     "search_history": [
