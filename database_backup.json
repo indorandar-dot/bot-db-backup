@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 07:46:59",
+    "created_at": "2026-04-19 07:49:04",
     "stats": {
       "main_users": 807,
       "main_admins": 1,
@@ -2481,13 +2481,13 @@
         "first_name": "ANIRBAN GAMING NO1",
         "join_date": "2026-04-01 05:32:14",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-05 07:36:26",
+        "total_searches": 5,
+        "last_active": "2026-04-19 07:48:13",
         "money": 0,
         "clone_bots": 0
       },
@@ -9958,8 +9958,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-18 14:51:59",
+        "total_searches": 3,
+        "last_active": "2026-04-19 07:49:01",
         "money": 0,
         "clone_bots": 0
       },
@@ -25258,6 +25258,22 @@
         "query": "@_shivamx47",
         "search_date": "2026-04-19 07:43:09",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"_shivamx47\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 954,
+        "user_id": 6304812503,
+        "search_type": "username",
+        "query": "@Like_seller_0961",
+        "search_date": "2026-04-19 07:48:13",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7061525521\", \"username\": \"Like_seller_0961\", \"full_name\": \"Like\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"bio\": \"\", \"phone\": \"917012265627\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7061525521\", \"first_name\": \"Like\", \"last_name\": \"seller\", \"is_active\": true, \"total_groups\": 11, \"admin_groups\": 0, \"total_msg_count\": 71, \"msg_in_groups_count\": 9, \"names_count\": 3, \"usernames_count\": 3, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"last_msg_date\": \"2026-04-19T01:14:38Z\"}, \"_raw\": {\"status\": true, \"number\": \"917012265627\", \"telegram_id\": \"7061525521\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-27T03:08:11Z\", \"first_name\": \"Like\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T01:14:38Z\", \"last_name\": \"seller\", \"msg_in_groups_count\": 9, \"names_count\": 3, \"total_groups\": 11, \"total_msg_count\": 71, \"usernames_count\": 3}, \"target_id\": \"7061525521\"}}"
+      },
+      {
+        "id": 955,
+        "user_id": 8325762608,
+        "search_type": "username",
+        "query": "@Shivamkumar789726",
+        "search_date": "2026-04-19 07:49:01",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
