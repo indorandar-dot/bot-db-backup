@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-19 17:03:20",
+    "created_at": "2026-04-19 17:05:25",
     "stats": {
       "main_users": 823,
       "main_admins": 1,
@@ -2929,13 +2929,13 @@
         "first_name": "❤️",
         "join_date": "2026-04-19 16:55:11",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-19 16:55:11",
+        "total_searches": 1,
+        "last_active": "2026-04-19 17:03:42",
         "money": 0,
         "clone_bots": 0
       },
@@ -25724,6 +25724,14 @@
         "query": "7799488615",
         "search_date": "2026-04-19 16:01:59",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"7799488615\", \"accountType\": 1, \"nickname\": \"Jefe5Z4X8a\", \"region\": \"US\", \"level\": 8, \"exp\": 3877, \"headPic\": 902039008, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 3, \"lastLoginAt\": \"1685804286\", \"csRank\": 301, \"weaponSkinShows\": [907101533], \"pinId\": 910039001, \"maxRank\": 301, \"csMaxRank\": 301, \"accountPrefers\": {}, \"createAt\": \"1685219709\", \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB40\"}, \"profileInfo\": {\"avatarId\": 102000026, \"skinColor\": 50, \"clothes\": [211036069, 204000000, 205000000, 208000000, 214000000, 203000000], \"equipedSkills\": [16, 4106, 8, 1, 16, 206, 8, 2, 8, 3], \"isSelected\": true, \"isSelectedAwaken\": true, \"endTime\": 1686432715}, \"clanBasicInfo\": {}, \"petInfo\": {}, \"socialInfo\": {\"accountId\": \"7799488615\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_MELEE\"], \"battleTagCount\": [1, 2]}, \"diamondCostRes\": {\"diamondCost\": 800}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1776614517\"}}}"
+      },
+      {
+        "id": 974,
+        "user_id": 6539994289,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 5789983383, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-19 17:03:42",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5789983383\", \"username\": \"\", \"full_name\": \"Santosh Rai\", \"first_name\": \"Santosh Rai\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918130079564\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Santosh Rai\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Ray\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Santosh Rai\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"Ray\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918130079564\", \"status\": true, \"target_id\": \"5789983383\"}}"
       }
     ],
     "bomber_history": [],
@@ -26050,7 +26058,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-19 16:55:11"
+          "last_active": "2026-04-19 17:05:05"
         },
         {
           "id": 1697,
