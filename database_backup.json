@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 15:27:25",
+    "created_at": "2026-04-20 15:29:30",
     "stats": {
       "main_users": 832,
       "main_admins": 1,
@@ -1574,8 +1574,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-20 12:05:37",
+        "total_searches": 9,
+        "last_active": "2026-04-20 15:28:09",
         "money": 0,
         "clone_bots": 0
       },
@@ -15605,6 +15605,10 @@
       {
         "user_id": 6920545450,
         "claim_date": "2026-04-20"
+      },
+      {
+        "user_id": 5935806629,
+        "claim_date": "2026-04-20"
       }
     ],
     "welcome_settings": [
@@ -26233,6 +26237,14 @@
         "query": "7479452616",
         "search_date": "2026-04-20 14:16:18",
         "result": "{\"success\": true, \"data\": [{\"name\": \" Devendra Musahar \", \"father_name\": \" Daras Musahar \", \"mobile\": \"7479452616\", \"alt_mobile\": null, \"address\": \" ward no- 08!Rampur!!West Champaran Rampurwa!West Champaran!West Champaran!Bihar!845105 \", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257043709297\", \"email\": null}, {\"name\": \" Devendra Musahar \", \"father_name\": \" Daras Musahar \", \"mobile\": \"7479452616\", \"alt_mobile\": null, \"address\": \" ward no- 08!Rampur!!West Champaran Rampurwa!West Champaran!West Champaran!Bihar!845105 \", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257043709297\", \"email\": null}]}"
+      },
+      {
+        "id": 1011,
+        "user_id": 5935806629,
+        "search_type": "mobile_number",
+        "query": "9548056752",
+        "search_date": "2026-04-20 15:28:09",
+        "result": "{\"success\": true, \"data\": [{\"name\": \"Devender Singh Butola\", \"father_name\": \"Kundan Singh Butola\", \"mobile\": \"9548056752\", \"alt_mobile\": null, \"address\": \"!57!Ganeshpur!!Roorkee Karbari Grant!Dehradun!Dehradun!Uttarakhand!248007\", \"circle\": \"AIRTEL UPW\", \"id\": \"997594080891\", \"email\": null}, {\"name\": \"Devender Singh Butola\", \"father_name\": \"Kundan Singh Butola\", \"mobile\": \"9548056752\", \"alt_mobile\": null, \"address\": \"!57!Ganeshpur!!Roorkee Karbari Grant!Dehradun!Dehradun!Uttarakhand!248007\", \"circle\": \"AIRTEL UPW\", \"id\": \"997594080891\", \"email\": null}, {\"name\": \"Devender Singh Butola\", \"father_name\": \"kundan singh butola\", \"mobile\": \"7454054609\", \"alt_mobile\": \"9548056752\", \"address\": \"!57!ganeshpur!!karbari grant dehradun!Dehradun!Dehradun!Uttarakhand!248007\", \"circle\": \"AIRTEL UPW\", \"id\": \"997594080891\", \"email\": null}, {\"name\": \"Devender Singh Butola\", \"father_name\": \"kundan singh butola\", \"mobile\": \"7454054609\", \"alt_mobile\": \"9548056752\", \"address\": \"!57!ganeshpur!!karbari grant dehradun!Dehradun!Dehradun!Uttarakhand!248007\", \"circle\": \"AIRTEL UPW\", \"id\": \"997594080891\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
