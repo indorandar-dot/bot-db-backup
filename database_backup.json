@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 06:38:12",
+    "created_at": "2026-04-20 06:40:17",
     "stats": {
-      "main_users": 828,
+      "main_users": 829,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 0
@@ -10664,6 +10664,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-03-31 05:07:35",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8371806030,
+        "username": "",
+        "first_name": "DADA ☠️☠️",
+        "join_date": "2026-04-20 06:40:16",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-20 06:40:16",
         "money": 0,
         "clone_bots": 0
       },
