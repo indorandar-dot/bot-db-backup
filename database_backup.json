@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 04:57:57",
+    "created_at": "2026-04-20 05:00:03",
     "stats": {
       "main_users": 827,
       "main_admins": 1,
@@ -4678,8 +4678,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 7,
-        "last_active": "2026-04-17 10:11:45",
+        "total_searches": 9,
+        "last_active": "2026-04-20 04:59:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -25928,6 +25928,22 @@
         "query": "9883422784",
         "search_date": "2026-04-20 03:44:50",
         "result": "{\"success\": true, \"data\": [{\"name\": \"Sunita Tamang\", \"father_name\": \"Mohan Tamang\", \"mobile\": \"9883422784\", \"alt_mobile\": \"7551025364\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}, {\"name\": \"Sunita Tamang\", \"father_name\": \"Mohan Tamang\", \"mobile\": \"9883422784\", \"alt_mobile\": \"7551025364\", \"address\": \"W/O mohan tamang! Tallo Syari PW!Lower Syari!Near Chai Dara!Tathangchen Syari GPU!Tadong!East!Sikkim!737102\", \"circle\": \"JIO WB\", \"id\": \"659282403219\", \"email\": null}]}"
+      },
+      {
+        "id": 990,
+        "user_id": 7257725476,
+        "search_type": "username",
+        "query": "@II_VIP_KRISHNA_RAJPUT_XD_II",
+        "search_date": "2026-04-20 04:58:40",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"II_VIP_KRISHNA_RAJPUT_XD_II\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 991,
+        "user_id": 7257725476,
+        "search_type": "username",
+        "query": "@II_VIP_KRISHNA_RAJPUT_XD_II",
+        "search_date": "2026-04-20 04:59:34",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"II_VIP_KRISHNA_RAJPUT_XD_II\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
