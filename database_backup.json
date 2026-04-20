@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 01:52:27",
+    "created_at": "2026-04-20 01:54:32",
     "stats": {
       "main_users": 825,
       "main_admins": 1,
@@ -13041,13 +13041,13 @@
         "first_name": "🫥",
         "join_date": "2026-04-16 05:28:24",
         "referrer": 8064976690,
-        "credits": 7,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-16 05:28:24",
+        "total_searches": 1,
+        "last_active": "2026-04-20 01:53:57",
         "money": 0,
         "clone_bots": 0
       },
@@ -25828,6 +25828,14 @@
         "query": "7488692393",
         "search_date": "2026-04-19 21:52:57",
         "result": "{\"success\": true, \"data\": [{\"name\": \"Rahaman Ansari\", \"father_name\": \"Abbas ansari\", \"mobile\": \"7488692393\", \"alt_mobile\": null, \"address\": \"!12!dumariyatand khelanghora po bhulanbarari!mandhir!thana jorapokhar majhiladi alias jagidi dhanbad!Dhanbad!Dhanbad!Jharkhand!828110\", \"circle\": \"BIHAR JIO\", \"id\": \"553103068610\", \"email\": null}, {\"name\": \"Rahaman Ansari\", \"father_name\": \"Abbas ansari\", \"mobile\": \"7488692393\", \"alt_mobile\": \"6202572739\", \"address\": \"!12!dumariyatand khelanghora po bhulanbarari!mandhir!thana jorapokhar majhiladi alias jagidi dhanbad!Dhanbad!Dhanbad!Jharkhand!828110\", \"circle\": \"JIO BHR&JHR\", \"id\": \"553103068610\", \"email\": null}, {\"name\": \"Rahaman Ansari\", \"father_name\": \"Abbas ansari\", \"mobile\": \"7488692393\", \"alt_mobile\": \"6202572739\", \"address\": \"!12!dumariyatand khelanghora po bhulanbarari!mandhir!thana jorapokhar majhiladi alias jagidi dhanbad!Dhanbad!Dhanbad!Jharkhand!828110\", \"circle\": \"JIO BHR&JHR\", \"id\": \"553103068610\", \"email\": null}]}"
+      },
+      {
+        "id": 982,
+        "user_id": 8747843035,
+        "search_type": "typed_userid",
+        "query": "7195314543",
+        "search_date": "2026-04-20 01:53:57",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7195314543\", \"username\": \"\", \"full_name\": \"Eta Carinae\", \"first_name\": \"Eta Carinae\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"584264262606\", \"country\": \"Venezuela, Bolivarian Republic of Venezuela\", \"country_code\": \"+58\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-05-09T19:52:16Z\", \"first_name\": \"Eta Carinae\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T12:14:20Z\", \"last_name\": null, \"msg_in_groups_count\": 27, \"names_count\": 13, \"total_groups\": 28, \"total_msg_count\": 13925, \"usernames_count\": 7}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-05-09T19:52:16Z\", \"first_name\": \"Eta Carinae\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T12:14:20Z\", \"last_name\": null, \"msg_in_groups_count\": 27, \"names_count\": 13, \"total_groups\": 28, \"total_msg_count\": 13925, \"usernames_count\": 7}, \"info\": {\"country\": \"Venezuela, Bolivarian Republic of Venezuela\", \"country_code\": \"+58\"}, \"number\": \"584264262606\", \"status\": true, \"target_id\": \"7195314543\"}}"
       }
     ],
     "bomber_history": [],
@@ -27624,7 +27632,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-20 01:49:37"
+          "last_active": "2026-04-20 01:53:25"
         },
         {
           "id": 1518,
