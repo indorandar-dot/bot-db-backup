@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 10:59:15",
+    "created_at": "2026-04-20 11:01:20",
     "stats": {
       "main_users": 830,
       "main_admins": 1,
       "clone_bots": 1,
-      "total_clone_users": 6
+      "total_clone_users": 7
     }
   },
   "main_bot": {
@@ -26156,7 +26156,7 @@
         "id": 17,
         "user_id": 8703382327,
         "token": "8222118299:AAG6jmmUEr0k7M0jXz6rfv_vLEqvX46JrvA",
-        "status": "approved",
+        "status": "stopped",
         "requested_at": "2026-04-20 03:47:46",
         "approved_at": "2026-04-20 03:47:58",
         "is_manually_stopped": 0
@@ -26243,6 +26243,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-20 08:45:24"
+        },
+        {
+          "id": 1872,
+          "clone_token": "8222118299:AAG6jmmUEr0k7M0jXz6rfv_vLEqvX46JrvA",
+          "user_id": 8703382327,
+          "username": "Taklugi7282",
+          "first_name": "ヌール",
+          "join_date": "2026-04-20 10:59:55",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-20 10:59:55"
         },
         {
           "id": 1871,
