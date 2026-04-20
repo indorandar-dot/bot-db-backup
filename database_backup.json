@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 03:01:13",
+    "created_at": "2026-04-20 03:03:19",
     "stats": {
       "main_users": 826,
       "main_admins": 1,
@@ -10742,8 +10742,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-19 09:27:15",
+        "total_searches": 2,
+        "last_active": "2026-04-20 03:03:19",
         "money": 0,
         "clone_bots": 0
       },
@@ -25880,6 +25880,14 @@
         "query": "8303941210",
         "search_date": "2026-04-20 02:46:02",
         "result": "{\"success\": true, \"data\": [{\"name\": \"Girja Shankar Sharma\", \"father_name\": \"Late Ram Kishor\", \"mobile\": \"8303941210\", \"alt_mobile\": \"7275908637\", \"address\": \"S/O Late Ram Kishor!!32/87 MANIRAM BAGIYA Kanpur!NA!MANIRAM BAGIYA Kanpur Nagar!Kanpur Nagar Kanpur Kanpur Nagar!NA!Uttar Pradesh!208001\", \"circle\": \"JIO UPE\", \"id\": \"213814434440\", \"email\": null}, {\"name\": \"Girja Shankar Sharma\", \"father_name\": \"Late Ram Kishor\", \"mobile\": \"8303941210\", \"alt_mobile\": \"7275908637\", \"address\": \"S/O Late Ram Kishor!!32/87 MANIRAM BAGIYA Kanpur!NA!MANIRAM BAGIYA Kanpur Nagar!Kanpur Nagar Kanpur Kanpur Nagar!NA!Uttar Pradesh!208001\", \"circle\": \"JIO UPE\", \"id\": \"213814434440\", \"email\": null}]}"
+      },
+      {
+        "id": 986,
+        "user_id": 8374735842,
+        "search_type": "typed_userid",
+        "query": "7002258850",
+        "search_date": "2026-04-20 03:03:19",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7002258850\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
@@ -26881,7 +26889,7 @@
           "is_premium": 0,
           "premium_until": null,
           "total_searches": 0,
-          "last_active": "2026-04-18 01:03:26"
+          "last_active": "2026-04-20 03:01:33"
         },
         {
           "id": 1835,
