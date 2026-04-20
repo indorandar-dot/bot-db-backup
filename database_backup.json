@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 09:25:18",
+    "created_at": "2026-04-20 09:27:23",
     "stats": {
       "main_users": 830,
       "main_admins": 1,
       "clone_bots": 1,
-      "total_clone_users": 4
+      "total_clone_users": 5
     }
   },
   "main_bot": {
@@ -26183,6 +26183,21 @@
           "premium_until": null,
           "total_searches": 0,
           "last_active": "2026-04-20 08:38:01"
+        },
+        {
+          "id": 1870,
+          "clone_token": "8222118299:AAG6jmmUEr0k7M0jXz6rfv_vLEqvX46JrvA",
+          "user_id": 6701907262,
+          "username": "adityaabhinav",
+          "first_name": "[Aᴅɪᴛʏᴀ",
+          "join_date": "2026-04-20 09:26:12",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-20 09:26:12"
         },
         {
           "id": 1864,
