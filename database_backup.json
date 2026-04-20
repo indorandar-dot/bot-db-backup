@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 14:16:05",
+    "created_at": "2026-04-20 14:18:12",
     "stats": {
       "main_users": 832,
       "main_admins": 1,
@@ -3729,13 +3729,13 @@
         "first_name": "𝐒𝐀𝐍𝐓𝐎𝐒𝐇",
         "join_date": "2026-04-11 08:06:54",
         "referrer": 8703382327,
-        "credits": 8,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-11 08:12:03",
+        "total_searches": 2,
+        "last_active": "2026-04-20 14:16:18",
         "money": 0,
         "clone_bots": 0
       },
@@ -26225,6 +26225,14 @@
         "query": "@princefollowerservice",
         "search_date": "2026-04-20 13:17:09",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"princefollowerservice\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1010,
+        "user_id": 6920545450,
+        "search_type": "mobile_number",
+        "query": "7479452616",
+        "search_date": "2026-04-20 14:16:18",
+        "result": "{\"success\": true, \"data\": [{\"name\": \" Devendra Musahar \", \"father_name\": \" Daras Musahar \", \"mobile\": \"7479452616\", \"alt_mobile\": null, \"address\": \" ward no- 08!Rampur!!West Champaran Rampurwa!West Champaran!West Champaran!Bihar!845105 \", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257043709297\", \"email\": null}, {\"name\": \" Devendra Musahar \", \"father_name\": \" Daras Musahar \", \"mobile\": \"7479452616\", \"alt_mobile\": null, \"address\": \" ward no- 08!Rampur!!West Champaran Rampurwa!West Champaran!West Champaran!Bihar!845105 \", \"circle\": \"AIRTEL BHR&JHR\", \"id\": \"257043709297\", \"email\": null}]}"
       }
     ],
     "bomber_history": [],
