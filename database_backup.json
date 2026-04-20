@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 06:25:06",
+    "created_at": "2026-04-20 06:25:42",
     "stats": {
       "main_users": 828,
       "main_admins": 1,
@@ -11665,7 +11665,7 @@
         "first_name": "𝐏𝐔𝐒𝐇𝐊𝐀𝐑🌙",
         "join_date": "2026-04-20 06:24:58",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -15487,6 +15487,10 @@
       },
       {
         "user_id": 8703382327,
+        "claim_date": "2026-04-20"
+      },
+      {
+        "user_id": 8464309060,
         "claim_date": "2026-04-20"
       }
     ],
