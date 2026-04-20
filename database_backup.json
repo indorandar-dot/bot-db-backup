@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 02:09:06",
+    "created_at": "2026-04-20 02:11:11",
     "stats": {
       "main_users": 826,
       "main_admins": 1,
@@ -10177,13 +10177,13 @@
         "first_name": "Yashh",
         "join_date": "2026-04-18 14:50:07",
         "referrer": null,
-        "credits": 6,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-19 07:49:01",
+        "total_searches": 4,
+        "last_active": "2026-04-20 02:10:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -15447,6 +15447,10 @@
       },
       {
         "user_id": 8747843035,
+        "claim_date": "2026-04-20"
+      },
+      {
+        "user_id": 8325762608,
         "claim_date": "2026-04-20"
       }
     ],
@@ -25852,6 +25856,14 @@
         "query": "7195314543",
         "search_date": "2026-04-20 01:53:57",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7195314543\", \"username\": \"\", \"full_name\": \"Eta Carinae\", \"first_name\": \"Eta Carinae\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"584264262606\", \"country\": \"Venezuela, Bolivarian Republic of Venezuela\", \"country_code\": \"+58\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-05-09T19:52:16Z\", \"first_name\": \"Eta Carinae\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T12:14:20Z\", \"last_name\": null, \"msg_in_groups_count\": 27, \"names_count\": 13, \"total_groups\": 28, \"total_msg_count\": 13925, \"usernames_count\": 7}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-05-09T19:52:16Z\", \"first_name\": \"Eta Carinae\", \"is_active\": true, \"last_msg_date\": \"2026-04-19T12:14:20Z\", \"last_name\": null, \"msg_in_groups_count\": 27, \"names_count\": 13, \"total_groups\": 28, \"total_msg_count\": 13925, \"usernames_count\": 7}, \"info\": {\"country\": \"Venezuela, Bolivarian Republic of Venezuela\", \"country_code\": \"+58\"}, \"number\": \"584264262606\", \"status\": true, \"target_id\": \"7195314543\"}}"
+      },
+      {
+        "id": 983,
+        "user_id": 8325762608,
+        "search_type": "username",
+        "query": "@UrVegeta",
+        "search_date": "2026-04-20 02:10:50",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"UrVegeta\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
