@@ -1,12 +1,12 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-20 08:37:13",
+    "created_at": "2026-04-20 08:39:18",
     "stats": {
       "main_users": 830,
       "main_admins": 1,
       "clone_bots": 1,
-      "total_clone_users": 2
+      "total_clone_users": 3
     }
   },
   "main_bot": {
@@ -241,7 +241,7 @@
         "first_name": "CPC",
         "join_date": "2026-04-16 17:58:25",
         "referrer": null,
-        "credits": 0,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -15553,6 +15553,10 @@
       {
         "user_id": 8218016230,
         "claim_date": "2026-04-20"
+      },
+      {
+        "user_id": 5024998123,
+        "claim_date": "2026-04-20"
       }
     ],
     "welcome_settings": [
@@ -26141,6 +26145,21 @@
   "clone_user_data": {
     "82221182...": {
       "users": [
+        {
+          "id": 1868,
+          "clone_token": "8222118299:AAG6jmmUEr0k7M0jXz6rfv_vLEqvX46JrvA",
+          "user_id": 5024998123,
+          "username": "CHAPTERYT",
+          "first_name": "CPC",
+          "join_date": "2026-04-20 08:38:01",
+          "referrer": null,
+          "credits": 10,
+          "is_blocked": 0,
+          "is_premium": 0,
+          "premium_until": null,
+          "total_searches": 0,
+          "last_active": "2026-04-20 08:38:01"
+        },
         {
           "id": 1864,
           "clone_token": "8222118299:AAG6jmmUEr0k7M0jXz6rfv_vLEqvX46JrvA",
