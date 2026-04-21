@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 11:03:17",
+    "created_at": "2026-04-21 11:05:23",
     "stats": {
       "main_users": 841,
       "main_admins": 1,
@@ -2854,8 +2854,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-21 11:02:53",
+        "total_searches": 9,
+        "last_active": "2026-04-21 11:04:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -26697,6 +26697,14 @@
         "query": "2819649271",
         "search_date": "2026-04-21 11:02:53",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"2819649271\", \"accountType\": 1, \"nickname\": \"\\u300e\\u24cb\\u2605\\u20b3\\u0572\\u049f\\u0574\\u0282\\u0452\\u0fd0\\u00b2\\u2022\", \"region\": \"IND\", \"level\": 55, \"exp\": 520620, \"bannerId\": 901050005, \"headPic\": 902043011, \"rank\": 301, \"rankingPoints\": 1000, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 1725, \"lastLoginAt\": \"1763629007\", \"csRank\": 301, \"weaponSkinShows\": [907193002], \"pinId\": 910032003, \"maxRank\": 301, \"csMaxRank\": 301, \"gameBagShow\": 904033010, \"accountPrefers\": {}, \"createAt\": \"1613227897\", \"title\": 904090005, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB51\", \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000039, \"skinColor\": 50, \"clothes\": [211001172, 205044025, 203044025, 204044025, 211001307, 214000000], \"equipedSkills\": [16, 5801, 8, 1, 16, 2506, 8, 2, 16, 4805, 8, 3, 16, 3003], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1705242795}, \"clanBasicInfo\": {}, \"petInfo\": {\"id\": 1300000061, \"level\": 5, \"exp\": 1245, \"isSelected\": true, \"skinId\": 1310000063, \"selectedSkillId\": 1315000005}, \"socialInfo\": {\"accountId\": \"2819649271\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"battleTag\": [\"PlayerBattleTagID_PEACEMAKER\", \"PlayerBattleTagID_SNIPER\"], \"socialTag\": [\"SocialTag_FASHION\", \"SocialTag_VOICEOFF\"], \"modePrefer\": \"ModePrefer_CS\", \"signature\": \"who am I?\", \"rankShow\": \"RankShow_CS\", \"battleTagCount\": [113, 82]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1776769373\"}}}"
+      },
+      {
+        "id": 1046,
+        "user_id": 6504594204,
+        "search_type": "typed_userid",
+        "query": "8543778873",
+        "search_date": "2026-04-21 11:04:17",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8543778873\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
