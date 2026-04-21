@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 07:23:35",
+    "created_at": "2026-04-21 07:24:39",
     "stats": {
-      "main_users": 837,
+      "main_users": 838,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 7
@@ -2840,6 +2840,22 @@
         "joined_channels": "[]",
         "total_searches": 6,
         "last_active": "2026-04-17 09:41:24",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6504594204,
+        "username": "Kadir974",
+        "first_name": "ᏦᎪᎠᏆᎡ",
+        "join_date": "2026-04-21 07:24:31",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-21 07:24:31",
         "money": 0,
         "clone_bots": 0
       },
@@ -11078,8 +11094,8 @@
         "is_premium": 1,
         "premium_until": "2026-05-05 03:29:32",
         "joined_channels": "[]",
-        "total_searches": 6,
-        "last_active": "2026-04-19 21:52:57",
+        "total_searches": 7,
+        "last_active": "2026-04-21 07:24:01",
         "money": 0,
         "clone_bots": 0
       },
@@ -13941,7 +13957,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-21 07:22:59",
+        "last_active": "2026-04-21 07:24:28",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJvkWnhNZ7rb-NzjqqoqswctmQ0nAHeAAInFWsbIXYIVzTMXO_eGu3AAQADAgADdwADOwQ",
@@ -26489,6 +26505,14 @@
         "query": "iamsampad",
         "search_date": "2026-04-21 07:23:16",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5312426706\", \"username\": \"iamsampad\", \"full_name\": \"Sampad\", \"first_name\": \"Sampad\", \"last_name\": \"Kar\", \"bio\": \"\", \"phone\": \"919330423023\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5312426706\", \"first_name\": \"Sampad\", \"last_name\": \"Kar\", \"is_active\": true, \"total_groups\": 11, \"admin_groups\": 0, \"total_msg_count\": 2689, \"msg_in_groups_count\": 9, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2023-04-06T17:34:33Z\", \"last_msg_date\": \"2026-04-20T14:29:14Z\"}, \"_raw\": {\"status\": true, \"number\": \"919330423023\", \"telegram_id\": \"5312426706\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2023-04-06T17:34:33Z\", \"first_name\": \"Sampad\", \"is_active\": true, \"last_msg_date\": \"2026-04-20T14:29:14Z\", \"last_name\": \"Kar\", \"msg_in_groups_count\": 9, \"names_count\": 1, \"total_groups\": 11, \"total_msg_count\": 2689, \"usernames_count\": 1}, \"target_id\": \"5312426706\"}}"
+      },
+      {
+        "id": 1030,
+        "user_id": 8389496051,
+        "search_type": "username",
+        "query": "dheeraj65",
+        "search_date": "2026-04-21 07:24:01",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
