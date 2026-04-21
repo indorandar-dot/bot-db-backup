@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 07:29:51",
+    "created_at": "2026-04-21 07:31:31",
     "stats": {
-      "main_users": 838,
+      "main_users": 840,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 7
@@ -1313,13 +1313,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 7,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 22,
-        "last_active": "2026-04-21 06:48:53",
+        "total_searches": 23,
+        "last_active": "2026-04-21 07:31:02",
         "money": 0,
         "clone_bots": 0
       },
@@ -10316,6 +10316,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8326586819,
+        "username": "unlovedsoul",
+        "first_name": "Unloved",
+        "join_date": "2026-04-21 07:31:23",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-21 07:31:23",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8328810110,
         "username": "",
         "first_name": "周鹏超",
@@ -12172,6 +12188,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8500510801,
+        "username": "",
+        "first_name": "<𝟑",
+        "join_date": "2026-04-21 07:31:21",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-21 07:31:21",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8501176328,
         "username": "",
         "first_name": "亗Sʜᴜʙʜᴀᴍ⚔️Hᴀᴄᴋᴇʀ亗",
@@ -13927,7 +13959,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-19 08:21:09",
-        "last_active": "2026-04-21 04:39:30",
+        "last_active": "2026-04-21 07:30:51",
         "goodbye_enabled": 1,
         "goodbye_message": null,
         "welcome_photo_file_id": null,
@@ -26521,6 +26553,14 @@
         "query": "dheeraj65",
         "search_date": "2026-04-21 07:24:41",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1032,
+        "user_id": 5713879636,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8557776351, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-21 07:31:02",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8557776351\", \"username\": \"\", \"full_name\": \"RAYYAN!!\", \"first_name\": \"RAYYAN!!\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-13T17:39:10Z\", \"first_name\": \"RAYYAN!!\", \"is_active\": true, \"last_msg_date\": \"2026-02-18T10:31:21Z\", \"last_name\": \"\\ud83e\\ude99\", \"msg_in_groups_count\": 3, \"names_count\": 3, \"total_groups\": 9, \"total_msg_count\": 62, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-01-13T17:39:10Z\", \"first_name\": \"RAYYAN!!\", \"is_active\": true, \"last_msg_date\": \"2026-02-18T10:31:21Z\", \"last_name\": \"\\ud83e\\ude99\", \"msg_in_groups_count\": 3, \"names_count\": 3, \"total_groups\": 9, \"total_msg_count\": 62, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8557776351\"}}"
       }
     ],
     "bomber_history": [],
