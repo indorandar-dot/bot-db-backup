@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 11:40:56",
+    "created_at": "2026-04-21 11:43:01",
     "stats": {
       "main_users": 842,
       "main_admins": 1,
@@ -8801,13 +8801,13 @@
         "first_name": "—͟͞͞𝒜𝗶𝓏สꪀ—͟͞͞ 🀄",
         "join_date": "2026-04-02 11:19:48",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 8,
-        "last_active": "2026-04-07 13:01:07",
+        "total_searches": 9,
+        "last_active": "2026-04-21 11:41:11",
         "money": 0,
         "clone_bots": 0
       },
@@ -26721,6 +26721,14 @@
         "query": "8543778873",
         "search_date": "2026-04-21 11:04:17",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8543778873\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1047,
+        "user_id": 8138943100,
+        "search_type": "username",
+        "query": "@Aditya_RanjanAR",
+        "search_date": "2026-04-21 11:41:11",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5746885935\", \"username\": \"Aditya_RanjanAR\", \"full_name\": \"Aditya ranjan\", \"first_name\": \"Aditya ranjan\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"919958058575\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5746885935\", \"first_name\": \"Aditya ranjan\", \"last_name\": null, \"is_active\": true, \"total_groups\": 6, \"admin_groups\": 0, \"total_msg_count\": 27, \"msg_in_groups_count\": 2, \"names_count\": 4, \"usernames_count\": 3, \"first_msg_date\": \"2025-02-15T14:50:30Z\", \"last_msg_date\": \"2026-04-09T00:26:57Z\"}, \"_raw\": {\"status\": true, \"number\": \"919958058575\", \"telegram_id\": \"5746885935\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-15T14:50:30Z\", \"first_name\": \"Aditya ranjan\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T00:26:57Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 4, \"total_groups\": 6, \"total_msg_count\": 27, \"usernames_count\": 3}, \"target_id\": \"5746885935\"}}"
       }
     ],
     "bomber_history": [],
