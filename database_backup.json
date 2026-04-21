@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 02:22:15",
+    "created_at": "2026-04-21 02:24:21",
     "stats": {
       "main_users": 835,
       "main_admins": 1,
@@ -1569,13 +1569,13 @@
         "first_name": "Prince",
         "join_date": "2026-04-11 19:01:07",
         "referrer": 8703382327,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-20 15:28:09",
+        "total_searches": 10,
+        "last_active": "2026-04-21 02:22:24",
         "money": 0,
         "clone_bots": 0
       },
@@ -26317,6 +26317,14 @@
         "query": "9565937012",
         "search_date": "2026-04-20 18:47:28",
         "result": "{\"success\": true, \"data\": [{\"name\": \"Ram Suresh\", \"father_name\": \"Badri Prasad\", \"mobile\": \"9565937012\", \"alt_mobile\": null, \"address\": \" !!Mahboobganj!gram- bhitaurajalalpur post- mahboobganj!Bhairipur Uparhar-Fa!Uttar Pradesh!224234\", \"circle\": \"UPE\", \"id\": \"668325067469\", \"email\": null}, {\"name\": \"Ram Suresh\", \"father_name\": \"Badri Prasad\", \"mobile\": \"9565937012\", \"alt_mobile\": null, \"address\": \" !!Mahboobganj!gram- bhitaurajalalpur post- mahboobganj!Bhairipur Uparhar-Fa!Uttar Pradesh!224234\", \"circle\": \"UPE\", \"id\": \"668325067469\", \"email\": null}, {\"name\": \"MS. RUCHI SWARAJ\", \"father_name\": \"RAM Suresh\", \"mobile\": \"9554428646\", \"alt_mobile\": \"9565937012\", \"address\": \"D/O RAM SURESH!GRAM BHITAURA JALALAPURPAKAVA  POST!GRAM BHITAURA JALALAPURPAKAVA BHAIRIPU!BHAIRIPUR UPARHAR!POST MAHBOOBGANJFAIZABAD!FAIZABAD!UTTAR PRADESH!224234\", \"circle\": \"VODA UPE\", \"id\": \"576380538242\", \"email\": null}, {\"name\": \"MS RUCHI SWARAJ\", \"father_name\": \"RAM Suresh\", \"mobile\": \"9554428646\", \"alt_mobile\": \"9565937012\", \"address\": \"D/O RAM SURESH!GRAM BHITAURA JALALAPURPAKAVA   POST!GRAM BHITAURA JALALAPURPAKAVA   BHAIRIPU!BHAIRIPUR UPARHAR!POST MAHBOOBGANJ FAIZABAD!FAIZABAD!UTTAR PRADESH!224234\", \"circle\": \"UPE\", \"id\": \"576380538242\", \"email\": null}, {\"name\": \"MS RUCHI SWARAJ\", \"father_name\": \"RAM Suresh\", \"mobile\": \"9554428646\", \"alt_mobile\": \"9565937012\", \"address\": \"D/O RAM SURESH!GRAM BHITAURA JALALAPURPAKAVA   POST!GRAM BHITAURA JALALAPURPAKAVA   BHAIRIPU!BHAIRIPUR UPARHAR!POST MAHBOOBGANJ FAIZABAD!FAIZABAD!UTTAR PRADESH!224234\", \"circle\": \"UPE\", \"id\": \"576380538242\", \"email\": null}]}"
+      },
+      {
+        "id": 1014,
+        "user_id": 5935806629,
+        "search_type": "typed_userid",
+        "query": "8544704244",
+        "search_date": "2026-04-21 02:22:24",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8544704244\", \"username\": \"\", \"full_name\": \"\\ud835\\udc11\\ud835\\udc00\\ud835\\udc19\\ud835\\udc00\", \"first_name\": \"\\ud835\\udc11\\ud835\\udc00\\ud835\\udc19\\ud835\\udc00\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-03T20:40:50Z\", \"first_name\": \"\\ud835\\udc11\\ud835\\udc00\\ud835\\udc19\\ud835\\udc00\", \"is_active\": true, \"last_msg_date\": \"2026-03-20T17:22:05Z\", \"last_name\": \"\\u0631\\u0636\\u0627\", \"msg_in_groups_count\": 3, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 114, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-03-03T20:40:50Z\", \"first_name\": \"\\ud835\\udc11\\ud835\\udc00\\ud835\\udc19\\ud835\\udc00\", \"is_active\": true, \"last_msg_date\": \"2026-03-20T17:22:05Z\", \"last_name\": \"\\u0631\\u0636\\u0627\", \"msg_in_groups_count\": 3, \"names_count\": 3, \"total_groups\": 4, \"total_msg_count\": 114, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8544704244\"}}"
       }
     ],
     "bomber_history": [],
