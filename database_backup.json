@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 08:09:37",
+    "created_at": "2026-04-21 08:11:42",
     "stats": {
       "main_users": 841,
       "main_admins": 1,
@@ -6225,7 +6225,7 @@
         "first_name": "Neuro • Exchanges",
         "join_date": "2026-04-21 08:08:38",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -15780,6 +15780,10 @@
       },
       {
         "user_id": 8500510801,
+        "claim_date": "2026-04-21"
+      },
+      {
+        "user_id": 7551673309,
         "claim_date": "2026-04-21"
       }
     ],
