@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 12:24:51",
+    "created_at": "2026-04-21 12:26:58",
     "stats": {
       "main_users": 842,
       "main_admins": 1,
@@ -2033,13 +2033,13 @@
         "first_name": "BɪLLᴀ ♡︎",
         "join_date": "2026-03-30 07:53:29",
         "referrer": null,
-        "credits": 6,
+        "credits": 5,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-20 06:28:10",
+        "total_searches": 2,
+        "last_active": "2026-04-21 12:26:53",
         "money": 0,
         "clone_bots": 0
       },
@@ -26729,6 +26729,14 @@
         "query": "@Aditya_RanjanAR",
         "search_date": "2026-04-21 11:41:11",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5746885935\", \"username\": \"Aditya_RanjanAR\", \"full_name\": \"Aditya ranjan\", \"first_name\": \"Aditya ranjan\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"919958058575\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5746885935\", \"first_name\": \"Aditya ranjan\", \"last_name\": null, \"is_active\": true, \"total_groups\": 6, \"admin_groups\": 0, \"total_msg_count\": 27, \"msg_in_groups_count\": 2, \"names_count\": 4, \"usernames_count\": 3, \"first_msg_date\": \"2025-02-15T14:50:30Z\", \"last_msg_date\": \"2026-04-09T00:26:57Z\"}, \"_raw\": {\"status\": true, \"number\": \"919958058575\", \"telegram_id\": \"5746885935\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-02-15T14:50:30Z\", \"first_name\": \"Aditya ranjan\", \"is_active\": true, \"last_msg_date\": \"2026-04-09T00:26:57Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 4, \"total_groups\": 6, \"total_msg_count\": 27, \"usernames_count\": 3}, \"target_id\": \"5746885935\"}}"
+      },
+      {
+        "id": 1048,
+        "user_id": 6155760344,
+        "search_type": "typed_userid",
+        "query": "6399331135",
+        "search_date": "2026-04-21 12:26:53",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6399331135\", \"username\": \"\", \"full_name\": \"Akshu\\u2661\", \"first_name\": \"Akshu\\u2661\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919630492503\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-03T16:19:23Z\", \"first_name\": \"Akshu\\u2661\", \"is_active\": true, \"last_msg_date\": \"2026-02-12T12:42:44Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 2, \"total_groups\": 6, \"total_msg_count\": 163, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-03T16:19:23Z\", \"first_name\": \"Akshu\\u2661\", \"is_active\": true, \"last_msg_date\": \"2026-02-12T12:42:44Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 2, \"total_groups\": 6, \"total_msg_count\": 163, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919630492503\", \"status\": true, \"target_id\": \"6399331135\"}}"
       }
     ],
     "bomber_history": [],
