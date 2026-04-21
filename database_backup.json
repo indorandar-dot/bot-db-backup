@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 05:09:44",
+    "created_at": "2026-04-21 05:10:19",
     "stats": {
-      "main_users": 836,
+      "main_users": 837,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 7
@@ -1752,6 +1752,22 @@
         "joined_channels": "[]",
         "total_searches": 0,
         "last_active": "2026-04-14 01:13:57",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 6042438089,
+        "username": "pushk4rr",
+        "first_name": "𝐏𝐔𝐒𝐇𝐊𝐀𝐑🌙",
+        "join_date": "2026-04-21 05:10:11",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-21 05:10:11",
         "money": 0,
         "clone_bots": 0
       },
