@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 12:45:50",
+    "created_at": "2026-04-21 12:47:56",
     "stats": {
       "main_users": 842,
       "main_admins": 1,
@@ -9366,8 +9366,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 14,
-        "last_active": "2026-04-21 07:19:31",
+        "total_searches": 15,
+        "last_active": "2026-04-21 12:47:05",
         "money": 0,
         "clone_bots": 0
       },
@@ -26737,6 +26737,14 @@
         "query": "6399331135",
         "search_date": "2026-04-21 12:26:53",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6399331135\", \"username\": \"\", \"full_name\": \"Akshu\\u2661\", \"first_name\": \"Akshu\\u2661\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919630492503\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-03T16:19:23Z\", \"first_name\": \"Akshu\\u2661\", \"is_active\": true, \"last_msg_date\": \"2026-02-12T12:42:44Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 2, \"total_groups\": 6, \"total_msg_count\": 163, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 1, \"first_msg_date\": \"2025-02-03T16:19:23Z\", \"first_name\": \"Akshu\\u2661\", \"is_active\": true, \"last_msg_date\": \"2026-02-12T12:42:44Z\", \"last_name\": null, \"msg_in_groups_count\": 4, \"names_count\": 2, \"total_groups\": 6, \"total_msg_count\": 163, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919630492503\", \"status\": true, \"target_id\": \"6399331135\"}}"
+      },
+      {
+        "id": 1049,
+        "user_id": 8218016230,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8209278937, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-21 12:47:05",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8209278937\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
