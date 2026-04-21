@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 04:55:07",
+    "created_at": "2026-04-21 04:57:12",
     "stats": {
       "main_users": 836,
       "main_admins": 1,
@@ -7750,8 +7750,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 9,
-        "last_active": "2026-04-20 02:11:46",
+        "total_searches": 10,
+        "last_active": "2026-04-21 04:56:56",
         "money": 0,
         "clone_bots": 0
       },
@@ -26381,6 +26381,14 @@
         "query": "{'user_id': 8209278937, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-21 04:29:23",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8209278937\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1019,
+        "user_id": 7969481584,
+        "search_type": "username",
+        "query": "@Ifcknewgenz",
+        "search_date": "2026-04-21 04:56:56",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"Ifcknewgenz\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
