@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-21 08:03:20",
+    "created_at": "2026-04-21 08:05:26",
     "stats": {
       "main_users": 840,
       "main_admins": 1,
@@ -2849,13 +2849,13 @@
         "first_name": "ᏦᎪᎠᏆᎡ",
         "join_date": "2026-04-21 07:24:31",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-21 07:24:31",
+        "total_searches": 1,
+        "last_active": "2026-04-21 08:03:38",
         "money": 0,
         "clone_bots": 0
       },
@@ -26609,6 +26609,14 @@
         "query": "8389568613",
         "search_date": "2026-04-21 07:42:07",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8389568613\", \"username\": \"bannerrhun\", \"full_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"first_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"last_name\": \"N/A\", \"bio\": \"My vouches @mishivouchs\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8389568613\", \"first_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"last_name\": null, \"is_active\": true, \"total_groups\": 2, \"admin_groups\": 0, \"total_msg_count\": 4, \"msg_in_groups_count\": 2, \"names_count\": 2, \"usernames_count\": 2, \"first_msg_date\": \"2026-04-10T19:03:29Z\", \"last_msg_date\": \"2026-04-20T17:32:36Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8389568613\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-10T19:03:29Z\", \"first_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"is_active\": true, \"last_msg_date\": \"2026-04-20T17:32:36Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 2, \"total_msg_count\": 4, \"usernames_count\": 2}, \"target_id\": \"8389568613\", \"tg_id\": \"8389568613\", \"username\": \"bannerrhun\", \"first_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"last_name\": \"\", \"full_name\": \"\\ud835\\ude48\\ud835\\ude44\\ud835\\ude4e\\ud835\\ude43\\ud835\\ude44\", \"bio\": \"My vouches @mishivouchs\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"bannerrhun\"]}}"
+      },
+      {
+        "id": 1038,
+        "user_id": 6504594204,
+        "search_type": "typed_userid",
+        "query": "8792226066",
+        "search_date": "2026-04-21 08:03:38",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8792226066\", \"username\": \"\", \"full_name\": \"\\u03b1\\u03b7\\u043a\\u03b9\\u0442\", \"first_name\": \"\\u03b1\\u03b7\\u043a\\u03b9\\u0442\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-08T18:15:33Z\", \"first_name\": \"\\u03b1\\u03b7\\u043a\\u03b9\\u0442\", \"is_active\": true, \"last_msg_date\": \"2026-04-20T17:38:33Z\", \"last_name\": \"\\u03bd\\u03b9\\u043c\\u2202\\u043d\\u03b1\\u0443\\u03b1\\u043a \\u05e0\\u03b9\", \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 5, \"total_msg_count\": 1372, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-08T18:15:33Z\", \"first_name\": \"\\u03b1\\u03b7\\u043a\\u03b9\\u0442\", \"is_active\": true, \"last_msg_date\": \"2026-04-20T17:38:33Z\", \"last_name\": \"\\u03bd\\u03b9\\u043c\\u2202\\u043d\\u03b1\\u0443\\u03b1\\u043a \\u05e0\\u03b9\", \"msg_in_groups_count\": 5, \"names_count\": 1, \"total_groups\": 5, \"total_msg_count\": 1372, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8792226066\"}}"
       }
     ],
     "bomber_history": [],
