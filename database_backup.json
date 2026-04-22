@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-22 18:34:28",
+    "created_at": "2026-04-22 18:36:33",
     "stats": {
       "main_users": 843,
       "main_admins": 1,
@@ -12230,8 +12230,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-22 18:29:48",
+        "total_searches": 4,
+        "last_active": "2026-04-22 18:34:34",
         "money": 0,
         "clone_bots": 0
       },
@@ -26820,6 +26820,14 @@
         "search_type": "username",
         "query": "@15ckey",
         "search_date": "2026-04-22 18:29:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1055,
+        "user_id": 8500510801,
+        "search_type": "username",
+        "query": "@I5ckey",
+        "search_date": "2026-04-22 18:34:34",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
