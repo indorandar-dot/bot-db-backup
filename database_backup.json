@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-22 18:28:10",
+    "created_at": "2026-04-22 18:30:16",
     "stats": {
       "main_users": 843,
       "main_admins": 1,
@@ -12230,8 +12230,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-21 07:42:07",
+        "total_searches": 3,
+        "last_active": "2026-04-22 18:29:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -26813,6 +26813,14 @@
         "query": "{'user_id': 7533855092, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-22 08:19:23",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7533855092\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1054,
+        "user_id": 8500510801,
+        "search_type": "username",
+        "query": "@15ckey",
+        "search_date": "2026-04-22 18:29:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
