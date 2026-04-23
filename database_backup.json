@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 06:50:43",
+    "created_at": "2026-04-23 06:52:49",
     "stats": {
       "main_users": 844,
       "main_admins": 1,
@@ -9393,7 +9393,7 @@
         "first_name": "𝙘𝙝𝙞𝙠𝙪....",
         "join_date": "2026-04-11 09:40:09",
         "referrer": null,
-        "credits": 5,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -15884,6 +15884,10 @@
       },
       {
         "user_id": 7191349202,
+        "claim_date": "2026-04-23"
+      },
+      {
+        "user_id": 8218016230,
         "claim_date": "2026-04-23"
       }
     ],
