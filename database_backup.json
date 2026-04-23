@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 23:16:49",
+    "created_at": "2026-04-23 23:18:54",
     "stats": {
       "main_users": 847,
       "main_admins": 1,
@@ -2049,13 +2049,13 @@
         "first_name": "BɪLLᴀ ♡︎",
         "join_date": "2026-03-30 07:53:29",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 5,
-        "last_active": "2026-04-23 23:16:10",
+        "total_searches": 6,
+        "last_active": "2026-04-23 23:17:50",
         "money": 0,
         "clone_bots": 0
       },
@@ -27165,6 +27165,14 @@
         "query": "{'user_id': 5970271390, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-23 23:16:10",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5970271390\", \"username\": \"\", \"full_name\": \"Adarsh\", \"first_name\": \"Adarsh\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"916306664293\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-26T07:03:13Z\", \"first_name\": \"Adarsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-21T08:06:34Z\", \"last_name\": \"Singh\", \"msg_in_groups_count\": 6, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 14, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-11-26T07:03:13Z\", \"first_name\": \"Adarsh\", \"is_active\": true, \"last_msg_date\": \"2026-04-21T08:06:34Z\", \"last_name\": \"Singh\", \"msg_in_groups_count\": 6, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 14, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"916306664293\", \"status\": true, \"target_id\": \"5970271390\"}}"
+      },
+      {
+        "id": 1083,
+        "user_id": 6155760344,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8543023143, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-23 23:17:50",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8543023143\", \"username\": \"\", \"full_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-21T06:29:13Z\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"is_active\": true, \"last_msg_date\": \"2026-04-22T17:45:12Z\", \"last_name\": \"\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\", \"msg_in_groups_count\": 26, \"names_count\": 4, \"total_groups\": 38, \"total_msg_count\": 655, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-21T06:29:13Z\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"is_active\": true, \"last_msg_date\": \"2026-04-22T17:45:12Z\", \"last_name\": \"\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\", \"msg_in_groups_count\": 26, \"names_count\": 4, \"total_groups\": 38, \"total_msg_count\": 655, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8543023143\"}}"
       }
     ],
     "bomber_history": [],
