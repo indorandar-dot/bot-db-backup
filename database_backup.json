@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 18:38:39",
+    "created_at": "2026-04-23 18:40:44",
     "stats": {
       "main_users": 847,
       "main_admins": 1,
@@ -12881,13 +12881,13 @@
         "first_name": "𝐓ʜᴇ - 𝐆ʀᴇᴀᴛ - 𝐌ᴀʀᴄᴏ -",
         "join_date": "2026-04-23 18:35:04",
         "referrer": null,
-        "credits": 3,
+        "credits": 2,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 2,
-        "last_active": "2026-04-23 18:36:58",
+        "total_searches": 3,
+        "last_active": "2026-04-23 18:38:45",
         "money": 0,
         "clone_bots": 0
       },
@@ -27129,6 +27129,14 @@
         "query": "@TEZZAKINGOFC",
         "search_date": "2026-04-23 18:36:58",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6893403401\", \"username\": \"TEZZAKINGOFC\", \"full_name\": \"\\ud835\\udc13\\ud835\\udc04\\ud835\\udc19\\ud835\\udc19\\ud835\\udc00 \\ud835\\udc0a\\ud835\\udc08\\ud835\\udc0d\\ud835\\udc06 \\ud835\\udc0e\\ud835\\udc05\\ud835\\udc02 \\ud835\\udfd0\", \"first_name\": \"\\ud835\\udc13\\ud835\\udc04\\ud835\\udc19\\ud835\\udc19\\ud835\\udc00 \\ud835\\udc0a\\ud835\\udc08\\ud835\\udc0d\\ud835\\udc06 \\ud835\\udc0e\\ud835\\udc05\\ud835\\udc02 \\ud835\\udfd0\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"918708552003\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"6893403401\", \"first_name\": \"\\ud835\\udc13\\ud835\\udc04\\ud835\\udc19\\ud835\\udc19\\ud835\\udc00 \\ud835\\udc0a\\ud835\\udc08\\ud835\\udc0d\\ud835\\udc06 \\ud835\\udc0e\\ud835\\udc05\\ud835\\udc02 \\ud835\\udfd0\", \"last_name\": null, \"is_active\": true, \"total_groups\": 64, \"admin_groups\": 0, \"total_msg_count\": 2805, \"msg_in_groups_count\": 50, \"names_count\": 13, \"usernames_count\": 5, \"first_msg_date\": \"2024-09-05T16:43:25Z\", \"last_msg_date\": \"2026-02-14T06:36:29Z\"}, \"_raw\": {\"status\": true, \"number\": \"918708552003\", \"telegram_id\": \"6893403401\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-09-05T16:43:25Z\", \"first_name\": \"\\ud835\\udc13\\ud835\\udc04\\ud835\\udc19\\ud835\\udc19\\ud835\\udc00 \\ud835\\udc0a\\ud835\\udc08\\ud835\\udc0d\\ud835\\udc06 \\ud835\\udc0e\\ud835\\udc05\\ud835\\udc02 \\ud835\\udfd0\", \"is_active\": true, \"last_msg_date\": \"2026-02-14T06:36:29Z\", \"last_name\": null, \"msg_in_groups_count\": 50, \"names_count\": 13, \"total_groups\": 64, \"total_msg_count\": 2805, \"usernames_count\": 5}, \"target_id\": \"6893403401\"}}"
+      },
+      {
+        "id": 1079,
+        "user_id": 8590855532,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7404049166, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-23 18:38:45",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7404049166\", \"username\": \"\", \"full_name\": \"Addy\", \"first_name\": \"Addy\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919007423281\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Addy\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"\\ud83e\\udda2\\ud83d\\udda4\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"Addy\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": \"\\ud83e\\udda2\\ud83d\\udda4\", \"msg_in_groups_count\": 0, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919007423281\", \"status\": true, \"target_id\": \"7404049166\"}}"
       }
     ],
     "bomber_history": [],
