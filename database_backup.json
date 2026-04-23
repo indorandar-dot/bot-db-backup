@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 18:35:12",
+    "created_at": "2026-04-23 18:36:34",
     "stats": {
       "main_users": 847,
       "main_admins": 1,
@@ -12881,13 +12881,13 @@
         "first_name": "𝐓ʜᴇ - 𝐆ʀᴇᴀᴛ - 𝐌ᴀʀᴄᴏ -",
         "join_date": "2026-04-23 18:35:04",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-23 18:35:04",
+        "total_searches": 1,
+        "last_active": "2026-04-23 18:36:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -27113,6 +27113,14 @@
         "query": "8156847050",
         "search_date": "2026-04-23 18:31:11",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8156847050\", \"username\": \"\", \"full_name\": \"S\", \"first_name\": \"S\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"919555737343\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-18T12:00:03Z\", \"first_name\": \"S\", \"is_active\": true, \"last_msg_date\": \"2026-01-28T07:45:38Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 4, \"total_groups\": 4, \"total_msg_count\": 5, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-18T12:00:03Z\", \"first_name\": \"S\", \"is_active\": true, \"last_msg_date\": \"2026-01-28T07:45:38Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 4, \"total_groups\": 4, \"total_msg_count\": 5, \"usernames_count\": 0}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"919555737343\", \"status\": true, \"target_id\": \"8156847050\"}}"
+      },
+      {
+        "id": 1077,
+        "user_id": 8590855532,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8520572157, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-23 18:36:00",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8520572157\", \"username\": \"\", \"full_name\": \"Jennifer Campbell\", \"first_name\": \"Jennifer Campbell\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-17T11:43:22Z\", \"first_name\": \"Jennifer Campbell\", \"is_active\": true, \"last_msg_date\": \"2026-04-23T01:18:31Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 139, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-17T11:43:22Z\", \"first_name\": \"Jennifer Campbell\", \"is_active\": true, \"last_msg_date\": \"2026-04-23T01:18:31Z\", \"last_name\": null, \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 139, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8520572157\"}}"
       }
     ],
     "bomber_history": [],
