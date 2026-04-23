@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 16:14:04",
+    "created_at": "2026-04-23 16:16:10",
     "stats": {
       "main_users": 846,
       "main_admins": 1,
@@ -1606,8 +1606,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-23 16:12:27",
+        "total_searches": 4,
+        "last_active": "2026-04-23 16:15:25",
         "money": 0,
         "clone_bots": 0
       },
@@ -27068,6 +27068,14 @@
         "search_type": "username",
         "query": "@Its_rose_hereee",
         "search_date": "2026-04-23 16:12:27",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1074,
+        "user_id": 5970271390,
+        "search_type": "username",
+        "query": "@hoshixmi_072",
+        "search_date": "2026-04-23 16:15:25",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
