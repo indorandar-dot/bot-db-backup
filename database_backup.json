@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-23 05:58:30",
+    "created_at": "2026-04-23 06:00:35",
     "stats": {
       "main_users": 844,
       "main_admins": 1,
@@ -10433,7 +10433,7 @@
         "first_name": "Kartik",
         "join_date": "2026-03-31 03:57:59",
         "referrer": null,
-        "credits": 7,
+        "credits": 8,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -15876,6 +15876,10 @@
       },
       {
         "user_id": 6909828107,
+        "claim_date": "2026-04-23"
+      },
+      {
+        "user_id": 8333481899,
         "claim_date": "2026-04-23"
       }
     ],
