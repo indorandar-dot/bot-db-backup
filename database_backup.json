@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-24 11:28:29",
+    "created_at": "2026-04-24 11:30:35",
     "stats": {
       "main_users": 850,
       "main_admins": 1,
@@ -12161,13 +12161,13 @@
         "first_name": "Naksh",
         "join_date": "2026-04-24 11:26:20",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-24 11:26:20",
+        "total_searches": 1,
+        "last_active": "2026-04-24 11:28:54",
         "money": 0,
         "clone_bots": 0
       },
@@ -27281,6 +27281,14 @@
         "query": "@H4XDAKU",
         "search_date": "2026-04-24 11:07:36",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1090,
+        "user_id": 8483797741,
+        "search_type": "username",
+        "query": "@nakulll_14",
+        "search_date": "2026-04-24 11:28:54",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7495328525\", \"username\": \"nakulll_14\", \"full_name\": \"Nakul\", \"first_name\": \"Nakul\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7495328525\", \"first_name\": \"Nakul\", \"last_name\": \"N/A\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 44, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2025-12-16T12:32:12Z\", \"last_msg_date\": \"2026-01-31T07:14:53Z\"}, \"_raw\": {\"status\": true, \"number\": \"N/A\", \"telegram_id\": \"7495328525\", \"info\": {\"country\": \"N/A\", \"country_code\": \"N/A\", \"data\": {\"id\": \"7495328525\", \"first_name\": \"Nakul\", \"last_name\": \"N/A\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 44, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 1, \"first_msg_date\": \"2025-12-16T12:32:12Z\", \"last_msg_date\": \"2026-01-31T07:14:53Z\"}}}}"
       }
     ],
     "bomber_history": [],
