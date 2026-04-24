@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-24 06:14:58",
+    "created_at": "2026-04-24 06:21:05",
     "stats": {
       "main_users": 847,
       "main_admins": 1,
@@ -13254,8 +13254,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 231,
-        "last_active": "2026-04-23 19:11:37",
+        "total_searches": 232,
+        "last_active": "2026-04-24 06:19:10",
         "money": 0,
         "clone_bots": 0
       },
@@ -14101,7 +14101,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-24 05:25:27",
+        "last_active": "2026-04-24 06:18:49",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJvkWnhNZ7rb-NzjqqoqswctmQ0nAHeAAInFWsbIXYIVzTMXO_eGu3AAQADAgADdwADOwQ",
@@ -27201,6 +27201,14 @@
         "query": "@osborn_x",
         "search_date": "2026-04-23 23:20:20",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8543023143\", \"username\": \"osborn_x\", \"full_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"last_name\": \"\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\", \"bio\": \"\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8543023143\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"last_name\": \"\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\", \"is_active\": true, \"total_groups\": 38, \"admin_groups\": 0, \"total_msg_count\": 655, \"msg_in_groups_count\": 26, \"names_count\": 4, \"usernames_count\": 1, \"first_msg_date\": \"2025-12-21T06:29:13Z\", \"last_msg_date\": \"2026-04-22T17:45:12Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8543023143\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-21T06:29:13Z\", \"first_name\": \"Osborn\\u061b\\u064d\\u0651\\ud834\\udd6f\\ud834\\udd6f\\u06ea\\u064e\\u064f\\u064b\\u0652\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\\u0612\", \"is_active\": true, \"last_msg_date\": \"2026-04-22T17:45:12Z\", \"last_name\": \"\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e7\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e9\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\\u08e8\", \"msg_in_groups_count\": 26, \"names_count\": 4, \"total_groups\": 38, \"total_msg_count\": 655, \"usernames_count\": 1}, \"target_id\": \"8543023143\"}}"
+      },
+      {
+        "id": 1086,
+        "user_id": 8703382327,
+        "search_type": "username",
+        "query": "Lucifer6061",
+        "search_date": "2026-04-24 06:19:10",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7270324356\", \"username\": \"Lucifer6061\", \"full_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"919608929309\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"7270324356\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"last_name\": null, \"is_active\": true, \"total_groups\": 26, \"admin_groups\": 0, \"total_msg_count\": 734, \"msg_in_groups_count\": 20, \"names_count\": 5, \"usernames_count\": 2, \"first_msg_date\": \"2025-06-06T01:38:44Z\", \"last_msg_date\": \"2026-04-23T07:11:49Z\"}, \"_raw\": {\"status\": true, \"number\": \"919608929309\", \"telegram_id\": \"7270324356\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-06-06T01:38:44Z\", \"first_name\": \"\\ua9c1\\ud80c\\ude88\\ud808\\udd9c\\u029f\\u1d1c\\u1d04\\u026a\\u135d\\u059f\\ua730\\u1d07\\u0280\\ud808\\udd9c\\ud80c\\ude89\\ua9c2\", \"is_active\": true, \"last_msg_date\": \"2026-04-23T07:11:49Z\", \"last_name\": null, \"msg_in_groups_count\": 20, \"names_count\": 5, \"total_groups\": 26, \"total_msg_count\": 734, \"usernames_count\": 2}, \"target_id\": \"7270324356\"}}"
       }
     ],
     "bomber_history": [],
