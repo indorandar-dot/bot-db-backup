@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-24 11:36:51",
+    "created_at": "2026-04-24 11:38:57",
     "stats": {
       "main_users": 850,
       "main_admins": 1,
@@ -1569,13 +1569,13 @@
         "first_name": "Prince",
         "join_date": "2026-04-11 19:01:07",
         "referrer": 8703382327,
-        "credits": 1,
+        "credits": 0,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 12,
-        "last_active": "2026-04-23 02:56:45",
+        "total_searches": 13,
+        "last_active": "2026-04-24 11:37:46",
         "money": 0,
         "clone_bots": 0
       },
@@ -27317,6 +27317,14 @@
         "query": "@darkk_x1",
         "search_date": "2026-04-24 11:34:46",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5436198519\", \"username\": \"darkk_x1\", \"full_name\": \"\\u0915\\u093e\\u0930\\u094d\\u0924\\u093f\\u0915 (\\u092a\\u0942\\u0915\\u0940 \\ud83c\\udf80)\", \"first_name\": \"\\u0915\\u093e\\u0930\\u094d\\u0924\\u093f\\u0915 (\\u092a\\u0942\\u0915\\u0940 \\ud83c\\udf80)\", \"last_name\": \"N/A\", \"bio\": \"\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5436198519\", \"first_name\": \"\\u0915\\u093e\\u0930\\u094d\\u0924\\u093f\\u0915 (\\u092a\\u0942\\u0915\\u0940 \\ud83c\\udf80)\", \"last_name\": \"N/A\", \"is_active\": true, \"total_groups\": 32, \"admin_groups\": 0, \"total_msg_count\": 200, \"msg_in_groups_count\": 21, \"names_count\": 4, \"usernames_count\": 1, \"first_msg_date\": \"2023-09-27T16:25:15Z\", \"last_msg_date\": \"2026-02-23T19:31:31Z\"}, \"_raw\": {\"status\": true, \"number\": \"N/A\", \"telegram_id\": \"5436198519\", \"info\": {\"country\": \"N/A\", \"country_code\": \"N/A\", \"data\": {\"id\": \"5436198519\", \"first_name\": \"\\u0915\\u093e\\u0930\\u094d\\u0924\\u093f\\u0915 (\\u092a\\u0942\\u0915\\u0940 \\ud83c\\udf80)\", \"last_name\": \"N/A\", \"is_active\": true, \"total_groups\": 32, \"admin_groups\": 0, \"total_msg_count\": 200, \"msg_in_groups_count\": 21, \"names_count\": 4, \"usernames_count\": 1, \"first_msg_date\": \"2023-09-27T16:25:15Z\", \"last_msg_date\": \"2026-02-23T19:31:31Z\"}}}}"
+      },
+      {
+        "id": 1094,
+        "user_id": 5935806629,
+        "search_type": "typed_userid",
+        "query": "8483797741",
+        "search_date": "2026-04-24 11:37:46",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8483797741\", \"username\": \"nakshh_17\", \"full_name\": \"Naksh\", \"first_name\": \"Naksh\", \"last_name\": \"N/A\", \"bio\": \"All we get instead of love \\ud83d\\udc94\", \"phone\": \"919927165406\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8483797741\", \"first_name\": \"Naksh\", \"last_name\": null, \"is_active\": true, \"total_groups\": 3, \"admin_groups\": 0, \"total_msg_count\": 47, \"msg_in_groups_count\": 2, \"names_count\": 2, \"usernames_count\": 1, \"first_msg_date\": \"2025-10-30T17:16:59Z\", \"last_msg_date\": \"2026-02-09T10:05:14Z\"}, \"_raw\": {\"status\": true, \"number\": \"919927165406\", \"telegram_id\": \"8483797741\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-10-30T17:16:59Z\", \"first_name\": \"Naksh\", \"is_active\": true, \"last_msg_date\": \"2026-02-09T10:05:14Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 2, \"total_groups\": 3, \"total_msg_count\": 47, \"usernames_count\": 1}, \"target_id\": \"8483797741\", \"tg_id\": \"8483797741\", \"username\": \"nakshh_17\", \"first_name\": \"Naksh\", \"last_name\": \"\", \"full_name\": \"Naksh\", \"bio\": \"All we get instead of love \\ud83d\\udc94\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"nakshh_17\"]}}"
       }
     ],
     "bomber_history": [],
