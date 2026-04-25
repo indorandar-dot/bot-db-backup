@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 02:45:08",
+    "created_at": "2026-04-25 02:47:13",
     "stats": {
       "main_users": 852,
       "main_admins": 1,
@@ -13334,8 +13334,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 234,
-        "last_active": "2026-04-24 11:56:07",
+        "total_searches": 235,
+        "last_active": "2026-04-25 02:45:17",
         "money": 0,
         "clone_bots": 0
       },
@@ -27437,6 +27437,14 @@
         "query": "6487427075",
         "search_date": "2026-04-25 02:40:34",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"6487427075\", \"accountType\": 1, \"nickname\": \"JunweiI2824Z\", \"region\": \"IND\", \"level\": 29, \"exp\": 44328, \"bannerId\": 901040022, \"headPic\": 902040015, \"rank\": 323, \"rankingPoints\": 4323, \"badgeCnt\": 101, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 90, \"showRank\": true, \"lastLoginAt\": \"1777082058\", \"csRank\": 315, \"csRankingPoints\": 60, \"pinId\": 910040001, \"maxRank\": 323, \"csMaxRank\": 315, \"accountPrefers\": {}, \"createAt\": \"1654496917\", \"title\": 904090015, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000032, \"skinColor\": 50, \"clothes\": [205000114, 204000097, 214000086, 203052034, 208000000], \"equipedSkills\": [16, 6006, 8, 1, 16, 606, 8, 2, 16, 2006, 8, 3, 16, 4906], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1771929737}, \"clanBasicInfo\": {\"clanId\": \"3049365735\", \"clanName\": \"FEARLESS_!\", \"captainId\": \"13349242245\", \"clanLevel\": 3, \"capacity\": 35, \"memberNum\": 22}, \"captainBasicInfo\": {\"accountId\": \"13349242245\", \"accountType\": 1, \"nickname\": \"\\u04a8\\u03b7\\u3164\\u1d00\\u0274\\u1d00\\u0274\\u028f\\u1d00\\u3164\\u2e19\", \"region\": \"IND\", \"level\": 51, \"exp\": 310603, \"bannerId\": 901000108, \"headPic\": 902000263, \"rank\": 323, \"rankingPoints\": 4751, \"badgeCnt\": 123, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 941, \"lastLoginAt\": \"1777052042\", \"csRank\": 322, \"csRankingPoints\": 114, \"maxRank\": 323, \"csMaxRank\": 322, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1758356015\", \"title\": 904090022, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000101, \"level\": 4, \"exp\": 512, \"isSelected\": true, \"skinId\": 1310000102, \"selectedSkillId\": 1315000008}, \"socialInfo\": {\"accountId\": \"6487427075\", \"language\": \"Language_EN\", \"battleTag\": [\"PlayerBattleTagID_SNIPER\", \"PlayerBattleTagID_RAMPAGE\"], \"rankShow\": \"RankShow_BR\", \"battleTagCount\": [5, 14]}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"periodicSummaryEndTime\": \"1777007708\"}}}"
+      },
+      {
+        "id": 1102,
+        "user_id": 8703382327,
+        "search_type": "ff_info",
+        "query": "8138647082",
+        "search_date": "2026-04-25 02:45:17",
+        "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"8138647082\", \"accountType\": 1, \"nickname\": \"~A\\u1d05\\u026a\\u1d1b\\u028f\\u1d00_\\u028f\\u1d1b\", \"region\": \"IND\", \"level\": 61, \"exp\": 1044523, \"bannerId\": 901000271, \"headPic\": 902026014, \"rank\": 322, \"rankingPoints\": 4209, \"badgeCnt\": 19, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6057, \"showRank\": true, \"lastLoginAt\": \"1776842603\", \"csRank\": 317, \"csRankingPoints\": 72, \"maxRank\": 322, \"csMaxRank\": 317, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1692082970\", \"title\": 905090075, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000019, \"skinColor\": 50, \"clothes\": [211000086, 211050045, 204000181, 205000139, 203050034, 214000053], \"equipedSkills\": [16, 3006, 8, 1, 16, 5306, 8, 2, 16, 4506, 8, 3, 16, 5806], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1720951600}, \"clanBasicInfo\": {\"clanId\": \"3045989859\", \"clanName\": \"\\u2022||\\ua731\\u1d04\\u1d0f\\u1d1c\\u1d1b\\ua731||\\u2022\", \"captainId\": \"8138647082\", \"clanLevel\": 2, \"capacity\": 30, \"memberNum\": 30}, \"captainBasicInfo\": {\"accountId\": \"8138647082\", \"accountType\": 1, \"nickname\": \"~A\\u1d05\\u026a\\u1d1b\\u028f\\u1d00_\\u028f\\u1d1b\", \"region\": \"IND\", \"level\": 61, \"exp\": 1044523, \"bannerId\": 901000271, \"headPic\": 902026014, \"rank\": 322, \"rankingPoints\": 4209, \"badgeCnt\": 19, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6057, \"showRank\": true, \"lastLoginAt\": \"1776842603\", \"csRank\": 317, \"csRankingPoints\": 72, \"maxRank\": 322, \"csMaxRank\": 317, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1692082970\", \"title\": 905090075, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000092, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"8138647082\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_NIGHT\", \"signature\": \"MILENGE FHIR KABHI\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1777085070\"}}}"
       }
     ],
     "bomber_history": [],
