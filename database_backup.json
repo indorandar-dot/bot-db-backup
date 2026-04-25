@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 11:40:42",
+    "created_at": "2026-04-25 11:42:47",
     "stats": {
       "main_users": 855,
       "main_admins": 1,
@@ -13025,13 +13025,13 @@
         "first_name": "Ꮋꫀʏㅤ𝙳 𝙴 𝙽 𝚉 𝙸ㅤᥫ᭡",
         "join_date": "2026-04-09 02:28:26",
         "referrer": null,
-        "credits": 2,
+        "credits": 1,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 18,
-        "last_active": "2026-04-25 06:40:21",
+        "total_searches": 19,
+        "last_active": "2026-04-25 11:41:00",
         "money": 0,
         "clone_bots": 0
       },
@@ -27625,6 +27625,14 @@
         "query": "{'user_id': 8381016734, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-25 11:13:43",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8381016734\", \"username\": \"\", \"full_name\": \"typing................\", \"first_name\": \"typing................\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"typing................\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 2, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": \"typing................\", \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 2, \"total_groups\": 1, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8381016734\"}}"
+      },
+      {
+        "id": 1117,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7856823363, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-25 11:41:00",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7856823363\", \"username\": \"\", \"full_name\": \"Izaan\", \"first_name\": \"Izaan\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918709947332\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-30T07:17:53Z\", \"first_name\": \"Izaan\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T14:45:18Z\", \"last_name\": \"Ahmed\", \"msg_in_groups_count\": 1, \"names_count\": 6, \"total_groups\": 3, \"total_msg_count\": 2, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-12-30T07:17:53Z\", \"first_name\": \"Izaan\", \"is_active\": true, \"last_msg_date\": \"2026-04-08T14:45:18Z\", \"last_name\": \"Ahmed\", \"msg_in_groups_count\": 1, \"names_count\": 6, \"total_groups\": 3, \"total_msg_count\": 2, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918709947332\", \"status\": true, \"target_id\": \"7856823363\"}}"
       }
     ],
     "bomber_history": [],
