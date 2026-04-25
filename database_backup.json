@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 06:07:22",
+    "created_at": "2026-04-25 06:09:27",
     "stats": {
       "main_users": 852,
       "main_admins": 1,
@@ -1313,13 +1313,13 @@
         "first_name": "aarshxz",
         "join_date": "2026-03-30 09:28:12",
         "referrer": null,
-        "credits": 6,
+        "credits": 7,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 25,
-        "last_active": "2026-04-23 14:17:18",
+        "total_searches": 26,
+        "last_active": "2026-04-25 06:08:22",
         "money": 0,
         "clone_bots": 0
       },
@@ -16089,6 +16089,10 @@
       {
         "user_id": 6679896022,
         "claim_date": "2026-04-25"
+      },
+      {
+        "user_id": 5713879636,
+        "claim_date": "2026-04-25"
       }
     ],
     "welcome_settings": [
@@ -27453,6 +27457,14 @@
         "query": "8138647082",
         "search_date": "2026-04-25 02:45:17",
         "result": "{\"success\": true, \"_new_api\": true, \"_raw\": {\"basicInfo\": {\"accountId\": \"8138647082\", \"accountType\": 1, \"nickname\": \"~A\\u1d05\\u026a\\u1d1b\\u028f\\u1d00_\\u028f\\u1d1b\", \"region\": \"IND\", \"level\": 61, \"exp\": 1044523, \"bannerId\": 901000271, \"headPic\": 902026014, \"rank\": 322, \"rankingPoints\": 4209, \"badgeCnt\": 19, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6057, \"showRank\": true, \"lastLoginAt\": \"1776842603\", \"csRank\": 317, \"csRankingPoints\": 72, \"maxRank\": 322, \"csMaxRank\": 317, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1692082970\", \"title\": 905090075, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"profileInfo\": {\"avatarId\": 102000019, \"skinColor\": 50, \"clothes\": [211000086, 211050045, 204000181, 205000139, 203050034, 214000053], \"equipedSkills\": [16, 3006, 8, 1, 16, 5306, 8, 2, 16, 4506, 8, 3, 16, 5806], \"isSelected\": true, \"isSelectedAwaken\": true, \"unlockTime\": 1720951600}, \"clanBasicInfo\": {\"clanId\": \"3045989859\", \"clanName\": \"\\u2022||\\ua731\\u1d04\\u1d0f\\u1d1c\\u1d1b\\ua731||\\u2022\", \"captainId\": \"8138647082\", \"clanLevel\": 2, \"capacity\": 30, \"memberNum\": 30}, \"captainBasicInfo\": {\"accountId\": \"8138647082\", \"accountType\": 1, \"nickname\": \"~A\\u1d05\\u026a\\u1d1b\\u028f\\u1d00_\\u028f\\u1d1b\", \"region\": \"IND\", \"level\": 61, \"exp\": 1044523, \"bannerId\": 901000271, \"headPic\": 902026014, \"rank\": 322, \"rankingPoints\": 4209, \"badgeCnt\": 19, \"badgeId\": 1001000095, \"seasonId\": 50, \"liked\": 6057, \"showRank\": true, \"lastLoginAt\": \"1776842603\", \"csRank\": 317, \"csRankingPoints\": 72, \"maxRank\": 322, \"csMaxRank\": 317, \"accountPrefers\": {\"brPregameShowChoices\": [1]}, \"createAt\": \"1692082970\", \"title\": 905090075, \"externalIconInfo\": {\"status\": \"ExternalIconStatus_NOT_IN_USE\", \"showType\": \"ExternalIconShowType_FRIEND\"}, \"releaseVersion\": \"OB53\", \"showBrRank\": true, \"showCsRank\": true, \"socialHighLightsWithBasicInfo\": {}}, \"petInfo\": {\"id\": 1300000091, \"level\": 4, \"exp\": 540, \"isSelected\": true, \"skinId\": 1310000092, \"selectedSkillId\": 1315000010}, \"socialInfo\": {\"accountId\": \"8138647082\", \"gender\": \"Gender_MALE\", \"language\": \"Language_EN\", \"timeActive\": \"TimeActive_NIGHT\", \"signature\": \"MILENGE FHIR KABHI\", \"rankShow\": \"RankShow_BR\"}, \"diamondCostRes\": {\"diamondCost\": 390}, \"creditScoreInfo\": {\"creditScore\": 100, \"rewardState\": \"REWARD_STATE_UNCLAIMED\", \"periodicSummaryEndTime\": \"1777085070\"}}}"
+      },
+      {
+        "id": 1103,
+        "user_id": 5713879636,
+        "search_type": "username",
+        "query": "@VOIDS_KING",
+        "search_date": "2026-04-25 06:08:22",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
