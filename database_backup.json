@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 17:57:43",
+    "created_at": "2026-04-25 17:59:48",
     "stats": {
       "main_users": 861,
       "main_admins": 1,
@@ -7025,7 +7025,7 @@
         "first_name": "𓆰 BLAZE 𓆩⃟🇦🇱",
         "join_date": "2026-03-31 07:07:55",
         "referrer": null,
-        "credits": 10,
+        "credits": 11,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
@@ -16252,6 +16252,10 @@
       },
       {
         "user_id": 7490163393,
+        "claim_date": "2026-04-25"
+      },
+      {
+        "user_id": 7747929547,
         "claim_date": "2026-04-25"
       }
     ],
