@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 07:05:45",
+    "created_at": "2026-04-25 07:07:50",
     "stats": {
       "main_users": 853,
       "main_admins": 1,
@@ -1606,8 +1606,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 4,
-        "last_active": "2026-04-23 16:15:25",
+        "total_searches": 6,
+        "last_active": "2026-04-25 07:06:48",
         "money": 0,
         "clone_bots": 0
       },
@@ -27493,6 +27493,22 @@
         "query": "{'user_id': 7360263850, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
         "search_date": "2026-04-25 06:40:21",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7360263850\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1105,
+        "user_id": 5970271390,
+        "search_type": "username",
+        "query": "@CHUPKYUHORILODI",
+        "search_date": "2026-04-25 07:06:23",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1106,
+        "user_id": 5970271390,
+        "search_type": "typed_userid",
+        "query": "7490163393",
+        "search_date": "2026-04-25 07:06:48",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7490163393\", \"username\": \"CHUPKYUHORILODI\", \"full_name\": \"MAI AA GYA \\ud83d\\udc97\\ud83e\\udef6\\ud83c\\udffb....!!!\", \"first_name\": \"MAI AA GYA \\ud83d\\udc97\\ud83e\\udef6\\ud83c\\udffb....!!!\", \"last_name\": \"\", \"bio\": \"Join = @bkchodu\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {\"tg_id\": \"7490163393\", \"username\": \"CHUPKYUHORILODI\", \"first_name\": \"MAI AA GYA \\ud83d\\udc97\\ud83e\\udef6\\ud83c\\udffb....!!!\", \"last_name\": \"\", \"full_name\": \"MAI AA GYA \\ud83d\\udc97\\ud83e\\udef6\\ud83c\\udffb....!!!\", \"bio\": \"Join = @bkchodu\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": [\"CHUPKYUHORILODI\"]}}"
       }
     ],
     "bomber_history": [],
