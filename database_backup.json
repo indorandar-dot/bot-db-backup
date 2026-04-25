@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-25 06:38:38",
+    "created_at": "2026-04-25 06:40:44",
     "stats": {
       "main_users": 852,
       "main_admins": 1,
@@ -12982,8 +12982,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 17,
-        "last_active": "2026-04-24 12:38:28",
+        "total_searches": 18,
+        "last_active": "2026-04-25 06:40:21",
         "money": 0,
         "clone_bots": 0
       },
@@ -27465,6 +27465,14 @@
         "query": "@VOIDS_KING",
         "search_date": "2026-04-25 06:08:22",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1104,
+        "user_id": 8591454774,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 7360263850, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-25 06:40:21",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"7360263850\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
