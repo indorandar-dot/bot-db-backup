@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-26 22:41:05",
+    "created_at": "2026-04-26 22:43:10",
     "stats": {
       "main_users": 869,
       "main_admins": 1,
@@ -12545,13 +12545,13 @@
         "first_name": "✞︎",
         "join_date": "2026-04-26 22:35:13",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-26 22:40:02",
+        "total_searches": 2,
+        "last_active": "2026-04-26 22:41:28",
         "money": 0,
         "clone_bots": 0
       },
@@ -28024,6 +28024,14 @@
         "search_type": "typed_userid",
         "query": "8517514983",
         "search_date": "2026-04-26 22:40:02",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8517514983\", \"username\": \"\", \"full_name\": \"Khan\", \"first_name\": \"Khan\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-10T12:47:40Z\", \"first_name\": \"Khan\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T12:47:40Z\", \"last_name\": \"Dia\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 1, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-10T12:47:40Z\", \"first_name\": \"Khan\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T12:47:40Z\", \"last_name\": \"Dia\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 1, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8517514983\"}}"
+      },
+      {
+        "id": 1134,
+        "user_id": 8499977632,
+        "search_type": "typed_userid",
+        "query": "8517514983",
+        "search_date": "2026-04-26 22:41:28",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8517514983\", \"username\": \"\", \"full_name\": \"Khan\", \"first_name\": \"Khan\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-10T12:47:40Z\", \"first_name\": \"Khan\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T12:47:40Z\", \"last_name\": \"Dia\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 1, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-02-10T12:47:40Z\", \"first_name\": \"Khan\", \"is_active\": true, \"last_msg_date\": \"2026-02-10T12:47:40Z\", \"last_name\": \"Dia\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 1, \"usernames_count\": 1}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8517514983\"}}"
       }
     ],
