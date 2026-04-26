@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-26 13:12:17",
+    "created_at": "2026-04-26 13:13:05",
     "stats": {
-      "main_users": 863,
+      "main_users": 864,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 7
@@ -13320,6 +13320,22 @@
         "joined_channels": "[]",
         "total_searches": 1,
         "last_active": "2026-04-20 02:46:02",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
+        "user_id": 8659522886,
+        "username": "",
+        "first_name": "Vivek",
+        "join_date": "2026-04-26 13:12:57",
+        "referrer": null,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-26 13:12:57",
         "money": 0,
         "clone_bots": 0
       },
