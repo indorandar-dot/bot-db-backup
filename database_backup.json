@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 17:42:28",
+    "created_at": "2026-04-27 17:44:35",
     "stats": {
       "main_users": 879,
       "main_admins": 1,
@@ -13777,13 +13777,13 @@
         "first_name": "Leo",
         "join_date": "2026-04-27 17:38:58",
         "referrer": null,
-        "credits": 4,
+        "credits": 3,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-27 17:41:52",
+        "total_searches": 3,
+        "last_active": "2026-04-27 17:44:01",
         "money": 0,
         "clone_bots": 0
       },
@@ -14613,7 +14613,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-27 17:40:22",
+        "last_active": "2026-04-27 17:43:50",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJvkWnhNZ7rb-NzjqqoqswctmQ0nAHeAAInFWsbIXYIVzTMXO_eGu3AAQADAgADdwADOwQ",
@@ -28299,6 +28299,22 @@
         "query": "cozzylazy",
         "search_date": "2026-04-27 17:41:52",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8709027532\", \"username\": \"cozzylazy\", \"full_name\": \"Leo\", \"first_name\": \"Leo\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"bio\": \"\", \"phone\": \"916375774380\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8709027532\", \"first_name\": \"Leo\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"is_active\": true, \"total_groups\": 6, \"admin_groups\": 0, \"total_msg_count\": 1111, \"msg_in_groups_count\": 6, \"names_count\": 1, \"usernames_count\": 2, \"first_msg_date\": \"2026-04-02T11:40:04Z\", \"last_msg_date\": \"2026-04-26T14:22:11Z\"}, \"_raw\": {\"status\": true, \"number\": \"916375774380\", \"telegram_id\": \"8709027532\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-02T11:40:04Z\", \"first_name\": \"Leo\", \"is_active\": true, \"last_msg_date\": \"2026-04-26T14:22:11Z\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"msg_in_groups_count\": 6, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 1111, \"usernames_count\": 2}, \"target_id\": \"8709027532\"}}"
+      },
+      {
+        "id": 1145,
+        "user_id": 8709027532,
+        "search_type": "userid",
+        "query": "6375774380",
+        "search_date": "2026-04-27 17:42:58",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"6375774380\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1146,
+        "user_id": 8709027532,
+        "search_type": "username",
+        "query": "W0rldwars",
+        "search_date": "2026-04-27 17:44:01",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5427995031\", \"username\": \"W0rldwars\", \"full_name\": \"Airdrop\", \"first_name\": \"Airdrop\", \"last_name\": \"Life\", \"bio\": \"\", \"phone\": \"918439443636\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5427995031\", \"first_name\": \"Airdrop\", \"last_name\": \"Life\", \"is_active\": true, \"total_groups\": 48, \"admin_groups\": 0, \"total_msg_count\": 316, \"msg_in_groups_count\": 35, \"names_count\": 1, \"usernames_count\": 2, \"first_msg_date\": \"2022-09-10T11:24:38Z\", \"last_msg_date\": \"2026-04-04T14:09:43Z\"}, \"_raw\": {\"status\": true, \"number\": \"918439443636\", \"telegram_id\": \"5427995031\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2022-09-10T11:24:38Z\", \"first_name\": \"Airdrop\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T14:09:43Z\", \"last_name\": \"Life\", \"msg_in_groups_count\": 35, \"names_count\": 1, \"total_groups\": 48, \"total_msg_count\": 316, \"usernames_count\": 2}, \"target_id\": \"5427995031\"}}"
       }
     ],
     "bomber_history": [],
