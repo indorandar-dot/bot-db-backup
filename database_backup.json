@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 19:06:27",
+    "created_at": "2026-04-27 19:08:33",
     "stats": {
       "main_users": 880,
       "main_admins": 1,
@@ -6838,8 +6838,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-27 14:21:16",
+        "total_searches": 2,
+        "last_active": "2026-04-27 19:07:13",
         "money": 0,
         "clone_bots": 0
       },
@@ -28331,6 +28331,14 @@
         "query": "W0rldwars",
         "search_date": "2026-04-27 17:44:01",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"5427995031\", \"username\": \"W0rldwars\", \"full_name\": \"Airdrop\", \"first_name\": \"Airdrop\", \"last_name\": \"Life\", \"bio\": \"\", \"phone\": \"918439443636\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"5427995031\", \"first_name\": \"Airdrop\", \"last_name\": \"Life\", \"is_active\": true, \"total_groups\": 48, \"admin_groups\": 0, \"total_msg_count\": 316, \"msg_in_groups_count\": 35, \"names_count\": 1, \"usernames_count\": 2, \"first_msg_date\": \"2022-09-10T11:24:38Z\", \"last_msg_date\": \"2026-04-04T14:09:43Z\"}, \"_raw\": {\"status\": true, \"number\": \"918439443636\", \"telegram_id\": \"5427995031\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2022-09-10T11:24:38Z\", \"first_name\": \"Airdrop\", \"is_active\": true, \"last_msg_date\": \"2026-04-04T14:09:43Z\", \"last_name\": \"Life\", \"msg_in_groups_count\": 35, \"names_count\": 1, \"total_groups\": 48, \"total_msg_count\": 316, \"usernames_count\": 2}, \"target_id\": \"5427995031\"}}"
+      },
+      {
+        "id": 1147,
+        "user_id": 7648559171,
+        "search_type": "username",
+        "query": "@SAKIRAIMBOT1",
+        "search_date": "2026-04-27 19:07:13",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
