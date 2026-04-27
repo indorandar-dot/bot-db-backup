@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 17:17:18",
+    "created_at": "2026-04-27 17:19:24",
     "stats": {
       "main_users": 878,
       "main_admins": 1,
@@ -9713,13 +9713,13 @@
         "first_name": "͓⏤͟͟͞͞💖 ⃝⃪⃪꯭꯭꯭꯭꯭⵿⃮⃕⃔𝆭𝗞꯭𝝸֟֯፝͝𝝶𝗴̶͟͟💖⃟⃪꯭⃕𝆺꯭𝅥᪳̽꛱𝆺꯭𝅥͓̽⍣꯭⏤►",
         "join_date": "2026-04-27 14:45:58",
         "referrer": null,
-        "credits": 8,
+        "credits": 6,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 1,
-        "last_active": "2026-04-27 14:52:41",
+        "total_searches": 3,
+        "last_active": "2026-04-27 17:18:55",
         "money": 0,
         "clone_bots": 0
       },
@@ -28259,6 +28259,22 @@
         "query": "@Pritikumari44",
         "search_date": "2026-04-27 14:52:41",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1142,
+        "user_id": 8219440183,
+        "search_type": "typed_userid",
+        "query": "8343699979",
+        "search_date": "2026-04-27 17:17:51",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8343699979\", \"username\": \"\", \"full_name\": \"Anku\", \"first_name\": \"Anku\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"first_name\": \"Anku\", \"is_active\": true, \"last_msg_date\": \"2025-08-23T10:16:24Z\", \"last_name\": \"Kumari\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 5, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"first_name\": \"Anku\", \"is_active\": true, \"last_msg_date\": \"2025-08-23T10:16:24Z\", \"last_name\": \"Kumari\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 5, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"8343699979\"}}"
+      },
+      {
+        "id": 1143,
+        "user_id": 8219440183,
+        "search_type": "username",
+        "query": "@Anku_Maurya",
+        "search_date": "2026-04-27 17:18:55",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8343699979\", \"username\": \"Anku_Maurya\", \"full_name\": \"Anku\", \"first_name\": \"Anku\", \"last_name\": \"Kumari\", \"bio\": \"\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8343699979\", \"first_name\": \"Anku\", \"last_name\": \"Kumari\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 5, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"last_msg_date\": \"2025-08-23T10:16:24Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8343699979\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"first_name\": \"Anku\", \"is_active\": true, \"last_msg_date\": \"2025-08-23T10:16:24Z\", \"last_name\": \"Kumari\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 5, \"usernames_count\": 0}, \"target_id\": \"8343699979\"}}"
       }
     ],
     "bomber_history": [],
