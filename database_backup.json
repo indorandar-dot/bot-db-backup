@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 17:40:22",
+    "created_at": "2026-04-27 17:42:28",
     "stats": {
       "main_users": 879,
       "main_admins": 1,
@@ -13777,13 +13777,13 @@
         "first_name": "Leo",
         "join_date": "2026-04-27 17:38:58",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-27 17:38:58",
+        "total_searches": 1,
+        "last_active": "2026-04-27 17:41:52",
         "money": 0,
         "clone_bots": 0
       },
@@ -28291,6 +28291,14 @@
         "query": "@Anku_Maurya",
         "search_date": "2026-04-27 17:18:55",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8343699979\", \"username\": \"Anku_Maurya\", \"full_name\": \"Anku\", \"first_name\": \"Anku\", \"last_name\": \"Kumari\", \"bio\": \"\", \"phone\": \"+N/A N/A\", \"country\": \"N/A\", \"country_code\": \"N/A\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8343699979\", \"first_name\": \"Anku\", \"last_name\": \"Kumari\", \"is_active\": true, \"total_groups\": 1, \"admin_groups\": 0, \"total_msg_count\": 5, \"msg_in_groups_count\": 1, \"names_count\": 1, \"usernames_count\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"last_msg_date\": \"2025-08-23T10:16:24Z\"}, \"_raw\": {\"status\": true, \"number\": null, \"telegram_id\": \"8343699979\", \"info\": {\"country\": null, \"country_code\": null}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-08-20T14:27:26Z\", \"first_name\": \"Anku\", \"is_active\": true, \"last_msg_date\": \"2025-08-23T10:16:24Z\", \"last_name\": \"Kumari\", \"msg_in_groups_count\": 1, \"names_count\": 1, \"total_groups\": 1, \"total_msg_count\": 5, \"usernames_count\": 0}, \"target_id\": \"8343699979\"}}"
+      },
+      {
+        "id": 1144,
+        "user_id": 8709027532,
+        "search_type": "username",
+        "query": "cozzylazy",
+        "search_date": "2026-04-27 17:41:52",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"8709027532\", \"username\": \"cozzylazy\", \"full_name\": \"Leo\", \"first_name\": \"Leo\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"bio\": \"\", \"phone\": \"916375774380\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"8709027532\", \"first_name\": \"Leo\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"is_active\": true, \"total_groups\": 6, \"admin_groups\": 0, \"total_msg_count\": 1111, \"msg_in_groups_count\": 6, \"names_count\": 1, \"usernames_count\": 2, \"first_msg_date\": \"2026-04-02T11:40:04Z\", \"last_msg_date\": \"2026-04-26T14:22:11Z\"}, \"_raw\": {\"status\": true, \"number\": \"916375774380\", \"telegram_id\": \"8709027532\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2026-04-02T11:40:04Z\", \"first_name\": \"Leo\", \"is_active\": true, \"last_msg_date\": \"2026-04-26T14:22:11Z\", \"last_name\": \"\\u0410\\u0431\\u0434\\u0443\\u043b\\u0430\\u0435\\u0432\", \"msg_in_groups_count\": 6, \"names_count\": 1, \"total_groups\": 6, \"total_msg_count\": 1111, \"usernames_count\": 2}, \"target_id\": \"8709027532\"}}"
       }
     ],
     "bomber_history": [],
