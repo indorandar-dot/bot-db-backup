@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 14:21:04",
+    "created_at": "2026-04-27 14:23:11",
     "stats": {
       "main_users": 876,
       "main_admins": 1,
@@ -6833,13 +6833,13 @@
         "first_name": "🦋⃝⃝ ᴹⁱˢˢ KOMAL ♛ 💠",
         "join_date": "2026-04-27 14:20:49",
         "referrer": null,
-        "credits": 5,
+        "credits": 4,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-27 14:20:49",
+        "total_searches": 1,
+        "last_active": "2026-04-27 14:21:16",
         "money": 0,
         "clone_bots": 0
       },
@@ -28197,6 +28197,14 @@
         "query": "@supriya1029",
         "search_date": "2026-04-27 12:50:51",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"1469658278\", \"username\": \"supriya1029\", \"full_name\": \"Thunder\", \"first_name\": \"Thunder\", \"last_name\": \"Shadow\", \"bio\": \"\", \"phone\": \"918617829524\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"id\": \"1469658278\", \"first_name\": \"Thunder\", \"last_name\": \"Shadow\", \"is_active\": true, \"total_groups\": 13, \"admin_groups\": 0, \"total_msg_count\": 9, \"msg_in_groups_count\": 5, \"names_count\": 6, \"usernames_count\": 1, \"first_msg_date\": \"2024-04-09T18:04:05Z\", \"last_msg_date\": \"2026-03-03T16:59:46Z\"}, \"_raw\": {\"status\": true, \"number\": \"918617829524\", \"telegram_id\": \"1469658278\", \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2024-04-09T18:04:05Z\", \"first_name\": \"Thunder\", \"is_active\": true, \"last_msg_date\": \"2026-03-03T16:59:46Z\", \"last_name\": \"Shadow\", \"msg_in_groups_count\": 5, \"names_count\": 6, \"total_groups\": 13, \"total_msg_count\": 9, \"usernames_count\": 1}, \"target_id\": \"1469658278\"}}"
+      },
+      {
+        "id": 1140,
+        "user_id": 7648559171,
+        "search_type": "typed_userid",
+        "query": "7115559816",
+        "search_date": "2026-04-27 14:21:16",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7115559816\", \"username\": \"\", \"full_name\": \"Prince chauhan\", \"first_name\": \"Prince chauhan\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918587096408\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-19T12:34:41Z\", \"first_name\": \"Prince chauhan\", \"is_active\": true, \"last_msg_date\": \"2026-03-12T16:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-19T12:34:41Z\", \"first_name\": \"Prince chauhan\", \"is_active\": true, \"last_msg_date\": \"2026-03-12T16:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918587096408\", \"status\": true, \"target_id\": \"7115559816\"}}"
       }
     ],
     "bomber_history": [],
