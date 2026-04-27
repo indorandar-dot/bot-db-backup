@@ -1,9 +1,9 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-27 14:52:38",
+    "created_at": "2026-04-27 14:53:39",
     "stats": {
-      "main_users": 877,
+      "main_users": 878,
       "main_admins": 1,
       "clone_bots": 1,
       "total_clone_users": 7
@@ -9713,13 +9713,13 @@
         "first_name": "͓⏤͟͟͞͞💖 ⃝⃪⃪꯭꯭꯭꯭꯭⵿⃮⃕⃔𝆭𝗞꯭𝝸֟֯፝͝𝝶𝗴̶͟͟💖⃟⃪꯭⃕𝆺꯭𝅥᪳̽꛱𝆺꯭𝅥͓̽⍣꯭⏤►",
         "join_date": "2026-04-27 14:45:58",
         "referrer": null,
-        "credits": 5,
+        "credits": 8,
         "is_blocked": 0,
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-04-27 14:45:58",
+        "total_searches": 1,
+        "last_active": "2026-04-27 14:52:41",
         "money": 0,
         "clone_bots": 0
       },
@@ -13148,6 +13148,22 @@
         "clone_bots": 0
       },
       {
+        "user_id": 8561644578,
+        "username": "Kanha_Hun",
+        "first_name": "ᴋα፝֟፝֟ηʜα🪈",
+        "join_date": "2026-04-27 14:53:31",
+        "referrer": 8219440183,
+        "credits": 5,
+        "is_blocked": 0,
+        "is_premium": 0,
+        "premium_until": null,
+        "joined_channels": "[]",
+        "total_searches": 0,
+        "last_active": "2026-04-27 14:53:31",
+        "money": 0,
+        "clone_bots": 0
+      },
+      {
         "user_id": 8561859133,
         "username": "Android_0_Help",
         "first_name": "Md",
@@ -16557,6 +16573,10 @@
       {
         "user_id": 7648559171,
         "claim_date": "2026-04-27"
+      },
+      {
+        "user_id": 8219440183,
+        "claim_date": "2026-04-27"
       }
     ],
     "welcome_settings": [
@@ -19103,6 +19123,12 @@
         "referrer": 5713879636,
         "referred": 8675390193,
         "date": "2026-04-19 05:29:55"
+      },
+      {
+        "id": 423,
+        "referrer": 8219440183,
+        "referred": 8561644578,
+        "date": "2026-04-27 14:53:31"
       }
     ],
     "search_history": [
@@ -28225,6 +28251,14 @@
         "query": "7115559816",
         "search_date": "2026-04-27 14:21:16",
         "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7115559816\", \"username\": \"\", \"full_name\": \"Prince chauhan\", \"first_name\": \"Prince chauhan\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"918587096408\", \"country\": \"India\", \"country_code\": \"+91\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-19T12:34:41Z\", \"first_name\": \"Prince chauhan\", \"is_active\": true, \"last_msg_date\": \"2026-03-12T16:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 1}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": \"2025-11-19T12:34:41Z\", \"first_name\": \"Prince chauhan\", \"is_active\": true, \"last_msg_date\": \"2026-03-12T16:14:10Z\", \"last_name\": null, \"msg_in_groups_count\": 2, \"names_count\": 1, \"total_groups\": 2, \"total_msg_count\": 11, \"usernames_count\": 1}, \"info\": {\"country\": \"India\", \"country_code\": \"+91\"}, \"number\": \"918587096408\", \"status\": true, \"target_id\": \"7115559816\"}}"
+      },
+      {
+        "id": 1141,
+        "user_id": 8219440183,
+        "search_type": "username",
+        "query": "@Pritikumari44",
+        "search_date": "2026-04-27 14:52:41",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
