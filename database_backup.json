@@ -1,13 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-28 09:40:52",
-    "stats": {
-      "main_users": 893,
-      "main_admins": 1,
-      "clone_bots": 1,
-      "total_clone_users": 7
-    }
+    "created_at": "2026-04-28 09:42:32"
   },
   "main_bot": {
     "users": [
@@ -14837,7 +14831,7 @@
         "welcome_message": "╭━━━〔 <tg-emoji emoji-id=\"5296383313844379830\">😘</tg-emoji> 𝗪𝗘𝗟𝗖𝗢𝗠𝗘  〕━━━╮\n┃ <tg-emoji emoji-id=\"6197121394145237708\">👨‍🦰</tg-emoji> 𝗡𝗮𝗺𝗲 : {name}\n┃ <tg-emoji emoji-id=\"6221754436042102132\">🩵</tg-emoji> 𝗨𝗜𝗗 : {userid}\n┃ <tg-emoji emoji-id=\"6222159872364910425\">👑</tg-emoji> 𝗚𝗿𝗼𝘂𝗽 : {group}\n┃\n┃ <tg-emoji emoji-id=\"5039534051816375152\">🗓</tg-emoji> 𝗗𝗮𝘁𝗲 : {date}\n┃ <tg-emoji emoji-id=\"5040032289497547835\">😵‍💫</tg-emoji> 𝗧𝗶𝗺𝗲 : {time}\n┃ <tg-emoji emoji-id=\"5082400599979329029\">🌐</tg-emoji> 𝗟𝗮𝗻𝗴 : {language}\n┃\n┃ <tg-emoji emoji-id=\"5039600026809009149\">📌</tg-emoji> 𝗥𝘂𝗹𝗲𝘀 :\n┃ {rules}\n┃\n┃ <tg-emoji emoji-id=\"5296304015863193617\">🥳</tg-emoji> 𝗘𝗻𝗷𝗼𝘆 & 𝗛𝗮𝘃𝗲 𝗙𝘂𝗻! <tg-emoji emoji-id=\"6186170065059058057\">🙂</tg-emoji>\n╰━━━━━━━━━━━━━━━━━━━╯",
         "welcome_rules": "",
         "added_date": "2026-04-08 13:55:44",
-        "last_active": "2026-04-28 09:27:12",
+        "last_active": "2026-04-28 09:41:06",
         "goodbye_enabled": 0,
         "goodbye_message": null,
         "welcome_photo_file_id": "AgACAgUAAxkBAAJvkWnhNZ7rb-NzjqqoqswctmQ0nAHeAAInFWsbIXYIVzTMXO_eGu3AAQADAgADdwADOwQ",
@@ -16837,6 +16831,73 @@
         "bot_dp_file_id": null,
         "first_time_sticker": "CAACAgUAAxkBAAJs0Gne7icGPyLnWMdcfMgbx9Vq5tvvAAI2DwAC6THIVE8rP3oZOaE9OwQ",
         "is_default": 1
+      }
+    ],
+    "autolike_entries": [
+      {
+        "id": 9,
+        "uid": "1872849977",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "Ꮇᴏ፝֟ᴛUㅤᏞɪᴠᴇ",
+        "added_by": 8703382327,
+        "added_at": 1774993903.0867512,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
+      },
+      {
+        "id": 13,
+        "uid": "10310075525",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "(NG_NOT)",
+        "added_by": 8703382327,
+        "added_at": 1774994006.1740646,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 0
+      },
+      {
+        "id": 15,
+        "uid": "8138647082",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "~Aᴅɪᴛʏᴀ_ʏᴛ",
+        "added_by": 8703382327,
+        "added_at": 1775067880.8690135,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 30
+      },
+      {
+        "id": 17,
+        "uid": "8237577585",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003715566556",
+        "nickname": "Ꮶᴜ፝֟፝֟ɴᴏɴ⚡︎",
+        "added_by": 8703382327,
+        "added_at": 1775068091.6698284,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
+      },
+      {
+        "id": 20,
+        "uid": "2093756995",
+        "server": "IND",
+        "send_to_type": "gc",
+        "send_to_id": "-1003776599179",
+        "nickname": "-ㅤʀɪ֟፝ᴄᴋㅤ-",
+        "added_by": 8703382327,
+        "added_at": 1776183876.5212376,
+        "total_sent": 0,
+        "last_sent": null,
+        "days": 5
       }
     ],
     "referrals": [
