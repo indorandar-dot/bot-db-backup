@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-04-28 05:11:22",
+    "created_at": "2026-04-28 05:13:28",
     "stats": {
       "main_users": 890,
       "main_admins": 1,
@@ -9814,8 +9814,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 3,
-        "last_active": "2026-04-27 17:18:55",
+        "total_searches": 4,
+        "last_active": "2026-04-28 05:13:03",
         "money": 0,
         "clone_bots": 0
       },
@@ -28523,6 +28523,14 @@
         "query": "@Shobha_singh22",
         "search_date": "2026-04-28 04:42:16",
         "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 1150,
+        "user_id": 8219440183,
+        "search_type": "selected_userid",
+        "query": "{'user_id': 8091786221, 'first_name': None, 'last_name': None, 'username': None, 'photo': None}",
+        "search_date": "2026-04-28 05:13:03",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"8091786221\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
       }
     ],
     "bomber_history": [],
