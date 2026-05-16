@@ -1,7 +1,7 @@
 {
   "backup_meta": {
     "version": "3.1",
-    "created_at": "2026-05-16 08:28:52",
+    "created_at": "2026-05-16 08:30:58",
     "stats": {
       "main_users": 1,
       "main_admins": 1,
@@ -22,8 +22,8 @@
         "is_premium": 0,
         "premium_until": null,
         "joined_channels": "[]",
-        "total_searches": 0,
-        "last_active": "2026-05-16 08:28:18",
+        "total_searches": 3,
+        "last_active": "2026-05-16 08:30:04",
         "money": 0,
         "clone_bots": 0
       }
@@ -56,7 +56,32 @@
       }
     ],
     "referrals": [],
-    "search_history": [],
+    "search_history": [
+      {
+        "id": 1,
+        "user_id": 7505070902,
+        "search_type": "username",
+        "query": "@Cyb3rb4nn3r",
+        "search_date": "2026-05-16 08:28:55",
+        "result": "{\"success\": false, \"has_real_data\": false, \"tg_id\": \"\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {}, \"_raw\": {}}"
+      },
+      {
+        "id": 2,
+        "user_id": 7505070902,
+        "search_type": "typed_userid",
+        "query": "6443754454",
+        "search_date": "2026-05-16 08:29:40",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"6443754454\", \"username\": \"\", \"full_name\": \"\", \"first_name\": \"\", \"last_name\": \"\", \"bio\": \"\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"_raw\": {\"data\": {\"admin_groups\": 0, \"first_msg_date\": null, \"first_name\": null, \"is_active\": true, \"last_msg_date\": null, \"last_name\": null, \"msg_in_groups_count\": 0, \"names_count\": 0, \"total_groups\": 0, \"total_msg_count\": 0, \"usernames_count\": 0}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"6443754454\"}}"
+      },
+      {
+        "id": 3,
+        "user_id": 7505070902,
+        "search_type": "typed_userid",
+        "query": "7505070902",
+        "search_date": "2026-05-16 08:30:04",
+        "result": "{\"success\": true, \"has_real_data\": true, \"tg_id\": \"7505070902\", \"username\": \"\", \"full_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"first_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f\", \"last_name\": \"\\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"bio\": \"Join All Channel In This Bio Link = @SHADOW_VIP_OWNER\", \"phone\": \"\", \"country\": \"\", \"country_code\": \"\", \"is_bot\": false, \"member_count\": null, \"activity\": {\"admin_groups\": 2, \"first_msg_date\": \"2025-06-11T15:43:28Z\", \"first_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f\", \"is_active\": true, \"last_msg_date\": \"2026-05-15T05:17:48Z\", \"last_name\": \"\\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"msg_in_groups_count\": 32, \"names_count\": 4, \"total_groups\": 51, \"total_msg_count\": 4714, \"usernames_count\": 3}, \"_raw\": {\"data\": {\"admin_groups\": 2, \"first_msg_date\": \"2025-06-11T15:43:28Z\", \"first_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f\", \"is_active\": true, \"last_msg_date\": \"2026-05-15T05:17:48Z\", \"last_name\": \"\\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"msg_in_groups_count\": 32, \"names_count\": 4, \"total_groups\": 51, \"total_msg_count\": 4714, \"usernames_count\": 3}, \"info\": {\"country\": null, \"country_code\": null}, \"number\": null, \"status\": true, \"target_id\": \"7505070902\", \"tg_id\": \"7505070902\", \"username\": \"\", \"first_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f\", \"last_name\": \"\\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"full_name\": \"\\ud835\\udc12\\ud835\\udc07\\ud835\\udc00\\ud835\\udc03\\ud835\\udc0e\\ud835\\udc16 \\ud835\\udc15\\ud835\\udc08\\ud835\\udc0f \\ud835\\udc0e\\ud835\\udc16\\ud835\\udc0d\\ud835\\udc04\\ud835\\udc11\", \"bio\": \"Join All Channel In This Bio Link = @SHADOW_VIP_OWNER\", \"is_bot\": false, \"member_count\": null, \"active_usernames\": []}}"
+      }
+    ],
     "bomber_history": [],
     "logs": []
   },
